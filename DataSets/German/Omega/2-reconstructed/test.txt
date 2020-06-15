@@ -1,0 +1,1524 @@
+scherzen	VERB	OmegaWiki	etwas sagen oder tun , um zu amüsieren .
+hochspannung	NOUN	OmegaWiki	elektrische spannung von mehr als 1.000 volt .
+schwimmbad	NOUN	OmegaWiki	ein mit wasser gefülltes becken , in dem geschwommen wird .
+schwimmbad	NOUN	OmegaWiki	ein schwimmbecken in einem geschlossenen gebäude .
+křivé_svědectví	NOUN	OmegaWiki	vorsätzliche falsche oder irreführende aussage unter eid .
+unvermeidbar	ADJ	OmegaWiki	unmöglich zu vermeiden .
+insektenstich	NOUN	OmegaWiki	ein vom stachel eines insekts verursachter stich .
+insektenstich	NOUN	OmegaWiki	spitzes , mit einer giftdrüse in verbindung stehendes verteidigungs- oder angriffsinstrument bei insekten .
+zentralamerika	NOUN	OmegaWiki	eine schmale landmasse der westlichen hemisphäre der erde , die eine brücke zwischen nord- und südamerika bildet , oft als südteil nordamerikas angesehen wird und länder wie guatemala , belize , el salvador , honduras , nicaragua , costa rica und panama beheimatet .
+monopol	NOUN	OmegaWiki	situation , in der es auf einem markt nur einen anbieter für eine ware oder dienstleistung gibt .
+luftröhre	NOUN	OmegaWiki	das rohr , in der die atemluft von den stimmbändern bis zur lunge gelangt .
+laptoprechner	NOUN	OmegaWiki	ein tragbarer computer , der klein und leicht genug ist , um ihn auf den knien zu benutzen .
+selbstmitleidig	ADJ	OmegaWiki	mitleid mit sich selbst empfindend .
+lasisch	ADJ	OmegaWiki	das volk der lasen oder die sprache lasisch betreffend oder dazu gehörend .
+paracetamol	NOUN	OmegaWiki	ein häufiges medikament , das zur bekämpfung von kopfschmerzen und anderen schmerzen angewandt wird .
+rote_beete	NOUN	OmegaWiki	dunkelrot gefärbte rübenart ( beta vulgaris subsp . vulgaris var . conditiva ) .
+nachtflug	NOUN	OmegaWiki	flug , der in der nacht beginnt .
+kephalgie	NOUN	OmegaWiki	ein häufiger ( und manchmal akuter ) schmerz des kopfes und des kopfbereichs .
+häuten	VERB	OmegaWiki	das entfernen der haut vom körper eines menschen als folter- oder hinrichtungsmethode .
+häuten	VERB	OmegaWiki	die entfernung der haut vom körper eines tieres , um dessen fleisch und/oder fell zu verwerten .
+scheibe	NOUN	OmegaWiki	ein abgeschnittenes stück , dessen dicke klein gegen seine länge und breite oder seinen durchmesser ist
+apokalypse	NOUN	OmegaWiki	das letzte buch des neuen testaments ; enthält visionäre beschreibungen des himmels und des konflikts zwischen gut und böse und von dem ende der welt ; wird dem apostel johannes zugeschrieben .
+unmessbar	ADJ	OmegaWiki	nicht durch messen bestimmbar .
+krakelüre	NOUN	OmegaWiki	feine risse auf gemälden , die entstehen , wenn das gemälde temperaturschwankungen ausgesetzt ist .
+hilfs-	ADJ	OmegaWiki	mit einer unterstützenden fähigkeit .
+überreichen	VERB	OmegaWiki	mit der hand jemandem etwas geben .
+personalabteilung	NOUN	OmegaWiki	die abteilung einer firma , die mit dem anwerben , dem entlassen und der weiterbildung von mitarbeitern sowie anderen personalfragen befasst ist .
+gaydar	NOUN	OmegaWiki	die angebliche fähigkeit zu erkennen , ob jemand homosexuell ist .
+nato	NOUN	OmegaWiki	internationale organisation , die 1949 zu zwecken der kollektiven sicherheit durch den nordatlantikvertrag begründet wurde .
+sommerzeit	NOUN	OmegaWiki	die im sommerhalbjahr um eine stunde vorgestellte uhrzeit .
+sommerzeit	NOUN	OmegaWiki	die zeit während der sommermonate .
+sonnenstrahl	NOUN	OmegaWiki	ein begrenzter strahl von sonnenlicht .
+hooverville	NOUN	OmegaWiki	elendsvirtel am rand von amerikanischen städten während der großen depression .
+schildern	VERB	OmegaWiki	erklären und dabei im detail auslegen .
+zither	NOUN	OmegaWiki	saiteninstrument , das hauptsächlich im deutschsprachigen teil europas gespielt wird
+rum	NOUN	OmegaWiki	destilliertes alkoholisches getränk aus zuckerrohr und molasse .
+papiamentu	NOUN	OmegaWiki	eine sprache , die auf den niederländischen antillen und auf aruba gesprochen wird .
+persische_walnuss	NOUN	OmegaWiki	großer , sommergrüner laubbaum ( juglans regia ) aus der familie der walnussgewächse ( juglandaceae ) , der eine eßbare frucht it harter schale und ölreichem samen hervorbringt .
+stockmutter	NOUN	OmegaWiki	das einzige geschlechtsreife weibliche tier in einer kolonie von honigbienen .
+gar	ADJ	OmegaWiki	zu unverzüglichem handeln oder sofortigem gebrauch bereit .
+falls	NOUN	OmegaWiki	[ die einleitung einer bedingung oder entscheidung . ]
+verräter	NOUN	OmegaWiki	eine person , die in einer umgebung oder organisation tätig ist wobei sie zugleich heimlich interna und vertrauliche informationen an eine andere organisation oder gruppe weitergibt , die oft ganz entgegengesetzte ziele verfolgt .
+kunstsprache	NOUN	OmegaWiki	konstruierte sprache , die für ästhetische zwecke erdacht wurde .
+wandel	NOUN	OmegaWiki	der prozess des anderswerdens .
+veränderliche_hummel	NOUN	OmegaWiki	hummelart in europa .
+zehntausend	NOUN	OmegaWiki	zehn hoch vier
+spießbürger	NOUN	OmegaWiki	eine person , die kunst und literatur verachtet .
+swadesh-liste	NOUN	OmegaWiki	eine liste mit grundlegendem vokabular einer sprache , die von dem linguisten morris swadesh entwickelt wurde .
+schwuler	NOUN	OmegaWiki	eine person , die sich sexuell nur oder hauptsächlich zu angehörigen desselben geschlechts hingezogen fühlt .
+abfallkorb	NOUN	OmegaWiki	behälter in dem abfälle gesammelt werden .
+asterix	NOUN	OmegaWiki	hauptfigur der asterix-comics , ein tapferer , listiger krieger von eher kleiner statur
+parotitis	NOUN	OmegaWiki	entzündung einer oder beider ohrspeicheldrüsen .
+weihwasser	NOUN	OmegaWiki	von einem priester geweihtes wasser , das zur symbolischen reinigung verwendet wird .
+brandverletzung	NOUN	OmegaWiki	verletzung der haut , die von feuer , exzessiver hitze oder bestimmten chemikalien hervorgerufen wurde .
+homilie	NOUN	OmegaWiki	eine predigt über ein moralisches oder religiöses thema .
+spatz	NOUN	OmegaWiki	ein kleiner singvogel aus der familie der passeridae .
+spatz	NOUN	OmegaWiki	kleiner vogel mit kurzem schnabel und braunen , weißen und grauen federn .
+kamillenblütentee	NOUN	OmegaWiki	tee aus getrockneten kamillenblüten .
+politisch	ADJ	OmegaWiki	teil der oder in verbindung stehend mit politik
+kritisieren	VERB	OmegaWiki	negative kritik äußern .
+gasser-syndrom	NOUN	OmegaWiki	syndrom , das durch hämolytische blutarmut und akutes nierenversagen gekennzeichnet ist und haupsächlich kleine kinder betrifft .
+synagoge	NOUN	OmegaWiki	ort der religionsausübung für juden .
+geißfuß	NOUN	OmegaWiki	pflanze die an schattigen orten wächst und oft als unkraut angesehen wird .
+kenia	NOUN	OmegaWiki	ein land in ostafrika mit der hauptstadt nairobi
+17._jahrhundert	NOUN	OmegaWiki	das jahrhundert , das im gregorianischen kalender von 1601 bis 1700 dauerte .
+klitikon	NOUN	OmegaWiki	ein morphem , das wie ein wort fungiert , aber das nicht als unabhängiges wort auftritt , sondern an ein folgendes oder vorangehendes wort angelehnt ist .
+pneumokoniose	NOUN	OmegaWiki	berufsbedingte lungenkrankheit , die durch das einatmen von staub verursacht wird .
+koranisch	ADJ	OmegaWiki	den koran betreffen oder dazu gehörend .
+schnupftabak	NOUN	OmegaWiki	gemahlener oder pulverisierter tabak , der durch die nase inhaliert wird .
+sonnwende	NOUN	OmegaWiki	einer der beiden zeitpunkte des jahres , wenn die sonne den größten abstand zur äquatorebene hat .
+st._kitts_und_nevis	NOUN	OmegaWiki	ein staat in der karibik .
+könig	NOUN	OmegaWiki	männliches mitglied einer königlichen familie und oberster herrscher seiner nation .
+verbrecher	NOUN	OmegaWiki	person , die eine kriminelle handlung begangen hat .
+tadschikisch	NOUN	OmegaWiki	eine sprache in tadschikistan .
+verklären	VERB	OmegaWiki	erheben oder idealisieren , in anlehnung an christus verklärung .
+stachelrochen	NOUN	OmegaWiki	großer , giftiger rochen mit einem mit stacheln versehenen , peitschenartigen schwanz , der zur ordnung der rajiformes und myliobatiformes gehört .
+stichprobe	NOUN	OmegaWiki	im bereich statistik ein teil der gesamtheit von ausgewählten elementen , so dass diese repräsentierend für das gesamtphänomen ist , um dieses selbst zu untersuchen .
+lok	NOUN	OmegaWiki	eine selbstfahrende maschine , die mit dampf , diesel oder elektrizität angetrieben wird und benutzt wird , um züge auf eisenbahnschienen zu ziehen .
+exekutionskommando	NOUN	OmegaWiki	eine gruppe soldaten oder paramilitärs mit dem befehl , jemanden zu exekutieren , üblicherweise durch gewehrschüsse .
+laut	ADJ	OmegaWiki	wie berichtet oder erklärt von .
+turnschuh	NOUN	OmegaWiki	ein sportlicher schuh mit einer weichen gummisohle .
+vor_christus	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre nach der zeitenwende , das heißt nach der geburt jesus christus .
+vor_christus	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre vor der zeitenwende , das heißt vor der geburt jesus christus .
+lakkisch	NOUN	OmegaWiki	die sprache des volks der laken in der autonomen russischen republik dagestan .
+gefälscht	ADJ	OmegaWiki	nicht echt ; etwas höherwertiges imitierend .
+gott	NOUN	OmegaWiki	übernatürliches , meist unsterbliches wesen mit höherer macht .
+gott	NOUN	OmegaWiki	das höchste wesen , der schöpfer und der geist wegen dem und in dem alles ist , wie er von monotheisten , meist christen und juden , genannt wird .
+schienenfahrzeug	NOUN	OmegaWiki	ein angetriebenes oder oder nicht angetriebenes fahrzeug , das auf schienen fährt .
+sekundenschlaf	NOUN	OmegaWiki	kurze schlafepisode , die meist nur einge sekunden dauert und von schlafmangel oder medizinischen schlafstörungen verursacht wird .
+argonner_wald	NOUN	OmegaWiki	bewaldetes bergland im nordosten frankreichs .
+brotteig	NOUN	OmegaWiki	teig aus mehl , wasser , hefe oder sauerteig und anderen zutaten , aus dem brot gebacken wird .
+nichtsdestominder	ADV	OmegaWiki	trotz des vorher gesagten .
+nichtsdestominder	ADV	OmegaWiki	[ einen gegensatz ausdrückend ]
+hypophyse	NOUN	OmegaWiki	die wichtigste hormondrüse des körpers , die hormone zur kontrolle anderer drüsen und körperfunktionen , besonders des wachstums , produziert .
+dhu_l-qa'da	NOUN	OmegaWiki	der elfte monat des islamischen kalenders .
+büffeln	VERB	OmegaWiki	intensiv lernen , z.b. vor einer prüfung .
+jener	ADJ	OmegaWiki	der bezeichnete gegenstand
+friede	NOUN	OmegaWiki	ein zustand ohne krieg , insbesondere krieg zwischen verschiedenen ländern .
+eigentumsrecht	NOUN	OmegaWiki	das recht , eigentum zu besitzen .
+kraft	NOUN	OmegaWiki	physik : vektorielle größe , die eine geschwindigkeitsänderung einer masse bewirkt
+varaktor	NOUN	OmegaWiki	eine diode mit veränderbarer kapazität .
+rückgrat	NOUN	OmegaWiki	das körperteil , welches aus einer reihe von wirbeln besteht , die den kopf und den körper stützen und einen kanal für die nerven formen .
+leptomeningitis	NOUN	OmegaWiki	entzündung der weichen hirnhaut .
+backup	NOUN	OmegaWiki	das kopieren des inhalts einer festplatte , oder einem anderen speichermedium , an einem anderen ort zur sicheren verwahrung .
+polygastrisch	ADJ	OmegaWiki	einen magen habend , der aus mehreren kammern besteht .
+melange	NOUN	OmegaWiki	zwei oder mehr dinge vemengt .
+staub	NOUN	OmegaWiki	irgend eine sorte festes material in partikeln von sehr geringer größe .
+mob	NOUN	OmegaWiki	ein ungeordneter und oft lärmender haufen von menschen .
+dhu_l-hiddscha	NOUN	OmegaWiki	der zwölfte monat des islamischen kalenders .
+eventuell	ADV	OmegaWiki	drückt aus , dass eine aussage ungewiss ist .
+lange_unterhose	NOUN	OmegaWiki	eine unterhose mit schlauchartigen , unten offenenen beinlingen .
+velarer_konsonant	NOUN	OmegaWiki	laut , der am weichen gaumen artikuliert wird .
+demenz	NOUN	OmegaWiki	schwere , fortschreitende beeinträchtigung oder verlust der intellektuellen fähigkeiten und der persönlichkeit aufgrund von verlust oder beschädigung der neuronen im gehirn .
+im_stich_lassen	VERB	OmegaWiki	etwas entgultig oder mit ernstzunehmenden risiken verlassen
+sendbote	NOUN	OmegaWiki	ein auf eine mission oder einen botengang geschickter stellvertreter .
+verdreschen	VERB	OmegaWiki	jemanden wiederholt und heftig schlagen .
+sudoku	NOUN	OmegaWiki	spiel , dessen ziel es ist , alle felder in einem raster von 9 auf 9 so auszufüllen , dass jede spalte , reihe und jede der neun boxen von 3 auf 3 feldern alle zahlen von 1-9 jeweils einmal enthält .
+popel	NOUN	OmegaWiki	ein stück getrockneten nasenschleims .
+zieltext	NOUN	OmegaWiki	text , der als ergebnis der übersetzung eines textes in eine andere sprache entsteht .
+seismograph	NOUN	OmegaWiki	wissenschaftliches instrument , das vibrationen ( seismische wellen ) von erdbeben erkennt und aufzeichnet .
+pickel	NOUN	OmegaWiki	eine schmerzhafte , örtliche entzündung der haut , verursacht durch die infektion eines haarfollikels . normalerweise bestehend aus einem harten kern und eiter .
+kleiner_finger	NOUN	OmegaWiki	der kleinste finger der hand .
+grießpudding	NOUN	OmegaWiki	dessert aus grieß , milch und zucker .
+norwegisch	ADJ	OmegaWiki	norwegen , die norweger oder die norwegische sprache betreffend bzw. dazu gehörend .
+norwegisch	NOUN	OmegaWiki	eine nordgermanische sprache , die in norwegen gesprochen wird .
+norwegisch	NOUN	OmegaWiki	eine nordgermanische sprache , die in norwegen gesprochen wird .
+norwegisch	ADJ	OmegaWiki	norwegen , die norweger oder die norwegische sprache betreffend bzw. dazu gehörend .
+hochzeitstorte	NOUN	OmegaWiki	eine oft mehrstöckige torte , die vom brautpaar während der hochzeitsfeier feierlich angeschnitten wird .
+sich_ändern	VERB	OmegaWiki	anders werden .
+umändern	VERB	OmegaWiki	etwas anders machen .
+jack_o’lantern	NOUN	OmegaWiki	kürbis , der ausgehöhlt und mit einem muster verziert zu halloween aufgestellt wird .
+waldland	NOUN	OmegaWiki	von wald und bäumen bedecktes land .
+rezension	NOUN	OmegaWiki	kritische evaluierung einer veröffentlichung wie z. b. bücher , filme , musikalische kompositionen oder computerspiele .
+flugangst	NOUN	OmegaWiki	die krankhafte angst vor dem fliegen .
+spültuch	NOUN	OmegaWiki	tuch zum waschen von geschirr .
+retten	VERB	OmegaWiki	aus einer gefahr bergen , vor möglichem schaden oder einer verletzung bewahren .
+hirsch	NOUN	OmegaWiki	ein weiblicher hirsch .
+machtdurst	NOUN	OmegaWiki	das maßlose streben nach macht .
+17._jh.	NOUN	OmegaWiki	das jahrhundert , das im gregorianischen kalender von 1601 bis 1700 dauerte .
+single	NOUN	OmegaWiki	person , die nicht verheiratet und nicht in einer beziehung ist .
+holzschnitt	NOUN	OmegaWiki	druck , der mit der holzschnittechnik hergestellt wurde .
+holzschnitt	NOUN	OmegaWiki	kunsttechnik bei der bilder in holz geschnitten und drucke davon erzeugt werden .
+laubsäge	NOUN	OmegaWiki	eine elektrische säge , die zum freihändigen schneiden beliebiger kurven und formen benutzt wird .
+in_die_kissen_steigen	VERB	OmegaWiki	geschlechtsverkehr haben .
+verpflichtung	NOUN	OmegaWiki	juristische pflicht aufgrund deren eine person , schuldner genannt , einen wirtschaftlich bewertbare leistung gegenüber einer anderen person , gläubiger genant , ausführen muss .
+rudergänger	NOUN	OmegaWiki	mitglied einer schiffsbesatzung , der für das steuern zuständig ist .
+mahner	NOUN	OmegaWiki	jemand , der eine warnung gibt , so dass ein fehler vermieden werden kann .
+beginnen	VERB	OmegaWiki	eine aktivität aufnehmen .
+pfingsten	NOUN	OmegaWiki	das fest am fünfzigsten tag nach ostern , bei dem die entsendung des heiligen geistes an die apostel gefeiert wird .
+rapanuianisch	NOUN	OmegaWiki	ostpolynesische sprache , die von den rapa nui , den einwohnern der osterinsel gesprochen wird .
+rapanuianisch	NOUN	OmegaWiki	insel im pazifik , die zu chile gehört .
+1-stöckig	ADJ	OmegaWiki	ein stockwerk aufweisend .
+aschera	NOUN	OmegaWiki	fruchtbarkeitsgöttin des alten orients , die auch in der bibel erwähnt wird .
+türkis	ADJ	OmegaWiki	eine farbe zwischen blau und grün habend , ähnlich dem mineral türkis .
+türkis	NOUN	OmegaWiki	eine farbe zwischen blau und grün , ähnlich dem mineral türkis .
+türkis	NOUN	OmegaWiki	mineral , das hauptsächlich aus kupfer und aluminium besteht und dessen farbe zwischen blau und blaugrün variiert .
+türkis	ADJ	OmegaWiki	eine farbe zwischen blau und grün habend , ähnlich dem mineral türkis .
+türkis	NOUN	OmegaWiki	eine farbe zwischen blau und grün , ähnlich dem mineral türkis .
+türkis	NOUN	OmegaWiki	mineral , das hauptsächlich aus kupfer und aluminium besteht und dessen farbe zwischen blau und blaugrün variiert .
+katarer	NOUN	OmegaWiki	staat im mittleren osten mit der hauptstadt doha .
+computer-tutorium	NOUN	OmegaWiki	eine schulung zum thema , wie man einen computer benutzt
+sieden	NOUN	OmegaWiki	das erhitzen einer flüssigkeit bis zu einer temperatur , bei der sie zu gas wird .
+sieden	VERB	OmegaWiki	( eine flüssigkeit ) bis zu dem punkt erhitzen , an dem sie beginnt , sich in ein gas zu verwandeln .
+sieden	NOUN	OmegaWiki	das erhitzen einer flüssigkeit bis zu einer temperatur , bei der sie zu gas wird .
+sieden	VERB	OmegaWiki	( eine flüssigkeit ) bis zu dem punkt erhitzen , an dem sie beginnt , sich in ein gas zu verwandeln .
+zum_beispiel	ADV	OmegaWiki	als ein beispiel .
+hodenentzündung	NOUN	OmegaWiki	entzündung des hodens .
+honigsenf	NOUN	OmegaWiki	eine mischung aus dijon-senf und honig .
+ununtrium	NOUN	OmegaWiki	provisorischer name eines superschweren elements im periodensystem mit dem elementsymbol uut und der ordnungszahl 113 .
+einen_fahren_lassen	VERB	OmegaWiki	bei der verdauung entstandene gase durch den anus abgeben .
+schwester	NOUN	OmegaWiki	eine weibliche person , die dieselben eltern hat wie eine andere person .
+schwester	NOUN	OmegaWiki	eine weibliche person , die menschen in einem krankenhaus , pflegeheim oder ähnlichem versorgt .
+australien	NOUN	OmegaWiki	kontinent , der vollständig auf der südhalbkugel der erde liegt und vom indischen ozean , vom pazifik , sowie vom südlichen ozean ungeben ist .
+australien	NOUN	OmegaWiki	land in ozeanien mit der hauptstadt canberra .
+ex-gattin	NOUN	OmegaWiki	frau , die zuvor die ehefrau eines bestimmten mannes war .
+schafskopf	NOUN	OmegaWiki	person mit mangelndem urteilsvermögen oder niedriger intelligenz .
+steckenpferd	NOUN	OmegaWiki	ein projekt , das jemandem sehr am herzen liegt .
+großgrundbesitz	NOUN	OmegaWiki	großer landbesitz , welcher nicht bestellt wird oder auf wechem extensive landwirtschaft betrieben wird .
+luftkissenboot	NOUN	OmegaWiki	wasserfahrzeug , das von einem luftkissen über wasser getragen wird .
+luftkissenboot	NOUN	OmegaWiki	fahrzeug , das von einem luftkissen getragen wird .
+bitterkeit	NOUN	OmegaWiki	eine rauhe und bittere weise .
+puzzle	NOUN	OmegaWiki	ein problem oder rätsel , das den scharfsinn herausfordert , üblicherweise zur unterhaltung genutzt .
+handkuss	NOUN	OmegaWiki	ein kuss auf die hand einer person ( meist einer frau ) zur begrüßung und als zeichen der ehrerbietung .
+zentennium	NOUN	OmegaWiki	ein zeitraum von 100 jahren .
+instruktiv	NOUN	OmegaWiki	die kunst oder wissenschaft des lehrens .
+erdnussmus	NOUN	OmegaWiki	ein brotaufstrich aus zermahlenen erdnüssen .
+mayotte	NOUN	OmegaWiki	französische gebietskörperschaft am nördlichen rand der straße von mosambik im indischen ozean
+legehenne	NOUN	OmegaWiki	henne , die zum eierlegen gehalten wird .
+apastron	NOUN	OmegaWiki	punkt der größten entfernung der elliptischen umlaufbahn eines sterns in einem doppelsternsystem vom massenmittelpunkt des systems
+apastron	NOUN	OmegaWiki	punkt der geringsten entfernung der elliptischen umlaufbahn eines sterns in einem doppelsternsystem vom massenmittelpunkt des systems
+apastron	NOUN	OmegaWiki	punkt auf der elliptischen umlaufbahn eines astronomischen objekts , der die geringste oder größte entfernung vom massenmittelpunkt des systems hat , z. b. perihel oder aphel
+entmenschen	VERB	OmegaWiki	jemanden seiner menschlichen eigenschaften berauben .
+auge_des_gesetzes	NOUN	OmegaWiki	ein beamter oder eine beamtin einer strafverfolgungsbehörde .
+auge_des_gesetzes	NOUN	OmegaWiki	ein männlicher beamter der polizei .
+präfix	NOUN	OmegaWiki	morphem , das an den anfang eines wortes gehängt wird .
+tramonti	NOUN	OmegaWiki	stadt in der provinz salerno , region kampanien , italien .
+gelbe_rübe	NOUN	OmegaWiki	ein gelblich-oranges , länglich-rundes wurzelgewächs , das roh oder gekocht gegessen wird .
+wasserläufer	NOUN	OmegaWiki	ein insekt aus der familie der gerridae .
+einzelhandelsgeschäft	NOUN	OmegaWiki	ort , besonders ein kleines gebäude , in dem waren und dienstleistungen verkauft werden .
+neuwestaramäisch	NOUN	OmegaWiki	moderne aramäische sprache , die heute in drei dörfern im anti-libanon-gebirge im westen von syrien gesprochen wird .
+sexpartner	NOUN	OmegaWiki	partner für sexuelle aktivitäten .
+vierteldollar	NOUN	OmegaWiki	münze , die 25 cent wert ist .
+unbegrenzt	ADJ	OmegaWiki	keine grenzen in trag- oder reichweite habend .
+unbegrenzt	ADJ	OmegaWiki	scheinbar grenzenlos in menge , zahl , grad oder insbesondere ausmaß .
+gut	ADJ	OmegaWiki	erwünschte oder positive qualitäten habend .
+tausendschön	NOUN	OmegaWiki	kleine blütenpflanze ( bellis perennis ) mit weißen blütenblättern aus der familie der korbblütengewächse ( asteraceae ) .
+kernenergie	NOUN	OmegaWiki	durch kernspaltung oder kernfusion freigesetzte energie
+billard	NOUN	OmegaWiki	eine klasse spiele , die mit festen kugeln , bälle genannt , gespielt werden , die mit der spitze von stäben , queue genannt , angetrieben oder gestoßen werden auf rechteckigen tischen , die typischerweise mit grünem filz bespannt sind und an den kanten hochstehende ränder haben , die banden genannt werden und die kugeln möglichst perfekt abprallen lassen , wenn diese mit beliebiger geschwindigkeit dagegen rollen .
+puck	NOUN	OmegaWiki	scheibe , die in verschiedenen sportarten verwendet wird und dieselbe funktion wie in ball erfüllt .
+elektrotechnik	NOUN	OmegaWiki	bereich der technik , der sich mit der anwendung der elektrizität befasst .
+marker	NOUN	OmegaWiki	stift mit breiter spitze aus filz oder faser .
+klötensack	NOUN	OmegaWiki	ein beutel der haut und des muskels , welche die testikel enthalten .
+abtreibend	ADJ	OmegaWiki	einen schwangerschaftsabbruch auslösend .
+ajwar	NOUN	OmegaWiki	würzsauce aus roten paprika , aubergine , knoblauch und chili .
+silberglänzend	ADJ	OmegaWiki	wie silber glänzend , silber ähnelnd .
+jauer	NOUN	OmegaWiki	ein dialekt des oberengadinischen , das selbst ein dialekt des rätoromanischen ist , der in graubünden im münstertal gesprochen wird .
+schwefel	NOUN	OmegaWiki	chemisches element mit dem symbol s und der ordnungszahl 16 ; nichtmetall , das zu den chalkogenen gehört und in kristalliner oder amorpher form vorkommt
+udssr	NOUN	OmegaWiki	von 1922 bis 1991 existierender sozialistischer staat in eurasien .
+schlafkrankheit	NOUN	OmegaWiki	chronische schlafstörung , die durch heftigen schlafdrang in unpassenden momenten gekennzeichnet ist .
+schriftzeichen	NOUN	OmegaWiki	die kleinste einheit eines schriftsystems .
+vaucluse	NOUN	OmegaWiki	département im südosten frankreichs .
+gasmotor	NOUN	OmegaWiki	verbrennungsmotor , der gasförmigen brennstoff benötigt .
+ziegenkraut	NOUN	OmegaWiki	pflanze die an schattigen orten wächst und oft als unkraut angesehen wird .
+thelarche	NOUN	OmegaWiki	der beginng der entwicklung der brust , die bei mädchen meist mit beginn der pubertät einsetzt .
+energiebedarf	NOUN	OmegaWiki	die menge an energie , die von einer person oder einer maschine benötigt wird .
+selbsterfüllende_prophezeiung	NOUN	OmegaWiki	vorhersage , die direkt oder indirekt selbst dafür sorgt , dass sie wahr wird .
+dispersion	NOUN	OmegaWiki	die verteilung von feinpartikeln in einem medium .
+gekrakel	NOUN	OmegaWiki	sehr schlechte oder unleserliche handschrift .
+erdnussöl	NOUN	OmegaWiki	pflanzenöl , das aus den samen der erdnuss gepresst wird .
+rucola	NOUN	OmegaWiki	einjährige pflanze , deren essbare blätter in salat verwendet werden .
+dienstagmittag	NOUN	OmegaWiki	der mittag des dienstags .
+lochien	NOUN	OmegaWiki	vaginaler ausfluss nach der geburt , der blut , schleim und plazentagewebe enthält und für 4-6 wochen anhält .
+minutenlang	ADJ	OmegaWiki	mehrere minuten dauernd .
+söller	NOUN	OmegaWiki	ein raum am oberen ende eines hauses unter der dachfläche .
+kinematographisch	ADJ	OmegaWiki	den film betreffend , charakteristisch für filme , mit den mitteln des films .
+riechen	VERB	OmegaWiki	die präsenz von molekülen in der luft wahrnehmen , indem man durch die nase atmet .
+fragen	VERB	OmegaWiki	eine frage an jemanden stellen .
+entwaldung	NOUN	OmegaWiki	die entfernung von wald und unterholz , um die fläche des ackerlands zu vergrößern oder das holz für bau oder industrielle zwecke zu verwenden .
+studie	NOUN	OmegaWiki	eine detaillierte , kritische prüfung .
+schweinegrippe	NOUN	OmegaWiki	grippeartige infektionskrankheit des menschen , die vom subtyps h1n1 des influenza-a-virus ( vermutlich einer mutation des schweinegrippenvirus ) ausgelöst wird und die von mensch zu mensch übertragen wird .
+nuuk	NOUN	OmegaWiki	die hauptstadt grönlands
+samarium	NOUN	OmegaWiki	chemisches element mit dem symbol sm und der ordnungszahl 62 , silberweißes lanthanoid .
+allmächtig	NOUN	OmegaWiki	grenzenlose macht besitzend , über alles und jeden herrschend .
+liebedienerisch	ADJ	OmegaWiki	viele und oft übertriebene komplimente machend .
+verkehrsinsel	NOUN	OmegaWiki	bereich auf der mitte der straße , auf dem fußgänger beim überqueren der fahrbahn warten können .
+erwachen	VERB	OmegaWiki	aufhören zu schlafen .
+sauberkeit	NOUN	OmegaWiki	der zustand sauber zu sein und gesunde bedingungen zu erhalten .
+idiot	NOUN	OmegaWiki	person mit mangelndem urteilsvermögen oder niedriger intelligenz .
+destillat	NOUN	OmegaWiki	die aus dampf kondensierte flüssigkeit , die bei der destillation entsteht .
+einstellung	NOUN	OmegaWiki	der soziologische begriff , der bevorzugung ausdrückt
+einstellung	NOUN	OmegaWiki	akt , durch welchen ein untergeordnetes arbeitsverhältnis beginnt .
+müdigkeit	NOUN	OmegaWiki	zustand der körperlichen und/oder geistigen schwäche und mangel an energie .
+gelber_ingwer	NOUN	OmegaWiki	südasiatische pflanze aus der familie der ingwergewächse mit aromatischem rhizom .
+nephologie	NOUN	OmegaWiki	teilgebiet der meteorologie , das sich mit wolken und wolkenbildung beschäftigt .
+telefonbuch	NOUN	OmegaWiki	verzeichnis , das in alphabetischer reihenfolge die inhaber von telefonanschlüssen und ihre telefonnummer enthält .
+knochenjob	NOUN	OmegaWiki	besonders schwere , komplexe oder körperlich anstrengende arbeit .
+solbriller	NOUN	OmegaWiki	spezielle brille , die die augen vor starkem sonnenlicht und uv-strahlen schützt .
+cerumen	NOUN	OmegaWiki	gelbliche , wachsartige absonderung einiger drüsen im äußeren gehörgang .
+bürgermeister	NOUN	OmegaWiki	das oberhaupt einer stadt oder gemeinde .
+bürgermeister	NOUN	OmegaWiki	das weibliche oberhaupt einer stadt oder gemeinde .
+tau	NOUN	OmegaWiki	dicke , starke schnur , die aus verschiedenen , miteinander verdrillten fasern hergestellt wird .
+rezept	NOUN	OmegaWiki	eine niedergeschriebene auflistung von medizin und dosierung durch einen arzt
+wunderbar	ADJ	OmegaWiki	erstaunen oder bewunderung hervorrufend .
+gallium	NOUN	OmegaWiki	chemisches element mit dem symbol ga und der ordnungszahl 31 , silberweißes metallisches hauptgruppenelement .
+urgroßmutter	NOUN	OmegaWiki	der vater der mutter .
+urgroßmutter	NOUN	OmegaWiki	der vater des vaters .
+aprilscherz	NOUN	OmegaWiki	brauch , bei dem man jemandem am 1. april mit einer erfundenen geschichte hereinlegt .
+generisch	ADJ	OmegaWiki	anwendbar auf eine gesamte klasse oder gruppe .
+jams	NOUN	OmegaWiki	eine gemüseknolle , die hauptsächlich in westafrika , asien und lateinamerika angebaut wird .
+noch	ADV	OmegaWiki	kontinuierlich , während der ganzen zeit bis zu diesem oder jenem zeitpunkt .
+noch	ADV	OmegaWiki	bis zur gegenwart .
+bamako	NOUN	OmegaWiki	die hauptstadt malis
+stille	NOUN	OmegaWiki	das völlige fehlen von geräuschen .
+vulkanologie	NOUN	OmegaWiki	ein teilgebiet der geologie , das sich mit vulkanismus beschäftigt .
+lümmeltüte	NOUN	OmegaWiki	ein mittel zur empfängnisverhütung , das aus einer dünnen gummi- oder latexhülle besteht , die während des geschlechtsverkehrs über dem penis getragen wird .
+penisentfernung	NOUN	OmegaWiki	die operative entfernung des penis .
+halbbruder	NOUN	OmegaWiki	halbbruder , der die gleiche mutter , aber einen anderen vater hat .
+halbbruder	NOUN	OmegaWiki	eine person , die dieselben eltern , wie eine andere person hat .
+halbbruder	NOUN	OmegaWiki	der sohn des eigenen stiefvaters oder der eigenen stiefmutter .
+halbbruder	NOUN	OmegaWiki	bruder , mit dem man nur ein elternteil gemeinsam hat .
+thrombus	NOUN	OmegaWiki	ein klumpen blut , der aus thrombozyten und anderen teilchen besteht und der sich in einem blutgefäß eines lebenden organismus bildet .
+ergreifen	VERB	OmegaWiki	mit der hand ergreifen .
+thyreoiditis	NOUN	OmegaWiki	entzündung der schilddrüse .
+multilokation	NOUN	OmegaWiki	die fähigkeit einer person an zwei orten gleichzeitig zu sein .
+multilokation	NOUN	OmegaWiki	die fähigkeit einer person an mehreren orten gleichzeitig zu sein .
+alicante	NOUN	OmegaWiki	hauptstadt der spanischen provinz alicante .
+mks	NOUN	OmegaWiki	hochansteckende und manchmal tödliche viruserkrankung bei rindern und schweinen .
+mordwaffe	NOUN	OmegaWiki	waffe , die benutzt wurde , um einen mord zu begehen .
+selbstbedienungsrestaurant	NOUN	OmegaWiki	restaurant , in dem die kunden das essen selbst auf tabletts laden und zum tisch tragen müssen .
+haselnussstrauch	NOUN	OmegaWiki	die pflanze , die die haselnuss hervorbringt . botanischer name : corylus avellana .
+haselnussstrauch	NOUN	OmegaWiki	pflanzliches öl , das aus den nüssen des haselnusstrauches ( corylus avellana ) gepresst wird .
+haselnussstrauch	NOUN	OmegaWiki	die frucht des haselnussbaums .
+dreitägig	ADJ	OmegaWiki	drei tage dauernd .
+weißes_blutkörperchen	NOUN	OmegaWiki	zelle des immunsystems , die den körper gegen infektionskrankheiten und fremdkörper verteidigt .
+schuh	NOUN	OmegaWiki	ein metallstück , dass dazu dient , am fuß eines pferdes befestigt zu werden , um diesen zu schützen .
+goldener_käfig	NOUN	OmegaWiki	die situation in luxus zu leben , aber keine freiheit zu haben .
+falsche_spur	NOUN	OmegaWiki	ein hinweis , der irreführend oder verfälscht ist und bestimmt ist , die aufmerksamkeit abzulenken .
+der_beste	NOUN	OmegaWiki	die person die am außergewöhnlichsten oder exzellentesten ist ; jemand , der alle anderen übertrifft .
+mountain-bike	NOUN	OmegaWiki	ein fahrrad , das vor allem bei fahrten im gelände und in gebirgen verwendet wird .
+kryosphäre	NOUN	OmegaWiki	bereich der oberfläche eines planeten , der von eis bedeckt ist , beispielsweise gletscher , meereis , inlandeis , schneebedeckte flächen und permafrostboden .
+situationskomik	NOUN	OmegaWiki	art der komödie , bei der wiederkehrende charaktere in einer gemeinsamen umgebung wie wohnung oder arbeitsplatz auftreten und witze teil des dialogs sind .
+feuerpause	NOUN	OmegaWiki	die temporäre aussetzung der kampfhandlungen aufgrund einer gegenseitigen übereinkuft der kriegsführenden parteien .
+emetophobisch	ADJ	OmegaWiki	die angst vor dem erbrechen betreffend oder daran leidend .
+slip	NOUN	OmegaWiki	kleidungsstück , das an der unteren körperhälfte getragen wird und welches die beine getrennt bedeckt .
+türkische_pizza	NOUN	OmegaWiki	dünnes , rundes stück teig , das mit gewürztem hackfleisch belegt ist .
+panikmacher	NOUN	OmegaWiki	eine person , die andere unnötig beunruhigt .
+stammesgeschichtlich	ADJ	OmegaWiki	die evolutionäre entwicklung von organismen betreffend bzw. dazu gehörend .
+wechselwarm	ADJ	OmegaWiki	( zoologie ) die körpertemperatur entsprechend der außemtemperatur verändernd .
+vulkan	NOUN	OmegaWiki	öffnung in der erdoberfläche , aus welcher magma , gase und asche austtreten .
+gurke	NOUN	OmegaWiki	der essbare teil der gurkenpflanze mit grüner schale und weißem fleisch .
+holocaust	NOUN	OmegaWiki	opfer an gott , wobei die opfergabe vollständig zu asche verbrannt wird .
+harmlos	ADJ	OmegaWiki	der absicht oder fähigkeit zu schaden mangelnd .
+dreiköpfig	ADJ	OmegaWiki	drei köpfe habend .
+botanik	NOUN	OmegaWiki	teilgebiet der biologie , das sich mit der erforschung der pflanzenwelt befasst .
+erneutes_auftreten	NOUN	OmegaWiki	eine wiederkehr von etwas nach einer zeit der verringerung .
+forschung	NOUN	OmegaWiki	wissenschaftliche untersuchung mit dem ziel , neue tatsachen , techniken oder naturgesetze zu entdecken und anzuwenden .
+frischen	VERB	OmegaWiki	kohlenstoff entfernen .
+wucher	NOUN	OmegaWiki	die praktik , geld für exorbitant hohe zinssätze zu verleihen , die das rechtlich zulässige und gerechte maß übersteigen .
+hoden	NOUN	OmegaWiki	männliche keimdrüse , die spermien und männliche geschlechtshormone produziert und bei bestimmten tieren vorkommt .
+meierei	NOUN	OmegaWiki	bauer , der auf die herstellung von milch spezialisiert ist .
+meierei	NOUN	OmegaWiki	ort , an dem milch verarbeitet wird und milchprodukte wie butter , käse , etc. hergestellt werden .
+sojasauce	NOUN	OmegaWiki	sauce , die aus wasser , sojabohnen , getreide und salz hergestellt wird und vor allem in der asiatischen küche zum würzen und verfeinern von speisen verwendet wird .
+spiritus	NOUN	OmegaWiki	farblose , leichtentzündliche flüssigkeit , die unter anderem als lösungsmittel , desinfektionsmittel und rauschmittel verwendet wird .
+spiritus	NOUN	OmegaWiki	farblose , mit wasser mischbar flüssigkeit , die als lösungsmittel oder reagens verwendet wird .
+lösegeld	NOUN	OmegaWiki	geld , das bezahlt wird für die freilassung einer geisel .
+türkisch	NOUN	OmegaWiki	eine turksprache , die hauptsächlich in der türkei , zypern und anderen ländern des ehemaligen ottomanischen reichs gesprochen wird .
+türkisch	NOUN	OmegaWiki	eine turksprache , die hauptsächlich in der türkei , zypern und anderen ländern des ehemaligen ottomanischen reichs gesprochen wird .
+tetragraph	NOUN	OmegaWiki	kombination aus vier buchstaben , die für einen laut stehen .
+schild	NOUN	OmegaWiki	eine große platte aus metall oder holz , die im nahkampf in der linken hand gehalten wird um sich vor angriffen zu schützen .
+alemannisch	NOUN	OmegaWiki	jeder der alemannischen dialekte , die in der schweiz , in liechtenstein , in vorarlberg , in südbaden , im oberallgäu und im elsass gesprochen werden .
+beichtstuhl	NOUN	OmegaWiki	abgeschlossene einrichtung zur anhörung der sündenbekenntnisse durch einen priester .
+rohstoff	NOUN	OmegaWiki	ein rohes , unbearbeitetes oder nur teilweise verarbeitetes material , das als ausgangsmaterial für eine weiterverarbeitung dient .
+grammatikalischer_fall	NOUN	OmegaWiki	der grammatikalische fall in dem ein hauptwort verwendet wird .
+indogermanisch	NOUN	OmegaWiki	der hypothetische gemeinsame vorfahre der indogermanischen sprachen .
+indogermanisch	NOUN	OmegaWiki	bedeutende sprachfamilie , die zahlreiche sprachen in europa und indien mit indoarischen , iranischen und europäischen zweigen umfaßt .
+regierungspartei	NOUN	OmegaWiki	eine partei , die in einem bestimmten land an der macht ist , üblicherweise durch eine parlamentsmehrheit oder als teil der regierungskoalition .
+millionstel	NOUN	OmegaWiki	eines von einer million gleichen teilen eines ganzen .
+konsequenz	NOUN	OmegaWiki	bedingung , dass der etwas von denen es abhängt folgt .
+achtjährlich	ADJ	OmegaWiki	alle acht jahre geschehend .
+psychisch_krank	ADJ	OmegaWiki	symptome einer geisteskrankheit aufweisend .
+durchsieben	VERB	OmegaWiki	trennen , indem man durch ein sieb oder eine andere siebvorrichtung leitet um die gröberen bestandteile herausfiltert .
+schmutzig	ADJ	OmegaWiki	bedeckt mit oder unangenehme substanzen wie schmutz oder schmutz enthaltend
+linothorax	NOUN	OmegaWiki	brustpanzer der von den antiken griechen und anderen zivilisationen verwendet wurde und der wahrscheinlich aus mehrschichtigem leinen bestand .
+budapest	NOUN	OmegaWiki	die hauptstadt von ungarn .
+äthiopische_gebärdensprache	NOUN	OmegaWiki	gebärdensprache in äthiopien .
+weiblichkeit	NOUN	OmegaWiki	die eigenschaft bzw. der zustand eine frau zu sein .
+weiblichkeit	NOUN	OmegaWiki	die eigenschaft weiblich zu sein ; eigenschaften und verhaltensweisen , die als typisch für frauen und mädchen erachtet werden .
+schlag	NOUN	OmegaWiki	der verlust von gehirnfunktionen aufgrund einer plötzlichen unterbrechung der blutversorgung des gehirns .
+schlag	NOUN	OmegaWiki	ein kräftiges schlagen mit der faust oder einer waffe .
+allel	NOUN	OmegaWiki	eine der möglichen ausprägungen eines gens .
+cunnilingus	NOUN	OmegaWiki	die orale stimulation der vulva oder der klitoris .
+eigenschaft	NOUN	OmegaWiki	eine definierende charakteristik .
+fencheltee	NOUN	OmegaWiki	tee aus samen des fenchels .
+semantische_relation	NOUN	OmegaWiki	beziehung , die zwischen wortbedeutungen besteht .
+grillen	VERB	OmegaWiki	essen , meist fleisch oder fisch , über glühender kohle zubereiten .
+marine	NOUN	OmegaWiki	staat , der im besitz einer starken marine und strategisch günstigen positionen ist .
+marine	NOUN	OmegaWiki	die gesamtheit der seestreitkräfte eines landes mit schiffen und besatzung .
+autoindustrie	NOUN	OmegaWiki	industriezweig , der automobile herstellt
+antoniusfeuer	NOUN	OmegaWiki	vergiftung durch die einnahme von mutterkorn , welches roggen und anderes getreide befällt .
+zitrusfrucht	NOUN	OmegaWiki	die gattung citrus , blütenpflanzen aus der familie der rautengewächse ( rutaceae ) dar , die ursprünglich aus südostasien stammt . sie umfasst viele pflanzen , die wegen ihrer saftigen und aromatischen früchte angebaut werden , darunter zitrone , orange , limone und grapefruit .
+stützend	ADJ	OmegaWiki	mit einer unterstützenden fähigkeit .
+kreuzkontaminieren	VERB	OmegaWiki	keime von einer quelle auf eine andere übertragen .
+sackleinen	NOUN	OmegaWiki	grobes gewebe aus jutefasern .
+sanddüne	NOUN	OmegaWiki	lose , vom wind angehäufte ansammlung von sand .
+verdauungssystem	NOUN	OmegaWiki	die gesamtheit der organe vom mund bis zum anus , die die nahrung aufspalten , nährstoffe aufnehmen und abfallprodukte ausscheiden .
+sarg	NOUN	OmegaWiki	eine kiste , in die der körper einer verstorbenen person gelegt wird , um sie zu beerdigen .
+hausaufgabe	NOUN	OmegaWiki	aufgabe , die zuhause erledigt wird , insbesondere übungen für die schule , die von einem lehrer aufgetragen werden .
+vallader	NOUN	OmegaWiki	eine rätoromanische dialektgruppe , die in graubünden in den tälern des unterengadin und des müstair gesprochen wird .
+kymrisch	NOUN	OmegaWiki	eine keltische sprache , die in wales als muttersprache gesprochen wird .
+bruderschaft	NOUN	OmegaWiki	eine formelle vereinigung von menschen mit ähnlichen interessen .
+stuhlgang	NOUN	OmegaWiki	die feste ausscheidung aus abfallstoffen der verdauung , die mensch und tier von zeit zu zeit abgeben , nachdem sie im dickdarm gesammelt wurde .
+stuhlgang	NOUN	OmegaWiki	was der körper eines hundes von zeit zu zeit als häufchen abfall der verdauung abgibt , nachdem es im dickdarm gesammelt wurde .
+stuhlgang	NOUN	OmegaWiki	das ausscheiden von fäkalien durch den anus .
+abenddämmerung	NOUN	OmegaWiki	zeit am ende des tages , kurz nach dem untergang der sonne , während der das licht immer schwächer wird .
+valenz	NOUN	OmegaWiki	eine maßzahl für die anzahl chemischer bindungen , die von den atomen eines gegebenen chemischen elements gebildet werden können .
+männermordender_vamp	NOUN	OmegaWiki	eine frau , die als gefährlich verführerisch betrachtet wird .
+entwässerung	NOUN	OmegaWiki	ein bauteil der straßenentwässerung , das der aufnahme von oberflächenwasser auf befestigten flächen dient und dieses unterirdischen entwässerungseinrichtungen , wie etwa dem abwasserkanal , zuführt .
+sklavenaufstand	NOUN	OmegaWiki	gewaltsame erhebung von sklaven gegen ihre versklaver .
+massenandrang	NOUN	OmegaWiki	eine gruppe von menschen , zusammengedrängt auf kleinem raum
+behutet	ADJ	OmegaWiki	einen hut tragend .
+kurzsichtig	ADJ	OmegaWiki	nicht in der lage weiter entfernte objekte deutlich zu sehen .
+bedrückt	ADJ	OmegaWiki	in gedrückter stimmung .
+bedrückt	ADJ	OmegaWiki	sich seelisch nicht wohl fühlend , weil etwas fehlt oder nicht stimmt .
+tauchbar	ADJ	OmegaWiki	imstande abgetaucht zu werden .
+asturisch	NOUN	OmegaWiki	eine romanische sprache , die in verschiedenen teilen spaniens gesprochen wird .
+lakritz	NOUN	OmegaWiki	meist schwarz gefärbte süßigkeit aus süßholzextrakt
+geschmackssinn	NOUN	OmegaWiki	einer der fünf sinne : die fähigkeit aromen mit der zunge zu unterscheiden .
+ubiquitär	ADJ	OmegaWiki	überall zur gleichen zeit präsent seiend .
+antipyretisch	ADJ	OmegaWiki	fieber verhindernd oder senkend .
+blauer_planet	NOUN	OmegaWiki	der dritte planet ( von innen gezählt ) in unserem sonnensystem .
+adverb	NOUN	OmegaWiki	ein wort , das verben , adjektive , andere adverben oder präpositionalphrasen näher bestimmt .
+karottenbrot	NOUN	OmegaWiki	brot , bei dem geriebene karotten in den teig gemischt werden .
+amsterdam	NOUN	OmegaWiki	der hauptstadt der niederlande .
+silbern	ADJ	OmegaWiki	wie silber glänzend , silber ähnelnd .
+mit_angehaltenem_atem	ADV	OmegaWiki	mit großer erwartung .
+phnom_penh	NOUN	OmegaWiki	hauptstadt und größte stadt von kambodscha .
+pisse	NOUN	OmegaWiki	flüssige ausscheidung , die aus wasser , salzen und harnstoff besteht , in den nieren produziert , in der blase gesammelt und durch die harnröhre abgegeben wird .
+wurst	NOUN	OmegaWiki	ein stück naturdarm oder kunstdarm , gefüllt mit gemahlenen organen oder gemahlenem fleisch und anderen zutaten .
+manche	NOUN	OmegaWiki	département im norden frankreichs in der normandie , benannt nach dem ärmelkanal .
+jangtse	NOUN	OmegaWiki	der drittlängste fluss der welt , der in der chinesischen provinz qinghai entspringt und bei shanghai ins ostchinesische meer fließt .
+smaragd	NOUN	OmegaWiki	ein durchsichtiges stück smaragd , das geschnitten und geschliffen wurde .
+smaragd	NOUN	OmegaWiki	eine wertvolle steinsorte , von grüner farbe .
+kernladungszahl	NOUN	OmegaWiki	anzahl der protonen in einem atomkern
+kettenrüstung	NOUN	OmegaWiki	eine rüstung , die aus einer reihe von metallringen besteht , die auf eine stoff- oder ledergrundlage genäht sind .
+kettenrüstung	NOUN	OmegaWiki	eine rüstung , die aus einem geflecht aus ineinander verflochtenen oder vernieteten metallringen besteht .
+unbeständig	ADJ	OmegaWiki	tendierend , sich oft oder stark zu verändern .
+kolkrabe	NOUN	OmegaWiki	großer schwarzer vogel , einer krähe ähnlich , aber größer
+liturgiesprache	NOUN	OmegaWiki	sprache , die im gottesdienst einer religion verwendet wird , aber nicht im alltag .
+liturgiesprache	NOUN	OmegaWiki	sprache , die nur in einem religiösen kontext verwendet wird , aber nicht im alltag .
+filmbiografie	NOUN	OmegaWiki	film , der die lebensgeschichte einer realen person erzählt .
+standpunkt	NOUN	OmegaWiki	der geistige standpunkt , von dem dinge betrachtet werden .
+hoffentlich_hats_geholfen	ADJ	OmegaWiki	[ im internet übliche akürzung des englischen `` i hope that helps '' ( ich hofffe , das hilft ) ]
+leukozyt	NOUN	OmegaWiki	zelle des immunsystems , die den körper gegen infektionskrankheiten und fremdkörper verteidigt .
+lichtquant	NOUN	OmegaWiki	elemantarteilchen , das für elektromagnetische interaktionen und licht verantwortlich ist .
+schokoholiker	NOUN	OmegaWiki	jemand der schokolade liebt und große mengen davon verzehrt .
+etwas	ADJ	OmegaWiki	eine unbekannte oder unbestimmte menge oder anzahl von .
+blutorange	NOUN	OmegaWiki	orangenart mit dunkelrotem fruchtfleisch .
+knabenschule	NOUN	OmegaWiki	schule , die nur männliche schüler aufnimmt .
+knabenschule	NOUN	OmegaWiki	schule , die nur weibliche schülerinnen aufnimmt .
+anstrengung	NOUN	OmegaWiki	ein mühevoller versuch ein ziel zu erreichen .
+prostataentfernung	NOUN	OmegaWiki	die teilweise oder vollständige operative entfernung der prostata .
+ehebett	NOUN	OmegaWiki	bett , in dem zwei menschen schlafen können .
+beiwort	NOUN	OmegaWiki	ein wort , das substantive oder pronomen modifiziert oder beschreibt .
+zew	NOUN	OmegaWiki	wort oder morphem , das in kombination mit einem numerale verwendet wird , um die anzahl von dingen anzugeben . meist sind solche wörter an eine semantische klasse gebunden , wie etwa `` tiere '' oder `` lange gegenstände '' . sie werden in den meisten ostasiatischen sprachen verwendet , außerdem in bengali und vielen indigenen sprachen der amerikanischen pazifikküste .
+samaritanisch	NOUN	OmegaWiki	von den samaritanern gesprochener dialekt des aramäischen , der ab dem 10 . - 12. jahrhundert nicht mehr aktiv gesprochen wurde und heute nur noch als liturgiesprache dient .
+drommete	NOUN	OmegaWiki	ein blechblasinstrument .
+taste	NOUN	OmegaWiki	ein bedienelement einer grafischen benutzeroberfläche einer software .
+glaubhaft	ADJ	OmegaWiki	scheinbar oder offensichtlich gültig , wahrscheinlich oder akzeptabel ; glaubwürdig .
+erdnussallergie	NOUN	OmegaWiki	lebensmittelallergie , bei der kontakt mit erdnüssen oder spuren von erdnüssen eine überreaktion des immunsystems hervorruft .
+standardsprache	NOUN	OmegaWiki	eine bestimmte variante einer sprache , die von einer akademie oder einer ähnlichen institution standardisiert wurde . dies ist die sprachversion , die in schulen sowohl muttersprachlern als auch fremdsprachenlernern beigebracht wird . die meisten texte in der sprache folgen ihren orthographie- und grammatikvorgaben .
+ruthenium	NOUN	OmegaWiki	chemisches element mit dem symbol ru und der ordnungszahl 44 , silberweißes übergangsmetall .
+nörgler	NOUN	OmegaWiki	jemand ( insbesondere eine frau ) , der leute verärgert durch ständiges finden von fehlern .
+feuern	VERB	OmegaWiki	das beschäftigungsverhältnis mit einem oder mehreren angestellten beenden .
+feuern	VERB	OmegaWiki	eine kugel aus einer schußwaffe abfeuern .
+empörung	NOUN	OmegaWiki	ein gefühl des gerechtfertigten ärgers .
+ehepartnerin	NOUN	OmegaWiki	eine verheiratete frau .
+hiv	NOUN	OmegaWiki	retrovirus , welches das erworbene immundefektsyndrom ( aids ) verursacht , eine krankheit , bei der das immunsystem versagt und so lebensbedrohliche opportunistische infektionen ermöglicht .
+pirahã	NOUN	OmegaWiki	stamm von jägern und sammlern , die im regenwald im nordwesten von brasilien , hauptsächlich am ufer des maici-flusses leben .
+pirahã	NOUN	OmegaWiki	sprache , die vom stamm der pirahã in brasilien gesprochen wird .
+genießbar	ADJ	OmegaWiki	kann gefahrlos gegessen werden ; für menschen nicht giftig ; zum verzehr geeignet .
+clotted_cream	NOUN	OmegaWiki	dicker rahm , der hergestellt wird , indem man unpasteurisierte kuhmilch indirekt erhitzt und dann in flachen gefäßen langsam abkühlen lässt .
+klassisches_mandäisch	NOUN	OmegaWiki	semitische sprache im ostaramäischen zweig , die als liturgiesprache der mandäischen religion verwendet wird .
+klassisches_mandäisch	NOUN	OmegaWiki	semitische sprache in der ostaramäischen untergruppe , die sich aus dem klassichen mandäisch entwickelte und von einer kleinen gemeinschaft im iran gesprochen wird .
+malediktologie	NOUN	OmegaWiki	zweig der psychologie , der sich mit fluchen und schimpfen beschäftigt .
+myanmar	NOUN	OmegaWiki	land in südostasien , das teilweise auf dem indischen subkontinent liegt und an bangladesch , china , indien , laos und thailand grenzt .
+vierteljahr	NOUN	OmegaWiki	zeitraum von drei monaten .
+würfel	NOUN	OmegaWiki	ein dreidimensionales polyeder ( ein vielflächner ) mit sechs gleich großen quadraten als begrenzungsflächen ; einer der fünf platonischen körper
+frankophil	ADJ	OmegaWiki	frankreich , den franzosen und der französischen kultur besonders zugeneigt .
+onkologin	NOUN	OmegaWiki	ärztin , die auf diagnose und behandlung von krebs spezialisert ist .
+intrinsisch	ADJ	OmegaWiki	aufgrund der natürlichen eigenschaften zu einer sache gehörend .
+platin	NOUN	OmegaWiki	chemisches element mit dem symbol pt und der ordnungszahl 78 , grauweißes übergangsmetall ; sehr korrosionsbeständiges edelmetall , das zur herstellung von schmuckwaren , fahrzeugkatalysatoren , laborgeräten , zahnimplantaten und kontaktwerkstoffen verwendet wird
+republik_botsuana	NOUN	OmegaWiki	land im süden afrikas mit der hauptstadt gaborone .
+schädelfraktur	NOUN	OmegaWiki	fraktur einer der knochen des schädels .
+herbivore	NOUN	OmegaWiki	ein tier , das sich von pflanzen ernährt .
+rechtschaffenheit	NOUN	OmegaWiki	die eigenschaft ehrlich zu sein .
+bagdad	NOUN	OmegaWiki	die größte stadt und hauptstadt des irak .
+monogastrisch	ADJ	OmegaWiki	einen einkammerigen magen habend .
+zugeschneit	ADJ	OmegaWiki	mit schnee bedeckt .
+mittelfranzösisch	NOUN	OmegaWiki	historischer abschnitt der französischen sprache , der ungefähr von 1340 bis 1610 gesprochen wurde .
+ovulatorisch	ADJ	OmegaWiki	die ovulation betreffend .
+himbeerseuche	NOUN	OmegaWiki	in den tropen auftretende infektion der haut , knochen und gelenke , die von einem bakterium ausgelöst wird .
+sich_aufknüpfen	VERB	OmegaWiki	sich duch erhängen töten .
+kolumbianische_gebärdensprache	NOUN	OmegaWiki	die in kolumbien verwendete gebärdensprache .
+yuzu	NOUN	OmegaWiki	eine in ostasien beheimatete zitrusfrucht mit dem wissenschaftlichen namen citrus ichangensis x citrus reticulata var . austera . sie wird hauptsächlich wegen ihrer aromatischen schale , die als gewürz verwendet wird , angebaut .
+boxsport	NOUN	OmegaWiki	kampfsport , bei dem zwei teilnehmer mit ähnlichem körpergewicht einander mit den fäusten bekämpfen .
+untermeerisch	ADJ	OmegaWiki	sich unter der meeresoberfläche befindend .
+derivat	NOUN	OmegaWiki	in der linguistik ein wort , das von einem anderen abgeleitet wurde .
+zuckerkrankheit	NOUN	OmegaWiki	person , die an diabetes leidet .
+appetitzügler	NOUN	OmegaWiki	substanz , die den appetit reduziert und eine person dazu bringt , weniger zu essen .
+bumerang	NOUN	OmegaWiki	werkzeug mit geschwungener form , das als waffe oder sportgerät genutzt wird und das zum werfer zurückkommt , wenn es geworfen wird .
+karies	NOUN	OmegaWiki	eine infektion der zähne , die demineralisierung der zahnhartsubstanz und die zerstörung der organischen substanz des zahnes verursacht .
+selbstentleibung	NOUN	OmegaWiki	die tat einer person sich selbst absichtlich umzubringen .
+leuchte	NOUN	OmegaWiki	eine intelligente person .
+eichenholz	NOUN	OmegaWiki	holz des eichenbaums .
+schwarzes_meer	NOUN	OmegaWiki	binnenmeer zwischen südosteuropa und kleinasien .
+südostasiatischer_archipel	NOUN	OmegaWiki	gruppe von 20.000 inseln zwischen dem indischen und dem pazifischen ozean .
+lateinamerika	NOUN	OmegaWiki	die länder amerikas einschließlich zugehöriger inseln , in denen romanische ( von latein abstammende ) sprachen gesprochen werden , vor allem spanisch und portugiesisch
+bogenschießen	NOUN	OmegaWiki	die kunst oder der sport mit einem bogen zu schießen .
+gattinnenmörder	NOUN	OmegaWiki	ehemann , der seine frau ermordet .
+tanklastwagen	NOUN	OmegaWiki	lastwagen , der zum transportieren von großen mengen von flüssigkeit oder gas konzipiert ist .
+hinscheiden	VERB	OmegaWiki	aufhören zu leben .
+pyrrhussieg	NOUN	OmegaWiki	ein sieg , der mit großen opfern errungen wurde und unter umständen einer niederlage gleichkommt .
+aktienoption	NOUN	OmegaWiki	das recht wertpapiere in der zukunft zu einem bestimmten preis zu kaufen oder zu verkaufen .
+möwe	NOUN	OmegaWiki	seevogel der gattung larus aus der familie der laridae .
+immigrantin	NOUN	OmegaWiki	person , die sich aus dem ausland kommend in einem land niederlässt .
+jakobiner	NOUN	OmegaWiki	mitglied einer politischen gruppierung , die sich zu beginn der französischen revolution in paris bildete und in einem dominikanischen kloster tagte .
+jakobiner	NOUN	OmegaWiki	politischer klub während der französischen revolution .
+wellholz	NOUN	OmegaWiki	zylinderförmiges küchenutensil , das zum formen und ausrollen von teig verwendet wird .
+brennholz	NOUN	OmegaWiki	holz , das zum heizen verwendet wird .
+brennholz	NOUN	OmegaWiki	holz , das verbrannt werden soll .
+winternacht	NOUN	OmegaWiki	eine nacht im winter .
+wassermann	NOUN	OmegaWiki	eines der zwölf sternbilder des zodiak .
+schlacht	NOUN	OmegaWiki	das aufeinandertreffen von zwei oder mehr parteien in einem krieg , wobei versucht wird den gegner zu besiegen .
+thein	NOUN	OmegaWiki	alkaloid , das natürlicherweise in tee- und kaffeepflanzen vorkommt und leicht stimulierend auf das nervensystem wirkt .
+gestation	NOUN	OmegaWiki	zustand einer frau oder eines weiblichen säugetiers von der empfängnis bis zur geburt des nachwuchses .
+machtdurstig	ADJ	OmegaWiki	maßlos nach macht strebend , von macht besessen .
+weißwurst	NOUN	OmegaWiki	traditionelle bayrische brühwurst aus feingemahlenem kalbfleisch und schweinerückenspeck gewürzt mit petersilie , zitrone , zwiebel , muskat , ingwer und kardamom .
+bestseller	NOUN	OmegaWiki	buch , von dem sehr viele exemplare verkauft werden .
+schlafmittel	NOUN	OmegaWiki	mittel , das schlaf herbeiführt , besonders ein medikament .
+zigarre	NOUN	OmegaWiki	tabak , der gerollt und in tabakblätter eingerollt wird , in der absicht , ihn zu rauchen .
+segregation	NOUN	OmegaWiki	ein soziales system , das getrennte einrichtungen für minderheiten bereitstellt .
+segregation	NOUN	OmegaWiki	der akt des trennens oder absonderns .
+tenno	NOUN	OmegaWiki	der kaiser und symbolisches staatsoberhaupt von japan .
+graviton	NOUN	OmegaWiki	hypothetisches elementarteilchen , das in den meisten modellen der quantengravitationstheorie austauschteilchen der gravitation ist
+waisenhaus	NOUN	OmegaWiki	institution , in der verwaiste kinder leben und erzogen werden .
+zimtsäure	NOUN	OmegaWiki	weiße substanz , welche in zimt enthalten ist .
+bildsynthese	NOUN	OmegaWiki	der prozeß , einen teil eines quellprogramms oder das gesamte programm in ein speicherabbild zu überführen , das alle informationen enthält , die nötig sind , damit das es ablauffähig ist .
+bildsynthese	NOUN	OmegaWiki	ergebnis der übertragung eines worts oder eines textes von einer sprache in eine andere
+2-euro-stück	NOUN	OmegaWiki	münze im wert von zwei euro .
+stamm	NOUN	OmegaWiki	biologisches taxon , eine gruppe ( verwandter ) arten , teil eines reichs und bestehend aus einer oder mehreren klassen
+stamm	NOUN	OmegaWiki	in der botanik , eine gruppe von organismen innerhalb einer spezies , die in trivialer weise von ähnlichen gruppen abweicht .
+stamm	NOUN	OmegaWiki	eine gruppe von individuen , die von einem einzigen individuum innerhalb einer spezies abstammen .
+in_panik_geraten	VERB	OmegaWiki	von plötzlicher angst erfasst werden und die kontrolle verlieren .
+lichtundurchlässig	ADJ	OmegaWiki	kein licht durchlassend .
+veganer	NOUN	OmegaWiki	ein mann , der es ablehnt , tiere für irgendeinen zweck , wie z. b. für nahrung , unterhaltung , kleidung etc. , zu gebrauchen .
+veganer	NOUN	OmegaWiki	jemand , der tierprodukte jeglicher art weder benutzt noch zu sich nimmt .
+veganer	NOUN	OmegaWiki	ein lebensstil , der es strikt vermeidet , jegliche art von tier für irgendeinen zweck zu gebrauchen .
+intrinsische_motivation	NOUN	OmegaWiki	motivation , die durch interesse oder freude an einer aufgabe entsteht und nicht durch druck von außen .
+nostratisch	NOUN	OmegaWiki	hypothetische makrofamilie , die unter historischen linguisten umstritten ist und indoeuropäisch , uralisch und altaisch , nach anderen meinungen auch kartwelisch , dravidisch , afroasiatisch und eskimo-aleutisch umfasst .
+aufwecken	VERB	OmegaWiki	jemanden dazu bringen , nicht mehr zu schlafen .
+dienstag	NOUN	OmegaWiki	der zweite tag der woche in europa und ländern , die den iso 8601-standard benutzen ; der dritte tag der woche in den vereinigten staaten von amerika .
+rheinwein	NOUN	OmegaWiki	wein , der im rheintal angebaut und gekeltert wurde .
+rheinwein	NOUN	OmegaWiki	die regionale varietät des deutschen , die im rheinland gesprochen wird , was ungefähr der vormaligen rheinprovinz preußens entspricht oder heute der westhälfte nordrheinwestfalens und der nordhälfte von rheinland-pfalz . es ist zwischen dem modernen standarddeutschen und den vielen unterschieldlichen örtlichen dialekten angesiedelt , beiden ähnlich , aber auch klar unterschieden .
+düster	ADJ	OmegaWiki	eine totale oder ( meist ) relative abwesenheit von licht aufweisend .
+pforte	NOUN	OmegaWiki	ein eingang , eine öffnung oder ein durchgang durch einen zaun oder eine wand .
+städtische_grünfläche	NOUN	OmegaWiki	die gesamten öffentchen und privaten grünflächen und -anlagen in einem stadtgebiet .
+erdbewohner	NOUN	OmegaWiki	ein bewohner des planten erde .
+legalisieren	VERB	OmegaWiki	legal machen , gesetzlich erlauben .
+profitieren	VERB	OmegaWiki	einen vorteil erhalten .
+euromünze	NOUN	OmegaWiki	geldmünze der gemeinsamen europäischen währung euro , die in den 15 ländern der eurozone im umlauf ist .
+nummerisch	ADJ	OmegaWiki	aus zahlen bestehend bzw. sie betreffend .
+innenohrentzündung	NOUN	OmegaWiki	entzündung des innenohrs .
+weltall	NOUN	OmegaWiki	die gesamtheit alles existierenden .
+ischia	NOUN	OmegaWiki	italienische vulkaninsel im tyrrhenischen meer am nördlichen ende des golfs von neapel .
+ischia	NOUN	OmegaWiki	stadt auf der italienischen insel ischia .
+thousand-island-dressing	NOUN	OmegaWiki	salatdressing der us-amerikanischen küche aus mayonnaise , ketchup bzw. tomatenmark und paprika gewürzt mit tabascosauce .
+oktoberfest	NOUN	OmegaWiki	größtes volksfest der welt , das zwei wochen dauert und seit 1810 jährlich von ende september bis anfang oktober in münchen stattfindet .
+aufrichtigkeit	NOUN	OmegaWiki	die eigenschaft ehrlich zu sein .
+alarm	NOUN	OmegaWiki	ein warnsignal , um auf eine drohende gefahr aufmerksam zu machen .
+spindoktor	NOUN	OmegaWiki	jemand , der eine positive interpretation von geschehnissen gibt .
+gezeitenkraftwerk	NOUN	OmegaWiki	kraftwerk , das ebbe und flut als energiequelle nutzt . das funktionsprinzip ist , dass wasser , das bei flut von einer staumauer zurückgehalten wird , bei ebbe durch eine turbine geleitet wird , die einen generator antreibt .
+korsisch	NOUN	OmegaWiki	eine in italien und frankreich gesprochene sprache .
+honig	NOUN	OmegaWiki	eine zähflüssige , süße substanz , die von bienen aus nektar oder honigtau erzeugt wird .
+nacheifern	VERB	OmegaWiki	erstreben zu gleichen oder ebenbürtig zu sein , insbesondere durch imitieren .
+lichtwellenleiter	NOUN	OmegaWiki	lange , dünne faser aus glas
+kirschbaum	NOUN	OmegaWiki	das holz des kirschbaums .
+relevanz	NOUN	OmegaWiki	ein maß , wie wichtig etwas für etwas ist .
+tiflis	NOUN	OmegaWiki	hauptstadt und größte stadt georgiens .
+norwegen	NOUN	OmegaWiki	ein land in nordeuropa , teil von skandinavien .
+haushuhn	NOUN	OmegaWiki	domestizierter vogel aus der ordnung der galliformes , der oft zum späteren schlachten gehalten wird ( gallus gallus domesticus ) .
+tanzen	NOUN	OmegaWiki	das ausführen von rhythmischen bewegungen zu musik .
+tanzen	VERB	OmegaWiki	sich mit rhythmischen schritten bewegen , besonders zu musik .
+tanzen	NOUN	OmegaWiki	das ausführen von rhythmischen bewegungen zu musik .
+tanzen	VERB	OmegaWiki	sich mit rhythmischen schritten bewegen , besonders zu musik .
+don	NOUN	OmegaWiki	einer der hauptflüsse russlands , der in der stadt nowomoskowsk südöstlich von moskau entsprint und nach 1950 km ins asowsche meer fließt .
+expansionist	NOUN	OmegaWiki	ein vertreter des expansionismus .
+favicon	NOUN	OmegaWiki	icon , das mit einer webseite assoziiert wird .
+kalzium	NOUN	OmegaWiki	chemisches element mit dem symbol ca und der ordnungszahl 20 , schmiedbares , silberweißes erdalkalimetall . es ist das fünfthäufigste element der erdkruste und kommt insbesondere in form von calciumcarbonat vor . es ist wesentlicher bestandteil von knochen und zähnen und wird als reduktionsmittel bei der stahlherstellung verwendet .
+weibsperson	NOUN	OmegaWiki	erwachsene , menschliche angehörige des geschlechts , das eizellen produziert und kinder gebärt .
+öffentliche_verschuldung	NOUN	OmegaWiki	die gesamtheit der schulden der regierung .
+einwandfrei	ADJ	OmegaWiki	ohne fehler oder irrtum .
+musikliebhaber	NOUN	OmegaWiki	die künstlerische anordnung von klängen und tönen , die ideen und emotionen durch die elemente rhythmus , melodie , harmonie und klangfarbe ausdrückt .
+musikliebhaber	NOUN	OmegaWiki	jemand , der sich für musik begeistert .
+pobacke	NOUN	OmegaWiki	eine der beiden fleischigen körperteile , die sich am oberen ende der extremitäten am hinteren teil des körpers befinden .
+pobacke	NOUN	OmegaWiki	der fleischige teil des menschlichen körpers , auf dem man sitzt .
+gießen_wie_aus_kannen	VERB	OmegaWiki	stark regnen .
+stadtzentrum	NOUN	OmegaWiki	der zentrale teil einer stadt , meist der kulturelle und kommerzielle mittelpunkt .
+schlummersucht	NOUN	OmegaWiki	chronische schlafstörung , die durch heftigen schlafdrang in unpassenden momenten gekennzeichnet ist .
+redeteil	NOUN	OmegaWiki	die kategorie , der ein wort aufgrund seiner syntaktischen funktion zugeordnet wird .
+innertropische_konvergenzzone	NOUN	OmegaWiki	region am äquator , die durch niedrigen druck und leicht wechselnde winde gekennzeichnet ist .
+gottheit	NOUN	OmegaWiki	übernatürliches , meist unsterbliches wesen mit höherer macht .
+zephalgie	NOUN	OmegaWiki	ein häufiger ( und manchmal akuter ) schmerz des kopfes und des kopfbereichs .
+nichtsdestoweniger	ADV	OmegaWiki	trotz des vorher gesagten .
+nichtsdestoweniger	ADV	OmegaWiki	[ einen gegensatz ausdrückend ]
+kap_verde	NOUN	OmegaWiki	inselstaat im atlantik etwa 500 kilometer vor der westafrikanischen küste . seine hauptstadt ist praia .
+verhütung	NOUN	OmegaWiki	das absichtliche verhindern einer schwangerschaft durch verschiedene hilfsmittel , methoden , operative eingriffe oder medikamente .
+verhütung	NOUN	OmegaWiki	die kontrolle der zahl der kinder in einer familie und den abständen zwischen geburten , besonders durch die verwendung von verhütungsmitteln .
+frohes_neues_jahr	NOUN	OmegaWiki	der erste tag des neuen kalenderjahres , speziell der 1. januar im julianischen und gregorianischen kalender .
+frohes_neues_jahr	NOUN	OmegaWiki	der traditionelle wunsch für den neujahrstag .
+donnermaschine	NOUN	OmegaWiki	maschine , mit der im theater donnergeräusche erzeugt werden .
+halswirbel	NOUN	OmegaWiki	einer der sieben wirbel des halses .
+ballhausschwur	NOUN	OmegaWiki	der schwur der abgeordneten des dritten standes am 20. juni 1789 im ballhaus von versailles nicht auseinanderzugehen bevor frankreich eine verfassung hat .
+energiewirtschaft	NOUN	OmegaWiki	eine energiequelle , wie etwa brennstoffe und elektrische energie , verwendet um maschinen und elektrische geräte anzutreiben , und licht und wärme zu erzeugen .
+pastateller	NOUN	OmegaWiki	teller mit einer vertiefung speziell für pastagerichte .
+weitermachen	VERB	OmegaWiki	eine handlung ohne unterbrechung durchführen .
+ökonomik	NOUN	OmegaWiki	die lehre von der entstehung , verteilung und dem konsum von gütern .
+nachbeben	NOUN	OmegaWiki	erdbeben , das auf ein anderes , meist stärkeres beben folgt .
+stinkend	ADJ	OmegaWiki	einen schlechten geruch habend .
+fingerkuppe	NOUN	OmegaWiki	das ende bzw. die spitze des fingers .
+ahornsirup	NOUN	OmegaWiki	sirup aus dem harz des zucker-ahorns ( acer saccharum ) oder seltener des schwarz-ahorns ( acer nigrum ) .
+zweicentstück	NOUN	OmegaWiki	münze im wert von zwei cent .
+derzeit	ADV	OmegaWiki	in diesem moment ; zu dieser zeit .
+später	ADV	OmegaWiki	anschließend ; zeitlich folgend ; später als
+später	ADJ	OmegaWiki	zu einem späteren zeitpunkt oder in einem nachfolgenden stadium kommend .
+periode	NOUN	OmegaWiki	ungewöhnlich lange und starke regelblutung .
+periode	NOUN	OmegaWiki	phase im menstruationszyklus , in der das endometrium abgestoßen wird , wenn keine befruchtung stattgefunden hat .
+zitronenduftstrauch	NOUN	OmegaWiki	pflanze aus der familie der eisenkrautgewächse , die intensiv nach zitrone duftet und deren blätter als tee oder gewürz verwendet werden .
+tachykardie	NOUN	OmegaWiki	beschleunigte herzschlagfrequenz ( mehr als 100 schläge pro minute ) .
+einhergehen	VERB	OmegaWiki	als eine logische konsequenz haben .
+taube	NOUN	OmegaWiki	eine von mehreren vogelarten aus der familie der columbidae .
+muttersprache	NOUN	OmegaWiki	die als erste erlernte sprache ; die sprache , in der man aufgewachsen ist .
+internationale_standardseriennummer	NOUN	OmegaWiki	eine nummer mit acht ziffern , die zeitschriften und schriftenreihen eindeutig identifiziert .
+sehne	NOUN	OmegaWiki	gewebe , das muskeln mit knochen verbindet .
+raumschiff	NOUN	OmegaWiki	ein fahrzeug , das sich im weltraum fortbewegen kann .
+oophoritis	NOUN	OmegaWiki	die entzündung eines eierstocks .
+oophoritis	NOUN	OmegaWiki	entzündung der eierstöcke .
+u-bahn	NOUN	OmegaWiki	eine elektrische passagierbahn , die in tunneln im untergrund fährt .
+torres-straßen-kreole	NOUN	OmegaWiki	eine auf dem englischen basierende kreolsprache der bewohner der inseln der torres-straße .
+schiggorat	NOUN	OmegaWiki	tempelgebäude im alten mesopotamien in form einer gestuften pyramide .
+geduldspiel	NOUN	OmegaWiki	ein problem oder rätsel , das den scharfsinn herausfordert , üblicherweise zur unterhaltung genutzt .
+leichenstein	NOUN	OmegaWiki	über einem grab aufgestellter gedenkstein , der häufig eine inschrift mit namen und lebensdaten des verstorbenen aufweist .
+hornissenstich	NOUN	OmegaWiki	ein vom stachel einer hornisse verursachter stich .
+karenische_sprachen	NOUN	OmegaWiki	untergruppe der tibetobirmanischen sprachen , eines primärzweiges des sinotibetischen , die vom volk der karen in myanmar gesprochen wird .
+halbmonatlich	ADV	OmegaWiki	zweimal im monat .
+halbmonatlich	ADJ	OmegaWiki	zweimal im monat geschehend .
+kaufkraft	NOUN	OmegaWiki	der wert einer währung gemessen an der menge von gütern , die damit gekauft werden können .
+in_zukunft	ADV	OmegaWiki	in der zukunft .
+tandur	NOUN	OmegaWiki	zylinderförmiger tonofen , der im mittleren osten und asien , besonders in indien und pakistan , zum kochen und backen verwendet wird .
+susanne	NOUN	OmegaWiki	weiblicher vorname .
+android	NOUN	OmegaWiki	autonom agierende maschine mit einer gestalt , die der menschlichen nachempfunden ist .
+android	NOUN	OmegaWiki	ein roboter , der dem menschen sehr ähnlich ist .
+dentition	NOUN	OmegaWiki	der durchbruch von zähnen ( z.b. milchzähnen ) durch den kiefer .
+maltesisch	NOUN	OmegaWiki	eine vorwiegend auf malta gesprochene semitische sprache .
+nagellack	NOUN	OmegaWiki	in vielen farben erhältlicher lack , der auf finger- oder zehennägel aufgetragen wird und als verschönerung oder zum schutz der nägel dient .
+borna-krankheit	NOUN	OmegaWiki	von viren hervorgerufene infektionskrankheit bei tieren wie pferden , rindern und schafen , die zu abnormem verhalten und tod führt .
+doppelagent	NOUN	OmegaWiki	eine person , die in einer umgebung oder organisation tätig ist wobei sie zugleich heimlich interna und vertrauliche informationen an eine andere organisation oder gruppe weitergibt , die oft ganz entgegengesetzte ziele verfolgt .
+schlau	ADV	OmegaWiki	auf eine geschickte weise .
+schlau	ADJ	OmegaWiki	von großer oder schneller kognitiver kapazität .
+attributiv	ADJ	OmegaWiki	von adjektiven : platziert vor dem substantiv , das sie modifizieren .
+attributiv	ADV	OmegaWiki	auf attributive art und weise .
+dekurie	NOUN	OmegaWiki	im römischen militär eine aus zehn mann bestehende einheit , geführt von einem dekurio .
+nichtsdestotrotz	ADV	OmegaWiki	trotz des vorher gesagten .
+nichtsdestotrotz	ADV	OmegaWiki	[ einen gegensatz ausdrückend ]
+abcbuch	NOUN	OmegaWiki	ein buch zum lehren des alphabets .
+computer_von_antikythera	NOUN	OmegaWiki	astronomischer computer , der ungefähr auf 150 bis 100 v. chr. datiert wird und der benutzt wurde um bewegungen von himmelskörpern vorherzusagen .
+fußgängerüberweg	NOUN	OmegaWiki	fußgängerüberweg , der durch breite weiße streifen gekennzeichnet ist , die parallel zur fahrbahn aufgemalt sind .
+kostensparende_bauweise	NOUN	OmegaWiki	eine methode , häuser und andere gebäude kosteneffektiv zu bauen .
+bor	NOUN	OmegaWiki	chemisches element mit symbol b und ordnungszahl 5 , sehr hartes , fast farbloses halbmetall , das in unreiner form als braunes amorphes pulver existiert . es kommt vorwiegend in borax vor und wird ( unter anderem ) zum härten von stahl verwendet .
+bus	NOUN	OmegaWiki	ein kraftfahrzeug mit einem großen langen fahrgastraum mit sitzplätzen , das üblicherweise nach einem vorherbestimmten fahrplan verkehrt .
+ulna	NOUN	OmegaWiki	der weniger kräftige der beiden knochen des unterarms , gelegen an der medialen seite .
+skorpion	NOUN	OmegaWiki	eines der zwölf sternbilder des zodiak .
+esel	NOUN	OmegaWiki	person mit mangelndem urteilsvermögen oder niedriger intelligenz .
+österreich	NOUN	OmegaWiki	ein land in mitteleuropa mit wien als hauptstadt .
+induktion	NOUN	OmegaWiki	ein elektrisches phänomen , bei dem eine elektromotorische kraft ( emk ) in einem geschlossenen stromkreis durch wechsel des stromflusses erzeugt wird .
+induktion	NOUN	OmegaWiki	schlussfolgerung vom speziellen auf das allgemeine .
+tempelritter	NOUN	OmegaWiki	mitglied des tempelordens .
+tempelritter	NOUN	OmegaWiki	christlicher militärorden , der nach dem ersten kreuzzug 1119 gegründet und 1314 verboten wurde .
+unverzüglich	ADJ	OmegaWiki	gekennzeichnet durch unverzüglichkeit .
+unverzüglich	ADV	OmegaWiki	auf eine eine unverzügliche weise ; sofort oder ohne verzögerung .
+migräne	NOUN	OmegaWiki	eine neurologische erkrankung die meistens in form sehr akuter , behindernder kopfschmerzen , licht- und geräuschüberempfindlichkeit und brechreiz auftritt .
+wochenfluss	NOUN	OmegaWiki	vaginaler ausfluss nach der geburt , der blut , schleim und plazentagewebe enthält und für 4-6 wochen anhält .
+zweieurostück	NOUN	OmegaWiki	münze im wert von zwei euro .
+antispasmodikum	NOUN	OmegaWiki	arzneimittel , das krämpfe löst .
+nacktmull	NOUN	OmegaWiki	eusoziales nagetier , das in teilen ostafrikas vorkommt und im untergrund lebt .
+mitlaut	NOUN	OmegaWiki	laut der stimme , der von den verschiedenen teilen des mundes erzeugt wird und durch eine obstruktion des atemluftstroms gekennzeichnet ist .
+papa	NOUN	OmegaWiki	der männliche elternteil .
+teilchenbeschleuniger	NOUN	OmegaWiki	gerät , das geladene teilchen mit hilfe von elektrischen feldern auf hohe geschwindigkeiten beschleunigt
+cowboy	NOUN	OmegaWiki	ein mann , der auf einer farm rinder weidet und hütet und traditionell die meiste seiner arbeit auf einem pferd erledigt , insbesondere im westen der vereinigten staaten .
+passieren	VERB	OmegaWiki	an einem anderen verkehrsteilnehmer vorbei fahren .
+passieren	VERB	OmegaWiki	vorkommen , stattfinden .
+passieren	VERB	OmegaWiki	mit einem sieb oder einem elektrischen mixer fein zerkleinern .
+alleinerziehender	NOUN	OmegaWiki	person , die ein kind allein ohne hilfe eines ehegatten oder partners aufzieht .
+alleinerziehender	NOUN	OmegaWiki	mann , der ein kind allein ohne hilfe einer ehefrau oder partnerin aufzieht .
+alleinerziehender	NOUN	OmegaWiki	frau , die ein kind allein ohne hilfe eines ehemannes oder partners aufzieht .
+schicksal	NOUN	OmegaWiki	etwas , das unvermeidlich geschieht mit einem menschen , land , institution , etc .
+jüdisch	ADJ	OmegaWiki	die juden oder das judentum betreffend .
+selbsthass	NOUN	OmegaWiki	gefühl des hasses und der wut für sich selbst .
+vertraulich	ADJ	OmegaWiki	gedacht lediglich als ein geheimnis eines bestimmten personenkreises ; nicht für die öffentlichkeit bestimmt .
+sonntags	ADV	OmegaWiki	an jedem sonntag .
+krause_minze	NOUN	OmegaWiki	minzart , die in europa und asien heimisch ist und in medizin und küche verwendet wird .
+salzstreuer	NOUN	OmegaWiki	kleines gefäß mit löchern im deckel , das zum streuen von gemahlenem pfeffer auf lebensmittel verwendet wird .
+salzstreuer	NOUN	OmegaWiki	kleines gefäß mit löchern im deckel , das zum streuen von salz auf lebensmittel verwendet wird .
+erkältung	NOUN	OmegaWiki	entzündung der nase und des rachens .
+erkältung	NOUN	OmegaWiki	ansteckende , durch viren verursachte infektionserkrankung der oberen atemwege ; symptome sind u.a. husten , halsschmerzen , schnupfen , verstopfte nase und niesen .
+magenschmerz	NOUN	OmegaWiki	schmerz in der magengegend .
+vogelkäfig	NOUN	OmegaWiki	käfig zum halten von vögeln .
+internetfernsehen	NOUN	OmegaWiki	die übertragung von fernsehprogrammen über das internet .
+sitcom	NOUN	OmegaWiki	art der komödie , bei der wiederkehrende charaktere in einer gemeinsamen umgebung wie wohnung oder arbeitsplatz auftreten und witze teil des dialogs sind .
+eingelegtes_gemüse	NOUN	OmegaWiki	in essig oder einer salzlake konserviertes gemüse .
+kenner	NOUN	OmegaWiki	eine person , die ein besonderes interessengebiet oder eine besondere aktivität mag , kennt und schätzt .
+sich_satt_essen	VERB	OmegaWiki	essen , bis man nicht mehr hungrig ist .
+sahara	NOUN	OmegaWiki	die größte trockenwüste der erde , in afrika gelegen
+erstehen	VERB	OmegaWiki	etwas durch austausch von gütern oder zahlung einer geldsumme erwerben .
+verstoßen	VERB	OmegaWiki	jemanden nicht länger in einer gemeinschaft oder gruppe akzeptieren .
+eu-erweiterung	NOUN	OmegaWiki	der beitritt eines oder mehrerer staaten zur europäischen union .
+dänische_krone	NOUN	OmegaWiki	die währung von dänemark .
+rabi'_ii.	NOUN	OmegaWiki	der vierte monat des islamischen kalenders .
+kirche	NOUN	OmegaWiki	gebäude , in dem christliche gottesdienste stattfinden .
+lesemarke	NOUN	OmegaWiki	ein dünnes band , mit dem man in einem buch markiert an welcher stelle man stehengeblieben ist , um später leicht dahin zurückkehren zu können .
+johannes-apokalypse	NOUN	OmegaWiki	das letzte buch des neuen testaments ; enthält visionäre beschreibungen des himmels und des konflikts zwischen gut und böse und von dem ende der welt ; wird dem apostel johannes zugeschrieben .
+haferschleim	NOUN	OmegaWiki	heißer frühstücksbrei aus haferflocken , milch und/oder wasser , der erhitzt und gerührt wird , bis er eindickt .
+haferschleim	NOUN	OmegaWiki	haferkörner deren äußere hülle ( spelzen ) entfernt wurde und die dann mit dampf behandelt und zu flocken plattgedrückt werden .
+in_der_mikrowelle_kochen	VERB	OmegaWiki	in der mikrowelle kochen oder erhitzen .
+mineralwasser	NOUN	OmegaWiki	wasser , das natürliche oder künstlich zugesetzte mineralien und gase enthält .
+gottesanbeterin	NOUN	OmegaWiki	( mantis religiosa ) aus südeuropa stammendes insekt aus der ordnung der fangschrecken ( mantodea ) .
+chessenloschen	NOUN	OmegaWiki	auf dem deutschen basierende geheimsprache mit einflüssen aus dem jiddischen und dem romani , die besonders im kriminellen milieu und von fahrenden handwerkern und bettlern gesprochen wurde .
+lotrecht	ADJ	OmegaWiki	im winkel von 90° zum grund .
+sturm	NOUN	OmegaWiki	schaden , der von einem sturm verursacht wird , z.b. beschädigte häuser , straßen und stromleitungen , entwurzelte bäuume und ernteausfälle .
+steinigen	VERB	OmegaWiki	jemanden durch das bewerfen mit steinen und felsbrocken töten bzw. hinrichten .
+umschrift_nach_wylie	NOUN	OmegaWiki	methode zur transkription der tibetischen schrift , bei der nur die zeichen auf einer normalen englischen tastatur verwendet werden .
+crèmelikör	NOUN	OmegaWiki	likör , der viel zusätzlichen zucker enthält und eine dickflüssige , sirupartige konsistenz aufweist .
+lustig	ADJ	OmegaWiki	lachen hervorrufend .
+kaminsims	NOUN	OmegaWiki	sims , der an der wand über einem kamin angebracht ist .
+heidehummel	NOUN	OmegaWiki	art aus der gattung der hummeln .
+edinburgh	NOUN	OmegaWiki	die hauptstadt von schottland .
+weibliches_geschlechtsorgan	NOUN	OmegaWiki	ein geschlechtsorgan weiblicher säugetiere .
+stilles_örtchen	NOUN	OmegaWiki	ein raum oder gebäude , der oder das mit einer oder mehreren toiletten ausgestattet ist .
+verspeisen	VERB	OmegaWiki	etwas festes oder halbfestes ( gewöhnlich nahrung ) zu sich nehmen , indem man es in den mund steckt und schließlich schluckt .
+schlafmütze	NOUN	OmegaWiki	mütze , die nachts im bett auf dem kopf getragen wird .
+blödian	NOUN	OmegaWiki	person mit mangelndem urteilsvermögen oder niedriger intelligenz .
+trillern	NOUN	OmegaWiki	das geräusch , dass erzeugt wird , wenn man in eine pfeife pustet .
+bedürftigkeit	NOUN	OmegaWiki	zustand , in dem einem inidviduum die mittel zum lebensunterhalt fehlen .
+mikrowellengerät	NOUN	OmegaWiki	ein gerät , das lebensmittel mit hilfe von mikrowellenstrahlung erhitzt .
+gatter	NOUN	OmegaWiki	ein computerschaltkreis mit mehreren eingängen aber nur einem ausgang , der durch eine bestimmte kompination von eingabesignalen aktiviert werden kann .
+strahlen	NOUN	OmegaWiki	ein verzweigtes haarähnliches gebilde , das auf der haut von vögeln wächst , diese vor kälte und wasser schützt und ihren flügeln ermöglicht , auftrieb zu erzeugen .
+strahlen	NOUN	OmegaWiki	ein verzweigtes haarähnliches gebilde , das auf der haut von vögeln wächst , diese vor kälte und wasser schützt und ihren flügeln ermöglicht , auftrieb zu erzeugen .
+führer	NOUN	OmegaWiki	eine person , die führt , regiert , oder in der verantwortung steht .
+pathologisches_spielen	NOUN	OmegaWiki	die unfähigkeit mit dem glücksspiel aufzuhören trotz schädlicher negativer konsequenzen für die finanzen , die arbeit und das soziale umfeld .
+trockenheit	NOUN	OmegaWiki	der zustand trocken zu sein , die abwesenheit von wasser oder flüssigkeit .
+spezi	NOUN	OmegaWiki	enger freund .
+koblenz	NOUN	OmegaWiki	deutsche stadt an den beiden ufern des rheins am zusammenfluß mit der mosel .
+dritter_fall	NOUN	OmegaWiki	die form eines nomens , pronomens oder adjektivs , wenn es das indirekte objekt eines verbs ist ( oder ein teil davon ) ; sie wird verwendet um das nomen anzuzeigen , dem etwas gegeben wird ( in einer reihe von sprachen , zum beispiel deutsch und latein ) ; der dritte fall in der deutschen sprache
+kieljauche	NOUN	OmegaWiki	wasser , das sich in der bilge eines schiffes ansammelt .
+eidechse	NOUN	OmegaWiki	reptil der ordnung squamata .
+schafmilch	NOUN	OmegaWiki	milch vom schaf .
+primärenergieverbrauch	NOUN	OmegaWiki	die menge an energie , die von einer person oder einer maschine benötigt wird .
+ernährungssicherung	NOUN	OmegaWiki	das vermögen von personen , täglich ausreichend nahrung zu beschaffen .
+brotlaib	NOUN	OmegaWiki	ein laib brot
+kacken	VERB	OmegaWiki	feste fäkalien durch den anus aus dem körper ausschneiden .
+frühlingstag	NOUN	OmegaWiki	ein tag im frühling .
+adstringierend	ADJ	OmegaWiki	das zusammenziehen von weichem organischem gewebe bewirkend .
+altruistisch	ADJ	OmegaWiki	nicht egoistisch , um das wohl anderer besorgt .
+dominikanische_republik	NOUN	OmegaWiki	staat in the karibik mit der hauptstadt santo domingo
+piano	NOUN	OmegaWiki	ein musikinstrument , das töne durch die vibration von saiten , die von filzhämmern angeschlagen wurden , erzeugt .
+trompeterin	NOUN	OmegaWiki	eine frau , die die trompete spielt .
+lager	NOUN	OmegaWiki	ein ort wo zelte , blockhütten , oder andere provisorische unterkünfte errichtet werden , für die verwendung durch armeetruppen , für die ausbildung von soldaten etc .
+biologische_abbaubarkeit	NOUN	OmegaWiki	der abbau einer substanz durch mikroorganismen .
+neuhebräisch	NOUN	OmegaWiki	semitische sprache , die hauptsächlich in jüdischen gemeinden in israel und rund um die welt gesprochen wird .
+behandschuht	ADJ	OmegaWiki	die hände von handschuhen bedeckt .
+córdoba	NOUN	OmegaWiki	hauptstadt der provinz córdoba in argentinien .
+córdoba	NOUN	OmegaWiki	provinz in südspanien , im norden der autonomen gemeinschaft andalusien .
+schwefellost	NOUN	OmegaWiki	gas , das große blasen auf der haut hervorruft und früher im krieg verwendet wurde .
+luftschleuse	NOUN	OmegaWiki	eine luftdichte kammer , für gewöhnlich zwischen zwei bereichen mit unterschiedlichem luftdruck gelegen , in der der luftdruck reguliert werden kann .
+schweinehackfleisch	NOUN	OmegaWiki	mit dem fleischwolf zerkleinertes schweinefleisch .
+schweinehackfleisch	NOUN	OmegaWiki	mit dem fleischwolf zerkleinertes muskelfleisch .
+hallenbad	NOUN	OmegaWiki	ein mit wasser gefülltes becken , in dem geschwommen wird .
+hallenbad	NOUN	OmegaWiki	ein schwimmbecken in einem geschlossenen gebäude .
+homoerotisch	ADJ	OmegaWiki	sexuelle zuneigung zum gleichen geschlecht empfindend .
+kerngesund	ADJ	OmegaWiki	vollkommen gesund .
+klappentext	NOUN	OmegaWiki	text auf der rückseite oder im schutzumschlag eines buches , der den inhalt zusammenfasst .
+perineal	ADJ	OmegaWiki	das perineum betreffend oder dazu gehörend .
+cephalgie	NOUN	OmegaWiki	ein häufiger ( und manchmal akuter ) schmerz des kopfes und des kopfbereichs .
+apfelkuchen	NOUN	OmegaWiki	ein mit äpfeln gemachter kuchen .
+romanisch	NOUN	OmegaWiki	auf dem deutschen basierende geheimsprache mit einflüssen aus dem jiddischen und dem romani , die besonders im kriminellen milieu und von fahrenden handwerkern und bettlern gesprochen wurde .
+kyrillisches_alphabet	NOUN	OmegaWiki	alphabet , das für viele ost- und südslawische sprachen und andere sprachen der früheren sowjetunion , asiens und osteuropas verwendet wird .
+farbe	NOUN	OmegaWiki	eine farbe ( die farbe des himmels bei nacht und der federn der amsel ) , die erzeugt wird , indem das gesamte licht absorbiert wird und keines reflektiert wird ; dunkel und farblos .
+farbe	NOUN	OmegaWiki	die farbe des gesichts .
+farbe	NOUN	OmegaWiki	eine von mehreren klassen eines kartenspiels , die sich durch farbe und/oder spezifische symbole unterscheiden
+fett	NOUN	OmegaWiki	der ester aus glyzerin und einer , zwei oder drei fettsäuren .
+irisdiagnostik	NOUN	OmegaWiki	methode der alternativen medizin , bei der die iris untersucht wird krankheiten zu diagnostizieren .
+zehe	NOUN	OmegaWiki	eines der glieder des fußes .
+andicken	NOUN	OmegaWiki	beim kochen , die erhöhung der viskosität einer flüssigkeit durch reduzieren oder durch zugabe eines verdickungsmittels wie z.b. stärke .
+vitriolöl	NOUN	OmegaWiki	eine stark ätzende säure , die aus schwefeldioxid hergestellt wird ; weit verbreitet in der chemischen industrie .
+falsche_anschuldigung	NOUN	OmegaWiki	eine falsche anschuldigung eines vergehens oder eine böswillige falschdarstellung von jemandens worten oder taten .
+cephalaea	NOUN	OmegaWiki	ein häufiger ( und manchmal akuter ) schmerz des kopfes und des kopfbereichs .
+verknüpfung	NOUN	OmegaWiki	eine verbindung zwischen orten , plätzen , personen , ereignissen oder dingen .
+verknüpfung	NOUN	OmegaWiki	ein referenz- oder navigationselement in einem dokument zu einem anderen abschnitt desselben dokuments , einem anderen dokument oder einem bestimmtend abschnitt eines anderen dokuments , das die referenzierte information automatisch zum benutzer bringt , wenn das navigationselement vom benutzer ausgewählt wird .
+glastür	NOUN	OmegaWiki	tür aus glas oder mit eingesetzten glasscheiben .
+gewächs	NOUN	OmegaWiki	die pflanzen , die in einer bestimmten region oder einer umgebung zu finden sind .
+osteoporose	NOUN	OmegaWiki	knochenkrankheit , die durch ein erhöhtes bruchrisiko gekennzeichnet ist .
+infektion	NOUN	OmegaWiki	das eindringen und die entwicklung bzw. vermehrung eines krankheitserreger im körper eines lebewesens .
+medaille	NOUN	OmegaWiki	ein staatliches ehrenzeichen , das für außerordentliche leistungen an eine einzelperson oder eine gruppe verliehen wird .
+medaille	NOUN	OmegaWiki	eine gestanzte oder gegossene metalscheibe , insbesondere eine , die als preis verliehen wird .
+tein	NOUN	OmegaWiki	alkaloid , das natürlicherweise in tee- und kaffeepflanzen vorkommt und leicht stimulierend auf das nervensystem wirkt .
+indische_erdbeere	NOUN	OmegaWiki	als zierpflanze verwendete pflanze aus südostasien , deren frucht der walderdbeere ähnelt , aber geschmacklos ist .
+tausend_inseln	NOUN	OmegaWiki	inselgruppe in der grenzregion zwischen den usa und kanada im abfluss des ontariosees in den sankt-lorenz-strom .
+curium	NOUN	OmegaWiki	chemisches element mit dem symbol cm und der ordnungszahl 96 , siberfarbiges actinoid .
+liebe_machen	VERB	OmegaWiki	geschlechtsverkehr haben .
+kaukasus	NOUN	OmegaWiki	gebirge in eurasien zwischen dem schwarzen und dem kaspischen meer
+schnallen	VERB	OmegaWiki	die bedeutung von etwas fassen .
+portemonnaie	NOUN	OmegaWiki	kleiner beutel , der im allgemeinen in fächer aufgeteilt ist , in dem man geldstücke und scheine aufbewahrt .
+blauäugig	ADJ	OmegaWiki	blaue augen habend .
+rodonkuchen	NOUN	OmegaWiki	kuchen , der in einer runden backform gebacken wird und ein loch in der mitte hat .
+kriegsgericht	NOUN	OmegaWiki	gericht des militärs .
+gambia	NOUN	OmegaWiki	land in westafrika mit der hauptstadt banjul
+zyprer	NOUN	OmegaWiki	ein einheimischer oder einwohner von zypern
+chemische_verbindung	NOUN	OmegaWiki	chemische substanz , die aus zwei oder mehr verschiedenen chemischen elementen besteht , die chemisch aneinander gebunden sind und in einem festen massenverhältnis zueinander stehen .
+ewe	NOUN	OmegaWiki	eine kwa-sprache , die in ghana und togo von fast 3 millionen menschen gesprochen wird .
+giftstachel	NOUN	OmegaWiki	ein vom stachel eines insekts verursachter stich .
+giftstachel	NOUN	OmegaWiki	spitzes , mit einer giftdrüse in verbindung stehendes verteidigungs- oder angriffsinstrument bei insekten .
+bruderpaar	NOUN	OmegaWiki	zwei brüder .
+bedeckt	ADJ	OmegaWiki	mit wolken bedeckt .
+anheften	VERB	OmegaWiki	nadel und faden benutzen , um stoffstücke vorübergehend lose zusammenzunähen , so dass sie nicht verrutschen , bis sie vollständig und endgültig vernäht sind .
+kasus	NOUN	OmegaWiki	der grammatikalische fall in dem ein hauptwort verwendet wird .
+südkarolinien	NOUN	OmegaWiki	der 8. bundesstaat der vereinigten staaten , gelegen im süden .
+antarktischer_ozean	NOUN	OmegaWiki	die gewässer mitsamt schelfeis , die den kontinent antarktis umgeben und die den südlichsten teil des pazifik , atlantik und des indischen ozeans , sowie des rossmeers , der amundsensee , des bellingshausenmeers und des weddell-meers bilden .
+judenspanisch	NOUN	OmegaWiki	aus dem altspanischen entwickelte romanische sprache , die von sephardischen juden in israel und der türkei gesprochen wird .
+backenhörnchen	NOUN	OmegaWiki	die hörnchen der gattung tamias .
+morgens	ADV	OmegaWiki	am morgen .
+lokales_netz	NOUN	OmegaWiki	ein computernetzwerk , das ein kleines geografisches gebiet abdeckt , wie etwa ein haus , ein büro , oder eine gruppe von gebäuden .
+auf_schusters_rappen	ADV	OmegaWiki	zu fuß gehend .
+großhändler	NOUN	OmegaWiki	jemand , der große mengen von gütern aufkauft und dann an einzehändler , aber nicht an endkunden weiterverkauft .
+dienstagabend	NOUN	OmegaWiki	der abend des dienstags .
+ögs	NOUN	OmegaWiki	die in österreich verwendete gebärdensprache .
+schlückchen	NOUN	OmegaWiki	ein kleiner schluck .
+austrocknung	NOUN	OmegaWiki	der übermäßige verlust von wasser bei einem lebenden organismus .
+wildsau	NOUN	OmegaWiki	ausgewachsenes weibliches schwein .
+roboter	NOUN	OmegaWiki	maschine , die aufgaben autonom nach einem programm erledigt .
+schleimer	NOUN	OmegaWiki	jemand , der anderen schmeichelt um daraus einen persönlichen vorteil zu ziehen .
+vokalisches_verb	NOUN	OmegaWiki	einer der verbtypen der japanischen sprache . wenn sie konjugiert werden , bleibt der auf -e oder -i endende stamm unverändert , und flektierte formen werden durch die suffixe -ra , -ru , -re oder -ro gebildet .
+halluzination	NOUN	OmegaWiki	etwas , das nur in der wahrnehmung existiert .
+inguschetien	NOUN	OmegaWiki	eine russische republik im nordkaukasus .
+kraftstofftank	NOUN	OmegaWiki	behälter , in dem kraftstoff gelagert wird , z. b. in einem auto .
+gebrauch	NOUN	OmegaWiki	das benutzen von etwas .
+lebkuchen	NOUN	OmegaWiki	süßes gebäck mit ingwer als wichtigstes gewürz .
+brennpunkt	NOUN	OmegaWiki	besonderer punkt , durch den ein kegelschnitt bestimmt wird
+fußsohle	NOUN	OmegaWiki	die unterseite des menschlichen fußes .
+strichmädchen	NOUN	OmegaWiki	eine frau , die für geld sexuelle dienste leistet .
+strichmädchen	NOUN	OmegaWiki	prostituierte , die auf den straßen versucht kunden anzulocken .
+hexenzwiebel	NOUN	OmegaWiki	mehrjährige krautige pflanze in europa und nordasien , die ähnlich wie knoblauch riecht und häufig in der küche verwendet wird .
+lecker	ADJ	OmegaWiki	angenehm im geschmack .
+machtbesessen	ADJ	OmegaWiki	maßlos nach macht strebend , von macht besessen .
+ordnungszahl	NOUN	OmegaWiki	anzahl der protonen in einem atomkern
+ordnungszahl	NOUN	OmegaWiki	zahl , die die position ( eines elements ) in einer folge angibt
+katarrh	NOUN	OmegaWiki	entzündung der schleimhäute , die mit der absonderung von schleim verbunden ist .
+neuntel	NOUN	OmegaWiki	eines von neun gleichen teilen eines ganzen .
+markov-kette	NOUN	OmegaWiki	folge von zufälligen variablen ( xn ) , die die markowsche eigenschaft erfüllt , nämlich , dass xn+1 ( die zukunft ) nur von xn ( der gegenwart ) abhängt und nicht von xk für k < = n-1 ( der vergangenheit ) .
+tasmanischer_teufel	NOUN	OmegaWiki	größtes lebendes fleischfressendes , in tasmanien heimisches beuteltier mit normalerweise schwarzen fell , gedrungenem und kräftigem körperbau und einer kopfrumpflänge von etwa 0,6m ; wissenschaftlicher name : sarcophilus harrisii
+oppositionspartei	NOUN	OmegaWiki	eine politische partei , die nicht an der macht ist , und die eine politik gegen die regierung oder regierende partei betreibt .
+6	NOUN	OmegaWiki	die ziffer „ 6 “
+6	NOUN	OmegaWiki	die kardinalzahl zwischen fünf und sieben , in römischen zahlen vi geschrieben und in arabischen ziffern 6 .
+anarchie	NOUN	OmegaWiki	zustand einer gesellschaft ohne autoritäten und regierungsinstitutionen .
+onkologisch	ADJ	OmegaWiki	die onkologie betreffend bzw. zu ihr gehörend .
+großer_ozean	NOUN	OmegaWiki	das weltgrößte gewässer , das von ostasien und australien bis zum westen amerikas reicht .
+groß	ADJ	OmegaWiki	mit überdurschnittlicher vertikaler ausdehnung ; mit einem oberen ende , seiner spitze , dem kopf , dach , usw. sehr weit oben ; mit einer großen vertikalen ausdehnung ( die oft größer als die horizontale ist ) ; hoch .
+groß	ADJ	OmegaWiki	von einer beträchtlichen größe ; der schwächste ausdruck zur bezeichnung derselben .
+diminutivum	NOUN	OmegaWiki	ein wort , das mit einem suffix geformt wird , um kleinheit anzuzeigen .
+raffgier	NOUN	OmegaWiki	maßloses verlangen nach besitztümern und reichtum .
+stichelei	NOUN	OmegaWiki	eine abfällige versteckte bemerkung oder anspielung auf jemanden oder etwas .
+vorbereitende_maßnahme	ADJ	OmegaWiki	ein mittel oder ein maßnahme oder eine tätigkeit zur vorbereitung von ...
+vollständig	ADV	OmegaWiki	auf eine gesamte oder vollständige weise .
+knochen	NOUN	OmegaWiki	ein material , das zum größten teil aus kalziumphosphat und kollagen besteht und aus dem das skelett der meisten wirbeltiere besteht .
+republik_österreich	NOUN	OmegaWiki	ein land in mitteleuropa mit wien als hauptstadt .
+gehsteig	NOUN	OmegaWiki	ein gepflasterter fußweg neben einer straße zur benutzung durch fußgänger .
+ergebnis	NOUN	OmegaWiki	bedingung , dass der etwas von denen es abhängt folgt .
+ergebnis	NOUN	OmegaWiki	das ergebnis oder der schluss , auf das alle bedingungen hinauslaufen .
+maulwurf	NOUN	OmegaWiki	ein schwarzes , spitzschäuziges , insektenfressendes säugetier mit grabpfoten , das in gängen lebt , die es sich unter der erde gräbt .
+maulwurf	NOUN	OmegaWiki	eine person , die in einer umgebung oder organisation tätig ist wobei sie zugleich heimlich interna und vertrauliche informationen an eine andere organisation oder gruppe weitergibt , die oft ganz entgegengesetzte ziele verfolgt .
+gers	NOUN	OmegaWiki	départment im südwesten frankreichs , benannt nach dem fluss gers .
+kriebelkrankheit	NOUN	OmegaWiki	vergiftung durch die einnahme von mutterkorn , welches roggen und anderes getreide befällt .
+pneumonitis	NOUN	OmegaWiki	entzündung des lungengewebes .
+honduras	NOUN	OmegaWiki	ein staat in zentralamerika mit der hauptstadt tegucigalpa .
+schriftenverwaltungsprogramm	NOUN	OmegaWiki	ein computerprogramm um für ein betriebssystem oder ein anwendungsprogramm digitale schriften und schriftdateien anzuzeigen , zu installieren , zu löschen , auszuwählen , zu untersuchen und dergleichen mehr .
+byzanz	NOUN	OmegaWiki	kaiserreich im östlichen mittelmeerraum , das 395 n. chr. aus der östlichen hälfte des römischen reiches entstand und mit der eroberung von konstantinopel durch die osmanen im jahre 1453 endet .
+wochenlang	ADJ	OmegaWiki	mehrere wochen dauernd .
+colitis_ulcerosa	NOUN	OmegaWiki	chronische entzündung des darms , welche geschwüre an der darmwand hervorrruft .
+verbindungsgeschwindigkeit	NOUN	OmegaWiki	ein maß für die geschwindigkeit ( datenmenge ) , die über eine internetverbindung gesendet werden kann . je höher die bandweite , desto schneller die verbindung .
+unterwäsche	NOUN	OmegaWiki	direkt auf der haut und unter der oberbekleidung getragene kleidung .
+nachgeburt	NOUN	OmegaWiki	die plazenta und fötale eihäute , die nach der geburt von der gebärmutter ausgestoßen werden .
+bauchnabel	NOUN	OmegaWiki	narbe an der stelle , an der die nabelschnur befestigt war .
+brühteig	NOUN	OmegaWiki	in der konditorei verwendeter teig aus mehl , butter und eiern .
+unterhaltung	NOUN	OmegaWiki	vergnügliche aktivität , die die aufmerksamkeit beansprucht .
+kugelförmig	ADJ	OmegaWiki	wie eine kugel geformt
+schluffi	NOUN	OmegaWiki	eine körperlich schwache oder kraftlose person .
+schluffi	NOUN	OmegaWiki	person von schwachem charakter , der es an mut oder moralischer stärke mangelt .
+schluffi	NOUN	OmegaWiki	eine furchtsame oder mutlose person .
+dreizehn	NOUN	OmegaWiki	die kardinalzahl zwischen zwölf und vierzehn , in römischen zahlen xiii und in arabischen ziffern 13 geschrieben .
+intolerant	ADJ	OmegaWiki	blind und stur einem glaubensbekenntnis oder einer meinung verbunden und intolerant gegenüber anderen seiend .
+veränderbar	ADJ	OmegaWiki	in der lage verändert zu werden .
+orchidometer	NOUN	OmegaWiki	medizinisches gerät zum messen des volumens der hoden .
+prädator	NOUN	OmegaWiki	tier , das andere tiere tötet und frisst .
+tierleben	NOUN	OmegaWiki	lebender organismus , der charakterisiert wird durch selbstbestimmte bewegung , den besitz von körperzellen mit zellulosefreien wänden und spezialisierten sinnesorganen , die schnelle reaktionen auf stimulationen erlauben , sowie die verdauung komplexer organischer stoffe aus pflanzen und anderen tieren .
+kippe	NOUN	OmegaWiki	der nicht gerauchte rest einer zigarre oder zigarette .
+kippe	NOUN	OmegaWiki	der nicht gerauchte rest einer zigarette .
+spätnachts	ADV	OmegaWiki	spät in der nacht .
+unterwelt	NOUN	OmegaWiki	in der griechischen mythologie , die unterwelt und welt der toten .
+unterwelt	NOUN	OmegaWiki	die welt der toten , die unter der welt der lebenden liegt .
+semantische_verschiebung	NOUN	OmegaWiki	die allmähliche verschiebung der bedeutung eines wortes .
+lipophob	ADJ	OmegaWiki	nicht in fett oder öl löslich .
+atheismus	NOUN	OmegaWiki	die haltung , dass es keinen gott bzw. keine götter gibt .
+nähren	VERB	OmegaWiki	nahrung zuführen .
+radiologische_waffe	NOUN	OmegaWiki	konventioneller sprengsatz , der radioaktives material in der umgebung verteilt .
+kees	NOUN	OmegaWiki	sich langsam bewegende eismassen , die sich auf bergen oder in polarregionen angesammelt haben .
+autobus	NOUN	OmegaWiki	ein kraftfahrzeug mit einem großen langen fahrgastraum mit sitzplätzen , das üblicherweise nach einem vorherbestimmten fahrplan verkehrt .
+lücke	NOUN	OmegaWiki	eine unterbrechung in der intensität oder menge von etwas .
+lücke	NOUN	OmegaWiki	ein fehlendes stück ( wie eine lücke in einem manuskript ) .
+tier	NOUN	OmegaWiki	lebender organismus , der charakterisiert wird durch selbstbestimmte bewegung , den besitz von körperzellen mit zellulosefreien wänden und spezialisierten sinnesorganen , die schnelle reaktionen auf stimulationen erlauben , sowie die verdauung komplexer organischer stoffe aus pflanzen und anderen tieren .
+annullieren	VERB	OmegaWiki	eine frühere handlung für ungültig erklären .
+ehepartner	NOUN	OmegaWiki	männlicher partner in einer ehe .
+gerstensaft	NOUN	OmegaWiki	alkoholisches getränk , das üblicherweise aus gerstenmalz gebraut wird , und dem hopfen oder andere zutaten einen leicht bitteren geschmack verleihen .
+suppenhuhn	NOUN	OmegaWiki	ein meist altes und großes huhn , das häufig für die zubereitung von suppe verwendet wird .
+astana	NOUN	OmegaWiki	die hauptstadt von kasachstan .
+waschbecken	NOUN	OmegaWiki	meist an der wand befestigtes becken zum waschen .
+waschbecken	NOUN	OmegaWiki	festinstalliertes und an an- und abwasser angeschlossenes becken in badezimmern oder toiletten .
+zwergstaat	NOUN	OmegaWiki	land mit sehr kleiner fläche und bevölkerungszahl .
+protactinium	NOUN	OmegaWiki	chemisches element mit dem symbol pa und der ordnungszahl 91 , silberfarbenes actinoid .
+angetrunkener_mut	NOUN	OmegaWiki	durch alkohol bedingter mut .
+sich_verlesen	VERB	OmegaWiki	falsch lesen .
+jahresring	NOUN	OmegaWiki	wissenschaftliche methode zur datierung von bäumen durch untersuchung der jahresringe .
+jahresring	NOUN	OmegaWiki	die jährliche bildung von neuem holz bei pflanzen , die aus zwei konzentrischen kreisen besteht , dem frühholz und dem spätholz .
+washington,_d._c.	NOUN	OmegaWiki	der `` district of columbia '' ist der bundesdistrikt der usa , der aus der hauptstadt washington ( d.c . ) besteht .
+kinderlosigkeit	NOUN	OmegaWiki	der zustand keine kinder zu haben .
+rhenium	NOUN	OmegaWiki	chemisches element mit dem symbol re und der ordnungszahl 75 , gräulich weißes übergangsmetall .
+tasche	NOUN	OmegaWiki	eine art stoffsäckchen , das durch eine öffnung in einem kleidungsstück zugänglich ist und dazu dient , gegenstände aufzunehmen ; in der regel groß genug , um wenigstens eine hand darin unterzubringen .
+tasche	NOUN	OmegaWiki	eine tasche in einer langen oder kurzen hose .
+tasche	NOUN	OmegaWiki	ein flexibler behälter aus stoff , papier , kuststoff , leder etc. , der dazu dient , dinge hineinzutun oder diese wegzutragen .
+ölpalme	NOUN	OmegaWiki	baum aus der familie der palmengewächse , der zur produktion von palmöl kultiviert wird .
+hinnehmen	VERB	OmegaWiki	sich mit einer unangenehmen sache oder person abfinden .
+sekretär	NOUN	OmegaWiki	ein zum schreiben benutzter tisch .
+verwalter	NOUN	OmegaWiki	jemand , der ein geschäft verwaltet .
+michigan	NOUN	OmegaWiki	der 26. bundesstaat der vereinigten staaten , gelegen im mittleren westen .
+bett	NOUN	OmegaWiki	vertiefung im erdboden unter einem gewässer .
+bett	NOUN	OmegaWiki	möbelstück , auf dem eine person schlafen kann .
+teilnahmslosigkeit	NOUN	OmegaWiki	fehlen von interesse .
+balsaholz	NOUN	OmegaWiki	das holz des balsabaums .
+zuckrig	ADJ	OmegaWiki	zucker enthaltend .
+pink	NOUN	OmegaWiki	eine farbe , die man erhält , wenn man rote und weiße farbe mischt .
+algebra	NOUN	OmegaWiki	ein bereich der mathematik , der sich mit dem studium der struktur , des zusammenhangs und der größe beschäftigt .
+reiterstellung	NOUN	OmegaWiki	eine position beim geschlechtsverkehr , bei der der mann auf dem rücken liegt und die frau sich auf ihm befindet .
+hochpunkt	NOUN	OmegaWiki	vertikal zentrierter punkt , der in einigen sprachen zur abgrenzung von wörtern oder silben verwendet wird .
+haupt	NOUN	OmegaWiki	der teil des körpers eines tiers oder menschen , der das gehirn , den mund und die hauptsinnesorgane enthält .
+konus	NOUN	OmegaWiki	dreidimensionale figur mit kreisförmiger grundfläche , deren mantelfläche auf einen punkt zuläuft
+arme_ritterschaft_christi_und_des_salomonischen_tempels_zu_jerusalem	NOUN	OmegaWiki	christlicher militärorden , der nach dem ersten kreuzzug 1119 gegründet und 1314 verboten wurde .
+arme_ritterschaft_christi_und_des_salomonischen_tempels_zu_jerusalem	NOUN	OmegaWiki	mitglied des tempelordens .
+flötistin	NOUN	OmegaWiki	ein musiker , der föte spielt .
+knurrig	ADJ	OmegaWiki	eine schwierige und widrige disposition habend .
+monolog	NOUN	OmegaWiki	teil eines theaterstücks , in dem eine figur allein spricht .
+pfefferminze	NOUN	OmegaWiki	heil- und gewürzpflanze aus der gattung der minzen , kreuzung zwischen wasserminze ( m. aquatica ) und grüner minze ( m. spicata ) .
+monrovia	NOUN	OmegaWiki	hauptstadt von liberia .
+epilepsie	NOUN	OmegaWiki	krankheit , bei der der patient krampfanfälle und ohnmachten erlebt .
+ogygia	NOUN	OmegaWiki	in der griechischen mythologie , die insel auf der die nymphe kalypso lebt .
+verhauen	VERB	OmegaWiki	jemanden wiederholt und heftig schlagen .
+tölpel	ADJ	OmegaWiki	nicht lebendig ; ohne leben .
+menstruation	NOUN	OmegaWiki	ungewöhnlich lange und starke regelblutung .
+menstruation	NOUN	OmegaWiki	phase im menstruationszyklus , in der das endometrium abgestoßen wird , wenn keine befruchtung stattgefunden hat .
+kanzerogenitätsprüfung	NOUN	OmegaWiki	test zur abschätzung , ob eine substanz oder ein physikalischer einfluss das krebsrisiko erhöht .
+sich_verlangsamen	VERB	OmegaWiki	langsamer werden .
+sultan-ahmet-moschee	NOUN	OmegaWiki	moschee in istanbul in der türkei .
+kinshasa	NOUN	OmegaWiki	hauptstadt der demokratischen republik kongo .
+fachvokabular	NOUN	OmegaWiki	eine terminologie , die speziell bezug nimmt auf eine bestimmte aktivität , gruppe , einen beruf oder ein ereignis .
+fachvokabular	NOUN	OmegaWiki	spezieller begriff aus einem bestimmten fachbereich .
+fachvokabular	NOUN	OmegaWiki	sprache , die nur von den mitgliedern einer bestimmten gruppe gesprochen und verstanden wird , so dass man untereinander kommunizieren kann , ohne dass der inhalt für außenstehende verständlich ist .
+fachvokabular	NOUN	OmegaWiki	sprachvarietät oder dialekt in einer region , im gegensatz zur standardsprache .
+blutgefäß	NOUN	OmegaWiki	eine röhrenförmige struktur im menschlichen oder tierischen körper . ein gefäß , in der das blut transportiert wird .
+entlassen	VERB	OmegaWiki	das beschäftigungsverhältnis mit einem oder mehreren angestellten beenden .
+kerzenschimmer	NOUN	OmegaWiki	licht , das von einer brennenden kerze abgegeben wird .
+telefonitis	NOUN	OmegaWiki	fiktive krankheit , die durch übermäßiges telefonieren gekennzeichnet ist .
+kansas	NOUN	OmegaWiki	der 34. bundesstaat der vereinigten staaten von amerika , gelegen im mittleren westen .
+speichermedium	NOUN	OmegaWiki	computerkomponenten , -geräte und beschreibbare medien , die daten für ein gewisses zeitintervall speichern .
+new_hampshire	NOUN	OmegaWiki	der 9. bundesstaat der vereinigten staaten , gelegen im nordosten .
+drogensüchtiger	NOUN	OmegaWiki	jemand , der drogen nimmt und davon abhängig ist .
+klebstoff	NOUN	OmegaWiki	stoff , der zwei gegenstände miteinander verbinden kann .
+ampulle	NOUN	OmegaWiki	eine sterile chemische substanz enthaltenes und für injektionen geeignetes kleines , hermetisch verschlossene fläschchen .
+ampulle	NOUN	OmegaWiki	eine kleine flasche .
+kautabak	NOUN	OmegaWiki	eine art tabak aus ganzen blättern , der in den mund gelegt und gekaut wird .
+versenden	NOUN	OmegaWiki	die handlung etwas zu versenden .
+antrag	NOUN	OmegaWiki	anfrage bei einer verwaltungsbehörde zur ausführung einer bestimmten aktivität .
+zehneck	NOUN	OmegaWiki	polygon mit zehn seiten .
+lakritze	NOUN	OmegaWiki	meist schwarz gefärbte süßigkeit aus süßholzextrakt
+mariä_lichtmess	NOUN	OmegaWiki	christliches fest , das 40 tage nach weihnachten stattfindet und der reinigung der jungfrau maria und der präsentation jesu im tempel gedenkt .
+griechische_gebärdensprache	NOUN	OmegaWiki	die in griechenland verwendete gebärdensprache .
+aktualisierung	NOUN	OmegaWiki	erneuerung oder vervollständigung aufgrund der neuesten erkenntnisse oder informationen .
+guerrero	NOUN	OmegaWiki	bundesstaat im süden mexikos .
+berlin	NOUN	OmegaWiki	bundeshauptstadt und bundesland der bundesrepublik deutschland , die bevölkerungsreichste und flächengrößte stadt deutschlands und nach einwohnerzahl die zweitgrößte stadt der eu .
+admirabel	ADJ	OmegaWiki	größten respekt und bewunderung verdienend .
+liebhaber	NOUN	OmegaWiki	eine person , die ein besonderes interessengebiet oder eine besondere aktivität mag , kennt und schätzt .
+liebhaber	NOUN	OmegaWiki	partner für sexuelle aktivitäten .
+klitoridektomie	NOUN	OmegaWiki	die teilweise oder vollständige entfernung der äußeren teile der klitoris .
+neugierig_machen	VERB	OmegaWiki	neugierde oder interesse verursachen .
+ablichten	VERB	OmegaWiki	von jemandem oder etwas eine fotografie machen .
+fußläufig	ADJ	OmegaWiki	zu fuß zu erreichen .
+zaungiersch	NOUN	OmegaWiki	pflanze die an schattigen orten wächst und oft als unkraut angesehen wird .
+irländerin	NOUN	OmegaWiki	eine person mit irischer staastsbürgerschaft .
+tajine	NOUN	OmegaWiki	traditioneller kochtopf der nordafrikanischen küche , der aus lehm besteht und dessen deckel konisch geformt ist , so dass das kondensierte wasser wieder zurückfließt .
+hyperhidrose	NOUN	OmegaWiki	krankheitsbild , das durch abnorm erhöhte schweißproduktion gekennzeichnet ist .
+botulinumtoxin	NOUN	OmegaWiki	hochgiftiges neurotoxin , das vom bakterium clostridium botulinum ausgeschieden wird und in medizin und kosmetik anwendung findet .
+nerzmantel	NOUN	OmegaWiki	mantel aus dem fell eines nerzes .
+streichinstrument	NOUN	OmegaWiki	ein saiteninstrument , das gespielt wird indem man dessen saiten mit einem bogen oder rad streicht .
+zuschreibbar	ADJ	OmegaWiki	sich zuschreiben lassend .
+erde	NOUN	OmegaWiki	das weiche und lockere material , aus dem ein großteil der erdoberfläche besteht .
+erde	NOUN	OmegaWiki	knoten eines elektrischen systems , der als referenzpotential für alle anderen knoten des systems verwendet wird .
+erde	NOUN	OmegaWiki	die oberste schicht der erdoberfläche , die aus zermahlenem gestein , humus , wasser und luft besteht .
+erde	NOUN	OmegaWiki	ein zur unterstützung von pflanzenwachstum benutztes gemisch aus sand und organischem material .
+erde	NOUN	OmegaWiki	der dritte planet ( von innen gezählt ) in unserem sonnensystem .
+hannover	NOUN	OmegaWiki	norddeutsche stadt and der leine , hauptstadt des bundeslandes niedersachsen . mit der cebit und der hannover messe finden dort jährlich weltweit beachtete messen statt . im jahr 2000 war hannover gastgeber der weltausstellung ( expo 2000 ) .
+alleinstehend	ADJ	OmegaWiki	nicht verheiratet ; keinen ehepartner habend .
+tracheitis	NOUN	OmegaWiki	entzündung der luftröhre .
+zusammenziehung	NOUN	OmegaWiki	eine verkürzung von wörtern , silben oder wortgruppen durch auslassung von internen buchstaben .
+draußen	ADV	OmegaWiki	im freien , nicht in einem gebäude .
+äthanol	NOUN	OmegaWiki	farblose , mit wasser mischbar flüssigkeit , die als lösungsmittel oder reagens verwendet wird .
+äthanol	NOUN	OmegaWiki	farblose , leichtentzündliche flüssigkeit , die unter anderem als lösungsmittel , desinfektionsmittel und rauschmittel verwendet wird .
+atlantik	NOUN	OmegaWiki	der ozean zwischen amerika im westen und europa und afrika im osten .
+atlantik	NOUN	OmegaWiki	der nördliche teil des atlantischen ozeans , der sich vom äquator aus nach norden bis zum arktischen ozean erstreckt .
+wandeln	VERB	OmegaWiki	komplettes ändern der natur oder erscheinung von .
+gattenmord	NOUN	OmegaWiki	der mord am ehemann durch seine ehefrau .
+gälisierung	NOUN	OmegaWiki	den vorgang etwas gälisch zu machen .
+feile	NOUN	OmegaWiki	mehrschneidiges , spanendes handwerkzeug zum abtragen von werkstoffen .
+v._u._z.	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre vor der zeitenwende , das heißt vor der geburt jesus christus .
+v._u._z.	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre nach der zeitenwende , das heißt nach der geburt jesus christus .
+übersetzer	NOUN	OmegaWiki	jemand , der geschriebene texte von einer sprache in eine andere übersetzt
+informelle_siedlung	NOUN	OmegaWiki	siedlung am rande einer stadt , häufig ohne genehmigung errichtet , in der arme menschen in provisorischen , aus holz , karton oder wellblech bestehenden unterkünften leben .
+impluvium	NOUN	OmegaWiki	rechteckige öffnung im dach des atriums eines römischen hauses , das einerseits zur belichtung und andererseits zum sammeln von regenwasser im darunterliegenden impluvium dient .
+impluvium	NOUN	OmegaWiki	auffangbecken für regenwasser im atrium eines römischen hauses .
+unerschrocken	ADJ	OmegaWiki	mut habend oder zeigend .
+unerschrocken	ADJ	OmegaWiki	nicht erschreckt oder eingeschüchtert seiend .
+thema	NOUN	OmegaWiki	wichtige melodie , die mehrere male in einem musikstück vorkommt .
+wildbret	NOUN	OmegaWiki	fleisch von üblicherweise wild lebenden tieren .
+ratzefummel	NOUN	OmegaWiki	spezielles gummi , das etwas mit bleistift oder tintenfüller geschriebenes entfernen kann .
+falliment	NOUN	OmegaWiki	die gerichtlich festgestellte unfähigkeit einer privatperson oder einer organisation ihre gläubiger zu bezahlen .
+zivilrecht	NOUN	OmegaWiki	gesetz , das die privaten beziehungen von mitgliedern einer gesellschaft regelt .
+magermilch	NOUN	OmegaWiki	milch mit einem sehr geringen fettgehalt .
+tapete	NOUN	OmegaWiki	farbiges oder mit mustern bedrucktes papier , das zur dekoration an wände geklebt wird .
+alle	ADJ	OmegaWiki	jedes element einer zählbaren gruppe , ohne ausnahme .
+alle	NOUN	OmegaWiki	jedes individuum oder jeder gegenstand in einer gegebenen gruppe oder klasse , ohne ausnahme .
+ufologie	NOUN	OmegaWiki	das studium von unidentifizierten flugobjekten ( ufos ) .
+ufologie	NOUN	OmegaWiki	person , die unidentifizierte flugobjekte ( ufos ) studiert .
+brennen_wie_zunder	VERB	OmegaWiki	leicht feuer fangen .
+naira	NOUN	OmegaWiki	die währung von nigeria .
+einleitend	ADJ	OmegaWiki	am anfang auftretend .
+priapismus	NOUN	OmegaWiki	schmerzhafte und potentiell gesundheitsschädliche erektion des penis , die sich nicht mehr zurückbildet .
+kriechen	VERB	OmegaWiki	sich in dicht anliegender haltung langsam über eine oberfläche ( meist den boden ) bewegen .
+vergewaltiger	NOUN	OmegaWiki	jemand , der eine andere person zum geschlechtsverkehr zwingt .
+kauterisieren	VERB	OmegaWiki	gewebe mit einem heißen instrument , elektrischem strom oder einer ätzenden substanz zerstören , z. b. um einen tumor zu entfernen oder blutgefäße zu verschließen .
+sonnenblumenöl	NOUN	OmegaWiki	aus den samen der sonnenblume gewonnenes pflanzenöl .
+venushügel	NOUN	OmegaWiki	die aus subkutanem fettgewebe bestehende leichte erhebung über dem weiblichen schambein .
+damaszener	NOUN	OmegaWiki	einwohner von damaskus .
+feder	NOUN	OmegaWiki	ein schreibgerät , hergestellt aus einer vogelfeder .
+feder	NOUN	OmegaWiki	eine aus flexiblem material bestehende mechanische vorrichtung , die kraft ausübt , wenn sie gespannt wird .
+feder	NOUN	OmegaWiki	ein verzweigtes haarähnliches gebilde , das auf der haut von vögeln wächst , diese vor kälte und wasser schützt und ihren flügeln ermöglicht , auftrieb zu erzeugen .
+laie	NOUN	OmegaWiki	jemanden , der nicht geistlicher ist .
+absinth	NOUN	OmegaWiki	alkoholisches getränk aus destilliertem wermutsaft und anderen bitteren kräutern , das zwischen 45 und 75 % alkohol enthält .
+schande	NOUN	OmegaWiki	das bewusstsein oder gewahrsein von unehre , blamage oder verurteilung .
+mandel	NOUN	OmegaWiki	frucht des mandelbaums ( prunus dulcis ) .
+egoist	NOUN	OmegaWiki	eine eingebildete und ichbezogene person .
+pangramm	NOUN	OmegaWiki	ein satz , der jeden buchstaben des alphabets nur einmal enthält .
+grundsätzlich	ADV	OmegaWiki	auf eine fundamentale , essentielle oder grundlegende weise .
+lan	NOUN	OmegaWiki	ein computernetzwerk , das ein kleines geografisches gebiet abdeckt , wie etwa ein haus , ein büro , oder eine gruppe von gebäuden .
+avitaminose	NOUN	OmegaWiki	das völlige fehlen eines vitamins im menschlichen körper .
+wissenschaftlich	ADJ	OmegaWiki	die wissenschaft betreffend bzw. zu ihr gehörend .
+selen	NOUN	OmegaWiki	chemisches element mit dem symbol se und der ordnungszahl 34 ; in höheren konzentrationen stark toxisches nichtmetall ; wird in der chemie , der metallurgie und zur herstellung von halbleitern verwendet
+adjuvans	NOUN	OmegaWiki	pharmazeutisches oder immunologisches mittel , welches den effekt von anderen mitteln wie medikamente oder impfstoffen verstärkt .
+mensch-maschine-kommunikation	NOUN	OmegaWiki	studium der interaktion zwischen mensch ( benutzer ) und computern .
+vereinigte_staaten_von_amerika	NOUN	OmegaWiki	ein staat in nordamerika , der nördlich von mexiko und südlich von kanada liegt und zu dem außerdem alaska , hawaii und verschiedene überseeische gebiete gehören .
+sonnengebräunt	ADJ	OmegaWiki	von der sonne dunkler gefärbte haut habend .
+industriebetrieb	NOUN	OmegaWiki	betrieb , welcher in großen mengen mit fortschrittlichen technologien produziert .
+sandzucker	NOUN	OmegaWiki	der in milch und milchprodukte enthaltene zucker .
+taufe	NOUN	OmegaWiki	christliches sakrament , bei dem jemand mit wasser benetzt oder in wasser getaucht wird und manchmal einen namen erhält .
+brandstifter	NOUN	OmegaWiki	ein krimineller , der brandstiftung begeht .
+beigeordnet	ADJ	OmegaWiki	mit einer unterstützenden fähigkeit .
+vollbart	NOUN	OmegaWiki	bart , der einen großen teil des gesichts bedeckt .
+vollbart	NOUN	OmegaWiki	haarwuchs im gesicht zwischen nase und oberlippe .
+vollbart	NOUN	OmegaWiki	gesichtsbehaarung des menschen auf das kinn , wangen und kinn .
+neuseeland	NOUN	OmegaWiki	land in ozeanien , östlich von australien .
+hochdeutsch_mit_knubbeln	NOUN	OmegaWiki	die regionale varietät des deutschen , die im rheinland gesprochen wird , was ungefähr der vormaligen rheinprovinz preußens entspricht oder heute der westhälfte nordrheinwestfalens und der nordhälfte von rheinland-pfalz . es ist zwischen dem modernen standarddeutschen und den vielen unterschieldlichen örtlichen dialekten angesiedelt , beiden ähnlich , aber auch klar unterschieden .
+hochdeutsch_mit_knubbeln	NOUN	OmegaWiki	wein , der im rheintal angebaut und gekeltert wurde .
+paschminaschal	NOUN	OmegaWiki	langer und breiter schal mit fransen aus paschmina .
+spanische_schwarzwurzel	NOUN	OmegaWiki	aus südeuropa und dem nahen osten stammende pflanze mit essbaren wurzeln .
+rumantsch_grischun	NOUN	OmegaWiki	der größte und östlichste kanton der schweiz .
+rumantsch_grischun	NOUN	OmegaWiki	die überregionale verietät der rätoromanischen sprachen , die von dem sprachwissenschaftler heinrich schmid künstlich im auftrag der lia rumantscha ins leben gerufen wurde und so gleichmäßig wie möglich für alle sprecher der verschiednen rätoromanischen dialekte graubündens annehmbar sein sollte .
+madagaskar	NOUN	OmegaWiki	inselstaat im indischen ozean vor der südostküste afrikas
+sich_vergiften	VERB	OmegaWiki	sich mit gift töten .
+strand	NOUN	OmegaWiki	flacher , schmaler streifen aus sand , kies oder steinen entlang des ufers eines gewässers ( meer , fluss , see ) .
+cadmiumsulfit	NOUN	OmegaWiki	cadmiumsalz der schwefligen säure
+hypoxie	NOUN	OmegaWiki	hypoxie liegt vor , wenn die konzentration gelösten sauerstoffs in gewässern so reduziert ist , dass die aquatischen lebewesen beeinträchtigt sind .
+hypoxie	NOUN	OmegaWiki	als hypoxie bezeichnet man einen sauerstoffmangel im arteriellen blut oder im gewebe von organismen .
+ketschup	NOUN	OmegaWiki	würzsauce , aus tomatenmark , essig , zucker , speisesalz und gewürzen .
+glöcklein	NOUN	OmegaWiki	kleine glocke .
+halt_auf_verlangen	NOUN	OmegaWiki	eine haltestelle , an dem ein öffentliches verkehrsmittel nur hält , wenn ein fahrgast dies wünscht .
+obstruktiv	ADJ	OmegaWiki	bewegung verhindernd
+bäckersmann	NOUN	OmegaWiki	jemand , der brot , kuchen und ähnliches bäckt und verkauft
+bäckersmann	NOUN	OmegaWiki	elektrisches küchengerät , das automatisch brot herstellen kann nachdem die zutaten eingefüllt wurden .
+jungfrau	NOUN	OmegaWiki	eine unverheiratete frau .
+dividende	NOUN	OmegaWiki	der teil des gewinns einer körperschaft , der an ihre aktionäre bzw. genossenschaftler ausgeschüttet wird
+software-entwickler	NOUN	OmegaWiki	person , die computersoftware erstellt oder modifiziert .
+verbrühen	VERB	OmegaWiki	durch kontakt mit heißer oder kochender flüssigkeit verbrennen .
+bipolare_störung	NOUN	OmegaWiki	psychische erkrankung , die von einander abwechselnden episoden von depression und manie gekennzeichnet ist .
+vorehelich	ADJ	OmegaWiki	vor der ehe geschehend oder existierend .
+vorehelich	ADV	OmegaWiki	vor der ehe .
+hindernd	ADJ	OmegaWiki	bewegung verhindernd
+brotscheibe	NOUN	OmegaWiki	eine von einem brot abgeschnittene scheibe .
+lang	ADJ	OmegaWiki	von relativ langer dauer .
+apathie	NOUN	OmegaWiki	fehlen von interesse .
+limette	NOUN	OmegaWiki	grüne zitrusfrucht .
+naturtrüber_apfelsaft	NOUN	OmegaWiki	ein besonders in den usa und kanada beliebtes , nicht-alkoholisches getränk , das durch pressung von äpfeln hergestellt wird und saurer und trüber ist als herkömmlicher apfelsaft .
+pressemitteilung	NOUN	OmegaWiki	offizielle stellungnahme oder ankündigung , die von einem unternehmen oder einer behörde an medienvertreter verteilt wird , meist um eine mündliche stellungnahme zu ergänzen oder zu ersetzen .
+dill	NOUN	OmegaWiki	( anethum graveolens ) ursprünglich aus zentralasien stammende gewürz- und heilpflanze in der familie der doldenblütler ( apiaceae ) .
+einschliessen	VERB	OmegaWiki	als eine notwendige begleiterscheinung oder resultat auferlegen , verbunden sein oder beinhalten .
+möbius-syndrom	NOUN	OmegaWiki	seltene angeborene krankheit , die sich durch lähmung des gesichts und unfähigkeit die augen zur seite zu bewegen äußert .
+salatschleuder	NOUN	OmegaWiki	küchengerät , mit dem salatblätter nach dem waschen durch rotation von überschüssigem wasser befreit werden .
+salish	NOUN	OmegaWiki	familie von 23 sprachen in westkanada und dem pazifischen nordwesten der vereinigten staaten .
+japanische_küche	NOUN	OmegaWiki	speisen , die mit der japanischen kultur und tradition in verbindung stehen , und die art ihrer zubereitung .
+grünstreifen	NOUN	OmegaWiki	eine barriere an straßen und autobahnen zwischen den entgegengesetzten fahrbahnen , oft mit pflanzen bewachsen .
+balsambirne	NOUN	OmegaWiki	pflanze , die in asien , afrika und der karibik angebaut wird und die eine essbare und sehr bittere frucht hervorbringt .
+benzen	NOUN	OmegaWiki	farbloser , flüssiger und brennbarer aromatischer kohlenwasserstoff , der u. a. zur herstellung von styrol und phenol verwendet wird
+promethium	NOUN	OmegaWiki	chemisches element mit dem symbol pm und der ordnungszahl 61 , silberweißes radioaktives lanthanoid .
+thermosphäre	NOUN	OmegaWiki	die zweitäußerste der schichten der erdatmosphäre , zwischen der mesosphäre und der exosphäre .
+breit	ADJ	OmegaWiki	mit einerm großen abstand zwischen zwei punkten , vor allem in der horizontalen .
+nahrung	NOUN	OmegaWiki	eine substanz die vom organismus verdaut und als nährstoff und energie verwendet werden kann .
+branche	NOUN	OmegaWiki	eine gruppe von unternehmen , die die gleichen oder ähnliche wirtschaftlichen aktivitäten verfolgen . sie stellen eine reihe von produkten her , die in der erwartung verkauft werden , die gesamtkosten zu decken .
+puma	NOUN	OmegaWiki	gelbbraune katzenart ( puma concolor ) mit schwarzen ohren und schwanz .
+wallonisch	NOUN	OmegaWiki	eine belgien gesprochene romanische sprache
+mastoiditis	NOUN	OmegaWiki	entzündung im warzenfortsatz des schläfenbeins .
+epiphanie	NOUN	OmegaWiki	ein christliches fest , bei dem die erscheinung oder offenbarung von gott zur menschheit in form von jesus christus gefeiert wird .
+messing	NOUN	OmegaWiki	eine legierung aus kupfer und zink ; teilweise unter zusatz anderer elemente . der zinkanteil kann dabei zwischen 3 und 46 prozent betragen . es handelt sich um ein festes , gelbliches metall , das ähnlich wie gold aussieht .
+inversion	NOUN	OmegaWiki	die umkehr einer sache . inversion stammt vom lateinisch inversio : die umkehrung .
+inversion	NOUN	OmegaWiki	ein wetterphänomen , bei dem die temperatur in der erdatmosphäre bei steigender höhe zunimmt .
+chinesische_petersilie	NOUN	OmegaWiki	einjähriges kraut aus der familie der doldenblütler , dessen samen und blätter in der küche verwendung finden .
+postfix	NOUN	OmegaWiki	morphem , das am ende eines wortes angehängt wird .
+dunkel	ADJ	OmegaWiki	eine totale oder ( meist ) relative abwesenheit von licht aufweisend .
+dunkel	ADJ	OmegaWiki	eine totale oder ( meist ) relative abwesenheit von licht aufweisend .
+europium	NOUN	OmegaWiki	chemisches element mit dem symbol eu und der ordnungszahl 63 , silberweißes lanthanoid .
+cobalt	NOUN	OmegaWiki	chemisches element mit dem symbol co und der ordnungszahl 27 , das hauptsächlich in legierungen verwendet wird
+rostig	ADJ	OmegaWiki	bedeckt mit rost .
+fleisch	NOUN	OmegaWiki	das eßbare innere von früchten oder obst , im gegensatz zu tieren , fischen oder nüssen .
+fleisch	NOUN	OmegaWiki	das essbare innere von tieren , insbesondere von säugetieren .
+aural	ADJ	OmegaWiki	den gehörsinn betreffend bzw. dazu gehörend .
+kirsche	NOUN	OmegaWiki	das holz des kirschbaums .
+kirsche	NOUN	OmegaWiki	kleine frucht , von gewöhnlich roter , schwarzer oder gelber farbe mit glatten , harten samen und einem kurzen festen stiel .
+ab_und_zu	ADV	OmegaWiki	zu manchen gelegenheiten oder in bestimmten situationen , aber nicht immer .
+poikilotherm	ADJ	OmegaWiki	( zoologie ) die körpertemperatur entsprechend der außemtemperatur verändernd .
+nichtraucher	NOUN	OmegaWiki	jemand , der keinen tabak raucht .
+pauschenpferd	NOUN	OmegaWiki	ein kunstturngerät , bestehend aus einem horizontalen , 160 x 35 cm großen und 115 cm vom boden entfernten balken mit zwei , 40 bis 45 cm auseinander liegenden griffen auf der oberseite . wird nur von männlichen athleten benutzt .
+bundesbruder	NOUN	OmegaWiki	mitglied einer studentenverbindung .
+areflexie	NOUN	OmegaWiki	das fehlen von reflexen .
+positron	NOUN	OmegaWiki	antiteilchen des elektrons mit der gleichen masse aber entgegengesetzter ladung , sein symbol ist e+ .
+iris	NOUN	OmegaWiki	ringförmige membran mit öffnung für die pupille , welche den lichteinfall in das auge reguliert .
+cajun	NOUN	OmegaWiki	varietät der französischen sprache , die hauptsächlich in louisiana , usa gesprochen wird .
+sklavenhaltung	NOUN	OmegaWiki	das halten von sklaven .
+apfelbutzen	NOUN	OmegaWiki	der innere teil des apfels , der die samenkerne enthält .
+kampferlorbeer	NOUN	OmegaWiki	großer , immergrüner baum aus japan und ostasien , dessen blätter beim zerquetschen nach kampher riechen .
+buchweizen	NOUN	OmegaWiki	mehl aus den körnern des buchweizens ( fagopyrum esculentum ) .
+vierter_fall	NOUN	OmegaWiki	der kasus für substantive , die nicht die subjektposition in einem satz einnehmen .
+zarin	NOUN	OmegaWiki	der titel der monarchin von russland , serbien oder bulgarien oder der ehefrau des monarchen .
+klassischer_tanz	NOUN	OmegaWiki	klassische form des tanzes mit musikbegleitung .
+fliegen	VERB	OmegaWiki	sich frei in der luft fortbewegen ohne etwas zu berühren , das mit dem boden verbunden ist .
+fliegen	VERB	OmegaWiki	mit einem luft- oder raumfahrzeug reisen .
+klapperschlange	NOUN	OmegaWiki	giftschlange der gattung crotalus , bekannt durch das rasselnde schwanzende .
+lehne	NOUN	OmegaWiki	baum aus der gattung der ahorne , die in mittel- und osteuropa und südwestasien heimisch ist .
+aufspüren	NOUN	OmegaWiki	akt des ermittelns von etwas mit einem detektor .
+gefühlsduselig	ADJ	OmegaWiki	übermäßig oder unaufrichtig emotional .
+springtide	NOUN	OmegaWiki	die flut mit der größten änderung des wasserspiegels , die bei jedem vollmond und neumond auftritt
+springtide	NOUN	OmegaWiki	die flut mit der geringsten änderung des wasserspiegels , die bei jedem halbmond auftritt
+etc.	ADV	OmegaWiki	auf die gleiche weise fortfahrend .
+schiffbruch	NOUN	OmegaWiki	der verlust eines schiffes auf see aufgrund eines unfalls .
+herzrasen	NOUN	OmegaWiki	beschleunigte herzschlagfrequenz ( mehr als 100 schläge pro minute ) .
+1-euro-stück	NOUN	OmegaWiki	münze im wert von einem euro .
+ketchup	NOUN	OmegaWiki	würzsauce , aus tomatenmark , essig , zucker , speisesalz und gewürzen .
+fern	ADV	OmegaWiki	in einem großen abstand in bezug auf etwas .
+fleischwolf	NOUN	OmegaWiki	küchengerät zum feinen zerkleinern von fleisch .
+blutgerinnsel	NOUN	OmegaWiki	ein klumpen blut , der aus thrombozyten und anderen teilchen besteht und der sich in einem blutgefäß eines lebenden organismus bildet .
+vergolden	VERB	OmegaWiki	etwas mit einer dünnen schicht gold überziehen .
+azur	NOUN	OmegaWiki	die farbe des klaren himmels oder der tiefsee , zwischen grün und violett im sichtbaren farbspektrum , eine der primären additivfarben für übertragenes licht ; die farbe , die man erreicht , wenn man rot und grün vom weißen licht subtrahiert , indem man magenta- und cyanfilter verwendet .
+verwirrend	ADJ	OmegaWiki	eine emotionale verwirrung verursachend .
+dissonanz	NOUN	OmegaWiki	unerwünschte geräusche , entweder wegen ihres effekts auf den menschen oder weil sie materialermüdung und fehlfunktionen verursachen oder die wahrnehmung und erkennung anderer geräusche stören .
+radkasten	NOUN	OmegaWiki	aussparung an einer pontonkarosserie eines kraftfahrzeuges , in dem die räder angeordnet sind .
+algenblüte	NOUN	OmegaWiki	schnelles und exzessives algenwachstum , das stattfindet , wenn sich durch von der landwirtschaft verursachte umweltverschmutung zu viele nährstoffe im wasser befinden , das heisst zu viel stickstoff und phosphate .
+adoleszent	NOUN	OmegaWiki	ein junger mensch zwischen dem beginn der pubertät und dem erwachsenenalter ; im zustand der entwicklung zwischen geschlechtsreife und erwachsenenalter .
+abwaschtuch	NOUN	OmegaWiki	tuch zum waschen von geschirr .
+szientistisch	ADJ	OmegaWiki	den szientismus betreffend , zu ihm gehörend .
+eu	NOUN	OmegaWiki	die 27 länder ( belgien , bulgarien , dänemark , deutschland , finnland , frankreich , griechenland , irland , italien , luxemburg , die niederlande , österreich , portugal , rumänien , spanien , das vereinigte königreich und schweden ) , die sich zusammengeschlossen haben , um eine wirtschaftsgemeinschaft mit gemeinsamer währung und gemeinsamen politischen und sozialen bestrebungen zu bilden .
+vergewaltigung_in_der_ehe	NOUN	OmegaWiki	nicht einvernehmlicher sex , bei dem der täter ehepartner des opfers ist .
+programmierer	NOUN	OmegaWiki	person , die computersoftware erstellt oder modifiziert .
+lebensüberdrüssig	ADJ	OmegaWiki	ohne freude am leben , ohne willen zum weiterleben .
+irisanalyse	NOUN	OmegaWiki	methode der alternativen medizin , bei der die iris untersucht wird krankheiten zu diagnostizieren .
+arbeitstier	NOUN	OmegaWiki	jemand , der süchtig nach arbeit ist .
+arbeitstier	NOUN	OmegaWiki	tier , das von menschen gehalten wird , um bestimmte aufgaben zu erledigen .
+handlungslücke	NOUN	OmegaWiki	lücke oder ungereimtheit in der handlung , die eine erzählung unlogisch erscheinen lässt .
+wirbel	NOUN	OmegaWiki	jeder der kleinen knochen , aus denen das rückgrat .
+möhre	NOUN	OmegaWiki	ein gelblich-oranges , länglich-rundes wurzelgewächs , das roh oder gekocht gegessen wird .
+karibik	NOUN	OmegaWiki	tropisches meer in der westlichen hemisphäre , teil des atlantiks , gelegen südöstlich des golfs von mexiko .
+karibik	NOUN	OmegaWiki	geografische region , die im süden an südamerika und panama und im westen an mittelamerika grenzt , und die aus den westindischen und anderen nahegelegenen inseln sowie dem karibischen meer ( einem teil des atlantiks ) besteht .
+schneebedeckt	ADJ	OmegaWiki	mit schnee bedeckt .
+zerquetschen	VERB	OmegaWiki	etwas in kleine stücke zerteilen , in dem man es presst oder zu pulver verreibt
+fastfood	NOUN	OmegaWiki	eine art von mahlzeit , die oft fertig zubereitet ist und schnell serviert wird .
+irisch-gälisch	NOUN	OmegaWiki	eine keltische sprache , die hauptsächlich in irland gesprochen wird .
+medizin	NOUN	OmegaWiki	die wissenschaft und kunst des behandelns und heilens .
+habsucht	NOUN	OmegaWiki	maßloses verlangen nach besitztümern und reichtum .
+karōshi	NOUN	OmegaWiki	plötzlicher tod ausgelöst durch starken stress und überlastung im beruf , meist mit der unmittelbaren todesursache herzversagen oder schlaganfall .
+aufwachen	VERB	OmegaWiki	aufhören zu schlafen .
+zuckerig	ADJ	OmegaWiki	zucker enthaltend .
+nominativ_gebrauchtes_verb	NOUN	OmegaWiki	ein verb , dass wie ein nomen verwendet wird und dadurch zum nomen wird .
+antikoagulans	NOUN	OmegaWiki	medikament , das die blutgerinnung hemmt
+rabe	NOUN	OmegaWiki	großer schwarzer vogel , einer krähe ähnlich , aber größer
+flut	NOUN	OmegaWiki	der höchste wasserstand im ablauf der gezeiten .
+wisent	NOUN	OmegaWiki	bisonart ( bison bonasus ) , schwerstes landtier europas
+binnenmeer	NOUN	OmegaWiki	meer , das nicht oder nur indirekt mit einem anderen ozean verbunden ist .
+sein	VERB	OmegaWiki	eine existenz haben .
+sein	VERB	OmegaWiki	vorkommen , stattfinden .
+pistazienbaum	NOUN	OmegaWiki	kleiner baum , der ursprünglich aus persien stammt und eine essbare nuss produziert .
+blasen-	ADJ	OmegaWiki	die harnblase betreffend .
+kartoffelstampfer	NOUN	OmegaWiki	küchengerät mit dem weich gekochte kartoffeln oder anderes gemüse zu brei zerquetscht wird .
+in_strömen_regnen	VERB	OmegaWiki	stark regnen .
+fahrtenschreiber	NOUN	OmegaWiki	ein gerät , das die funktion einer uhr und eines tachometers kombiniert und davon aufzeichnungen macht .
+überreden	VERB	OmegaWiki	jemanden dazu bringen eine bestimmte position , eine meinung oder eine vorgehensweise anzunehmen .
+it-einführung	NOUN	OmegaWiki	die erstmalige einführung eines informationstechnologie-systems an einem ort , wie etwa einem unternehmen .
+schnitte	NOUN	OmegaWiki	ein abgeschnittenes stück , dessen dicke klein gegen seine länge und breite oder seinen durchmesser ist
+dot	NOUN	OmegaWiki	eine mächtige halluzinogene droge , die aus lysergsäure hergestellt wird .
+autophagozytose	NOUN	OmegaWiki	funktion des zellstoffwechsels bei dem nicht mehr benötigte zellteile abgebaut werden .
+lügner	NOUN	OmegaWiki	person , die gelogen hat oder oft lügt .
+keuschheit	NOUN	OmegaWiki	der verzicht auf jegliche form von sexuellen beziehungen .
+inventar	NOUN	OmegaWiki	eine detailierte liste von artikeln , gütern , besitztümern etc .
+welken	NOUN	OmegaWiki	das austrocknen , erschlaffen und absterben von blättern einer pflanze infolge unzureichender wasserversorgung , übermäßiger transpiration oder gefäßkrankheit .
+schilddrüse	NOUN	OmegaWiki	große hormondrüse bei wirbeltieren , die sich bei menschen im hals befindet .
+maine-et-loire	NOUN	OmegaWiki	département im zentralen westen franreichs .
+hockey	NOUN	OmegaWiki	eine form von hockey , die auf einer eisfläche und mit einem puck statt einem ball gespielt wird .
+extraterrestrisch	ADJ	OmegaWiki	von außerhalb der erde oder ihrer atmosphäre kommend .
+erzbistum	NOUN	OmegaWiki	bischof höchsten ranges , der eine erzdiözese leitet .
+beibringen	VERB	OmegaWiki	wissen und fähigkeiten weitergeben .
+vorfall	NOUN	OmegaWiki	etwas , das geschieht oder geschehen ist .
+maßliebchen	NOUN	OmegaWiki	kleine blütenpflanze ( bellis perennis ) mit weißen blütenblättern aus der familie der korbblütengewächse ( asteraceae ) .
+wasserpfeife	NOUN	OmegaWiki	ein rauchgerät , in der regel für cannabis oder tabak , das wasser benutzt um schwerere partikel herauszufiltern und davon abzuhalten die atemwege des rauchers zu erreichen .
+raffsucht	NOUN	OmegaWiki	maßloses verlangen nach besitztümern und reichtum .
+schwiegertochter	NOUN	OmegaWiki	die ehefrau von jemandes sohn .
+nachspeise	NOUN	OmegaWiki	süßspeise , die als letzter gang einer mahlzeit serviert wird .
+überwinden	VERB	OmegaWiki	einen kampf oder wettkampf erfolgreich beenden .
+fünfzig	NOUN	OmegaWiki	die kardinalzahl zwischen neunundvierzig und einundfünfzig , in römischen zahlen l geschrieben und in arabischen ziffern 50 .
+blattwerk	NOUN	OmegaWiki	sämtliche blätter einer pflanze .
+blattwerk	NOUN	OmegaWiki	das hauptorgan der photosythese und der transpiration bei höheren pflanzen , gewöhnlich bestehend aus einer dünnen grünen fläche , welche direkt oder aus einem stängel wächst .
+hagel	NOUN	OmegaWiki	niederschlag in form von kugeln oder unregelmäßigen brocken aus eis .
+lichtung	NOUN	OmegaWiki	stück land in einem wald , das nicht von bäumen und sträuchern bewachsen ist .
+jahr	NOUN	OmegaWiki	der zeitraum zwischen festgelegten daten , die ein jahr begrenzen , nach dem gregorianischen kalender vom ersten januar bis zum 31. dezember .
+jahr	NOUN	OmegaWiki	die zeit , die ein himmelskörper benötigt um einen anderen einmal zu umrunden .
+jahr	NOUN	OmegaWiki	die zeit , die die erde benötigt , um die sonne einmal vollständig zu umrunden ( zwischen 365,24 und 365,26 tagen , abhängig vom referenzpunkt ) .
+ampel	NOUN	OmegaWiki	ein signalgerät zur steuerung des verkehsflusses .
+datenkompression	NOUN	OmegaWiki	jede von verschiedenen techniken , die die anzahl der zur repräsentation von information benötigten bits bei der speicherung oder übertragung reduziert .
+lügnerisch	ADJ	OmegaWiki	beabsichtigt unwahr seiend .
+obhut	NOUN	OmegaWiki	freundliche unterstützung und führung .
+entkohlen	VERB	OmegaWiki	kohlenstoff entfernen .
+katheter	NOUN	OmegaWiki	kleiner schlauch , der in eine körperöffnung eingeführt wird , um eine flüssigkeit zu entfernen , einen durchgang zu öffnen oder ein medikament zuzuführen .
+kanji	NOUN	OmegaWiki	die chinesischen schriftzeichen , die im japanischen schriftsystem zusammen mit den kana verwendet werden .
+unkenrufer	NOUN	OmegaWiki	eine person , die zukünftiges unheil voraussagt .
+schwefeldioxid	NOUN	OmegaWiki	giftiges gas , das von vulkanen und bei der verbrennung von kohle und petroleum freigesetzt wird .
+homorganisch	ADJ	OmegaWiki	( von lauten ) den gleichen artikulationsort habend .
+beschäftigung	NOUN	OmegaWiki	produktive aktivität , dienstleistung , gewerbe oder handwerk , für das man regelmäßig bezahlt wird .
+über_den_jordan_gehen	VERB	OmegaWiki	aufhören zu leben .
+artikulationsstelle	NOUN	OmegaWiki	die stelle im vokaltrakt , an der eine verengung zwischen einem aktiven ( beweglichen ) artikulator und einem passiven ( unbeweglichen ) artikulator entsteht .
+zerstreuung	NOUN	OmegaWiki	vergnügliche aktivität , die die aufmerksamkeit beansprucht .
+souss-tamazight	NOUN	OmegaWiki	berbersprache , der von den chleuh in marokko gesprochen wird .
+sich_erwärmen	VERB	OmegaWiki	warm oder wärmer werden .
+jangtse-delfin	NOUN	OmegaWiki	lipotes vexillifer : ein ausschließlich im jangtse in china beheimateter flussdelfin , der vermutlich seit ca . 2006 ausgestorben ist .
+schlundrachen	NOUN	OmegaWiki	der nasale teil der rachens zwischen der nase und dem weichen gaumen .
+schlundrachen	NOUN	OmegaWiki	der teil des rachens unter und hinter dem kehlkopf .
+spazieren_gehen	VERB	OmegaWiki	zu fuß gehen ohne besonderes ziel , nur um etwas frische luft zu schnappen .
+sexistisch	ADJ	OmegaWiki	ein geschlecht zugunsten des anderen diskriminierend .
+lenkrad	NOUN	OmegaWiki	ein ringförmiges objekt , das benutzt wird , um bestimmte fahrzeugtypen zu steuern .
+energieverbundnetz	NOUN	OmegaWiki	system zur verteilung von elektrizität , das aus miteinander verbundenen umspannwerken , trafos und generatoren besteht .
+dolch	NOUN	OmegaWiki	eine verhältnismäßig kurze , meist zweischneidige stichwaffe mit symmetrischem griff .
+madonna	NOUN	OmegaWiki	darstellung von maria , der mutter jesu , als gemälde , statue , ikone etc .
+madonna	NOUN	OmegaWiki	die mutter von jeus christus .
+trockenbackhefe	NOUN	OmegaWiki	backhefe , die getrocknet und in pulverform verkauft wird .
+subtil	ADJ	OmegaWiki	auf eine versteckte und für gewöhnlich verderbliche weise ablaufend oder sich verbreitend .
+sich_den_strick_nehmen	VERB	OmegaWiki	sich duch erhängen töten .
+makkaroni_mit_käse	NOUN	OmegaWiki	in den usa und kanada populäres gericht , das aus gekochten makkaroni und einer käsesauce aus cheddar besteht .
+stehen	VERB	OmegaWiki	in einer aufrechten haltung sein , auf die füße gestützt sein .
+klimatisierung	NOUN	OmegaWiki	system , das die lüft kühl und trocken hält .
+bombardieren	VERB	OmegaWiki	mit einer oder mehreren bomben angreifen .
+dakryozystitis	NOUN	OmegaWiki	entzündung des tränensacks .
+extrasolar	ADJ	OmegaWiki	von außerhalb des sonnensystems kommend .
+tamil	NOUN	OmegaWiki	eine dravidische sprache , die überwiegend von den tamilen in indien , sri lanka , malaysia und singapur gesprochen wird .
+japanisches_meer	NOUN	OmegaWiki	ein randmeer im westlichen pazifischen ozean , zwischen japan im osten und dem asiatischen festland im westen .
+gemüse-rhabarber	NOUN	OmegaWiki	pflanze mit großen blättern und grünen oder rötlichen blattstielen , die essbar sind , besonders in gekochtem zustand .
+plateau	NOUN	OmegaWiki	erhöhtes und flach ausgedehntes gebiet .
+tischbein	NOUN	OmegaWiki	eine der stützen , die einen tisch tragen .
+laichplatz	NOUN	OmegaWiki	ort , zu dem fische jedes jahr zurückkehren , um eier zu legen .
+kakaomasse	NOUN	OmegaWiki	flüssige masse , die aus gerösteten und gemahlenen kakaobohnen hergestellt wird .
+kräftig	ADV	OmegaWiki	auf eine starke oder kraftvolle weise .
+gigawatt	NOUN	OmegaWiki	einheit der leistung , gleich einer milliarde watt ; einheitensymbol gw
+gigawatt	NOUN	OmegaWiki	einheit der leistung , gleich einer million watt ; einheitensymbol mw
+gigawatt	NOUN	OmegaWiki	abgeleitete si-einheit der leistung mit dem einheitensymbol „ w “ , definiert als ein joule energie pro sekunde
+lexikologie	NOUN	OmegaWiki	ein teilgebiet der linguistik , dass sich mit dem studium des wortschatzes einer sprache beschäftigt .
+hinterhältig	ADJ	OmegaWiki	durch unaufrichtigkeit und täuschung gekennzeichnet .
+hinterhältig	ADJ	OmegaWiki	auf eine versteckte und für gewöhnlich verderbliche weise ablaufend oder sich verbreitend .
+jeansbluse	NOUN	OmegaWiki	bluse aus denimstoff .
+antigua_und_barbuda	NOUN	OmegaWiki	ein land in der karibik mit der haupstadt saint john 's .
+leitungswasser	NOUN	OmegaWiki	trinkbares wasser , das durch ein netz von wasserleitungen bis zum endverbraucher gelangt und dort aus dem wasserhahn entnommen wird .
+kumykisch	NOUN	OmegaWiki	turksprache , die von etwa 200.000 sprechern ( den kumüken ) in russland und dagestan gesprochen wird .
+heraufschalten	VERB	OmegaWiki	in einen höheren gang schalten ( bei motorfahrzeugen ) .
+otologie	NOUN	OmegaWiki	zweig der medizin , der sich mit dem aufbau , funktion und pathologie des ohrs befasst .
+wegschwimmen	VERB	OmegaWiki	in phantasien oder inneren bilden ( beinahe ) versunken sein , nur noch wenig kontakt zur wirklichkeit haben .
+brustharnisch	NOUN	OmegaWiki	eine panzerplatte , die die brust schützt ; der vorderteil eines kürass .
+tahin	NOUN	OmegaWiki	paste aus gemahlenen sesamkörnern , die zum kochen verwendet wird .
+einstöckig	ADJ	OmegaWiki	ein stockwerk aufweisend .
+jacobson-organ	NOUN	OmegaWiki	geruchsorgan , das hauptsächlich zur wahrnehmung von pheromonen dient .
+klar	ADJ	OmegaWiki	über das wetter oder den himmel : vollkommen klar und schön .
+frühstückszimmer	NOUN	OmegaWiki	zimmer , in dem gefrühstückt wird .
+frauenstimme	NOUN	OmegaWiki	die stimme einer frau .
+waschlappen	NOUN	OmegaWiki	kleines rechteckiges textilstück aus frottee , häufig in form einer tasche , das zum waschen des körpers verwendet wird .
+z.t.	ADV	OmegaWiki	zum teil ; in gewissem maß ; nicht ganz .
+verdecken	VERB	OmegaWiki	der sicht entziehen .
+armblütige_segge	NOUN	OmegaWiki	seltene seggenart , die in teilen europas verbreitet ist .
+diapirisch	ADJ	OmegaWiki	diapire betreffend .
+belügen	VERB	OmegaWiki	jemandem eine lüge erzählen .
+nachtmensch	NOUN	OmegaWiki	mensch , der gerne bis spät in die nacht aufbleibt .
+kabylisch	NOUN	OmegaWiki	berbersprache , die vom volk der kabylen gesprochen wird .
+wecker	NOUN	OmegaWiki	uhr , die so eingestellt werden kann , dass sie zu einer bestimmten zeit läutet .
+platinring	NOUN	OmegaWiki	ein ring aus platin .
+klöte	NOUN	OmegaWiki	männliche keimdrüse , die spermien und männliche geschlechtshormone produziert und bei bestimmten tieren vorkommt .
+konzis	ADJ	OmegaWiki	viel ausdrückend , ohne oder mit wenigen überflüssigen details oder worten .
+stopfen	NOUN	OmegaWiki	das ausbessern eines lochs in einem kleidungsstück mit nadel und faden .
+abkommen	NOUN	OmegaWiki	alle der nachfahren eines bestimmten stammvaters oder vorläufers .
+magnetosphäre	NOUN	OmegaWiki	raumgebiet um ein astronomisches objekt , in dem dessen magnetfeld dominiert .
+belutschisch	NOUN	OmegaWiki	nordwestiranische sprache , die sprache der belutschen aus der region belutschistan , die teile des westlichen pakistan , des östlichen iran und des südlichen afghanistan umfaßt .
+jahrzehnt	NOUN	OmegaWiki	ein zeitraum von zehn jahren .
+produzieren	VERB	OmegaWiki	etwas herstellen oder eine arbeit tun , bei der etwas entsteht .
+applizieren	VERB	OmegaWiki	( medikamente ) geben oder anwenden .
+nur	ADV	OmegaWiki	nicht mehr als .
+halbwüchsige	NOUN	OmegaWiki	ein junger mensch zwischen dem beginn der pubertät und dem erwachsenenalter ; im zustand der entwicklung zwischen geschlechtsreife und erwachsenenalter .
+enthesitis	NOUN	OmegaWiki	entzündung am sehnenansatz .
+solothurn	NOUN	OmegaWiki	ein kanton im norden der schweiz .
+bremspedal	NOUN	OmegaWiki	pedal in einem fahrzeug , das man betätigt , um zu bremsen .
+hintertür	NOUN	OmegaWiki	tür im hinteren teil eines gebäudes .
+initialwort	NOUN	OmegaWiki	ein initialwort setzt sich aus den anfangsbuchstaben
+initialwort	NOUN	OmegaWiki	abkürzung , die aus den anfangsbuchstaben eines der wörter eines ausdrucks oder eines namens gebildet wird
+veränderung	NOUN	OmegaWiki	der vorgang des änderns einer sache .
+veränderung	NOUN	OmegaWiki	der prozess des anderswerdens .
+datenübertragungsrate	NOUN	OmegaWiki	ein maß für die geschwindigkeit ( datenmenge ) , die über eine internetverbindung gesendet werden kann . je höher die bandweite , desto schneller die verbindung .
+hindi	NOUN	OmegaWiki	indische sprache , die hauptsächlich in nord- und zentralindien gesprochen wird
+batzen	NOUN	OmegaWiki	eine kompakte masse .
+wahrheitswidrig	ADV	OmegaWiki	auf eine lügnerische und unwahre weise .
+bjaresina	NOUN	OmegaWiki	etwa 613 km langer nebenfluss des dnjepr in weißrussland .
+oxidation	NOUN	OmegaWiki	chemische reaktion , die den sauerstoffgehalt einer verbindung erhöht .
+hellwach	ADJ	OmegaWiki	vollständig wach .
+spritfresser	NOUN	OmegaWiki	fahrzeug , das sehr viel kraftstoff benötigt .
+exzellent	ADJ	OmegaWiki	von höchster qualität
+seife	NOUN	OmegaWiki	waschmittel , das in form von blöcken , granulat , flocken oder als flüssigkeit aus einer mischung von natriumsalzen und anderen fettsäuren von natürlichen fetten und ölen hergestellt wird .
+steuerrad	NOUN	OmegaWiki	ein ringförmiges objekt , das benutzt wird , um bestimmte fahrzeugtypen zu steuern .
+värmländisch	NOUN	OmegaWiki	schwedischer dialekt , der hauptsächlich in der historischen provinz värmland in schweden gesprochen wird .
+atlantischer_ozean	NOUN	OmegaWiki	der ozean zwischen amerika im westen und europa und afrika im osten .
+atlantischer_ozean	NOUN	OmegaWiki	der nördliche teil des atlantischen ozeans , der sich vom äquator aus nach norden bis zum arktischen ozean erstreckt .
+mutagenität	NOUN	OmegaWiki	stoff , der die frequenz von mutationen des erbguts über die normale rate erhöht .
+pipi	NOUN	OmegaWiki	flüssige ausscheidung , die aus wasser , salzen und harnstoff besteht , in den nieren produziert , in der blase gesammelt und durch die harnröhre abgegeben wird .
+wortzusammensetzung	NOUN	OmegaWiki	ein wort , das durch kombination anderer wörter gebildet wurde .
+essonne	NOUN	OmegaWiki	französisches département in der region île-de-france , benannt nach dem fluss essonne .
+skrotum	NOUN	OmegaWiki	ein beutel der haut und des muskels , welche die testikel enthalten .
+passionsfrucht	NOUN	OmegaWiki	die essbare frucht der passionsblume aus brasilien mit runder form und gelber oder purpurner farbe .
+gemeiner_wasserläufer	NOUN	OmegaWiki	ein insekt aus der familie der gerridae .
+staatsforst	NOUN	OmegaWiki	wald , der sich im eigentum des staates befindet und von ihm bewirtschaftet wird .
+tonsur	NOUN	OmegaWiki	die christliche praxis der rasur des oberkopfes , um eine haarkrone entstehen zu lassen .
+tonsur	NOUN	OmegaWiki	die vollständige oder teilweise entfernung des kopfhaares aus religiösen gründen .
+stilmittel	NOUN	OmegaWiki	rhetorisches stilmittel , bei dem eine wort oder ein satzteil in einem nichtwörtlichen sinn verwendet wird .
+modifikation	NOUN	OmegaWiki	der vorgang des änderns einer sache .
+platte	NOUN	OmegaWiki	ein typischerweise rechteckiges teil einer oberfläche oder einer wandbedeckung oder einer umgenzung oder dergleichen .
+hochgeschwindigkeitszug	NOUN	OmegaWiki	eisenbahngleis , das so konzipiert ist , dass züge darauf mit über 200 km/h fahren können
+hochgeschwindigkeitszug	NOUN	OmegaWiki	zug , der mit der höchstgeschwindigkeit von 320 km/h auf speziellen hochgeschwindigkeitsstrecken fahren .
+montieren	VERB	OmegaWiki	zusammensetzen der komponenten eines produktes , um ein endprodukt oder einer untergruppe desselben zu erhalten .
+rindfleisch	NOUN	OmegaWiki	das fleisch von kuh , ochse oder stier , die zur schlachtung gezüchtet wurden .
+hörnchen	NOUN	OmegaWiki	kleines oder mittelgroßes nagetier der familie sciuridae
+zeder	NOUN	OmegaWiki	ein nadelbaum der gattung cedrus in der familie der kieferngewächse ( pinaceae ) .
+ausgestorbene_sprache	NOUN	OmegaWiki	eine sprache , die keine muttersprachler mehr hat .
+spannerin	NOUN	OmegaWiki	jemand , der menschen bei intimem , oft sexuellem , verhalten beobachtet .
+safran	NOUN	OmegaWiki	gelbe farbe , die der von safran ähnelt .
+safran	NOUN	OmegaWiki	gewürz , das aus den stempeln der safranpflanze gewonnen wird .
+preview	NOUN	OmegaWiki	präsentation eines films , theaterstücks usw. , welche einer besonderen zuschauergruppe vorbehalten ist und welche vor der offiziellen aufführung erfolgt .
+ehe_ohne_trauschein	NOUN	OmegaWiki	emotional und körperlich intime beziehung zweier menschen , die zusammen leben , aber nicht verheiratet sind .
+kugel	NOUN	OmegaWiki	geschoss , normalerweise aus metall , das von einer schusswaffe mit hoher geschwindigkeit abgeschossen wird
+kugel	NOUN	OmegaWiki	runder dreidimensionaler körper , dessen oberfläche an jeder stelle den gleichen abstand vom mittelpunkt hat
+ohnmacht	NOUN	OmegaWiki	der plötzliche ( und meist kurzzeitige ) verlust des bewußtseins aufgrund von ungenügender blut- und sauerstoffzufuhr zum gehirn .
+triefnass	ADJ	OmegaWiki	mit viel flüssigkeit oder feuchtigkeit durchtränkt .
+sonnensystem	NOUN	OmegaWiki	der raum zwischen einer sonne und den planeten eines sonnensystems . der interplanetare weltraum ist nicht leer , sondern er enthält staub , elektrisch geladene teilchen und das magnetische feld der sonne , das sogenannte interplanetere magnetfeld oder imf .
+sonnensystem	NOUN	OmegaWiki	die sonne mit allen himmelskörpern und materie , die durch gravitation an sie gebunden sind
+belhariya	NOUN	OmegaWiki	kiranti-sprache , die im osten nepals gesprochen wird .
+holzhauer	NOUN	OmegaWiki	person , deren beruf es ist bäume zu fällen .
+schwimmblase	NOUN	OmegaWiki	mit luft gefülltes inneres organ , mit dem fische ihren auftrieb kontrollieren können .
+salzsole	NOUN	OmegaWiki	stark mit salz gesättigtes oder angereichertes wasser .
+siedepunkt	NOUN	OmegaWiki	die temperatur , bei der ein reinstoff bei einem bestimmten druck vom flüssigen in den gasförmigen zustand übergeht
+doktorgrad	NOUN	OmegaWiki	eine der höchsten akademischen grade , die an einer universität erworben werden kann .
+zufällig	ADJ	OmegaWiki	unerwartet oder aus zufall geschehend .
+dazit	NOUN	OmegaWiki	graues magmatisches gestein mit hohem eisengehalt .
+nach_christus	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre vor der zeitenwende , das heißt vor der geburt jesus christus .
+nach_christus	NOUN	OmegaWiki	kennzeichnet im gregorianischen und julianischen kalendersystem die jahre nach der zeitenwende , das heißt nach der geburt jesus christus .
+thermostat	NOUN	OmegaWiki	vorrichtung , die dazu dient , die temperatur eines systems auf der gewünschten solltemperatur zu halten
+päpstlicher_als_der_papst	ADJ	OmegaWiki	strenger oder eifriger sein als gefordert .
+voreilig	ADV	OmegaWiki	auf eine eilige und waghalsige weise .
+flugzeugabsturz	NOUN	OmegaWiki	die unkontrollierte landung eines flugzeugs , die zu beschädigung des flugzeugs und möglicherweise zu verletzung oder tod der passagiere führt .
+schnürsenkel	NOUN	OmegaWiki	ein band , das zum schnüren von schuhen verwendet wird .
+lomonossow-rücken	NOUN	OmegaWiki	circa 1800 km langer mittelozeanischer rücken im arktischen ozean .
+gorilla	NOUN	OmegaWiki	die größte menschenaffenart , heimisch in den wäldern zentralafrikas .
+lozère	NOUN	OmegaWiki	département im süden frankreichs , nahe dem zentralmassiv .
+ovar	NOUN	OmegaWiki	meist paarig angelegtes weibliches fortpflanzungsorgan , das eizellen und die hormone östrogen und progesteron produziert .
+tiervirologie	NOUN	OmegaWiki	forschungsgebiet , das sich mit viren beschäftigt , die tiere infizieren .
+waldgebiet	NOUN	OmegaWiki	von wald und bäumen bedecktes land .
+obliquus	NOUN	OmegaWiki	der kasus für substantive , die nicht die subjektposition in einem satz einnehmen .
+diapir	NOUN	OmegaWiki	struktur , die entsteht , wenn ein material mit einer geringeren dichte nach oben anderes material durchbricht .
+wendel	NOUN	OmegaWiki	etwas , das in der form einer helix oder spirale gewunden ist .
+dgs	NOUN	OmegaWiki	gebärdensprache , die von gehörlosen personen in deutschland benutzt wird .
+pressen	VERB	OmegaWiki	druck auf einen gegenstand ausüben .
+meinungsfreiheit	NOUN	OmegaWiki	das recht eines jeden menschen , seine meinung frei zu äußern und zu verbreiten .
+gegen_den_uhrzeigersinn	NOUN	OmegaWiki	in der entgegengesetzten richtung , zu der sich die zeiger einer uhr bewegen .
+blasen	VERB	OmegaWiki	einen luftstrom verursachen .
+blasen	VERB	OmegaWiki	einem mann durch orale stimulation sexuelle lust bereiten .
+blasen	VERB	OmegaWiki	von luft- oder wasserströmen getragen werden .
+birne	NOUN	OmegaWiki	die frucht des birnbaums .
+sichtbar	ADV	OmegaWiki	auf eine sichtbare weise .
+lebensmittelchemie	NOUN	OmegaWiki	wissenschaft von der zusammensetzung von lebensmitteln .
+lebensmittelchemie	NOUN	OmegaWiki	wissenschaftler , der sich mit der analyse von lebensmitteln beschäftigt .
+euphrat	NOUN	OmegaWiki	der westlich gelegene der beiden flüsse , die mesopotamien ausmachen , der von anatolien durch den irak in den persischen golf fließt .
+bescheißen	VERB	OmegaWiki	jemanden bewußt täuschen und daraus einen finanziellen vorteil ziehen .
+unregelmäßiges_verb	NOUN	OmegaWiki	ein verb , das nicht den standardregeln der konjugation folgt .
+tomatenketchup	NOUN	OmegaWiki	würzsauce , aus tomatenmark , essig , zucker , speisesalz und gewürzen .
+leinenpanzer	NOUN	OmegaWiki	brustpanzer der von den antiken griechen und anderen zivilisationen verwendet wurde und der wahrscheinlich aus mehrschichtigem leinen bestand .
+saufbold	NOUN	OmegaWiki	eine person , die süchtig danach ist , exzessiv alkohol zu trinken .
+saufbold	NOUN	OmegaWiki	jemand , der regelmäßig viel alkohol trinkt und davon abhängig ist .
+verwandter	NOUN	OmegaWiki	eine person , die aufgrund gemeinsamer vorfahren , heirat oder adoption zur selben familie gehört .
+smiley	NOUN	OmegaWiki	grafische darstellung entweder in form von bildern oder ascii-zeichen .
+amygdala	NOUN	OmegaWiki	mandelförmige gruppe von neuronen im medialen teil des temporallappens des gehirns , die eine zentrale rolle bei der verarbeitung und speicherung von emotionen , vor allem von angst , spielt .
+lächeln	NOUN	OmegaWiki	eine aufwärtsbewegung der mundwinkel , die freude oder zufriedenheit andeutet .
+pflanzenart	NOUN	OmegaWiki	die pflanzen , die in einer bestimmten region oder einer umgebung zu finden sind .
+tschüs	NOUN	OmegaWiki	ein abschiedsgruß , der gebraucht wird , wenn ein oder mehr menschen eine situation , einen dialog oder einen ort verlassen , während andere zurück bleiben .
+arschkriecher	NOUN	OmegaWiki	jemand , der anderen schmeichelt um daraus einen persönlichen vorteil zu ziehen .
+spätestens	ADV	OmegaWiki	bezeichnet das letztmögliche datum , bis zu welchem ein ereignis eintreten kann oder muß .
+originaltext	NOUN	OmegaWiki	text , der in eine andere sprache übersetzt werden soll .
+technetium	NOUN	OmegaWiki	chemisches element mit dem symbol tc und der ordnungszahl 43 , künstliches , radioaktives übergangsmetall .
+glockenturm	NOUN	OmegaWiki	turm , in dem glocken aufgehängt sind .
+streitaxt	NOUN	OmegaWiki	ein werkzeug zum bäumefällen und holzspalten , das aus einen schweren , meist metallenen kopf besteht , der an einem ende zur klinge abgeflacht ist , der an einem typischeriweise hölzernen stil befestigt ist .
+krakau	NOUN	OmegaWiki	stadt in polen .
+herzmuskelentzündung	NOUN	OmegaWiki	entzündung des herzmuskels .
+schnell	ADJ	OmegaWiki	gekennzeichnet durch unverzüglichkeit .
+schnell	ADJ	OmegaWiki	in einer kurzen zeit passierend oder auftretend .
+doppelblindstudie	NOUN	OmegaWiki	experiment , bei dem weder testpersonen noch versuchsleiter wissen , welche probanden der experimental- und welche der kontrollgruppe angehören .
+wehrkirche	NOUN	OmegaWiki	kirche , über vorrichtungen zur verteidigung gegen feinde verfügt .
+rechtsbrecher	NOUN	OmegaWiki	person , die eine kriminelle handlung begangen hat .
+komödiant	NOUN	OmegaWiki	ein professioneller darsteller , der witze erzählt oder/und komische szenen aufführt .
+jumper	NOUN	OmegaWiki	dickes , warmes kleidungsstück mit langen ärmeln , das über den kopf angezogen wird .
+jumper	NOUN	OmegaWiki	ein leichtes hemd ohne knöpfe , mit kurzen ärmeln und ohne kragen .
+wucherer	NOUN	OmegaWiki	jemand , der geld zu überhöhten zinsraten verleiht .
+hang	NOUN	OmegaWiki	der soziologische begriff , der bevorzugung ausdrückt
+hustenstiller	NOUN	OmegaWiki	wirkstoff , der husten lindert oder löst .
+schon	ADV	OmegaWiki	vor einer bestimmten zeit , entweder vergangenheit , gegenwart oder zukunft .
+chuzpe	NOUN	OmegaWiki	beinah arroganter mut ; äußerste dreistigkeit , frechheit oder unverschämtheit ; höchstes selbstvertrauen .
+schriftsprache	NOUN	OmegaWiki	ein register ( stil ) einer sprache , das ausschließlich in der geschriebenen sprache verwendet wird . es unterscheidet sich von der gesprochenen sprache durch lexikon ( wortwahl ) und syntax .
+wirbellos	ADJ	OmegaWiki	ohne wirbelsäule .
+vereinigtes_königreich	NOUN	OmegaWiki	ein land in westeuropa , das wales , schottland , england und nordirland umfaßt , mit der hauptstadt london .
+raupe	NOUN	OmegaWiki	wurmähnliche larve eines schmetterlings oder einer motte
+nevada	NOUN	OmegaWiki	der 36. bundesstaat der vereinigten staaten , gelegen im westen .
+tschadische_gebärdensprache	NOUN	OmegaWiki	im tschad verwendete gebärdensprache .
+dingsbums	NOUN	OmegaWiki	etwas , dessen namen man vergessen hat .
+althochdeutsche_sprache	NOUN	OmegaWiki	die älteste schriftlich bezeugte form der deutschen sprache , die in der zeit etwa von 750 bis 1050 verwendet wurde .
+neujahrstag	NOUN	OmegaWiki	der traditionelle wunsch für den neujahrstag .
+neujahrstag	NOUN	OmegaWiki	der erste tag des neuen kalenderjahres , speziell der 1. januar im julianischen und gregorianischen kalender .
+neujahrstag	NOUN	OmegaWiki	der wechsel von einem jahr zum nächsten .
+double	NOUN	OmegaWiki	eine person , die einer anderen person perfekt ähnelt .
+interkontinental	ADJ	OmegaWiki	zwischen zwei oder mehreren kontinenten stattfindend .
+weide	NOUN	OmegaWiki	einer der verschiedenen bäume oder sträucher der gattung salix
+weide	NOUN	OmegaWiki	mit gras ond/oder kräutern bewachsenes land , auf dem tiere weiden können .
+cholesterol	NOUN	OmegaWiki	lipid aus der gruppe der sterole , das sowohl vom körper selbst hergestellt als auch mit tierischer nahrung aufgenommen wird .
+koffeinfrei	ADJ	OmegaWiki	ohne koffein nach dessen entfernung .
+krimtatarisch	NOUN	OmegaWiki	turksprache der krim und usbekistans .
+buchhandlung	NOUN	OmegaWiki	geschäft , in dem bücher verkauft werden .
+fiebersenkend	ADJ	OmegaWiki	fieber verhindernd oder senkend .
+sich_schicken	VERB	OmegaWiki	sich mit einer unangenehmen sache oder person abfinden .
+einstiegsschacht	NOUN	OmegaWiki	eine öffnung im boden , die benutzt wird um die kanalisation oder andere unterirdische installationen zu erreichen .
+dreiteilung	NOUN	OmegaWiki	die teilung in drei teile .
+frieren	VERB	OmegaWiki	durch abkühlen einen festen aggregatzustand erreichen .
+fangen	NOUN	OmegaWiki	beliebtes kinderspiel , bei dem ein kind der fänger ist und versuchen muss , ein anderes kind zu berühren , damit es dessen aufgabe wird jemanden zu fangen .
+fangen	NOUN	OmegaWiki	beliebtes kinderspiel , bei dem ein kind der fänger ist und versuchen muss , ein anderes kind zu berühren , damit es dessen aufgabe wird jemanden zu fangen .
+ipa	NOUN	OmegaWiki	international anerkannte sammlung von zeichen für phonetische transkription .
+verdauungsfördernd	ADJ	OmegaWiki	die verdauung fördernd .
+fujisan	NOUN	OmegaWiki	der höchste berg in japan und ein bekanntes symbol des landes .
+massachusetts	NOUN	OmegaWiki	der 6. bundesstaat der vereinigten staaten , gelegen im nordosten .
+freetown	NOUN	OmegaWiki	die hauptstadt sierra leones
+d	NOUN	OmegaWiki	zweiter stammton auf der tonleiter , zwischen c und e .
+beestmilch	NOUN	OmegaWiki	muttermilch , die in den ersten tagen nach der geburt produziert wird .
+empfängnisverhütung	NOUN	OmegaWiki	das absichtliche verhindern einer schwangerschaft durch verschiedene hilfsmittel , methoden , operative eingriffe oder medikamente .
+empfängnisverhütung	NOUN	OmegaWiki	die kontrolle der zahl der kinder in einer familie und den abständen zwischen geburten , besonders durch die verwendung von verhütungsmitteln .
+in_die_arme_nehmen	VERB	OmegaWiki	jemanden mit den armen umfassen .
+schlafstube	NOUN	OmegaWiki	ein raum in einem haus , gewöhnlich mit mindestens einem bett und einem schrank ausgestattet , in dem eine person schläft .
+schlafstube	NOUN	OmegaWiki	zimmer in einem haus , das für gäste auf besuch vorgesehen ist .
+onkologie	NOUN	OmegaWiki	die wissenschaft von ursache , entwicklung , charakteristik und behandlung von krebs .
+onkologie	NOUN	OmegaWiki	arzt , der auf diagnose und behandlung von krebs spezialisert ist .
+femur	NOUN	OmegaWiki	der knochen , die aus dem becken erstreckt sich bis zu den knien in vertebraten-tetrapoden , einschließlich menschen .
+zoologie	NOUN	OmegaWiki	das wissenschaftliche studium der tiere .
+zoologie	NOUN	OmegaWiki	erforschung der tiere , einschließlich ihres körperbaus , ihrer systematik , physiologie und geschichte .
+octan	NOUN	OmegaWiki	farbloser , brennbarer flüssiger kohlenwasserstoff mit acht kohlenstoffatomen .
+informationsnetz	NOUN	OmegaWiki	ein netzwerk von verbundenen computern , von kleinen heimnetzwerken bis hin zum weltumspannenden internet .
+berlinisch	NOUN	OmegaWiki	in berlin und umgebung gesprochener dialekt .
+kloster	NOUN	OmegaWiki	wohn- und arbeitsort einer gemeinschaft von mönchen oder nonnen .
+produkt	NOUN	OmegaWiki	das ergebnis der multiplikation von zwei oder mehr zahlen .
+produkt	NOUN	OmegaWiki	substanz , die bei einer chemischen reaktion gebildet wird .
+produkt	NOUN	OmegaWiki	ware , die zum kauf angeboten wird .
+speisesalz	NOUN	OmegaWiki	würzmittel ( nacl - natriumchlorid ) , das verwendet wird , um den geschmack von speisen zu verbessern ( oft zusammen mit pfeffer ) .
+ficken	VERB	OmegaWiki	geschlechtsverkehr haben .
+absoluter_nullpunkt	NOUN	OmegaWiki	theoretisches system , bei dem weder energie aufgenommen noch abgegeben wird . die tiefste mögliche temperatur liegt bei 0 k ( -273,15 °c ) .
+aufbewahrungsort	NOUN	OmegaWiki	ein ort , an dem etwas hinterlegt wird zur lagerung , sicheren aufbewahrung oder erhaltung .
+verwaltungskompetenz	NOUN	OmegaWiki	die macht eines verwaltungsorgans , kontrolle über einen bestimmten bereich auszuüben .
+heim	NOUN	OmegaWiki	institution , in der verwaiste kinder leben und erzogen werden .
+heim	NOUN	OmegaWiki	eine umgebung , die zuneigung und sicherheit bietet .
+heim	NOUN	OmegaWiki	die behausung eines menschen , sein wohnsitz .
+zwangsehe	NOUN	OmegaWiki	heirat gegen den willen eines oder beider partner .
+schneiden	VERB	OmegaWiki	einen einschnitt erzeugen ( zum beispiel mit einem messer ) .
+schneiden	VERB	OmegaWiki	etwas in scheiben schneiden .
+creutzfeldt-jakob-krankheit	NOUN	OmegaWiki	degenerative krankheit des zentralen nervensystems , das durch die ablagerung von prionen gekennzeichnet ist .
+freundlich	ADJ	OmegaWiki	wärme und freundlichkeit ausstrahlend .
+entsendung	NOUN	OmegaWiki	die handlung etwas zu versenden .
+entrüstung	NOUN	OmegaWiki	ein gefühl des gerechtfertigten ärgers .
+schlechterdings	ADV	OmegaWiki	auf eine einfache weise oder in einem einfachen zustand .
+ainu	NOUN	OmegaWiki	eine ethnie , die auf hokkaido , nord-honshu , sachalin und den kurilen heimisch war bzw. ist . eine ethnische minderheit in japan . heutzutage bezeichnen sich rund 27.000 japaner selbst als ainu .
+ainu	ADJ	OmegaWiki	eine person , die der ethnischen gruppe der ainu angehört .
+ainu	NOUN	OmegaWiki	eine sprache , die vom volk der ainu auf der nordjapanischen insel hokkaido gesprochen wird .
+allgemeinplatz	NOUN	OmegaWiki	eine offensichtliche bemerkung , die zu oft gemacht wurde .
+kaloschensprache	NOUN	OmegaWiki	auf dem deutschen basierende geheimsprache mit einflüssen aus dem jiddischen und dem romani , die besonders im kriminellen milieu und von fahrenden handwerkern und bettlern gesprochen wurde .
+lateinisches_alphabet	NOUN	OmegaWiki	alphabetisches schriftsystem mit 26 buchstaben , das mit einigen modifikationen von den meisten sprachen in europa , amerika , schwarzafrika und den inseln des pazifischen ozeans verwendet wird .
+sterbebett	NOUN	OmegaWiki	das bett einer sterbenden person .
+gössel	NOUN	OmegaWiki	junge gans .
+telefon	NOUN	OmegaWiki	ein elektronisches gerät , das zum anrufen von menschen benutzt wird .
+rosa	NOUN	OmegaWiki	eine farbe , die man erhält , wenn man rote und weiße farbe mischt .
+neuritis	NOUN	OmegaWiki	entzündung eines nervs .
+erdmetall	NOUN	OmegaWiki	element aus der borgruppe des periodensystems .
+abhauen	VERB	OmegaWiki	einen ort , eine situation oder ein gespräch verlassen .
+abhauen	VERB	OmegaWiki	sich von einem ort zu einem anderen , weiter entfernten ort bewegen .
+hypotaktisch	ADJ	OmegaWiki	hypotaxe betreffend oder verwendend .
+berezina	NOUN	OmegaWiki	etwa 613 km langer nebenfluss des dnjepr in weißrussland .
+verderblich	ADJ	OmegaWiki	außerordentlich schädlich .
+nepotismus	NOUN	OmegaWiki	die bevorzugung und vergabe von posten an verwandte oder enge freunde aufgrund persönlichener beziehungen und nicht aufgrund von fähigkeiten .
+umsicht	NOUN	OmegaWiki	wissen , wie man peinlichkeiten oder kummer vermeidet .
+nanogramm	NOUN	OmegaWiki	masseinheit für gewicht , die einem tausendstel eines mikrogramms entspricht .
+idol	NOUN	OmegaWiki	eine person , die als ein positives beispiel für ein verhalten dient , besonders in einem bestimmen feld .
+ilocano	NOUN	OmegaWiki	austronesische sprache , die auf den philippinen gesprochen wird .
+zuckercouleur	NOUN	OmegaWiki	lösliche braune lebensmittelfarbe .
+leibarzt	NOUN	OmegaWiki	arzt , der hauptsächlich für einen patienten da ist .
+universität	NOUN	OmegaWiki	ein institut der höheren bildung und der forschung , das akademische abschlüsse verleiht .
+silberbergwerk	NOUN	OmegaWiki	bergwerk , in dem silber abgebaut wird .
+polychrom	ADJ	OmegaWiki	mehrere farben aufweisend .
+fotograf	NOUN	OmegaWiki	person , die mit einem fotoapparat fotos macht .
+parhelion	NOUN	OmegaWiki	durch die brechung des lichts an eiskristallen hervorgerufener optischer effekt , der in einem abstand von rund 22° links oder rechts , manchmal auch beidseitig , neben der sonne auftritt .

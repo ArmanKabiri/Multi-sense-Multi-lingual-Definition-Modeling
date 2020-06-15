@@ -1,0 +1,2956 @@
+適切な	adj	WordNet	巧妙 だ 思慮 分別 、 便宜 および 機敏 さ により 特徴付ける られる
+耐火煉瓦	noun	WordNet	耐火 粘土 で 作る れる た レンガ
+耐火煉瓦	noun	WordNet	例えば 、 炉 と 煙突 を 裏打ち する ため に 、 使用 する れる
+ネルンスト	noun	WordNet	ドイツ 人 の 物理 学者 、 化学 者 で 、 熱 力学 の 第 3 法則 を 定式 化 する た ( 1 8 6 4 年 − 1 9 4 1 年 )
+傍証	noun	WordNet	議論 する れる て いる 事実 に関する 推理 の 基礎 のみ を 提供 する 証拠
+規格化	verb	WordNet	回転 する せる
+規格化	verb	WordNet	新しい または 異なる 一定 の 位置 を 設定 する ある い は 整える
+規格化	verb	WordNet	方向 感覚 を 失う た 後 に 、 もう一度 方向 を 合わせる
+録音媒体	noun	WordNet	音響 信号 の 記録 媒体
+カスミソウ	noun	WordNet	小さな 槍 形 の 葉 と 、 多数 の 白 か ピンク の 小さな 花 を 持つ 、 背 の 高い 植物
+請合う	verb	WordNet	確か に 確実 性 と 確信 で 通知 する
+帝王切開	noun	WordNet	腹壁 と 子宮 を 外科 的 切開 による 胎児 の 出産 ( ユリウス ・ カエサル が その よう に 生まれる た と 信じる られる て いる こと から )
+貴金属	noun	WordNet	腐食 や 酸化 に 耐性 の ある 金属
+貴金属	noun	WordNet	あまり 一般 的 だ ない 貴重 だ 金属 で 、 通貨 や 宝飾 品 に 使う れる もの
+テントウムシ	noun	WordNet	テントウムシ
+罰点	noun	WordNet	非行 または 落第 について 人 に つける られる 評点
+罰点	noun	WordNet	普通 学校 または 軍隊 で 与える られる
+スポーツシャツ	noun	WordNet	心地好い 普段 着用 に デザイン する れる た 袖 の 短い シャツ
+要	noun	WordNet	回転 する 物 を 支持 する 、 短い シャフト から 成る 軸
+庁舎	noun	WordNet	政府 の 省 の 仕事 が 行う れる 建物
+タングステン酸塩	noun	WordNet	タングステン 酸 の 塩
+乾燥	noun	WordNet	湿気 を 抽出 する 過程
+デジタル加入者線	noun	WordNet	電話 会社 によって 地元 の 加入 者 に 提供 する れる て 、 高速 で データ を 運ぶ デジタル 線 へ の 総称
+マセル	noun	WordNet	レソト の 首都
+マセル	noun	WordNet	レソト 北西 部 に 位置 する
+届ける	verb	WordNet	案内 する れる 、 または 別 の 場所 に 送信 する れる
+届ける	verb	WordNet	転送
+音の高低	noun	WordNet	声調 言語 で 、 単語 を 識別 する の に 役立つ 声 の ピッチ 、 あるいは ピッチ の 変化
+安定	adj	WordNet	すぐ に 化学 変化 に 加わる ない さ ま
+安定	noun	WordNet	安定 的 だ 秩序 ( 特に 社会 の )
+安定	adv	WordNet	安定 する た 固い 固定 する た 方法 で
+雪の下	noun	WordNet	ユキノシタ 属 の 様々 だ 植物 の 総称
+亜鉛華軟膏	noun	WordNet	ある 皮膚 病 を 治療 する ため に 使用 する れる 亜鉛 を 含む で いる 軟膏
+プロセニアムアーチ	noun	WordNet	舞台 壁 の 穴 の 上 の アーチ
+折紙	noun	WordNet	紙 を 折る て 物 を 表現 する 形 ( たとえば 花 や 鳥 ) を 作る 日本 の 芸術
+追いちらす	verb	WordNet	立ち去る 力
+追いちらす	verb	WordNet	直接 の 意味 と 比ゆ 的 意味 の 両方 で 使用 する れる
+平衡定数	noun	WordNet	均衡 に 可逆 反応 で 達す て いる とき の ( 正 反応 の 速度 が 逆 反応 の レート と 等しい とき に ) 集中 の 比率
+徴兵忌避者	noun	WordNet	徴兵 する れる て も 不法 に 拒否 する 人
+クロム酸塩	noun	WordNet	クロム 酸 の 塩 または エステル
+受け入れ	noun	WordNet	人 に 入場 を 許す 行為
+受け入れ	noun	WordNet	賛意 を もつ て 受け入れる 行為
+受け入れ	noun	WordNet	好意 的 受け入れ
+張力	noun	WordNet	堅い 何 か を 引っ張る 動作
+腰椎穿刺	noun	WordNet	診断 や 治療 の 目的 で 、 脊髄 の 腰部 の くも膜 下 腔 から 体液 を 穿刺 する て 取り除く こと
+ピンダル川	noun	WordNet	ギリシア の 叙情詩 人 で 、 叙情詩 で 知る れる ( 紀元前 5 1 8 ? 年 − 4 3 8 ? 年 )
+側頭骨	noun	WordNet	人間 の 頭蓋骨 側 を 形成 する 、 内耳 を 覆う 太い 骨
+測量	noun	WordNet	正確 に 地図 に 記載 できる よう に 地面 の 上 の 角度 や 距離 を 測定 する 作業
+トンボー	noun	WordNet	米国 の 天文学 者 で 、 冥王星 を 発見 する た ( 1 9 0 6 年 − 1 9 9 7 年 )
+出商い	noun	WordNet	生活 の ため に 品物 を 売る こと
+掛渡す	verb	WordNet	間 を 接続 する か 、 距離 を 減少 する
+渋り腹	noun	WordNet	まとまる た 量 の 排泄 物 が 生成 する れる て いる ない のに 、 切迫 する た 便意 を 伴う 肛門 括約筋 の 痛み の ある 攣縮
+渋り腹	noun	WordNet	過敏 性 大腸 症候群 に 関係 が ある
+よくする	verb	WordNet	尊敬 と 考慮 と共に 扱う
+クォンタイズ	verb	WordNet	量子 論 を 適用 する
+クォンタイズ	verb	WordNet	特定 の 変化 が 、 整数 倍 だ ある 共通 因数 の 特定 の 離散 的 だ 値 として 想定 する れる ため に 、 可能 値 ( 量 ) または 状態 の ( 物理 的 実態 または 物理 系 システム ) の 数 を 制限 する
+クォンタイズ	verb	WordNet	振幅 が 規定 の 設定 する れる た 離散 値 に 制限 する れる た 1つ まで 近似 する ( 振幅 で 連続 的 に 変化 する て いる 信号 )
+哀詩	noun	WordNet	悲しみ に 沈む だ 詩
+哀詩	noun	WordNet	死者 に対する 哀歌
+ホイスト	noun	WordNet	4 人 2 組 で 行う トランプ ゲーム
+ホイスト	noun	WordNet	5 2 枚 の トランプ 一 組 を 使う 、 双方 が 各回 に 6 を 超える と 1 ポイント を 獲得 する
+スリ	noun	WordNet	公的 だ 場 で 他人 の 財布 や ポケット から もの を 盗む 泥棒
+不行儀	noun	WordNet	相応しい ない 態度
+トラス	noun	WordNet	屋根 または 橋 または 他 の 構造 を 支える 堅い 構造 を 形作る 梁 ( 垂木 、 柱 、 支柱 ) の 枠組み
+ゴルフカート	noun	WordNet	ショット の 間 ゴルファー が 乗れる モーター 付 カート
+温床	noun	WordNet	急速 だ 発展 ( 特に 悪い もの の 発展 ) に 理想 的 だ 状態
+温床	noun	WordNet	動物 が 子ども を 産む 場所
+温床	noun	WordNet	植物 の 生育 を 促進 する ため に ガラス で 覆う れる 、 腐食 肥料 によって 熱す られる た 土 の 苗床
+太陰太陽暦	noun	WordNet	月 と 太陽 の 周期 に 基づく 暦
+サーバル	noun	WordNet	細身 で 脚 の 長い アフリカ の ヤマネコ で 、 ふさ の ない 大きな 耳 を 持つ 、 毛 は 黄 褐色 で 黒い ぶち が つく て いる
+わずか	adv	WordNet	重要 だ ない 態度 で
+わずか	adj	WordNet	秘密 の 通常 有害 だ 方法 で 行う こと 、 または 広める さま
+わずか	adj	WordNet	とても ある そう に ない
+タンガニーカ	noun	WordNet	グレートリフトバレー の タンザニア と コンゴ 間 に ある アフリカ 中部 で 世界一 長い 湖
+タンガニーカ	noun	WordNet	東 アフリカ の かつて の 国家
+タンガニーカ	noun	WordNet	1 9 6 4 年 に ザンジバル と 統合 する て タンザニア を 形成 する た
+興醒し	noun	WordNet	他人 の 喜び を 邪魔 する 人
+ａ型	noun	WordNet	赤血球 に a 抗原 を 持つ 血液 型
+ザントマン	noun	WordNet	彼ら が 眠い なる よう に 子供 たち の 目 に 砂 を 撒く おとぎ話 の 小 妖精
+誤審	noun	WordNet	妥当 だ ない 、 または 、 結論 の 出る ない 裁判
+知覚神経	noun	WordNet	インパルス を 受容 体 から 中枢 神経 系 に 、 または 中枢 神経 系 に 向かう て 伝える 神経
+御開き	noun	WordNet	会議 の 終了
+花采	noun	WordNet	装飾 として 点 の 間 の カーブ に つるす れる 花 の 鎖
+花采	noun	WordNet	所々 に 優美 だ ひだ を 作る て 縛る た 、 優雅 だ 曲線 を 描く 織物 の カーテン
+花采	noun	WordNet	2 点 間 に 吊るす た 一連 の 花 を 装飾 的 に 表わす た 装飾 物
+花采	noun	WordNet	陶器 や 建築 作品 で 使用 する れる
+海洋学	noun	WordNet	海 の 物理 的 、 生物 学 的 だ 面 を 扱う 科学 の 分野
+ネフェルティティ	noun	WordNet	エジプト 女王 で アクナトン の 妻 ( 紀元前 1 4 世紀 )
+神経腫	noun	WordNet	神経 系 の 細胞 に 由来 する どんな 腫瘍 で も
+奇胎妊娠	noun	WordNet	妊娠 中 の 異常
+奇胎妊娠	noun	WordNet	胎児 の 変質 組織 周辺 の 絨毛 膜 絨毛 で 流体 で いっぱい に なる た 嚢 の 一群 を 形成 する
+奇胎妊娠	noun	WordNet	通常 、 胎児 の 死亡 に かかわる
+イーディスカヴェル山	noun	WordNet	英国 の 看護 師 で 、 ドイツ の 占領 後 も ブリュッセル に 留まる 、 連合 国 の 捕虜 が 逃走 する の を 助ける た
+イーディスカヴェル山	noun	WordNet	ドイツ 人 に 捕らえる られる 、 処刑 する れる た ( 1 8 6 5 年 − 1 9 1 5 年 )
+エキマニ	noun	WordNet	シリンダ から 排気 ガス を 受け取る 排気 管 へ 渡す 多岐 管
+オニタビラコ	noun	WordNet	背 が 高い 、 枝分かれ する た 葉 の 多い 茎 の 先端 に 、 花 頭 が ほぐれる た 黄色 の 花 を つける フタマタタンポポ 属 の 様々 だ 植物
+オニタビラコ	noun	WordNet	北半球
+計る	verb	WordNet	力 が 印加 する れる 、 行為 が 望ましい 時刻 に 起こる よう に 調節 する
+計る	verb	WordNet	馬鹿 に する あるいは 、 を だます
+計る	verb	WordNet	均一 だ サイズ に こする
+車窓	noun	WordNet	車 の 窓
+オーバーラップ	noun	WordNet	もう 1つ の 部分 の 上 に かかる 垂れ 板
+奔放自在	adj	WordNet	制限 または 規則 が ない
+錯体	noun	WordNet	中央 の 原子 に 他 の 原子 が 結合 する 配 位 結合 する て いる 形 で 表す れる 化合 物
+見つける	verb	WordNet	初めて 見る
+見つける	verb	WordNet	発見 を する
+塔	noun	WordNet	柱 や 塔 の 形 に 近い 長い 細い もの
+高カリウム血症	noun	WordNet	循環 血液 の 中 で 通常 の 水準 の カリウム より も 高い
+高カリウム血症	noun	WordNet	腎 不全 または 時々 、 利尿 薬 の 使用 に 関係 する
+ギヨー	noun	WordNet	( 特に 太平洋 の ) 火山 性 起源 の 海山
+粘性のある	adj	WordNet	流れ に対する 比較的 高い 抵抗 を 持つ さま
+持参人	noun	WordNet	弧 を 生む か 、 伝える メッセンジャー
+持参人	noun	WordNet	自分 または 所有 者 の 名前 を 裏 書き する た 小切手 、 手形 、 債権 または 権利 証券 を 持つ 人
+前衛的	adj	WordNet	根本 的 に 新しい か 独創 的 だ
+採石場	noun	WordNet	石 または 粘板岩 を 抽出 する ため の 表面 掘削
+テーベ	noun	WordNet	ボツワナ の 1 0 0 テーベ は 1 プラ と 同 価 だ ある
+訴訟費用	noun	WordNet	訴訟 の 費用 の ため の 勝訴 側 へ の 金銭 的 だ 還付
+ユトリロ	noun	WordNet	フランス の 画家 で 、 パリ の 街頭 の 風景 画 で 知る れる ( 1 8 8 3 年 − 1 9 5 5 年 )
+ロンドン塔	noun	WordNet	テムズ 河 の ほとり の ロンドン の 要塞
+ロンドン塔	noun	WordNet	宮殿 として 、 そして 国事犯 監獄 として 使う れる 、 現在 で は 宝冠 を 所蔵 する 博物館 と なる て いる
+ハルマッタン	noun	WordNet	冬 に サハラ砂漠 から アフリカ 西海岸 へ 吹く 砂 混じり の 風
+レイヤー	noun	WordNet	単一 の 厚い さ の ある 種 の 通例 同質 の 物質
+住居施設	noun	WordNet	集団 で 人々 が 住宅 を 成す 構造
+触覚的	adj	WordNet	触覚 の 、 触覚 に関する 、 または 、 触覚 から 生じる
+凹凸	noun	WordNet	位相 的 に 不揃い だ 性質
+ひどく不愉快なこと	noun	WordNet	極度 に 不快 だ ある という 性質
+解く	verb	WordNet	未 完成 に する せる
+解く	verb	WordNet	動作 または その 効果 を 中止 、 破棄 、 あるいは 反対 に する
+血も凍るほど恐ろしい	adj	WordNet	非常 に 驚く べし です
+広々	adj	WordNet	大きい て 広い
+叫声	noun	WordNet	感情 を 大声 で 発声 する こと ( 特に 興奮 する て 言葉 に なる ない とき )
+マルチーズ	noun	WordNet	米国 で どんな 短 毛 で 青っぽい 灰色 の 猫 に対して も 無差別 に 使用 する れる 語
+マルチーズ	noun	WordNet	長い て まっすぐ だ 絹 の よう だ 白い 被 毛 を 持つ 愛玩 犬 種
+マルチーズ	noun	WordNet	マルタ 共和 国 の 国家 的 言語
+マルチーズ	noun	WordNet	アラビア 語 から 派生 する た が 、 イタリア 語 、 スペイン 語 、 ノーマン ・ フランス語 から の 多く の 外来 語 が ある セム 語 派 の 言語
+マルチーズ	noun	WordNet	マルタ の 出身 者 、 または 、 居住 者
+スクールバス	noun	WordNet	児童 を 学校 へ または 学校 から 移送 する の に 使う れる バス
+オフィス	noun	WordNet	職業 上 だ ある か 事務 員 の 義務 が 実行 する れる 勤務 地
+コーヒーメーカー	noun	WordNet	自動的 に コーヒー を いれる 台所 用品
+浴する	verb	WordNet	全身 を 清潔 に する
+いか	noun	WordNet	食用 に 調理 する イカ
+普通律	noun	WordNet	民謡 の 通常 の ( 弱 強 格 の 詩 ) メーター
+尽力	verb	WordNet	多く の 努力 または エネルギー を 使う
+聖-	adj	WordNet	崇拝 に 関連 する
+聖-	noun	WordNet	ある 聖人 を 記念 する 日
+精算表	noun	WordNet	複数 の コラム の ある 紙
+精算表	noun	WordNet	財務 報告 書 の 数字 を 整理 する ため に 会計士 が 使う
+立至る	verb	WordNet	達する
+分母	noun	WordNet	分数 の 除数
+絶滅危惧種	noun	WordNet	種 の 数 が 絶滅 の 危険 に さらす れる て いる 少ない 種
+ペラグラ	noun	WordNet	ナイアシン または トリプトファン の 欠乏 ( または ナイアシン へ の トリプトファン の 代謝 転換 の 欠陥 による ) に 起因 する 病気
+ペラグラ	noun	WordNet	胃腸 障害 と 紅 斑 と 神経 系 だ ある か 精神 的 だ 障害 によって 特徴 づける られる
+ペラグラ	noun	WordNet	栄養失調 、 アルコール 中毒 または 他 の 栄養 的 だ 障害 に 起因 する かも しれる ない
+ユグノー	noun	WordNet	1 6 ― 1 7 世紀 の フランスカルヴァン 主義
+グレービー	noun	WordNet	調理 する た 肉 から 落ちる 肉汁 と 脂 に スープ 、 小麦 または 他 の 材料 を 加える こと で 作る く れる ソース
+ガラハッド	noun	WordNet	円卓 の 騎士 で 最も 高潔 だ 騎士
+ガラハッド	noun	WordNet	聖 杯 を 見る こと が できる た
+クリーブランド	noun	WordNet	米国 の 第 2 2 代 と 第 2 4 代 の 大統領 ( 1 8 3 7 年 − 1 9 0 8 年 )
+クリーブランド	noun	WordNet	オハイオ 最大 の 都市
+クリーブランド	noun	WordNet	エリー 湖 の 北東 オハイオ に 位置 する
+クリーブランド	noun	WordNet	五大 湖 の 主 要港
+理想主義	noun	WordNet	物事 を 、 その 現実 の 姿 より も 理想 的 だ 形 として 考える こと による 非 実用 性
+理想主義	noun	WordNet	高い 理想 または 行為
+理想主義	noun	WordNet	理想 は 追求 する れる ない ば なる ない と 信じる 特性
+連合野	noun	WordNet	運動 や 知覚 で は ない 、 より 高次 の 情報処理 に 関与 する と 考える られる て いる 皮質 野
+明敏	noun	WordNet	識別 する て 、 評価 する こと によって 意見 を 形成 する 特性
+明敏	adj	WordNet	知覚 する 際 の 容易い さ と 速い さ によって 特徴 づける られる
+傍若無人	noun	WordNet	攻撃 的 だ 大胆 さ または 純然 たり 厚かましい さ
+突き	noun	WordNet	ナイフ または 他 の 鋭い とがる た 器具 による 強い 打撃
+キューブリック	noun	WordNet	米国 の 映画 制作 者 ( 1 9 2 8 年 生まれ )
+太陽風	noun	WordNet	太陽 から 放射状 に 動く 陽子 の 流れ
+握っていること	noun	WordNet	握る 行為
+果たす	verb	WordNet	約束 通り 行動 する
+果たす	verb	WordNet	特定 の よう する または 特定 の 影響 や 結果 で 動く 、 あるいは 影響 を 持つ
+火手	noun	WordNet	火 ( 石炭 で 動く 電車 または 汽船 で ) の 番 を する 労働 者
+微視的	adv	WordNet	顕微鏡 を 用いる て
+微視的	adv	WordNet	顕微鏡 だけ で 見える よう に する
+微視的	adv	WordNet	顕微鏡 で 見る られる よう に 、
+文句無	adj	WordNet	その 種 で 完全 だ 、 または 欠陥 または 傷 の ない
+仮借	noun	WordNet	犯罪 を さほど 重大 だ ない よう に 見せる よう だ 行為
+仮借	noun	WordNet	非難 を 和らげる 部分 的 だ 弁解
+仮借	noun	WordNet	それ が 酌量 する べし 情状 を 示す こと により 見かけ ほど 罪 が 深刻 だ ない こと を 表す う と する 試み
+鉱石検波器	noun	WordNet	方 鉛 鉱 の 結晶 に 細い 針金 が 接触 する て いる 探知 器
+鉱石検波器	noun	WordNet	整流 器 として の 行為
+ブランコ	noun	WordNet	人 を 前後 に 揺らす こと を 支える おもちゃ として 使用 する れる 機械
+ステイヤー	noun	WordNet	忍耐 力 の ある 人 や 動物
+ヴェルモット	noun	WordNet	香 草 の 香り を つける た 各種 の 白 ワイン
+ヴェルモット	noun	WordNet	食前 酒 や 混合 飲料 に 使う
+再編成	noun	WordNet	配置 を 変える こと
+馬鞭	noun	WordNet	先端 に 革 紐 が ある 短い むちで 、 開く た 口 側 に ハンドル が ある
+bot	noun	WordNet	ウマバエ の 幼虫
+bot	noun	WordNet	通常 は 、 馬 、 羊 または 人間 の 体内 に 発生 する
+個体化	noun	WordNet	個人 を 一般 的 だ グループ または 種 と 区別 する こと
+改名	verb	WordNet	再び または 新た に 名前 を つける
+改名	verb	WordNet	新しい 名前 を 割り当てる
+胸板	noun	WordNet	首 から 腹部 まで の 胴体 の 前部
+ガルフ諸国	noun	WordNet	米国 の メキシコ 湾 と 接する 地域
+ガルフ諸国	noun	WordNet	アラバマ 、 フロリダ 、 ルイジアナ 、 ミシシッピ 、 および テキサス
+ガルフ諸国	noun	WordNet	ペルシャ湾 に 接する アジア 南西 部 の 国
+盲導犬	noun	WordNet	盲人 を 導く 訓練 を 受ける た 犬
+盲導犬	noun	WordNet	盲人 を 誘導 する よう 訓練 する れる た 盲導犬
+dvd	noun	WordNet	コンピュータ または テレビ で 再生 する れる こと が できる 光ディスク の ( 映画 の よう だ ものの ) デジタル 記憶 媒体
+打ったくる	verb	WordNet	はぎ取る
+打ったくる	verb	WordNet	不当 値段 を 要求 する
+ハドソン	noun	WordNet	英国 の 操縦 士 で 、 ハドソン 川 を 発見 する た
+ハドソン	noun	WordNet	1 6 1 0 年 に ハドソン 湾 で 冬 を 過ごす う と する 試みる た が 、 乗組 員 が 暴動 を 起こす 、 漂流 する て 死ぬ よう に 仕向ける られる た ( 1 5 6 5 年 − 1 6 1 1 年 )
+ハドソン	noun	WordNet	英国 人 の 自然 主義 者 ( アルゼンチン 生まれ ) ( 1 8 4 1 年 − 1 9 2 2 年 )
+環礁	noun	WordNet	礁湖 を 取り囲む 環状 の サンゴ礁 の 島
+喰込む	verb	WordNet	進入 する ため に 、 侵害 する 、 侵害 する
+発音	noun	WordNet	慣習 的 に 単語 あるいは 言語 が 話す れる 方法
+発音	noun	WordNet	観衆 へ の 理解 度 という 観点 から 考慮 する れる 明瞭 だ 発音 の スピーチ
+発音	noun	WordNet	単語 の 発声 の 方法
+ザイデル	noun	WordNet	ビール 用 の グラス
+融通	noun	WordNet	ジャン ・ ピアジェ の 理論 : 現実 の 知識 の 変化 に 適応 する ため に 内面 の 概念 作用 を 修正 する こと
+セーブ	verb	WordNet	不 必要 に 消費 か 努力 する せる
+セーブ	noun	WordNet	敵 が 得点 する の を 妨げる 行為
+名門	noun	WordNet	貴族 の 家系
+毛抜き	noun	WordNet	掴む ため に てこ 棒 を 組み合わせる た はさむ ため の 手工 具
+フラミンゴ科	noun	WordNet	フラミンゴ
+泡	noun	WordNet	海面 の 泡
+泡	noun	WordNet	発泡 性 の 液体 を 容器 に 注ぐ 入れる た とき 表面 に 盛り上がる 泡
+ノウゼンハレン科	noun	WordNet	ノウゼンハレン 属 と 同一 の 広がり を 持つ
+献じる	verb	WordNet	挨拶 代わり に 贈呈 する 、 に 演説 を する
+振り撒く	verb	WordNet	豊富 に 費やす
+振り撒く	verb	WordNet	抽象 名詞 で も 使用 する れる
+降り掛かる	verb	WordNet	なる て ゆく
+降り掛かる	verb	WordNet	起こる
+刷り出す	verb	WordNet	印刷 化 する
+マクスウェルの方程式	noun	WordNet	電磁場 の 古典 特性 を まとめる 4つ の 微分 方程式
+スイートコーン	noun	WordNet	若い 穂 が 甘い 、 食べる の に 適す た トウモロコシ
+スイートコーン	noun	WordNet	若い 柔らかい 間 に 野菜 として 食べる られる よう に 開発 する れる た トウモロコシ
+ポリープ切除	noun	WordNet	ポリープ の 外科 切除
+神学者	noun	WordNet	神学 を 学ぶ 人 、 または 神学 について 考える 人
+ドルマン	noun	WordNet	ド ルマン 袖 の つく た 女性 用 の 外套
+ドルマン	noun	WordNet	肩 の 上 から 羽織る 軽 騎兵 用 ジャケット
+銃弾	noun	WordNet	小 火器 から 発射 する れる た 固体 の 飛び道具
+片よる	verb	WordNet	何 か を する また は 何 か に なる 傾向 の ある または その 気質 の ある
+片よる	verb	WordNet	何 か を する がち だ
+動物の顔	noun	WordNet	人間 の 顔 に 相当 する 動物 の 部分
+空気入れ	noun	WordNet	( タイヤ の よう だ ) 物 を 膨らます の に 手 で 動かす 空気 ポンプ
+空気入れ	noun	WordNet	自転車 に 空気 を 入れる 小さい ポンプ
+スプリングフィールド	noun	WordNet	ミズーリ 南西 部 の 都市
+スプリングフィールド	noun	WordNet	コネチカット 川 に 面す た マサチューセッツ 南西 部 の 都市 で 工業 の 中心 地
+コッホ	noun	WordNet	ドイツ 人 の 細菌 学者 で 、 炭疽 菌 、 結核 菌 、 コレラ 菌 を 発見 する た ( 1 8 4 3 年 − 1 9 1 0 年 )
+薬学者	noun	WordNet	薬学 ( 薬 の 組成 ・ 用途 ・ 効果 ) を 勉強 する た 人
+シティ・オブ・ロンドン	noun	WordNet	古代 の 境界 の 中 に 位置 する た ロンドン の 地域
+シティ・オブ・ロンドン	noun	WordNet	ロンドン の 商業 および 金融 の 中心
+シャンゼリゼ	noun	WordNet	パリ の 大通り で エレガント だ 店 と カフェ が 有名
+不覚悟	noun	WordNet	みじめ だ 小心
+切れ長	adj	WordNet	アーモンド の よう だ 形 を する た
+間接照準射撃	noun	WordNet	武器 の 目的 の 点 で それ 自体 は 使用 する れる ない 目標 に 向ける られる 火
+出世コース	noun	WordNet	目的 を 達成 する 急速 だ 手段
+抵当流れ	noun	WordNet	不履行 の ローン に対する 担保 を 取り戻す ため 、 債権 者 が 開始 する 法的 手続き
+余程	adv	WordNet	かなり の 程度 まで 、 だいぶ 、 大いに
+見かけ上の	adj	WordNet	その よう に 現れる こと 、 だが 必ずしも そう だ は ない
+ショックアブソーバー	noun	WordNet	機械 の 緩衝 器
+ショックアブソーバー	noun	WordNet	突然 の 衝撃 の エネルギー を 吸収 する
+補酵素	noun	WordNet	いくつ か の 酵素 の 活性 にとって 不可欠 だ 小 分子 ( タンパク質 だ ない 時々 ビタミン )
+オーダー	noun	WordNet	1つ 以上 の 科 を 含む 分類 群
+直接支援	noun	WordNet	ある 部隊 に 他 の 特定 の 部隊 を 支援 する こと を 要求 する 、 支援 する れる て いる 部隊 から の 援助 要請 に 直接 対応 する て それ を 保証 する 使命
+レオーネ山	noun	WordNet	シエラレオネ の 金銭 の 基本 単位
+レオーネ山	noun	WordNet	1 0 0 セント と 同 価
+下士官兵	noun	WordNet	将校 より 下 の 地位 だ ある 軍人
+メタ言語	noun	WordNet	言語 を 説明 する の に 使用 できる 言語
+ルンペルシュティルツヒェン	noun	WordNet	グリム 童話 の 話 の 一つ に 出る て くる 小人
+ルンペルシュティルツヒェン	noun	WordNet	ある 女性 に 、 彼 の 名前 を 当てる た 彼 は 彼女 に 約束 を 守る せる ない と 話す 、 彼女 が その 名前 を 言い当てる と 、 彼 は たいへん 怒り狂う て 自滅 する
+切り付ける	verb	WordNet	表面 を 削り取る こと によって 彫る 、 または 切る
+二酸化窒素	noun	WordNet	非常 に 有毒 だ 茶 の ガス ( no 2 )
+香味料入れ	noun	WordNet	スパイス が 入る た 容器 を 並べる て おく 棚
+ヨウシュヤマゴボウ	noun	WordNet	黒っぽい 赤 の ベリー が 長い 垂れ下がる 総状 花序 で 小さい 白い 花 を 支える 高い 粗い 多年草 の アメリカ の 草本
+ヨウシュヤマゴボウ	noun	WordNet	若い 肥満 する た 茎 は 食べる られる
+ヨウシュヤマゴボウ	noun	WordNet	実 と 根 は 有毒
+消毒	noun	WordNet	有害 だ 微生物 を 破壊 する 処置
+消毒	noun	WordNet	ある 生物 を 、 不毛 または 不妊 に する ( 生殖 できる ない する せる ) 行為
+消毒	verb	WordNet	浄化 する こと によって 、 微生物 または 病原 体 を 破壊 する
+スキンヘッド	noun	WordNet	頭 を そる 、 ロックコンサート に 集まる 、 白人 至上 主義 の デモ に 参加 する 、 英国 または アメリカ 人 の グループ に 属する 若者
+小姑	noun	WordNet	自分 の 配偶 者 の 姉妹
+隆鼻術	noun	WordNet	鼻 の 外観 を よい する 美容 整形 外科
+請暇	noun	WordNet	労働 を 離れる た 余暇 時間 で 、 休息 または 娯楽 に 用いる られる
+携帯	verb	WordNet	船 の 、 左側 に 置く 、 あるいは 左側 に 回転 する
+携帯	verb	WordNet	持ち運ぶ
+携帯	verb	WordNet	ポート を 飲む
+携帯	verb	WordNet	持つ 、 帯びる 、 伝達 する また は 運ぶ
+携帯	verb	WordNet	港 に 上陸 する 、 または 到着 する
+携帯	noun	WordNet	小さい 区画 に 分割 する れる た 地域 で 使う 手 で 持てる 大きい さ の 移動 ラジオ 電話 で 、 各 区画 は 固有 の 短距離 交換 器 / 受信 器 を もつ
+携帯	verb	WordNet	特に 武器 など において 、 体 に対して たすき 掛け に なる よう に 両手 で 持ち運ぶ また は 押さえる
+携帯	verb	WordNet	異なる 機械 または プラットホーム で 使用 の ため に 修正 する ( ソフトウェア )
+携帯	verb	WordNet	船 の 左舷 または 左側 へ 方向 を 変える また は 行く
+フローベール	noun	WordNet	フランス の 小説 および 短編 小説 作家 ( 1 8 2 1 年 − 1 8 8 0 年 )
+クルミ目	noun	WordNet	ファミリー クルミ 科 と 同一 の 広がり を 持つ
+スーパーママ	noun	WordNet	育児 と フルタイム の 仕事 を こなせる 母親 の 一般 的 だ 呼び名
+不平家	noun	WordNet	過度 の 苦情 を 言う れる 、 泣く て メソメソ 言う て いる 人
+引受人	noun	WordNet	他人 の 保証 や 担保 を 提供 する 人
+緩怠	noun	WordNet	不注意 だ 間違い
+緩怠	noun	WordNet	社交 上 ぶかっこう だ 、 または 気 の きく ない 行為
+不逞	adj	WordNet	法律 に 服従 する ない か 挑戦 的 だ
+生活費	noun	WordNet	家族 や 団体 を 維持 する て いく 手段
+生活費	noun	WordNet	人 が 生活 する て いく に当たって の 財政 手段
+整備	noun	WordNet	ある 地域 を より 有用 に する こと
+整備	noun	WordNet	船 を 修理 する たり 艤装 する 行為
+ヒラメ筋	noun	WordNet	腓腹筋 の 下 の 足 の ふく ら は ぎにある 広い 平坦 だ 筋肉
+ブラックカラント	noun	WordNet	香り の よい 黒い 食用 漿果 が 広い 栽培 する れる て いる スグリ
+ハナゴケ	noun	WordNet	トナカイ と カリブー の 主要 だ 食物 を 構成 する て いる て 、 時々 人間 によって 食べる られる て いる 北極 と 少し 北 の 温暖 だ 地方 の 直 生 の 灰色 がかる た 枝分かれ する て いる 苔
+事業年度	noun	WordNet	1 2 カ月 の 会計 年度
+宮廷	noun	WordNet	君主 や 王子 の 家族 と 従者 たち
+ロラゼパム	noun	WordNet	不安 と 緊張 と 不眠症 を 治療 する の に 用いる られる 精神 安定 剤 ( 商標 名 アチバン )
+下盤	noun	WordNet	傾斜 する た 断層 で 下位 の 層
+体細胞起源	adj	WordNet	心 因 性 由来 の もの だ ある と いう より は むしろ 生理 的 原因 の 、 または 、 心 因 性 由来 の もの だ ある と いう より は むしろ 生理 的 原因 から 生じる
+ポシビリティー	noun	WordNet	成し遂げる られる こと
+矮化	verb	WordNet	成長 を 妨げる
+骨迷路	noun	WordNet	膜 迷路 を 内包 する 側 頭骨 の 錐 体 部 に ある 腔
+触覚	noun	WordNet	皮膚 の 圧力 受容 体 によって 起こす れる 感覚
+触覚	noun	WordNet	外 の 物体 または 力 が 体 と の 接触 を通じて 知覚 する れる 能力 ( 特に 手 )
+アフガン	noun	WordNet	縞 や 四角 の 模様 に 編む だ 毛布
+アフガン	noun	WordNet	時に ショール として も 用いる られる
+アフガン	noun	WordNet	アフガニスタン と パキスタン で 話す れる て いる イラン の 言語
+アフガン	noun	WordNet	アフガニスタン の 公用 語
+アフガン	noun	WordNet	羊 の 皮 から 作る れる た コート
+アフガン	noun	WordNet	アフガニスタン の 出身 者 、 または 、 居住 者
+アフガン	noun	WordNet	長い て 絹 の よう だ 被 毛 を 持つ 背 の 高い 優美 だ 猟犬
+アフガン	noun	WordNet	中近東 の 出身
+傍観する	verb	WordNet	行動 する ない 、 または 何 も する ない
+頭である	verb	WordNet	1 番目 だ ある 、 ( グループ ) の メンバー を 率いる 、 あるいは 、 優れる て いる
+仲介	verb	WordNet	2つ の 異なる もの の 中間 的 だ ある か 中央 の 位置 を 占める か 、 または それら の 間 の 、 結びつける ため の 関係 あるいは 段階 を 形成 する
+仲介	noun	WordNet	2 者 の 間 に 入る て 交渉 を 行う 人
+末たのもしい	adj	WordNet	完全 だ 、 あるいは 見込み の
+投与	noun	WordNet	薬物 を 投与 する 行為
+干からびさせる	verb	WordNet	熱 に さらす れる て 枯れる 、 または 干上がる
+フォークリフト	noun	WordNet	電動 式 で 、 荷物 の 下 に 差し込む で その 荷物 を 持ち上げる 動かす こと が できる フォーク 形 の 台 が 前面 に つく た 小型 の 産業 用 の 車両
+トレント	noun	WordNet	アディジェ 川 の 上 の イタリア 北部 ( ヴェニス の 北西 ) の 都市
+トレント	noun	WordNet	トレント 公 会議 の 会場
+ゴンドラ	noun	WordNet	櫓 で 漕ぐ こと で 進む 細い 平底 の 長い ボート
+ゴンドラ	noun	WordNet	ベニス の 運河 で 伝統 的 に 用いる られる
+ゴンドラ	noun	WordNet	飛行船 から 下がる て いる コンパートメント で 人員 ・ 貨物 ・ 動力 装置 を 運ぶ
+アデリーペンギン	noun	WordNet	南極 の アデリー 海岸 沿い に 大群 で 発生 する 中型 の ペンギン
+氷山	noun	WordNet	海 に 浮かぶ 大きな 氷塊
+氷山	noun	WordNet	通例 極地 の 氷 から 切り離す れる た もの
+水晶	noun	WordNet	結晶 形 の 二酸化 ケイ素 から 成る 、 光沢 の ある 硬い 鉱物
+水晶	noun	WordNet	大抵 の 岩 ( 特に 、 砂岩 と 花崗岩 ) に 含む れる
+水晶	noun	WordNet	黄砂 は 、 鉄 酸化 物 の 不純物 が 付く た 石英 だ ある
+水晶	noun	WordNet	石英 で できる た ガラス 製品
+示度	noun	WordNet	計測 器 や 同様 の 道具 で 測る 、 ユーザー に 示す れる た データ
+保守党	noun	WordNet	国 の 管理 下 に ある より は 私的 所有 を 認める た 資本 主義 の 重要 性 を 信じる 政党 ( 特に 英国 と オーストラリア において )
+フラット	adj	WordNet	( 音符 について ) 1つ の 半音 階 的 半音 によって ピッチ を 下げる
+フラット	noun	WordNet	塗る れる た キャンバス で カバー する れる 木 フレーム から 成る て いる 景色
+フラット	noun	WordNet	舞台 設定 の 一部
+フラット	adj	WordNet	例えば 、 形 または テクスチャー の よう に 変化 を 伴う ぬ 水平 だ ある 、 直線 だ ある あるいは 規則 的 だ ある さま
+フラット	adj	WordNet	同じ 同一 平面 、 または 、 何 か 他 の もの と 同じ 高い さ だ ある こと ( すなわち 、 同等 )
+フラット	noun	WordNet	ある 音階 より も 半音 低い こと を 示す 音楽 記号
+熊	noun	WordNet	巨大 だ 蹠行 性 の 肉食 性 、 または 雑食 性 の 哺乳 動物 で 、 長い て 毛むくじゃら の 毛 と 強い 鉤爪 を 持つ
+磁気子午線	noun	WordNet	地球 の 両 磁極 を 通る 想像 上 の 線
+ファリナ	noun	WordNet	特に 小麦粉 など の 穀物 の 上品 だ 食事
+ファリナ	noun	WordNet	しばしば 、 料理 する れる た シリアル として 、 または 、 プリン で 使う れる
+シンメトリー	noun	WordNet	形 か 関係 の 属性
+シンメトリー	noun	WordNet	分割 する 線 または 面 の 反対 側 で 、 形 が 正確 に 対応 する て いる こと
+ヘッドライト	noun	WordNet	反射 鏡 の つく た 強力 だ ライト
+ヘッドライト	noun	WordNet	自動車 や 機関 車 の 前部 に つく て いる
+ナット	noun	WordNet	ボルト に 差し込む れる 内部 ねじ 山 を もつ 小さな メタル ブロック ( 通常 正方形 または 六角形 )
+十進数字	noun	WordNet	十進法 で の 0 から 9 まで の 数字
+アルジュナ	noun	WordNet	クリシュナ が 存在 と 神 の 性質 と 人間 が どの よう に 神 を 理解 できる の か を 説明 する て いる バガヴァッド・ギーター の 中 の 戦士 王子
+保つ	verb	WordNet	食事 つき の 部屋 を 供給 する
+保つ	verb	WordNet	取る て おく
+保つ	verb	WordNet	しっかり 大地 に 足 を すえる
+保つ	verb	WordNet	ポジション を 維持 する
+保つ	verb	WordNet	しっかり する た 、 または 真っ直ぐ 立つ た
+保つ	verb	WordNet	安全 に 保つ 、 損害 または 腐敗 、 損失 、 破壊 を 防ぐ
+保つ	verb	WordNet	怪我 、 危害 または 危険 から 安全 を 維持 する
+国粋主義的	adj	WordNet	熱狂 的 に 愛国心 が 強い
+リーブルビル	noun	WordNet	ガボン の 首都
+ガリウム	noun	WordNet	希少 だ 銀 白色 ( 通常 は 三 価 ) の 金属 元素
+ガリウム	noun	WordNet	低温 で は 砕ける やすい が 、 室温 以上 で は 液体
+ガリウム	noun	WordNet	ボーキサイト および 亜鉛 鉱石 中 に 微量 含む れる
+ジェイン・ジェイコブズ	noun	WordNet	米国 の 作家 で 都市 計画 の 評論 家 ( 1 9 1 6 年 生まれ )
+不染色質	noun	WordNet	着色 剤 または 染料 によって 相対 的 に 色 が 付く にくい 細胞 核 の 部分
+ソケット	noun	WordNet	電気 装置 を 差し込む ソケット
+引く	verb	WordNet	無 作為 に 選ぶ
+引く	verb	WordNet	濡らす て 汚い する 、 雨 によって
+引く	verb	WordNet	ボート を こぐ とき に 、 操作 する
+引く	verb	WordNet	( 射手 の 弓 の ) 弦 を 後ろ に 引き伸ばす
+引く	verb	WordNet	何 か が 通る か 、 または 何 か を どこ か へ 導く こと を 引き起こす
+不穏当	adj	WordNet	正しい か 妥当 だ ある こと に 合わせる て でる ない
+不穏当	noun	WordNet	特に 適当 という 訳 だ は ない 、 または ふさわしい という 訳 だ は ない 性質
+不穏当	noun	WordNet	不 適当 だ 行為
+いいなずけの	adj	WordNet	結婚 する て いる こと を 誓約 する た
+口出し	noun	WordNet	妨げる か 、 または 負担 と なる て いる どの よう だ 障害 で も
+セラーズ	noun	WordNet	英国 の 喜劇 俳優 ( 1 9 2 5 年 − 1 9 8 0 年 )
+主催	verb	WordNet	責任 を 負う あるいは 、 指導 者 の 地位
+ハガード	noun	WordNet	英国 の 作家 で 、 ロマンチック だ 冒険 小説 で 知る れる ( 1 8 5 6 年 − 1 9 2 5 年 )
+複文	noun	WordNet	少なくとも 1つ の 主 節 と 1つ の 従属 から 成る 文
+会心	noun	WordNet	何 か を 申し分 ない やる 終える た 時 に 感じる 満足
+釣り針	noun	WordNet	魚 を 釣る ため の 刺 の ある 針
+不思議	adj	WordNet	著しい 奇妙 だ ある か 珍しい
+内包	noun	WordNet	暗示 する れる た 、 あるいは ほのめかす れる た 考え
+内包	noun	WordNet	表現 の 参照 を 決定 する ため に あなた が 知る ない ば なる ない こと
+二分休符	noun	WordNet	全 休止 の 半分 の 時間 的 価値 、 あるいは 4 分の 4 拍子 の 二 拍 子分 の 時間 と 等しい だ ある 音楽 の 休 符
+言辞	noun	WordNet	口 から 発する 言葉 による コミュニケーション
+名辞	noun	WordNet	論理 命題 の 本質 的 だ 句 の 1つ
+平和部隊	noun	WordNet	米国 政府 に 支援 する れる た 民間 組織
+平和部隊	noun	WordNet	発展 途上 国 の 人々 を 援助 する
+火山	noun	WordNet	火山 性 の 物質 で できる た 山
+接ぎ目	noun	WordNet	( 紙 、 フィルム 、 磁気 テープ など の よう だ ) 2つ の もの が 継ぐ れる た 場所
+上訴	noun	WordNet	下級 裁判所 の 決定 の 見直し や 判決 の 破棄 、 再審 を 求める て 、 上訴 人 が 上級 裁判所 に 訴える 法的 手続き
+ピエール・アベラール	noun	WordNet	フランス 人 の 哲学 者 で 神学 者
+ピエール・アベラール	noun	WordNet	エロイーズ の 恋人 ( 1 0 7 9 年 − 1 1 4 2 年 )
+麦粒腫	noun	WordNet	瞼 の 皮脂 腺 の 感染 症
+東ローマ帝国	noun	WordNet	ローマ帝国 東部 を 継承
+鴨茅	noun	WordNet	広い 栽培 する れる 丈夫 だ 旧 世界 の 干し草 と 牧草 用 の 草
+チャイム	noun	WordNet	ハンマー で 打つ れる 1 セット の 調整 する れる た ベル から 成る 打楽器
+チャイム	noun	WordNet	オーケストラ 楽器 として 使う れる
+線香	noun	WordNet	中国人 による 偶像 の 前 で 炊く れる 細身 の 線香
+襟巻鷸	verb	WordNet	穴 または 空き地 を 通り抜ける
+襟巻鷸	noun	WordNet	鳥 または 他 の 動物 の 首 の 周り の 羽 または 毛 から なる 外 体位
+襟巻鷸	noun	WordNet	高い
+襟巻鷸	verb	WordNet	ロープ を 通す
+襟巻鷸	verb	WordNet	穴 に 通す て または 何 か に 巻く て 留める
+デートナビーチ	noun	WordNet	大西洋 岸 の 北東 フロリダ の リゾート の 町
+デートナビーチ	noun	WordNet	堅い 白い 浜 は 自動車 速度 の 試験 の ため に 使用 する れる た
+後角	noun	WordNet	背面 に ある 脊髄 に 渡る 、 知覚 線維 から 成る 2つ の 脊髄 神経 根 の 1つ
+受付	noun	WordNet	フットボール で 、 パス を 受ける 行為
+ゴチック活字	noun	WordNet	装飾 の ない 手書き の 文字
+不善	noun	WordNet	主義 または 行い が 道徳 的 に 間違う て いる 性質
+不善	noun	WordNet	害 を 及ぼす 性質
+ジュネーブ条約	noun	WordNet	最初 に 1 8 6 4 年 に ジュネーブ で 作成 する れる 、 戦時 中 に 捕らえる られる た 負傷 する た 軍人 と 一般人 の 治療 に関して 後 に 修正 する れる た 合意 書
+飛び蹴り	noun	WordNet	フットボール で 、 ボール が 落ちる 、 グラウンド に 触れる とき に 蹴る れる た とき の ( フィールド ・ ゴール について の ) キック
+ぺこぺこ	adj	WordNet	とても 空腹 な
+常用対数	noun	WordNet	基礎 1 0 へ の 対数
+悲喜劇	noun	WordNet	真剣 だ 要素 あるいは 含み が ある コメディ
+悲喜劇	noun	WordNet	悲劇 と 喜劇 の 双方 の 要素 を 含む 演劇 だ が 、 たいてい 悲劇 的 だ 色合い が 強い
+歯科技工士	noun	WordNet	歯 の 取付け 具 ( ブリッジ や 義歯 ) を 造る 人
+帯鋸	noun	WordNet	2つ の 輪 の 周り を 回る 歯 の 付く た 鉄 の バンド で 成る 帯鋸
+分子性	adj	WordNet	分子 に関する もの 、 分子 によって 、 または 、 分子 から 成る
+片棒	noun	WordNet	合資 会社 の 一員 だ ある 人
+窃盗	noun	WordNet	小額 または 少量 の 物品 を 盗む 行為
+ドライデン	noun	WordNet	王政 復古 の 時代 の 顕著 だ 詩人 で 劇 作家 ( 1 6 3 1 年 − 1 7 0 0 年 )
+オクシデンタリズム	noun	WordNet	西洋 文化 、 言語 、 および 人々 に関する 学究 的 だ 知識
+オクシデンタリズム	noun	WordNet	西洋 文明 に 特有 の 品質 、 習慣 または 特徴
+キルギスタン	noun	WordNet	中国 北西 部 と 国境 を 接する アジア 中西部 の 陸地 に 囲む れる た 共和 国
+キルギスタン	noun	WordNet	かつて の アジア ソビエト で 、 1 9 9 1 年 に 独立 する た
+冠毛	noun	WordNet	アザミ や タンポポ の よう だ キク 科 の 植物 の 、 鱗片 ・ 剛毛 あるいは 羽毛 状 の 毛 で できる た 萼
+冠毛	noun	WordNet	絹 の よう だ 羽毛 状 の 毛 で できる た アザミ の 冠 毛 で 、 種子 の よう だ アザミ の 果実 が つく て いる
+メチルドパ	noun	WordNet	高血圧 の 治療 に 使う れる 降圧 剤 ( 商標 名 アルドメット )
+フランクリン	noun	WordNet	作家 として の 成功 者 が 彼 に 政治 を 始める させる た 印刷 工
+フランクリン	noun	WordNet	彼 は 、 独立 宣言 と 憲法 の 作成 を 補助 する た
+フランクリン	noun	WordNet	彼 は 米国 独立 戦争 において 主要 だ 役割 を 果たす 、 入植 者 に対する フランス の 支持 を 交渉 する た
+フランクリン	noun	WordNet	科学 者 として 、 特に 電気 に関する 研究 で 知る れる ( 1 7 0 6 年 − 1 7 9 0 年 )
+フランクリン	noun	WordNet	米国 の 歴史 家 で 、 黒人 の 歴史 の 研究 で 知る れる ( 1 9 1 5 年 生まれ )
+カクトラノオ	noun	WordNet	2つ の 唇 弁 の ピンク または 白い 花 の とげ の ある 北 アメリカ の 植物
+辟易	adj	WordNet	冷静 さ を 台無し に する て いる さ ま
+辟易	adj	WordNet	うろたえる
+結付	noun	WordNet	血縁 関係 、 婚姻 または 共通 の 利害 関係 に 基づく 関係
+雄蕊	noun	WordNet	花 の 雄 性 生殖 器官
+遥かに	adv	WordNet	かなり の 程度 まで
+遥かに	adv	WordNet	非常 に
+遥かに	adv	WordNet	空間 において 遠く で 、 遠く へ 、 または 遠く から
+内リンパ	noun	WordNet	内耳 の 膜 迷路 を 満たす 体液
+カルパティア山脈	noun	WordNet	スロバキア と ポーランド 南部 から 、 南東 へ 、 ウクライナ 西部 を通じて ルーマニア 北東 部 まで 広がる 中央 ヨーロッパ の 山脈
+カルパティア山脈	noun	WordNet	人気 の ある リゾート 地
+プラトン主義者	noun	WordNet	プラトン 主義 を 唱える 人
+モノグラフ	noun	WordNet	特定 の 主題 について の 、 詳細 だ 文書 化 する れる た 論文
+機関	noun	WordNet	特別 利益 団体 によって 発行 する れる 定期 刊行 物
+機関	noun	WordNet	目的 を 効率 的 に 達成 する 複雑 だ 組織
+機関	noun	WordNet	機械 類 や 機械 装置 の 一 部品
+機関	noun	WordNet	何らかの 機能 を 持つ 可動 部分 が ある
+機関	noun	WordNet	ある 特定 の 職務 を 行う ため の 、 政府 の 機関 または 手段
+機関	noun	WordNet	有能 だ 人
+熟視	noun	WordNet	時間 を かける て 注意深い 見る こと
+第五列	noun	WordNet	破壊 的 だ 集団 で 、 敵 を 助ける 、 スパイ 活動 、 または 、 破壊 活動 に 従事 する
+第五列	noun	WordNet	あなた の 中 の 敵
+鬱血除去薬	noun	WordNet	肺 の 鬱血 を 軽減 する 薬
+寄宿舎	noun	WordNet	大 学寮
+方向観念	noun	WordNet	空間 の 中 で 自分 が どの 位置 に いる か という 認識
+複素環式化合物	noun	WordNet	複素 環 式 リング を 含む で いる 合成 物
+ピアジェ	noun	WordNet	スイス の 心理 学者 で 、 子供 の 認知 発達 の 研究 で 知る れる ( 1 8 9 6 年 − 1 9 8 0 年 )
+カワゲラ	noun	WordNet	カワゲラ
+どっさり	adv	WordNet	非常 に
+衣裳	noun	WordNet	際だつ た スタイル や 特定 の 場合 に 着る ドレス
+貧乏	adj	WordNet	お金 または 所有 物 が ほとんど ない さ ま
+貧乏	adj	WordNet	必要 だ 支払 を する べし 十分 だ お金 を 持つ て いる ない さ ま
+教育的	adv	WordNet	教育 的 だ 態度 で
+教育的	adj	WordNet	知識 を 提供 する さ ま
+教育的	adj	WordNet	教育 に 至る
+教育的	adj	WordNet	教育 の プロセス に関して
+葬儀場	noun	WordNet	死者 を 知る て いる 人 が 最期 の お 別れ に 来る こと が できる 死体 安置 所
+酔っ払う	verb	WordNet	酔っぱらう 、 または 過度 に 飲む
+ポジショナ	noun	WordNet	適切 だ データ トラック に 読み書き ヘッド を 動かす 作動 装置
+オーディオアンプ	noun	WordNet	再生 音 の 振幅 を 増大 する せる 増幅器
+舐める	verb	WordNet	経験 する
+免罪	noun	WordNet	無罪 の 判決
+免罪	noun	WordNet	犯罪 に対する 刑罰 から 解放 する こと を 許可 する 令状
+痔核	noun	WordNet	肛門 括約筋 における 、 または 、 肛門 括約筋 の 中 の 静脈 の 膨張 によって 引き起こす れる た 痛み
+stp	noun	WordNet	標準 温度 と 標準 気圧
+香しい	adj	WordNet	香 の 良い
+香しい	adj	WordNet	自然 の 香り を 持つ さま
+滑動弁	noun	WordNet	蒸気 口 の 上 を ずらす て 通路 を 閉める たり 開ける たり する バルブ
+＜感情などを＞吐き出す	verb	WordNet	解放 する
+違い	noun	WordNet	類似 点 の ない こと で 立証 する れる た 相違
+合致	noun	WordNet	語 関係 に 基づく た 文法 の 抑揚 の 決定
+ゲイリブ	noun	WordNet	同性愛 者 を 法的 、 社会 的 、 経済 的 抑圧 から 解放 する こと を 目的 と する 運動
+翻訳借用	noun	WordNet	他 の 言語 から 翻訳 する 際 に ある 言語 に 導入 する れる た 表現
+球茎	noun	WordNet	管 や 血管 、 組織 の 中 で 丸い 膨張 あるいは 拡張 する た もの
+球茎	noun	WordNet	堅い て 肥大 する た 地下茎 または 茎 の 基部 で 、 生殖 構造 として 役に立つ て いる
+球茎	noun	WordNet	脳 の 底 部 または 最 後部
+球茎	noun	WordNet	脊椎 に つながる
+アルリム	noun	WordNet	バビロニア の 半 神 半 人 、 または 、 最初 の 人間 ( アダム と 同一 視 する れる こと が ある )
+セラチア属	noun	WordNet	小さな グラム 陰性 桿菌 を 持つ 、 運動 性 の 周 毛 性 細菌 の 属
+センターフォールド	noun	WordNet	雑誌 の 見開き ページ
+センターフォールド	noun	WordNet	特に 大きな 写真 、 地図 または 他 の 特性 を もつ た 折込
+監視塔	noun	WordNet	囚人 の 監視 、 あるいは 火事 や 敵 の 警戒 する 見張り の ため の 監視 塔
+実在	noun	WordNet	客観 的 に 実際 に 存在 する 状態
+拡げる	verb	WordNet	より 広い なる
+拡げる	verb	WordNet	曲 き または ねじれ を 戻す
+拡げる	verb	WordNet	より 広い する
+放れ技	noun	WordNet	難しい 、 異常 だ 、 あるいは 危険 だ 妙技
+放れ技	noun	WordNet	通常 、 注意 を 引く ため に 行う れる
+テネリフェ島	noun	WordNet	アフリカ の 北西 部 海岸 沖 の 大西洋 の スペイン の 島
+テネリフェ島	noun	WordNet	カナリア諸島 で 最も 大きい
+冗漫	adj	WordNet	直観 力 より むしろ 理由 または 議論 によって 結論 まで 進行 する さ ま
+ヨウ化カリウム	noun	WordNet	有機 肥料 の 合成 や 写真 の 感光 乳剤 の 製造 、 ヨウ 素 添加 食卓 塩 に 用いる られる 結晶 性 の 塩
+クジャクシダ	noun	WordNet	クジャク シダ 属 の 大小 各種 の 陸生 シダ の 総称 で 、 掌 状 に 細かい 分かれる た 葉 を 有する
+手術不能	adj	WordNet	通常 の 機能 を 行う こと が できる ない
+手術不能	adj	WordNet	手術 に ふさわしい ない
+禁じる	verb	WordNet	特に 法的 手段 または 社会 的 圧力 によって 禁止 する
+センチリットル	noun	WordNet	1 リットル の 1 0 0 分の 1 と 等しい 量 の メートル の ユニット
+用心棒	noun	WordNet	凶悪 犯 または ボディガード として 雇用 する れる ごろつき
+一本鎖	noun	WordNet	1 9 2 5 年 に アドルフ ・ ヒットラー の ため の 個人 的 だ 護衛 として 設立 する れる た ナチス ・ ドイツ における 治安 部隊
+一本鎖	noun	WordNet	ss 隊 は 強制 収容 所 を 管理 する た
+立方フィート	noun	WordNet	一 辺 が 1 フィート の 立方体 と 同じ 量
+評価	noun	WordNet	査定 価格
+評価	noun	WordNet	何 か について 信念 を 表す て いる メッセージ
+評価	noun	WordNet	自信 を 持つ て 持つ れる て いる が 、 確か だ 知識 または 証明 により 実証 する れる て いる ない 信念 の 表現
+評価	verb	WordNet	( 罰金 など の 支払い ) を 設定 または 決定 する
+評価	noun	WordNet	資産 に つける られる 市場 価格
+評価	noun	WordNet	その 価値 に関する 人 または 物 の 分類
+負債	noun	WordNet	別 の 当事者 に お金 を 払う 義務
+ヘーン	noun	WordNet	ドイツ の 化学 者 で 、 リーセ・マイトナー と の 核分裂 の 共同 発見 者 ( 1 8 7 9 年 − 1 9 6 8 年 )
+ビタミンａ２	noun	WordNet	粘着 性 の ある アルコール で 、 哺乳類 で は ビタミン a 1 より 活発 だ ない
+タマバエ	noun	WordNet	植物 に 虫 こ ぶる を 作る 虚弱 だ 蚊 の よう だ ハエ
+酌みとる	verb	WordNet	分かる よう に なる
+全麦	adj	WordNet	小麦 の 、 小麦 に関する 、 または 、 小麦 に 由来 する
+ストック	noun	WordNet	金属 製 の 先 の とがる た 棒 で スキー の 際 補助 として 使う れる
+ストック	noun	WordNet	マルコミア 属 の 様々 だ 装飾 用 顕花植物
+反米	noun	WordNet	米国 と その 政策 に 反対 する 人
+格子	noun	WordNet	自動車 の ラジエータ に 冷気 を 送る
+格子	noun	WordNet	2 次元 または 3 次元 の 通常 の 周期 パターン で の 点 、 粒子 または 物体 の 配置
+照明装置	noun	WordNet	舞台 や 映画 で 人工 の 光 効果 を 提供 する 装置
+打撲傷	noun	WordNet	皮膚 を 傷つける ない で 、 若干 の 変色 に 終わる 怪我
+打撲傷	noun	WordNet	傷つく こと の 行為
+フォックスハウンド	noun	WordNet	狐 狩り 用 に 改良 する れる た 中型 の 光沢 の ある 被 毛 に 覆う れる た 猟犬
+天象儀	noun	WordNet	太陽系 を 表す ため の 装置 か モデル
+顕彰	verb	WordNet	大きな 社会 的 重要 性 を 割り当てる
+帰する	verb	WordNet	に 起因 する ある い は 認める
+マッチング資金	noun	WordNet	他 の 源 から 入手 可能 だ 資金 に 匹敵 する 額 で 供給 する れる 資金
+硬膜下	adj	WordNet	硬い 膜 上 に ある 、 髄 膜 の くも膜 の 上 に ある
+守銭奴	noun	WordNet	与える たり 使う たり する た がる ない 利己 的 だ 人
+ヒギンソン	noun	WordNet	連邦 軍 の 中 に 最初 の 黒人 の 連隊 を 導く た 米国 の 作家 と 兵士 ( 1 8 2 3 年 − 1 9 1 1 年 )
+ウエザーコック	noun	WordNet	風見 が 雄鶏 の 形 だ ある 風見 時計
+胎座	noun	WordNet	顕花植物 の 子房 で 、 胚珠 が 形成 する れる 部分
+もじゃもじゃ	adj	WordNet	( 木 について ) 幹 ない だ ふさふさ する た 頭部 を 持つ さま
+スイートロール	noun	WordNet	ナッツ 、 レーズン 、 スパイス 、 あるいは 照り 出し を 用いる 場合 と 用いる ない 場合 が ある 、 イースト で 膨らむ せる た スイート・ロール の 総称
+ベネフィット	noun	WordNet	チャリティ の ため に 募金 を 目的 と する 公演
+矢柄	noun	WordNet	アロー ポインタ の 長い さ を 形成 する 線
+踊場	noun	WordNet	階段 の 途中 の 平ら だ 所
+屈辱的	adj	WordNet	あなた の 欠点 の 認識 を 引き起こす さま
+アリゲーター科	noun	WordNet	アリゲーター 類
+アリゲーター科	noun	WordNet	カイ マン 類
+ラムチョップ	noun	WordNet	ラム から 切る れる た チョップ
+鎧	noun	WordNet	金属 で できる て いる て 、 戦闘 中 に 使用 する れる 保護 カバー
+蟹食猿	noun	WordNet	東南アジア ・ ボルネオ ・ フィリピン 産 の サル
+改竄	verb	WordNet	間違い だ と 証明 する
+稚気	noun	WordNet	子供 に 特有 の 特性
+eq	noun	WordNet	他 の 元素 の 所定 の 重量 と 同じ 化合 容量 を もつ 元素 の 原子 量
+eq	noun	WordNet	標準 は 酸素 の ため に 8 だ ある
+マイアミビーチ	noun	WordNet	ビスケーン 湾 と 大西 洋間 の 島 の 南東 フロリダ の 都市
+マイアミビーチ	noun	WordNet	ファッショナブル だ リゾート ホテル で 知る れる て いる
+ヴィシソワーズ	noun	WordNet	リーキ と たまねぎ で 風味 を つける た クリーム 状 の ジャガイモ スープ
+ヴィシソワーズ	noun	WordNet	通常 冷たい まま 出す れる
+権利譲渡	noun	WordNet	資格 や 権益 、 権利 を 別 の 人 に 移す 書類
+助演	verb	WordNet	演技 において 共演 者 に なる
+助演	verb	WordNet	公演 で 、 共演 者 として 演じる
+記号表現	noun	WordNet	ある 物 を 説明 または 特定 する ため に 使用 する 言葉 の 、 音韻 論 的 または 正字 法 の 音 あるいは 外観
+調和平均	noun	WordNet	逆数 の 算術 平均 の 逆数 として 表す れる n 個 の 数字 の 平均
+タラー	noun	WordNet	西 サモア の 通貨 の 基本 単位
+シェラトン	noun	WordNet	1 8 0 0 頃 に イングランド で 端 を 発す た 家具 様式
+シェラトン	noun	WordNet	まっすぐ だ 線 と 古典 的 だ 装飾 の シンプル だ デザイン
+読みにくい	adj	WordNet	( 筆跡 、 印刷 など について ) 読む やすい ない
+スチュワーデス	noun	WordNet	飛行機 の 女性 の スチュワード
+アフリカスミレ	noun	WordNet	すみれ色 や 白色 、 ピンク色 の 花 が 室内 用 の 鉢植え 植物 として 栽培 する れる て いる 熱帯 アフリカ の 植物
+相変化	noun	WordNet	1つ の 相 ( 個体 か 液体 か 気体 ) から 他 の 相 へ の 変化
+クールジャズ	noun	WordNet	抑制 する れる て 、 流れる よう だ 、 しばしば ビート より 遅れる て いる 複雑 だ 調和 的 だ 構造 が 特徴 的 だ ジャズ
+等温式	noun	WordNet	ある 時間 における 同じ 温度 を 持つ ポイント を つなげる 等 値 線
+瞑想	noun	WordNet	深い 対象 、 あるいは 一連 の 対象 、 あるいは 難解 だ ある 本質 について の 継続 的 だ 、 深い 熟考 または 黙想
+硬質ゴム	noun	WordNet	天然 ゴム に 加 硫 する こと によって 形成 する れる 硬い 非 弾性 的 ゴム
+エイジアンアメリカン	noun	WordNet	アジア の 子孫 だ ある アメリカ 人
+ロマンシュ語	noun	WordNet	スイス の 南東 部 で 使う れる て いる レト・ロマンス 語
+ロマンシュ語	noun	WordNet	それ は スイス の 公用 語 だ ある
+オルツィ	noun	WordNet	英国 の 作家 ( ハンガリー 生まれ ) ( 1 8 6 5 年 − 1 9 4 7 年 )
+防虫加工	adj	WordNet	蛾 による 損害 に 抵抗 する
+防虫加工	verb	WordNet	蛾 から 守る
+スペイン異端審問	noun	WordNet	1 4 7 8 年 に スペイン ( 特に 1 5 日 から 1 7 世紀 まで の ) の カトリック の 正教 を 警備 する た フェルディナンド 王 と イザ ベラ 女王 によって 開始 する れる た 尋問
+合流点	noun	WordNet	もの が 結合 する か 、 一緒 に 流れる 場所 ( 特に 川 )
+炎症	noun	WordNet	損傷 あるいは 刺激 に対する 生体 組織 の 反応
+炎症	noun	WordNet	痛み と 腫れる 、 赤み 、 熱 を 生じる
+ラウンドステーキ	noun	WordNet	牛 の 臀部 と すね の 間 の 脂肪 の 少ない 切り身
+齧る	verb	WordNet	断続 的 に 食べる
+齧る	verb	WordNet	一 口 だけ たべる
+齧る	verb	WordNet	非常 に 細かい 噛む 切る
+ニトラゼパム	noun	WordNet	ベンゾジアゼピン・タイプ の 催眠 薬 および 鎮静 剤
+海景	noun	WordNet	海 の 絵画 ( 景色 を 区別 する れる て いる よう だ )
+海景	noun	WordNet	海 の 景色
+ロシア共和国	noun	WordNet	以前 は ヨーロッパ 東部 と アジア 北部 を 占める ussr の 中 で 最大 の ソビエト 社会 主義 共和 国
+刻み目	noun	WordNet	( 強打 によって できる た よう だ ) 表面 の 痕跡
+悪天候	noun	WordNet	戸外 で の 活動 に は 不向き だ 天候
+腰巻	noun	WordNet	腰 を 覆う 物
+ヒッチコック	noun	WordNet	英国 の 映画 監督 で 、 サスペンス を 作る こと に 才能 の ある こと で 知る れる ( 1 8 9 9 年 − 1 9 8 0 年 )
+水車小屋	noun	WordNet	水車 を 動力 と する 製粉 所
+水手	noun	WordNet	船乗り として 従事 する 人
+デスクトップの	noun	WordNet	机 の 上
+献血車	noun	WordNet	献血 を 集める ため に 装備 を する れる た 自動車
+判じる	verb	WordNet	イメージ または 肖像 が を 作成 する
+判じる	verb	WordNet	裁判 の とき に 、 裁判官 として 告発 する 、 訴訟 事件 を 審理 する 、 または 開廷 する
+観光旅行	noun	WordNet	娯楽 の ため の 旅行
+観光旅行	noun	WordNet	名所 を 見る て 回る こと
+スパチュラ	noun	WordNet	狭い 柔軟 だ 刃 を 持つ 返し べら
+説話	noun	WordNet	事件 または 事件 の 経緯 について 説明 する 、 述べる 行為
+ホエールボーン	noun	WordNet	ある 種 の 鯨 の 上 あご から 取れる 角質 の 物質
+ホエールボーン	noun	WordNet	うちわ の 骨 または コルセット の 支え に 用いる られる
+胞子嚢	noun	WordNet	胞子 のう を 含む 、 または 生ずる 器 管
+胞子嚢	noun	WordNet	ある 水生 シダ に ある 、 胞子 嚢群 または 胞子 嚢 の かた まり を 閉じ込める 、 分化 する た 葉 の 派生 物
+生物多様性	noun	WordNet	植物 の 多様 性 と 特定 の 生息 地 の 動物 の 生態 ( または 全体 で 世界 で )
+ペンサコラ	noun	WordNet	フロリダ の 最 北西 の 町
+モラビア	noun	WordNet	チェコ 共和 国 の 中部 および 東部 の 地域
+モラビア	noun	WordNet	それ は ボヘミア の 東 と カルパチア の 西 に 位置 する
+神経心理学	noun	WordNet	生理学 を 基本 と する た 心理 学 作用 に関する 心理 学 の 分野
+ソールク	noun	WordNet	灰 白 髄 炎 に対して 注射 する れる ソークワクチン を 開発 する た 米国 の ウイルス 学者 ( 1 9 1 4 年 生まれ )
+死亡事故	noun	WordNet	死者 の 出る た 事故
+第九	noun	WordNet	9つ の 等しい 部分 の 一部
+第九	adj	WordNet	8 番目 の 直後 で 、 1 0 番目 の 直前 の 位置 に 来る
+第九	noun	WordNet	数える られる 連続 する ものの 9 番目
+電子レンジ	noun	WordNet	電磁波 を 食物 へ 通す こと で それ を 調理 する 調理 器具
+電子レンジ	noun	WordNet	食物 の 水分 子 の エネルギー の 吸収 による 熱 の 結果
+密売	noun	WordNet	不法 に 売る 物 の アルコール 飲料 を 作る か 、 輸送 する こと の 行為
+密売	noun	WordNet	禁止 品目 や 、 関税 を 払う べし 品物 を 秘密 裏 に 輸入 する こと
+密売	noun	WordNet	非合法 的 に 、 または 許可ない 販売 する 行為
+定比例の法則	noun	WordNet	純粋 だ 物質 に は 常に 同じ 成分 が 同じ 重量 比率 で 含む れる て いる という 法則
+スクランブルされた	adj	WordNet	無秩序 だ 方法 で 一緒 に 投げる られる
+巻きぞえ	noun	WordNet	複雑 だ 紛らわしい 個人 間 の 、 または 政治 的 状況
+減圧	noun	WordNet	圧力 を 軽減 する こと ( 特に 圧迫 する れる た 人 を 徐々に 気圧 に 戻す )
+帆	noun	WordNet	風 が 帆船 を 推進 する せる の に 使用 する れる 手段 による 大きな 布 の 織物 ( 通常 キャンバス 地 )
+目立つ	adj	WordNet	目 または 心 にとって 明らか だ
+目立つ	verb	WordNet	スポットライト で 明るい する 、 劇場 の よう に
+目立つ	adj	WordNet	注目 に 値する
+ミズーリ協定	noun	WordNet	米国 の 奴隷 制度 支持 派 と 奴隷 制度 反対 派 の 間 の 1 8 2 0 年 の 合意 で 、 新しい 地域 へ の 奴隷 制度 の 拡張 に関する もの
+エウセビオス	noun	WordNet	パレスチナ の カエサレア の キリスト教 の 司教
+エウセビオス	noun	WordNet	教会 の 歴史 家 で 優れる た 初期 キリスト教 の 解釈 学者 ( 2 7 0 年 − 3 4 0 年頃 )
+放射性医薬品	noun	WordNet	放射線 治療 に 使用 する れる 放射 性 化合 物 から 成る 調合 薬
+乞う	verb	WordNet	義務 的 だ ある と 考える
+乞う	verb	WordNet	要求 する 、 期待 する
+謎謎	noun	WordNet	あなた の 発明 の 才 を 試す ゲーム
+口付け	noun	WordNet	唇 で 愛撫 する こと の 行為 ( または その 例 )
+留分	noun	WordNet	分別 の 過程 で 分離 する れる た 混合 物 の 成分
+沈ます	verb	WordNet	沈む せる
+ｙ染色体	noun	WordNet	男性 によって 所持 する れる 性 染色 体
+催眠術	noun	WordNet	催眠 状態 を 引き起こす 行為
+異々	adj	WordNet	明瞭 だ 独特 の
+ドウモイ酸	noun	WordNet	人間 にとって 、 致命 的 だ 神経 毒
+ドウモイ酸	noun	WordNet	様々 だ 海草 に 含む れる
+変成作用	noun	WordNet	圧力 、 熱 、 または 、 新しい 化学 物質 の 導入 の よう だ 自然 の 力 による 岩 の 構造 の 変化
+灯点し頃	noun	WordNet	日没 の 直後
+大陪審	noun	WordNet	犯罪 の 告訴 理由 を 調査 する 、 起訴 の 根拠 を 判断 する 陪審
+格差	noun	WordNet	2つ 数字 の 間 の 顕著 だ ずれ または 違い
+神経伝達物質	noun	WordNet	シナプス を通して 神経 の 刺激 を 伝える
+参集	noun	WordNet	何 か を 集める 行為
+スクープ	noun	WordNet	1つ の 報道 機関 によって 最初 に 報道 する れる ニュース 記事
+はっきりした	adj	WordNet	正確 に 決定 する か 、 制限 する れる か 、 または 定義 する れる
+はっきりした	adj	WordNet	特定 で 恒常 的 だ 目的 により 特に 固定 する れる
+了然たる	adj	WordNet	容易 に 解読 する れる
+有名無実	adj	WordNet	身分 または 役割 を 表す 肩書 の 、 または 、 身分 または 役割 を 表す 肩書 を 持つ
+有名無実	adj	WordNet	芸術 作品 の 、 または 、 芸術 作品 に関する
+有名無実	adj	WordNet	何 か に対する 法的 所有 権 の 、 または 、 何 か に対する 法的 所有 権 に関する
+有名無実	adj	WordNet	気高い さ を 意味 する て いる タイトル の 、 に 関連 する た 、 あるいは 、 を もたらす
+本結び	noun	WordNet	二 結び で 作る れる 二 重 結び で 、 二 本 の ひも の 端 を つなぐ 合わせる の に 使う れる
+流落ちる	verb	WordNet	下方 に 動く
+ポルトープランス	noun	WordNet	ハイティ の 首都 で 最大 の 都市
+痛む	verb	WordNet	痛み を 感じる か 、 痛み の ある
+痛む	verb	WordNet	痛み の 源 だ ある
+奪格	noun	WordNet	動詞 によって 表す れる 、 受身 文 の 動作 主 、 手段 、 様子 、 または 行為 の 場所 を 示す 格
+恤む	verb	WordNet	慈善 団体 または 立派 だ 大義名分 に 与える
+奏功	noun	WordNet	意図 する れる て いる た 目的 を 達成 する でき 事
+奏功	verb	WordNet	成功 を 収める か 、 または 望む で いる 目標 に 達する
+オケーシー	noun	WordNet	アイルランド 人 の 劇 作家 ( 1 8 8 0 年 − 1 9 6 4 年 )
+傷痍	noun	WordNet	傷 を 負う せる 行為
+傷痍	noun	WordNet	戦闘 による 兵士 の 損耗 人員
+半音	noun	WordNet	鍵盤 楽器 の 隣る 合う た 鍵盤 の 間 の 音楽 的 間隔
+戦闘員	noun	WordNet	戦う ( あるいは 戦う て いる ) 人
+評議会	noun	WordNet	運営 機関 として 働く 団体
+評議会	noun	WordNet	協議 の ため の 人々 の 集まり
+評議会	noun	WordNet	教育 機関 の 方針 を 指示 する ため に 選出 または 任命 する れる た 運営 委員 会
+ヴァルミーの戦い	noun	WordNet	1 7 9 2 年 に フランス 軍 は オーストリア 、 プロシア 軍 を 破る た ( フランス 砲 兵隊 による 連続 砲撃 は 有名 )
+婚約指輪	noun	WordNet	婚約 の 印 として 贈る れる 嵌める られる 指輪
+原子量	noun	WordNet	原子 質量 単位 で 表す れる 、 化学 元素 の 原子 質量
+英国国教会派	noun	WordNet	英国 国教 会 の 教義 の 追随 者 だ ある プロテスタント
+旅行談	noun	WordNet	旅行 に関する 映画 または 写真 入り の 講演
+神の法	noun	WordNet	神 から 命令 する れる た と 信じる られる て いる 法則
+先導	verb	WordNet	先んじる て 行く
+先導	verb	WordNet	他 の 人 の 先 に 行く
+先導	noun	WordNet	指導 的 立場
+わざ	noun	WordNet	扱う にくい 問題 領域 に 解決 策 を 生み出す 能力
+膜鳴楽器	noun	WordNet	打楽器
+膜鳴楽器	noun	WordNet	通常 、 どちら か の 側 まで 引き伸ばす れる た 膜 が ある 中空 円筒 から 成る
+ノルゲストレル	noun	WordNet	経口 避妊 薬 で 使用 する れる 合成 プロゲスチン
+晴れやか	adv	WordNet	輝く 方法 で
+コンビ	noun	WordNet	共通 の 目的 を 持つ 人々 の ( しばしば 一時 的 だ ) グループ
+一個	noun	WordNet	単一 の 人 あるいは 物
+鍼	noun	WordNet	皮膚 の 特定 の 場所 に 針 の 先 を 差し込む こと による 痛み または 病気 の 治療
+我侭	noun	WordNet	あなた 自身 の 利益 と 福祉 に対する 懸念
+設営	noun	WordNet	古い 建物 を 治す また は 新しい もの を 建設 する こと に 係る 商業 活動
+運動性	adj	WordNet	( 胞子 または 微生物 について ) 運動 が 可能 だ ある
+メカニズム	noun	WordNet	構造 や 機能 が 機械 に 似る た 自然 の 物
+腹式呼吸	noun	WordNet	呼吸 の 大 部分 が 腹筋 で 行う れる よう だ 呼吸
+ベータ線	noun	WordNet	放射 性 崩壊 が 起こる て いる 間 の ベータ 粒子 の 放射線
+モスクワ	noun	WordNet	中央 ヨーロッパ ロシア の 町
+モスクワ	noun	WordNet	ソビエト と ロシア 共和 国 の 首都
+モスクワ	noun	WordNet	1 9 9 1 年 から ロシア 連邦 の 首都
+クロトン	noun	WordNet	熱帯 アジア の 低木
+クロトン	noun	WordNet	ハズ 油 の 原料
+クロトン	noun	WordNet	明るい 色 の 葉 の ため に 多く の 種類 が 育成 する れる て いる
+クロトン	noun	WordNet	家庭 用 植物 として 広い 栽培 する れる て いる
+キンバリー	noun	WordNet	南アフリカ 中部 の 都市
+キンバリー	noun	WordNet	ダイヤモンド の 採掘 と ダイヤモンド 売買 の 中心
+安定性	noun	WordNet	安定 する て いる 性質 、 特性
+重要なこと	noun	WordNet	特別 だ 目的
+腺疾患	noun	WordNet	身体 の 腺 の 疾患
+期外収縮	noun	WordNet	一時 的 だ 心臓 不整脈 に つながる 未 成熟 の 心臓 収縮
+営業費	noun	WordNet	財産 を 維持 する の に 要する 費用 ( 例えば 、 固定 資産 税 、 公共 料金 、 保険 の 支払い )
+営業費	noun	WordNet	減価 償却 費 ないしは 金融 や 所得 に関する 税金 は 含む ない
+ルノートル	noun	WordNet	フランス の 造園 家 で 、 ベルサイユ の 公園 を 含む 多く の 幾何 学 的 配置 庭園 を 設計 する た ( 1 6 1 3 年 − 1 7 0 0 年 )
+推理	noun	WordNet	直接的 だ 観察 に 基づく と いう より も 、 状況 的 だ 証拠 や 前例 に 基づく 理論 的 判断 を 含む 推論
+ゲストハウス	noun	WordNet	母屋 から 離れる た 家
+ゲストハウス	noun	WordNet	住宅 の 客 の ため の
+アルフレド・ドレフュス	noun	WordNet	ユダヤ 系 の フランス 人 将校 で 、 彼 が 1 8 9 4 年 に 反逆 罪 で 不法 監禁 する れる た こと が 、 1 9 0 6 年 に 釈放 する れる まで フランス 政治 を 支配 する て いる た ユダヤ 人 差別 の 問題 を 提起 する た ( 1 8 5 9 年 − 1 9 3 5 年 )
+ヨセミテ国立公園	noun	WordNet	滝 と 岩石 の 構成 で 有名 だ カリフォルニア の 国立 公園
+フレデリック・サンガー	noun	WordNet	英国 の 生化学 者 で 、 インシュリン の アミノ酸 の 系列 を 決定 する て 、 有機 体 の 遺伝子 の 配列 を 決定 する ため に 技術 を 発明 する た ( 1 9 1 8 年 生まれ )
+レンジフード	noun	WordNet	台所 レンジ の 上 の 排気 の 覆い
+ラ	noun	WordNet	階 名 唱法 における 長調 、 短調 を 含む 全 音階 の 第 6 音
+流通税	noun	WordNet	財産 の 名義 を 移す 時 に 課する られる 税金
+飽かず	adv	WordNet	飽く ない 程度 に
+飽かず	adv	WordNet	強欲 に
+飽かず	adv	WordNet	固執 する て いる が 満足 できる ない
+フラマン語	noun	WordNet	ベルギー の 北部 と 西部 で フラ マン 語 を 話す て 、 暮らす て いる 民族
+フラマン語	noun	WordNet	ベルギー の 2つ の 公用 語 の 1つ
+フラマン語	noun	WordNet	オランダ 語 と 密接 に 関連 する て いる
+フェノバルビタール	noun	WordNet	鎮静 剤 として 使う れる 効果 が 長い 持続 する バルビツール 剤
+フェニトイン	noun	WordNet	てんかん の 治療 に 使用 する れる 、 鎮静 剤 で は ない 抗 けいれん 薬 ( 商標 名 ディランティン )
+綿ぼこり	noun	WordNet	軽い て ふかふか する た 素材
+オーステナイト	noun	WordNet	鉄 中 の 鉄 の カーバイド か 炭素 の 固溶体
+オーステナイト	noun	WordNet	冷える と パー ライト または マルテンサイト を 生成 する
+エイプリルフール	noun	WordNet	悪ふざけ を する こと で 祝福 する れる 4月 1 日
+麹黴	noun	WordNet	食品 の 損傷 を 引き起こす 、 動植物 に 共通 の いくつ か の 病原 性 の 型 の 属
+肥育用家畜	noun	WordNet	肥える て いる 、 もしくは 肥育 する の に 適す た 動物
+水浴	noun	WordNet	自分 自身 ( または 他 の 人 ) を 洗う 行為
+増血剤	noun	WordNet	血液 の ヘモグロビン 量 を 増加 する せる 薬
+増血剤	noun	WordNet	鉄 欠乏症 貧血 症 を 治療 する の に 用いる られる
+サゴヤシ	noun	WordNet	様々 だ 熱帯 アジア の ヤシ の 木 で 、 幹 から は サゴ が とれる
+文士	noun	WordNet	職業 的 ( 報酬 の ため ) に ( 本 、 物語 、 記事 、 または 、 その よう だ もの を ) 書く
+シナリオライター	noun	WordNet	映画 の 脚本 家
+アンダマン海	noun	WordNet	マレー半島 の 西 へ の ベンガル 湾 の 一部
+負えない	adj	WordNet	人 の
+パンジャビ	noun	WordNet	インド 北西 部 の パンジャブ の 大 部分 の 人々 によって 話す れる インド 語 派 の 言語
+パンジャビ	noun	WordNet	北西 インド の パンジャブ に 占める 大 多数 の 人々 の メンバー
+層	noun	WordNet	利益 で 採掘 する れる の に 十分 厚い 鉱石 または 石炭 の 層
+層	noun	WordNet	もう 一つ の 上 、 あるいは 下 に 存在 する て いる 比較的 細い シート 状 の 広がり または 領域
+層	noun	WordNet	他 を 結ぶ 2 人 以上 の 競争 者 の 誰 で も
+層	noun	WordNet	積み重なる た 2つ あるいは それ 以上 の 層 の 1つ
+層	noun	WordNet	細胞 の 一つ の 厚み から 成る 細い 構造
+齶	noun	WordNet	口 を 形成 する 、 歯 を 支える 脊椎動物 の 頭蓋 の 一部分
+扶育	verb	WordNet	育てる
+シュプレマティスム	noun	WordNet	構成 派 に 影響 を 与える た ロシア の カジミールマレビッチ に 起源 を もつ 幾何 学 的 抽象 家 運動
+コリネバクテリウム属	noun	WordNet	コリネバクテリウム 属 の 種類 の どれ か
+グリセリル	noun	WordNet	3つ の ヒドロキシル 基 を 取り除く こと により グリセロール から 誘導 する れる 3 価 の 基
+化粧	noun	WordNet	外見 を よい する たり 変える たり する ため に 顔 に 塗る 化粧 品
+カブトムシ亜科	noun	WordNet	頭部 に 角 を 持つ 主 に 熱帯 性 の 様々 だ 大型 甲虫 各種 の 総称
+カブトムシ亜科	noun	WordNet	ココナッツ の 害虫
+鏈	noun	WordNet	深い さ の 航海 単位
+無痛性	adj	WordNet	肉体 的 または 精神 的 だ 苦痛 を 起こす ない
+ハイデルベルク人	noun	WordNet	ヨーロッパ に 住む で いる た 原人 の 一種
+ヘアムース	noun	WordNet	ヘアースタイリング の ため の エアゾール 式 の 泡 で 成る 化粧 品
+レミケード	noun	WordNet	tnf に対して 向ける られる た 抗体 から 成る 反 tnf 化合 物 ( 商標 名 レミケード )
+レミケード	noun	WordNet	1 ヶ月 から 3 ヶ月 の 間隔 で 静脈 内 で 与える られる
+レミケード	noun	WordNet	限局 性 腸 炎 と リウマチ 様 関節 炎 の 治療 で 、 使用 する れる
+導入	noun	WordNet	1つ の もの を 別 の もの の 中 に 入れる 行為
+導入	verb	WordNet	環境 に 新しい 何 か を もたらす
+導入	noun	WordNet	新しい 提案
+合体	noun	WordNet	同盟 または 連合 する れる て いる 状態
+合体	noun	WordNet	2つ または それ 以上 を 統合 する
+合体	noun	WordNet	1つ の 体 ( または それ に ) 融合 する
+大陸棚	noun	WordNet	大陸 周辺 の 比較的 浅い ( 2 0 0 m 以下 の ) 海底
+飢えさせる	verb	WordNet	食物 を 剥奪 する
+微生物学	noun	WordNet	微生物 と その 人間 へ の 影響 を 研究 する 生物 学 の 一 部門
+フランシス水車	noun	WordNet	水力 発電 タービン の 1 タイプ
+刻み	noun	WordNet	小さな 切れ込み
+北国人	noun	WordNet	北部 の 住民
+ペルシア猫	noun	WordNet	長い 毛 の 品種 の 猫
+ルーレット	noun	WordNet	小さな 玉 が 回転 式 器具 の 区画 の どれ に 止まる か を 賭ける 賭博 ゲーム
+ルーレット	noun	WordNet	数字 と その 次 の 数字 と で 輪 を なす よう に 隣る 合う て いる 1 点 によって できる 列
+ルーレット	noun	WordNet	一 列 に ミシン 目 を 作る 歯 の ある 輪 車
+任命権	noun	WordNet	提供 者 の 資産 の 受取 人 を 任命 する ため に 提供 者 によって 受贈 者 に 与える られる ( 遺言 または 譲渡 証書 において ) 権限
+層化抽出法	noun	WordNet	人口 が 部分 母集団 ( 層 ) に 分ける られる 、 それぞれ の 層 の 無 作為 標本 が とる れる
+言語心理学	noun	WordNet	言語 能力 と 性能 の 心理 学 的 基礎 を 研究 する 認知 心理 学 の 部門
+エンペラー	noun	WordNet	カリフォルニア 産 の 赤い テーブル ブドウ
+回顧録	noun	WordNet	著者 の 個人 的 だ 経験 の 記述
+ポートオブスペイン	noun	WordNet	トリニダード 島 西岸 の トリニダード・ドバゴ の 首都 で 最大 の 都市
+手っ取り早く	adv	WordNet	効率 的 に
+手っ取り早く	adv	WordNet	効果 的 に
+カジノ	noun	WordNet	ギャンブル や エンターテインメント の ため の 公共 の 建物
+浸透	verb	WordNet	メンバー を 見張る ため に その グループ 、 または 組織 に 入り込む
+浸透	noun	WordNet	何 か の 中 に 、 または 、 何 か を通して 入る 行為
+浸透	noun	WordNet	双方 の 濃度 が 等しい なる まで 、 高い 濃度 の ところ から 低い 濃度 の ところ に 分子 が 半 透 膜 を 通る て 拡散 する こと
+浸透	verb	WordNet	濾過 する れる か 、 浸透 を 通す
+オルフ	noun	WordNet	ドイツ の 音楽家 で 、 子供 たち に 音楽 を 教える ため に 広い 使う れる て いる 方法 を 開発 する た ( 1 8 9 5 年 − 1 9 8 2 年 )
+古典期ラテン語	noun	WordNet	古代 ローマ の 教育 を 受ける た 人々 の 言語
+コミッショナー	noun	WordNet	国 の 行政 官
+バスローブ	noun	WordNet	タオル地 の ゆったり する た ローブ
+バスローブ	noun	WordNet	入浴 後 あるいは 水泳 後 に 羽織る
+ブリッジ	noun	WordNet	弦 を 持ち上げる て 押さえる て いる 木製 の 部品
+ブリッジ	noun	WordNet	直立 姿勢 から 両手 が 床 に 着く まで 胴体 を 後ろ に 曲げる 軽業
+ブリッジ	noun	WordNet	4 人 用 の ホイスト に 基づく た 各種 の トランプ ゲーム
+ブリッジ	noun	WordNet	メーター が 接続 する て いる 2つ の ブランチ ( ダイアコンフィギュレーション で 調整 する れる 4つ の アーム ) で 成る 回路
+ブリッジ	noun	WordNet	抜く た 歯 の 両側 の 歯 に ひっかける た 歯科 仮 床
+ポルカ	noun	WordNet	ポルカ を 踊る ため に 演奏 する れる 音楽
+ポルカ	verb	WordNet	ポルカ を 踊る
+ポルカ	noun	WordNet	スリーステップ・ワンホップ の 速い ボヘミア の 舞踊
+官僚	noun	WordNet	政府 を 運営 する ため に 選出 または 任命 する れる た 人々
+官僚	noun	WordNet	非 選出 の 政府 の 役人
+朝顔	noun	WordNet	様々 だ 色 と ひだ 飾り の つく た 花 や 八 重 の 花 が ある ヨーロッパ の 熱帯 の よじ登る 一 年 草
+朝顔	noun	WordNet	じょうご 型 の 花 が 午後 に は 閉じる て しまう 巻き つく つ 植物 の 総称
+運動過剰	noun	WordNet	過度 の 運動
+運動過剰	noun	WordNet	特に 消化 管 の 過度 の 運動 性
+回鶻	noun	WordNet	ウイグル 語 を 話す 、 新 疆 と 隣接 地 に 住む 民族 の 構成 員
+回鶻	noun	WordNet	中国 極北 西部 の 約 7 0 0 万 人 の ウイグル 族 によって 話す れる チュルク 語
+回鶻	noun	WordNet	ウイグル 語 を 書く の に 使用 する れる ( アラム 語 に 由来 する ) 筆記 体
+油で揚げた	adj	WordNet	脂肪 の 中 で 揚げる られる こと によって 調理 する れる た さま
+西国	noun	WordNet	イングランド 南西 部 ( コーン ウォール 、 デボン 、 サマー セット を 含む )
+ベイズの定理	noun	WordNet	各 原因 の 確率 と 各 原因 の 結果 の 条件 付 確率 の 知識 から 、 特定 の 観測 する れる た 出来事 に対して 、 考える られる 原因 の 原 条件 付き 確率 が どの よう に 計算 できる の か を 説明 する 定理
+例説	noun	WordNet	例 を 挙げる て 示す こと
+シュールレアリスト	noun	WordNet	シュールレアリスム と 呼ぶ れる 運動 の 一員 だ ある 芸術 家
+正反対の	adj	WordNet	不一致 で
+ユーリー	noun	WordNet	米国 の 化学 者 で 、 重水素 を 発見 する た ( 1 8 9 3 年 − 1 9 8 1 年 )
+険しさ	noun	WordNet	非常 に 険しい 坂 の もつ 特性
+険しさ	noun	WordNet	恐怖 や 悩む 起こす せる 特性
+星宝貝	noun	WordNet	装飾 品 として 貝殻 が 使う れる タカラガイ
+有形	noun	WordNet	感触 によって 感知 可能 だ 質
+有形	noun	WordNet	物質 的 だ 性質
+有形	noun	WordNet	物質 から 成り立つ て いる
+親和性	noun	WordNet	抗原 と 抗体 を 引き付ける 性質
+羽板	noun	WordNet	羽 軸 の 両側 の 一連 の 羽 枝 から なる 羽 の 平たい クモの巣 の よう だ 部分
+内政干渉政策	noun	WordNet	他国 の 問題 に 干渉 する 政策
+アイストング	noun	WordNet	氷 の 固まり を 持ち上げる ため の トング
+オマハ	noun	WordNet	1 9 3 5 年 に 三冠王 を 取る た サラブレッド
+オマハ	noun	WordNet	ネブラスカ 最大 の 都市
+オマハ	noun	WordNet	ネブラスカ 東部 ミズーリ 川 沿岸 に 位置 する
+オマハ	noun	WordNet	中西部 の 主要 だ 輸送 の 中心
+オマハ	noun	WordNet	ネブラスカ 州 北東 部 ミズーリ 川 流域 に 住む で いる た スー 族 の 一員
+オマハ	noun	WordNet	オマハ 族 の 人々 が 話す た デギーハ 方言
+ヴェイパーロック現象	noun	WordNet	ガス の 気泡 によって 引き起こす れる パイプライン の 停止 ( 特に 、 ガス ライン の 燃料 が 沸騰 する て 気泡 を 形成 する 、 気化 器 へ の ガソリン の 流れ を 止める とき に 、 内燃 機関 の エンジン 内 の 熱気 によって 発生 する 停止 )
+余流	noun	WordNet	主流 から 流れる て 、 再 結合 する ない 川 の 支流
+熱電温度計	noun	WordNet	温度 測定 の ため に 熱 電気 の 電流 を 使う 温度 計
+ドラマー	noun	WordNet	ドラム を 演奏 する 人
+腹の皮が捩れる	verb	WordNet	笑い で 圧倒 する れる
+サマーストック	noun	WordNet	夏 の 間 に 株式会社 によって 公演 する れる 舞台 作品
+復刻	verb	WordNet	再び 公表 する
+復刻	verb	WordNet	復活 する ( キャンセル する れる た 遺言 または 申し立て )
+血豆	noun	WordNet	通常 損傷 により 起こす れる た 血 または 血 性 の 血清 を 含む で いる 水疱
+現量	verb	WordNet	直観 または 感覚 によって 知る あるいは 理解 する
+フーディーニ	noun	WordNet	米国 の マジシャン ( ハンガリー 生まれ ) で 、 鎖 、 手錠 、 拘束 衣 、 あるいは 錠 を かける られる た コンテナ から 脱出 する 能力 で 有名 ( 1 8 7 4 年 − 1 9 2 6 年 )
+遠心力	noun	WordNet	別 の 物体 の 周り の 曲がる た 軌道 を 運動 する て いる 物体 が 、 外 へ 向う う と する 力
+ナデシコ科	noun	WordNet	草本 または 亜低木 の 大きな 科 ( 通常 茎 が 節 の 部分 で 膨れる て いる )
+水力学的	adj	WordNet	流体 力学 の 、 または 、 流体 力学 に関する
+コクシジウム	noun	WordNet	晩生 胞子 虫 亜 綱目
+ビューリン	noun	WordNet	とがる た 先 を 持つ 焼き もどす れる た 鉄 の ノミ
+ビューリン	noun	WordNet	彫刻 に 用いる られる
+小ちゃい	adj	WordNet	数 、 量 、 大きい さ または 範囲 が 制限 する れる た 、 あるいは 平均 以下 の
+アクター	noun	WordNet	劇 の 演技 者
+正看護婦	noun	WordNet	正 看る 学校 で ( 病院 で の 実習 を 含める た ) 教育 課程 を 修了 する た 人
+正看護婦	noun	WordNet	登録 試験 に 合格 する た 学士 看護 師
+カーン	noun	WordNet	米国 の 建築 家 ( エストニア 生まれ ) ( 1 9 0 1 年 − 1 9 7 4 年 )
+カーン	noun	WordNet	米国 の 喜 歌劇 の 作曲 家 ( 1 8 8 5 年 − 1 9 4 5 年 )
+カーン	noun	WordNet	活字 が 突き出る た 金属 板 の 書体 の 部分
+ねぐら	noun	WordNet	鶏 や 他 の 鳥 の ため の とまり木 が ある 寝る 場所
+後見	noun	WordNet	安全 に対する 責任 を 暗示 する 配慮 と 経営
+メラトニン	noun	WordNet	松 果 体 によって 分泌 する れる ホルモン
+キャンベル	noun	WordNet	米国 の 神話 学者 ( 1 9 0 4 年 − 1 9 8 7 年 )
+モーム	noun	WordNet	英国 の 小説 と 短編 の 作家 ( フランス 生まれ ) ( 1 8 7 4 年 − 1 9 6 5 年 )
+心うれしい	adj	WordNet	嬉しい さ や 喜び を 楽しむ こと 、 見せる こと 、 あるいは 特徴 と する さ ま
+ルントシュテット	noun	WordNet	ポーランド 征服 と アルデンヌ 反攻 を 指揮 する た 第 二 次 世界 大戦 中 ドイツ の 陸軍 元帥 ( 1 8 7 5 年 − 1 9 5 3 年 )
+網様体	noun	WordNet	脳幹 の 中核 の 複雑 だ 神経 回路 網
+網様体	noun	WordNet	喚起 、 睡眠 、 注意 、 および 筋 緊張 の よう だ 過程 に ある 肉体 と 機能 の 状態 を 監視 する
+囲う	verb	WordNet	ロープ によって 分ける
+非点収差	noun	WordNet	1 点 から 発す た 光線 を 1つ の 焦点 に 集める こと の できる ない 、 光学 システム の 欠陥
+奇形	noun	WordNet	異常 だ ある 、 または 何 か 変則 的 だ もの
+テンジン・ノルゲイ	noun	WordNet	シェルパ の 登山 家 の ガイド で 、 エドモンド・ヒラリー 卿 と 一緒 に いる エベレスト 山 の サミット に 達する 1 番目 の うち の ひとり だ ある た ( 1 9 1 4 年 − 1 9 8 6 年 )
+豆類	noun	WordNet	様々 だ 、 鞘 植物 の 食用 種子 ( エンドウ 豆 、 インゲン 豆 または レンズ 豆 など )
+厳格	adj	WordNet	厳しい 正確 だ さま
+厳格	adj	WordNet	標準 から の 逸脱 を 許す ない さ ま
+むず痒さ	noun	WordNet	昆虫 が 皮膚 の 上 を 這う よう に 、 不快 だ 感覚
+怪しむ	verb	WordNet	疑惑 を もつ
+怪しむ	verb	WordNet	有罪 だ ある と 信じる
+アルストロメリア科	noun	WordNet	若干 の 分類 体系 で は ユリ 科 に 再 分割 する が 、 広い 受け入れる られる ない た 多く の 科 または 亜 科 の うち の 1つ
+アルストロメリア科	noun	WordNet	時々 、 ヒガンバナ 亜 科 に 含む れる
+好中球	noun	WordNet	主要 だ 食 細胞 白血球
+好中球	noun	WordNet	塩基 性 または 酸性 の 染料 に 染まる
+歩行運動	noun	WordNet	自己 推進 による 運動
+歩行運動	adj	WordNet	移動 の 、 または 、 移動 に関する
+病歴	noun	WordNet	患者 の 記憶 など に 基づく 、 医療 患者 の 病歴
+客室係	noun	WordNet	客 の 割り当て に 職務 を 負う た ホテル の 職員
+喚叫ぶ	verb	WordNet	長い 大きい 叫び声 を 発する
+クラック	noun	WordNet	鼻 から 吸引 する より も 吸う れる べし 純粋 化 する れる た 強力 だ コカイン
+クラック	noun	WordNet	高度 に 習慣 性 の ある
+焚火	noun	WordNet	燃焼 する て いる て 料理 の 手段 として 使用 する れる 燃料
+彫工	noun	WordNet	肉 を 切る 人
+ウォッカ	noun	WordNet	ロシア で 生まれる た 、 年 を 経る て いる ない 無色 の 酒
+水圏	noun	WordNet	地表 の 水分 を 多く 含む 層
+水圏	noun	WordNet	水蒸気 を 含む
+エトナ	noun	WordNet	シチリア 島 の 休火山
+エトナ	noun	WordNet	最後 は 1 9 6 1 年 に 噴火 する た
+エトナ	noun	WordNet	ヨーロッパ で 一番 高い 火山 ( 1 万 5 0 0 フィート )
+デュルケーム	noun	WordNet	フランス の 社会 学者 で 、 ソルボンヌ大学 で 最初 の 社会 学 の 教授 ( 1 8 5 8 年 − 1 9 1 7 年 )
+叙説	noun	WordNet	解説 する こと
+叙説	noun	WordNet	何 か を 、 平易 か または 理解 でる よう に する
+代理戦争	noun	WordNet	自ら は 参加 する ない 主要 国 によって 扇動 する れる た 戦争
+油紙	noun	WordNet	油 に 浸す こと で 半 透明 だ 防水 する れる た 紙
+完了時制	noun	WordNet	動作 が 完了 する た こと を 示す とき に 使う れる 動詞 の 時制 ( とき に 完了 相 と も 見なす れる )
+ヨークシャー	noun	WordNet	イングランド 北部 に かつ て ある た 大きな 州
+ヨークシャー	noun	WordNet	1 9 7 4 年 に 3つ の 小さな 州 に 分割 する れる た
+合成	noun	WordNet	化学 化合 物 を 生み出す 過程 ( 通常 より 簡単 だ 化学 結合 の 集合 による )
+合成	verb	WordNet	組み 合わさる て 、 統合 体 を 形成 する
+合成	verb	WordNet	より 多く の 複合 体 、 製品 を 形成 する ため に 、 組み合う せる
+黒人	noun	WordNet	祖先 が アフリカ 生まれ の アメリカ 人
+キューティクル	noun	WordNet	節足動物 や カメ など の よう だ ある 一定 の 生物 の 硬い 外 被 または 外 箱
+当たり前	adj	WordNet	普通 に 機能 する こと 、 または 、 発生 する さ ま
+当たり前	adj	WordNet	異常 または 欠陥 が ない こと
+猟する	verb	WordNet	食物 または スポーツ の ため に 追求 する ( 野生 動物 の よう だ )
+ダイコンドラ	noun	WordNet	毛 で 被う れる た 茎 と 、 球状 から 腎臓 型 を する た 葉 と 、 白 から 緑 がかる た 小さな 花 を 持つ 匍匐 性 多年草
+ダイコンドラ	noun	WordNet	温暖 地域 で 牧草 の 代わり に 使う れる
+切断	verb	WordNet	特定 の ファッション の スタイル や 仕立て
+切断	noun	WordNet	目的 の 模様 や 形 を 作りだす ため に 、 硬質 の 素材 から ところどころ を 取り除く こと
+切断	noun	WordNet	つながり を 断つ 行為
+切断	noun	WordNet	四肢 の すべて あるいは 一部 の 外科 的 だ 切除
+切断	noun	WordNet	切り上げる こと
+切断	verb	WordNet	外科 的 に 取り除く
+切断	noun	WordNet	1 本 もしくは 2 本 以上 の 手足 の 喪失 が 原因 の 身体 障害 の 状態
+性徴	noun	WordNet	他 と 比較 する て ある 性 に 強い 関係 する これら の 特徴 ( 解剖 学 的 と 心理 学 的 に )
+独占禁止法	noun	WordNet	市場 独占 を 非合法 化 する こと により 、 市場 における 自由 競争 を 促進 する こと を 意図 する た 法律
+甘遇	verb	WordNet	エンターテイメント を 提供 する
+勤勉さ	noun	WordNet	仕事 を 行う 上 で の 辛抱強い 決心
+おとなげなく	adv	WordNet	無邪気 だ 方法 で
+グリム	noun	WordNet	グリム 兄弟 の 弟 で 、 おとぎ話 で よく 知る れる ( 1 7 8 6 年 − 1 8 5 9 年 )
+グリム	noun	WordNet	おとぎ話 で よく 知る れる グリム 兄弟 の 兄
+グリム	noun	WordNet	また 、 『 グリム の 法則 』 の 著者 で 、 ドイツ 言語 の 子音 変化 を 記述 する た ( 1 7 8 5 年 − 1 8 6 3 年 )
+可憐さ	noun	WordNet	( 少女 や 若い 女性 の ) 優美 だ 上品 に 魅了 する 性質
+ダーリン	noun	WordNet	特別 に 愛する 人
+点鼻薬	noun	WordNet	ヘロイン の 通称
+将校辞令を受けていない	adj	WordNet	( 将校 について ) 徴募 する れる た 人員 から 任命 する れる
+アゼルバイジャン人	noun	WordNet	アゼルバイジャン の 出身 者 、 または 、 居住 者
+アゼルバイジャン人	noun	WordNet	アゼルバイジャン の 人々 が 話す チュルク 諸語
+ナイロビ	noun	WordNet	ケニア の 首都 で 最大 の 都市
+ナイロビ	noun	WordNet	サファリ 観光 の 中心 地
+パイナップル	noun	WordNet	末端 に ふさ 状 の 堅い 葉 を つける た 、 熱帯 産 の 大形 の 多 肉質 の 甘い 果物
+パイナップル	noun	WordNet	広い 栽培 する れる て いる
+パイナップル	noun	WordNet	末端 に 固い 葉 の 房 の つく た 大きい 多 肉質 の 食用 果実 を 実る せる 熱帯 アメリカ 産 の 植物
+パイナップル	noun	WordNet	熱帯 地方 で 広い 栽培 する れる て いる
+喜ばす	verb	WordNet	楽しみ を 与える 、 あるいは 喜ぶ せる て いる
+右心室	noun	WordNet	右 心房 から 静脈 血 を 受け取る 、 肺 幹 に それ を 供給 する 心臓 の 右側 の 小室
+芯	noun	WordNet	毛管 の 活動 で 液体 を 運ぶ 管 の 一部 の どれ か
+教職	noun	WordNet	所持 者 が 公立 の 学校 で 教える 資格 が ある こと を 記す 証明 書
+疫病神	noun	WordNet	風化 する て 異常 に 成形 する れる た 岩 の 柱
+ダメージコントロール	noun	WordNet	ダメージ や 損害 を 最小 に する 少ない する 努力
+錫製品	noun	WordNet	ブリキ 板 で 作る た 商品
+シング	noun	WordNet	アイルランド の 詩人 、 劇 作家 で 、 その 劇 は アイルランド の 田舎 の 生活 に 基づく ( 1 8 7 1 年 − 1 9 0 9 年 )
+オークション	noun	WordNet	契約 に 加える て 行う れる トリック が 勝者 へ 加算 する れる 様々 だ ブリッジ
+オークション	noun	WordNet	現在 は 一般 的 に コントラクトブリッジ に 代わる た
+ジョフリ	noun	WordNet	フランス の 陸軍 元帥 で 、 第 二 次 世界 大戦 中 に 、 フランス で 連合 軍 を 指揮 する た ( 1 8 5 2 年 − 1 9 3 1 年 )
+カーボランダム	noun	WordNet	炭化 ケイ素 の 結晶 から 成る 研磨 剤
+電線	noun	WordNet	電信 ・ 電話 信号 を 送る 線
+認知	noun	WordNet	補完 的 だ 形 を 持つ もう 一つ の 分子 に 付着 する 1つ の 分子 の 能力
+認知	noun	WordNet	ある もの を 理解 する 方法
+認知	noun	WordNet	審議 会 で 話す 権利 を 人 に 与える 議長 による 指定
+膝状体	noun	WordNet	視床 の 下部 から わずか に 突き出す 、 大脳皮質 へ の 経路 の シナプス 中枢 として 機能 する 4つ の 小さな 卵 形 の 塊 の 1つ
+膝状体	adj	WordNet	鋭い 角度 で 曲げる られる
+挑戦	verb	WordNet	身分 証明 書 を 見せる て ほしい と 頼む
+挑戦	noun	WordNet	危険 だ ある か 無鉄砲 だ 何 か を する 挑戦
+挑戦	noun	WordNet	挑戦 的 だ 行為
+横切る	verb	WordNet	異なる 品種 や 種類 の 親 を 使用 する て 、 動物 や 植物 を 品種 改良 する
+横切る	verb	WordNet	横切る て 渡る か 、 通り越す
+聴覚皮質	noun	WordNet	内側 膝 状 体 から 聴覚 情報 を 受け取る 皮質 野
+手錠	noun	WordNet	手首 の 周り で 錠 を できる 金属 製 の 輪 で できる た か する
+手錠	noun	WordNet	通例 対 で 用いる
+道床	noun	WordNet	線路 が 敷く れる 路盤
+古兵	noun	WordNet	多く の 実戦 を 経験 する て くる た 軍人
+マスコギー	noun	WordNet	マスコギ 族 が 話す た マスコギ 語 族 の 言語
+マスコギー	noun	WordNet	アーカンソー 川 沿い の オクラホマ 東部 の 町
+マスコギー	noun	WordNet	かつて ジョージア 州 と アラバマ 州 東部 に 住む 、 クリーク 同盟 の 核 と なる た マスコギア 族 の 一員
+h	noun	WordNet	通常 、 無色 の 、 そして 、 無臭 の 非常 に 可燃 性 の 二 原子 の ガス だ ある 非金属 の 一価 要素
+h	noun	WordNet	最も 単純 だ 構造 を 持つ 、 最も 軽い 、 また 宇宙 に 最も 大量 に 存在 する 元素 だ ある
+保証	noun	WordNet	自信 を 鼓舞 する よう だ 発言
+保証	noun	WordNet	借金 に 保証 として 抵当 に 入る 個人 の 所有 物
+保証	noun	WordNet	義務 を 履行 する ない 場合 、 債権 者 が 要求 する こと が できる 資産
+保証	noun	WordNet	何 か が 起こる または 何 か が 本当 だ ある という 保証
+保証	verb	WordNet	聞き手 に 信用 を 与える つもり だ 、 人 に 何 か の 真実 を 保証 する
+羊膜	noun	WordNet	高等 脊椎動物 ( 爬虫類 、 鳥類 と 哺乳類 ) の 発育 する て いる 胚 を 囲む 薄い もっとも 奥 の 膜 状 の 嚢
+品質	noun	WordNet	人 や 物 の 本質 的 だ 特徴 的 だ 属性
+フェードアウト	noun	WordNet	ゆっくり や 次第に 消える こと
+ホイッスラー	noun	WordNet	米国 の 画家 ( 1 8 3 4 年 − 1 9 0 3 年 )
+マントファスマ	noun	WordNet	バルト海 の 地域 から の もの だ 、 4 5 0 0 万 年 前 の 琥珀 の 一部 で 2 0 0 2 年 に 特定 する れる た 昆虫 の 目
+満了	noun	WordNet	息 を 吐き出す 行為
+和らげる	verb	WordNet	易しい する
+和らげる	verb	WordNet	強度 を 低減 する 、 または 静める
+和らげる	verb	WordNet	強度 または 激しい さ を 低下 する せる
+和らげる	verb	WordNet	軟化 する せる
+和らげる	verb	WordNet	重責 、 悪 、 または 苦悩 の ない
+和らげる	verb	WordNet	痛み または 不快 症状 を 減少 する せる
+和らげる	verb	WordNet	軽減 する
+毒物学的	adj	WordNet	毒物 学 の 、 または 、 毒物 学 に関する
+フランシュコンテ	noun	WordNet	フランス 東部 の 旧 州
+ナイトシャツ	noun	WordNet	男子 が 着る ね まき
+ネブラスカ	noun	WordNet	グレートプレーンズ の 中西部 の 州
+時代違	adj	WordNet	時代遅れ
+塞栓症	noun	WordNet	塞栓 ( 遊離 する た 塊 、 気泡 または 他 の 粒子 ) による 血管 の 閉塞
+フレージング	noun	WordNet	旋律 的 だ ライン の 音楽 の フレーズ の グループ
+出動命令	noun	WordNet	上官 から の 軍 を 出発 する せる 命令
+出動命令	noun	WordNet	解雇 あるいは 除隊 の 通知
+ひ弱	adj	WordNet	身体 的 に 弱い さ ま
+焼け焦がす	verb	WordNet	鋭い か 刺す よう だ 痛み または 不快 感 を 引き起こす
+新たに	adv	WordNet	再び 、 しかし 、 新しい か 異なる 方法 で
+就職斡旋	noun	WordNet	応募 者 と 将来 の 被 雇用 者 の 間 で 行う れる 交渉
+とまれかくまれ	adv	WordNet	ある 声明 が 前言 を 説明 または 支持 する こと を 示す の に 使用 する れる
+ミニ-	adj	WordNet	女性 の 衣類 について 使う れる
+ミニ-	adj	WordNet	膝 の 上 に 裾 が 来る 、 とても 短い
+供給	verb	WordNet	特に 支援 、 食物 あるいは 栄養 といった 所望 する れる または 必要 と する れる もの を 与える
+供給	noun	WordNet	何 か を 供給 する たり 支給 する たり する 行動
+供給	verb	WordNet	提供 する ( 通常 食物 だ が 、 必ずしも そう だ は ない )
+ハバロフスク	noun	WordNet	シベリア の 東海岸 の ロシア の 管理 の 領土
+ハバロフスク	noun	WordNet	中国 の 境界 と アムール 川 に ある 都市 で ハバロフスク の 中心 地
+お節介	adj	WordNet	お節介 、 または 無礼 だ 、 押しつけがましい
+揺すり	noun	WordNet	信用 を 傷つける よう だ 情報 を もらす と 脅かす て 、 金 を ゆする 取る こと
+送水管	noun	WordNet	水 を 送る ため の 本管 ( パイプ または 導管 )
+ウェーベル	noun	WordNet	第 二 次 世界 大戦 で の 北 アフリカ の 英国 の 陸軍 元帥
+ウェーベル	noun	WordNet	彼 は ドイツ 人 に 敗れる 前 に 、 イタリア 人 を 破る た ( 1 8 8 3 年 − 1 9 5 0 年 )
+都市伝説	noun	WordNet	怪しげ に 現れる 話 で 、 様々 だ 形 で 自然 に 広まる 、 通常 は 間違う て いる
+都市伝説	noun	WordNet	ユーモア または 恐怖 の 要素 を 含む 、 本当 だ ある と 一般 的 に 信じる られる て いる
+うねり	noun	WordNet	外洋 の 表面 の 波状 の 動き
+うねり	noun	WordNet	( 保管 の ため の よう に ) 巻き上げる こと が できる 文書
+自動詞	noun	WordNet	目的 語 を とる ない 動詞 ( または 動詞 構文 )
+不穏	adj	WordNet	暴力 的 だ 情緒 または 論争 を 引き起こす こと の できる
+不穏	adj	WordNet	胸 が 熱い なる 思い で 満ちる た
+不穏	noun	WordNet	液体 あるいは 気体 の 不安定 だ 流れ
+不穏	adj	WordNet	精神 的 だ 不快 を 引き起こす
+不穏	noun	WordNet	適切 だ ない 親しい さ の 行為
+不穏	noun	WordNet	激しい 騒乱 や 騒動 の 状態 ( 政治 的 または 社会 的 情勢 など の 場合 が 一般 的 )
+愛くるしい	adj	WordNet	特に 無邪気 だ ナイーブ だ 態度 で 愛らしい
+オストラバ	noun	WordNet	モラビア の 低地 の チェコ 共和 国北 西部 の 産業 の 都市
+オストラバ	noun	WordNet	シレジア の 炭鉱 地域 に ある
+運動	verb	WordNet	体操 する
+運動	noun	WordNet	ある 考え を 推し進める 、 または ある 目的 に 向かう て いく う と する 一連 の 活動
+富者	noun	WordNet	物質 的 だ 富 を たくさん 所有 する て いる 人
+モナルダ	noun	WordNet	ヤグルマハッカ 属 の 様々 だ 芳香 性 草本 の 総称
+没取	verb	WordNet	手順 を 除外 する こと を 条件 として
+没取	verb	WordNet	抵当 を 買い戻す 抵当 権 設定 者 の 権利 を 取り除く
+吸い上げる	verb	WordNet	吸着 または 吸収 で 液体 または 気体 を 取り込む
+吸い上げる	verb	WordNet	サイフォン か サイフォン を 用いる 動作 によって 液体 を 1 個 の 容器 から 別 の もの に 動かす
+打っ叩く	verb	WordNet	手 、 拳 または 若干 の 重い 器具 で ひどい 打つ れる
+打っ叩く	verb	WordNet	打つ こと により 形 を なす
+プラニメータ	noun	WordNet	変則 的 だ 平面 図形 の 面積 を 測る 測定 器
+アキタニア	noun	WordNet	ボルドー と ピレネー 山脈 の 間 の フランス 南西 部 の 地方
+配位子	noun	WordNet	中心 と なる 原子 の 周り に 複合 体 を 形成 する 原子 、 分子 、 基 、 イオン の こと
+イニング	noun	WordNet	それぞれ の チーム が 打撃 の 順番 を 持つ 9つ に わかれる た 区分 の 1つ
+有象無象	noun	WordNet	一般 市民 を さげすむ だ 言い方
+ウィリアム・バトラー・イェイツ	noun	WordNet	アイルランド の 詩人 で 劇 作家 ( 1 8 6 5 年 − 1 9 3 9 年 )
+アンモニア原子時計	noun	WordNet	アンモニア 分 子中 の ニトロ ゲン 原子 の 振幅 周波数 に 基づく 原子 計
+疑り	noun	WordNet	疑う れる て いる 状態
+カニューレ処置	verb	WordNet	カニューレ か チューブ を 導入 する
+テーププレーヤー	noun	WordNet	磁気 テープ を 再生 する ため の 電子 装置
+デレゲーション	noun	WordNet	代表 者 や 使節 の グループ
+デレゲーション	noun	WordNet	従属 者 に 決定 を 下す 権限 を 与える こと
+天神髭	noun	WordNet	点 に 手入れ を する れる 小さな あご あごひげ
+天神髭	noun	WordNet	やぎ の ひる げ に 似る て いる こと から 名付ける られる た
+edp	noun	WordNet	統計 カード や パンチ テープ を 用いる ない 、 電子 的 だ 手段 による 自動 データ 処理
+マシュー・アーノルド	noun	WordNet	英国 の 詩人 で 文芸 批評 家 ( 1 8 2 2 年 − 1 8 8 8 年 )
+ヒラメ	noun	WordNet	多数 の 細い 体 を 持つ た 魚 の 甘い 脂肪 の 少ない 白っぽい 肉
+ヒラメ	noun	WordNet	薄い フィレ として 供 する れる
+電光石火	noun	WordNet	積極 的 に 注意 を 払う こと
+教義的に	adv	WordNet	主義 として
+鍛える	verb	WordNet	油 の 再 加熱 と 冷却 によって 堅め られる た
+鍛える	verb	WordNet	残虐 で 冷酷 で 非 人間 的 に する
+鍛える	verb	WordNet	何 度 も 繰返す て 教える
+激化	noun	WordNet	何 か を より 激しい する 行動
+圧砕	verb	WordNet	無効 に する
+研磨紙	noun	WordNet	粉末 状 の エメリー または 砂 を 表面 に 塗る た 固い 紙
+符号	noun	WordNet	コンピュータ プログラム の データ や 命令 、 または その よう だ 命令 の 一連 の 記号 による 配列
+キャッシュフロー	noun	WordNet	一定 期間 の 現金 支出 に対する 現金 収入 超過 ( 現金 以外 の 費用 は 含む ない )
+風景画家	noun	WordNet	風景 を 描く 人
+親油性の	adj	WordNet	水 より も むしろ 油 に対して 強い 親和 性 を 持つ て いる
+ホモサピエンス	noun	WordNet	唯一 の 生存 する て いる ヒト 科 の 動物
+ホモサピエンス	noun	WordNet	現代 人 が 属する 種
+ホモサピエンス	noun	WordNet	言語 を 持つ 、 複雑 だ 道具 を 作る 使用 する 能力 が ある 二 足 の 霊長 類 の 動物
+ホモサピエンス	noun	WordNet	頭脳 の 容積 少なくとも 1 4 0 0 の cc
+スプライサー	noun	WordNet	組み 継ぎ によって 木材 の 断片 を 結合 する 木工 職人
+スプライサー	noun	WordNet	スト ランド を 織る 合わせる こと によって ロープ を 継ぐ 合わせる 労働 者
+スプライサー	noun	WordNet	紙 、 フィルム 、 磁気 テープ の 2 片 を つなぐ ため の 機械 装置
+テストステロン	noun	WordNet	睾丸 によって 主として 作り出す れる た 強力 だ 男性 ホルモン
+テストステロン	noun	WordNet	男性 の 二 次 性徴 の 発展 に対して 責任 が ある
+アイルランド	noun	WordNet	アイルランド 共和 国 と 北アイルランド から なる 島
+胎児	noun	WordNet	発達 段階 における 胎児 、 または 卵 から かえって いる ない 脊椎動物 で 、 成熟 する た 動物 を 認識 できる 形 を する て いる
+花穎	noun	WordNet	すぐ に 筒 花 を 閉じる ほとんど が イネ 科 に 入る 低い 頑丈 だ 2つ の 包 頴
+価値ある	adj	WordNet	価値 、 または 利得 の ある
+価値ある	adj	WordNet	尊敬 する べし だ ある 、 または 賞賛 に 値する こと
+価値ある	adj	WordNet	特殊 の 種類 の 価値 を 持つ
+価値ある	adj	WordNet	特定 の 価値 の ある
+高血糖	noun	WordNet	異常 に 血液 中 の 糖度 が 高い こと だ 、 通常 、 糖尿 病 に 関連 する
+ウォラー	noun	WordNet	米国 の ジャズ ミュージシャン ( 1 9 0 4 年 − 1 9 4 3 年 )
+ハルノノゲシ	noun	WordNet	ユーラシア の 一 年 草 の ハルノノゲシ で 、 柔らかい とげ 状 の 葉 と 、 放射状 の 黄色い 頭状花 を 持つ
+意味	verb	WordNet	示す か 、 意味 する
+意味	noun	WordNet	言葉 または 表現 の 意味
+意味	noun	WordNet	単語 、 表現 または 状況 を 解釈 できる 方法
+意味	verb	WordNet	論理 的 だ 結果 として 持つ
+意味	noun	WordNet	全体 的 だ 意味 や 大意
+意味	noun	WordNet	意義 が ある という 特質
+アイナメ	noun	WordNet	北 太平洋 産 の 食用 魚
+デューク	noun	WordNet	( 様々 だ 国 における ) 高い 身分 の 貴族
+焼け焦げ	noun	WordNet	熱 によって 引き起こす れる た 変色
+削減	verb	WordNet	抜本 的 に 切り取る
+削減	noun	WordNet	量 や 数 を 減らす 行為
+父として	adv	WordNet	父親 らしい 態度 で
+肉感的	adv	WordNet	とても なまめかしい 態度 で
+肉感的	adv	WordNet	格好 が よく 官能 的 だ 態度 で
+オト	noun	WordNet	フランス 人 の 1 0 8 8 年 から 1 0 9 9 年 まで の 教皇 で 、 説教 で 第 1 次 十字軍 を 求める た ( 1 0 4 2 年 − 1 0 9 9 年 )
+込みあげる	verb	WordNet	液体 の よう に 、 上がる て くる
+色素沈着過剰	noun	WordNet	皮膚 が 異常 に 黒ずむ こと
+名誉勲章	noun	WordNet	「 任務 の 要求 を 越える た 」 戦闘 における 勇気 と 武勇 に対して 与える られる 米 軍 の 最高 の 勲章
+セントボニフェス	noun	WordNet	キリスト の 教え を 布教 する ため に フリースランド と ドイツ へ 送る れる た アングロサクソン の 宣教師
+セントボニフェス	noun	WordNet	フリジア で 殉教 する た ( 6 8 0 年 − 7 5 4 年 )
+保釈	verb	WordNet	保釈 によって 解放 する
+保釈	noun	WordNet	被告 が 拘留 から ( 通常 、 金額 が 裁判 で 彼ら の 出廷 を 保証 する という 条件 で ) 一時 解放 する れる の を 許容 する 法律 制度
+プラスティネーション	noun	WordNet	生物 学 的 組織 の 固定 化 、 脱水 、 強制 的 飽和 と 硬化 を 含む 過程
+プラスティネーション	noun	WordNet	水 と 脂質 は 、 その後 に 硬化 する れる 硬化 性 ポリマー ( シリコーン 、 エポキシ または ポリエステル ) と 取り替える られる
+判別	noun	WordNet	2つ 以上 の 刺激 の 間 に 差 が 見る られる 認知 過程
+生物学主義	noun	WordNet	生物 学 の 法則 を 、 人間 の 特に 社会 的 だ 行動 を 説明 する の に 用いる こと
+倒産	noun	WordNet	財源 の 不足
+倒産	verb	WordNet	破産 または 支払い 不能 に なる
+倒産	verb	WordNet	財務 的 に 失敗 する 、 閉鎖 する
+倒産	noun	WordNet	( 船 について ) 沈む こと
+倒産	noun	WordNet	当然 支払う べし もの と なる 負債 の 全て を 払う こと が 不可能 だ こと
+首位	noun	WordNet	最も 重要 だ ある こと
+端折る	verb	WordNet	最初 に 意図 する れる て いる た もの より 短い する
+端折る	verb	WordNet	長い さ あるいは 期間 を 減らす または 縮小 する
+fortran	noun	WordNet	数学 的 および 科学 的 だ 目的 の ため の 高級 だ プログラム 言語
+fortran	noun	WordNet	数式 翻訳 を 表す
+1820年代	noun	WordNet	1 8 2 0 年 から 1 8 2 9 年 まで の 1 0 年間
+ピンカス	noun	WordNet	米国 の 生殖 に関する 生理学 者 で 、 プロゲステロン が 排卵 を 妨げる かも しれる ない という 直感 が 経口 避妊 薬 の 開発 に つながる た ( 1 9 0 3 年 − 1 9 6 7 年 )
+戸呂	noun	WordNet	彼女 の 恋人 レアンドロス が 彼女 に 会う ため に ヘレスポント を 泳ぐ う として 溺れる た 時 に 、 自殺 する た アフロディテ の 尼僧
+肉薄した	adj	WordNet	接近 する て いる さ ま
+ハードソース	noun	WordNet	バター ・ 砂糖 に ブランディー や 香料 を 混ぜる て クリーム 状 に する た もの 、 こく の ある プディング に 添える
+単芽球	noun	WordNet	通常 、 骨髄 に 見る られる 大きい 未 発達 の 単 核 細胞
+アラビアゴム	noun	WordNet	アカシア の 木 から 取れる 樹脂
+アラビアゴム	noun	WordNet	( 特に 菓子 や 薬剤 の ) 濃縮 剤 として 用いる られる
+ボス	noun	WordNet	票 を 制御 する 任命 を 操る 政党 の リーダー
+最高最低温度計	noun	WordNet	一定 時間 の 間 に 達す た 最高 気温 と 最低 気温 を 記録 する 温度 計
+人称	noun	WordNet	話し手 、 話す れる 人 または 第三者 を 示す か によって 代名詞 、 所有 限定 詞 と 動詞 の 分類 に 使用 する れる 文法 上 の カテゴリー
+レジスタンス	noun	WordNet	政府 、 または 、 占領 軍 を 崩壊 する せる ため に 組織 する れる た 秘密 グループ
+満期	noun	WordNet	財務 上 の 義務 を 返済 する ない ば なる ない 日
+満期	noun	WordNet	契約 期間 の 終了 の 到来
+凝縮熱	noun	WordNet	質量 単位 の 気体 が 凝縮 する て 液体 に 変わる とき の 沸点 で 生じる 熱
+開発	verb	WordNet	新しい 何 か を 作る 、 例えば 製品 または 精神 的 だ ある か 芸術 的 だ 創造
+開発	noun	WordNet	ある 地域 や 水域 の 収益 を 増やす たり 、 生産 性 や 利用 価値 を 高める 行為
+開発	verb	WordNet	使用 を 変える 、 利用 または 使用 できる よう に しる 、
+キュロット	noun	WordNet	分かれる た スカート
+道案内	noun	WordNet	方向 を 示す 、 あるいは 道 を 案内 する 標識 の つく た 柱
+巧妙	adv	WordNet	器用 さ を もつ て
+巧妙	adv	WordNet	器用 だ さま
+巧妙	adj	WordNet	発明 の 才 と 技能 を 示す さま
+スヌーカー	noun	WordNet	1 5 の 赤い ボール と 6つ の 他 の 色 と 突き 玉 で プレイ する れる 玉突き の 形体
+スヌーカー	verb	WordNet	馬鹿 または カモ
+スヌーカー	verb	WordNet	相手 が 直接 ショット を 取る こと が できる ない よう に する て おく
+主演男優	noun	WordNet	男性 の 役 で 主役 を 演じる 男優
+停留睾丸	noun	WordNet	雄 の 胎児 が 成長 する 時 に 陰 嚢 に 両方 、 あるいは 一方 の 睾丸 が 下がる て くる ない こと
+本屋	noun	WordNet	書店 の 経営 者
+予防医学	noun	WordNet	疾病 予防 に 携わる 医学 の 部門
+筆名	noun	WordNet	作家 の ペンネーム
+アーレント	noun	WordNet	米国 の 歴史 家 で 政治 哲学 者 ( ドイツ 生まれ ) ( 1 9 0 6 年 − 1 9 7 5 年 )
+オタムワ	noun	WordNet	南東 アイオワ の 町
+基層言語	noun	WordNet	自分 達 の 言語 を 原住民 に 課す 、 侵入 する て いる 民族 の 言語 に 特徴 を 与える 現地 語
+外輪船	noun	WordNet	外輪 によって 進む 蒸気 汽船
+イタリア	noun	WordNet	イタリア の 半島 の 南 ヨーロッパ の 共和 国
+イタリア	noun	WordNet	ローマ 共和 国 と ローマ帝国 の 中心 は 、 紀元前 4 世紀 と 西暦 5 世紀 の 間にあう た
+包膜	noun	WordNet	成長 中 の 胞子 、 特に シダ の 胞子 嚢群 を 覆う て いる もの を 包む 、 保護 する 膜
+残飯	noun	WordNet	( 台所 など から ) 捨てる られる 食べ物
+中和	noun	WordNet	前 に 行う れる た 行動 の 効果 を なくす 意図 を もつ 行動
+中和	verb	WordNet	軍事 行動 を 不能 に する
+中和	verb	WordNet	化学 的 に 中和 する せる
+サンチーム	noun	WordNet	いくつ か の 国 で 使う れる 少額 の 通貨 単位 : フランス 、 アルジェリア 、 ベルギー 、 ブルンジ 、 カメルーン 、 チャド 、 コンゴ 、 ガボン 、 ハイチ 、 コートジボアール 、 ルクセンブルグ 、 マリ 、 モロッコ 、 ニジェール 、 ルワンダ 、 セネガル 、 スイス 、 トーゴ
+ジョージ・バランシン	noun	WordNet	米国 の ダンサー 、 振付 師 ( ロシア 生まれ ) で 、 抽象 的 だ 形式 的 だ 作品 で 知る れる ( 1 9 0 4 年 − 1 9 8 3 年 )
+歯科補綴学	noun	WordNet	人工 装置 により 換歯 と 関連 する 口 か 顎 の 構造 に 対処 する 歯科 学 の 分科
+ヘアブラシ	noun	WordNet	人 の 髪 を すく ブラシ
+宗教音楽	noun	WordNet	宗教 的 儀式 の ため に 作曲 する れる た 音楽 の ジャンル
+洗いざらい	adv	WordNet	量 に関する
+ホームコンピュータ	noun	WordNet	家庭 で 使用 する れる よう に 意図 する れる た コンピュータ
+ジャズマン	noun	WordNet	ジャズ 音楽 を 演奏 する たり 作曲 する 音楽家
+酒樽	noun	WordNet	ワイン を 入れる た 樽
+ブレジネフ	noun	WordNet	ソ連 の 政治 家 で 、 ソビエト 連邦 の 大統領 に なる た ( 1 9 0 6 年 − 1 9 8 2 年 )
+敵	noun	WordNet	二 者 の 間 の 激しい 口論
+敵	noun	WordNet	敵対 する 軍隊
+骨抜き	noun	WordNet	強い 性格 に 欠ける 性質
+骨抜き	noun	WordNet	決断 力 の ない 性質
+骨抜き	noun	WordNet	勇気 と 決断 力 に 欠ける 特性
+骨抜き	noun	WordNet	損失 や 傷害 に対する 恐れ
+アトリエ	noun	WordNet	特に 芸術 家 や デザイナー の ため の スタジオ
+カシ属	noun	WordNet	オーク
+大殿筋	noun	WordNet	3つ の 臀 筋 の 最も 外側 の もの
+オルセー通り	noun	WordNet	その 官庁 街 で 知る れる て いる セーヌ 川 の 南 の 岸 に 沿う た パリ の 街路
+ペチコートを着けた	adj	WordNet	ペチコート を 着る て いる こと あるいは ペチコート を 備える た
+コーンシロップ	noun	WordNet	トウモロコシ で 作る た シロップ
+ワルツ	noun	WordNet	ワルツ を 踊る ため の 3 拍子 の 音楽
+ワルツ	noun	WordNet	1 拍 目 に 強い アクセント を つける 3 拍子 の 社交 ダンス
+だめにする	verb	WordNet	強い さ または 効率 を 奪う
+だめにする	verb	WordNet	役に立つ ない か 役に立つ ない する
+今日的	adj	WordNet	現在 に 属す て いる さ ま
+今日的	adj	WordNet	現代 芸術 や 音楽 、 文学 、 及び 建築 の 特性
+予想した	adj	WordNet	( 考え または 意見 について ) あらかじめ 、 形成 する れる
+予想した	adj	WordNet	特に 証拠 ない だ 、 偏見 ない だ
+マキナック橋	noun	WordNet	ミシガン の 上下 半島 間 の 海峡 を 結ぶ 吊り橋
+負う	verb	WordNet	支払う 、 または 、 払い戻す 義務 が ある
+永久不変	noun	WordNet	無限 の 期間 に 存在 する こと の できる 特性
+ファーニバル	noun	WordNet	英国 の 言語 学者 で 、 オックスフォード 英語 大 辞典 を 最初 に 提案 する た ( 1 8 2 5 年 − 1 9 1 0 年 )
+エージェントオレンジ	noun	WordNet	ベトナム 戦争 で 森林地帯 の 木 を 落葉 する せる ため に 用いる られる た 除草 剤
+除脳	verb	WordNet	( 人体 ) から 大脳 を 取り除く
+副詞	noun	WordNet	動詞 または 節 を 修飾 する 品詞
+副詞	noun	WordNet	名詞 以外 の 何 か を 修飾 する 単語
+塞栓	noun	WordNet	血液 中 を 循環 する 異常 だ 粒子 ( 気泡 や 血塊 の 一部 など )
+細動	noun	WordNet	小 繊維 を 形成 する 行為 または 過程
+細動	noun	WordNet	各 筋繊維 が 無秩序 に 自発 活動 を する 、 筋肉 痙攣
+のみ	noun	WordNet	削ぐ だ 刃 の ある 平たい 金属 の 刃 を 持つ 刃物
+麗ら	adj	WordNet	( 天気 について ) 非常 に 楽しい
+藻塩草	noun	WordNet	非常 に 細長い 葉 を 持つ 水中 海洋 植物 で 、 北大西洋 沿岸 に 沿う て 多数 生育 する て いる
+竜舌蘭	noun	WordNet	背 の 高い 穂 に 繊維 質 で 刀 状 葉 の 根 出 ロゼット と 花 を つける 熱帯 アメリカ 産 の 植物
+竜舌蘭	noun	WordNet	装飾 または 繊維 製品 の ため に 栽培 する れる て いる もの も ある
+ハロタン	noun	WordNet	全身 麻酔 を 引き起こす 不燃 性 吸入 麻酔 剤
+ハロタン	noun	WordNet	多く の タイプ の 外科 的 処置 に対し 鎮痛 剤 と 筋肉 弛緩 剤 とともに 用いる られる
+フリーウェイト	noun	WordNet	美容 体操 の エクササイズ と 重量挙げ に 使用 する れる スポーツ 用品
+フリーウェイト	noun	WordNet	何 に も 触れる ぬ に 、 手 と 腕 を 使う こと で 上げ下げ する れる
+頬	noun	WordNet	顔 の 下 の 目 の 側面 の どちら か
+アデニン	noun	WordNet	dna および rna に 存在 する プリン 基
+アデニン	noun	WordNet	dna の チミン および rna の ウラシル と 対 を 成す
+ターボプロップ	noun	WordNet	ターボジェット エンジン で 動かす れる 外部 プロペラ 付き の 飛行機
+本論	noun	WordNet	コミュニケーション の 主要 だ メッセージ
+ジャップ	noun	WordNet	日系 人 に対する 差別 的 だ 言葉
+眼医者	noun	WordNet	目 の 疾患 の 治療 と 診断 を 専門 に する て いる 医師
+行動主義	noun	WordNet	計測 可能 だ 行動 の 観察 を 強調 する 、 心理 学 の アプローチ
+士官室	noun	WordNet	軍艦 の 士官 ( 船長 を 除く ) が 食事 と くつろぐ の に 使う 区画
+デイベッド	noun	WordNet	肘掛け が ない ソファ
+デイベッド	noun	WordNet	昼 は 椅子 で 夜 は ベッド
+デイベッド	noun	WordNet	ダブル ベッド に 変換 できる 詰め 物 を する た 長い す で なる 変換 可能 家具
+場面	noun	WordNet	何 か を 配置 する ため の 情況 と 環境
+浜方	noun	WordNet	ビーチ に 沿う て 走る 細長い 土地
+膜骨	noun	WordNet	あらかじめ 軟骨 を 形成 する ぬ に 膜質 の 組織 内 で 発達 する 骨
+膜骨	noun	WordNet	鎖骨 や 頭蓋骨 など
+ノーアイロン	verb	WordNet	濡れる た もの を 干す て 乾かす
+ポウチ	noun	WordNet	物 を 保持 する か または 運ぶ ため の 小さい または 中間 の サイズ 容器
+普通貨物便で輸送する	noun	WordNet	商業 的 に 急送 料金 より も 安い 料金 で 品物 を 輸送 する こと
+サラダナ	noun	WordNet	いろいろ だ もの を 皿 に 盛り付ける たり 混ぜ合う せる たり する て ドレッシング を 添える 料理
+サラダナ	noun	WordNet	通常 、 緑黄色 野菜 から 成る 、 または 、 緑黄色 野菜 を 含む
+断熱過程	noun	WordNet	熱 を 得る たり 、 無くす たり する こと ない に 起こる 過程
+維持	noun	WordNet	環境 や 天然 資源 の 保護 や 注意深い 管理
+維持	verb	WordNet	特定 の 方法 で 支持 する か 、 支える
+維持	verb	WordNet	必需 品 を 供給 する 、 支援 を 行う
+維持	verb	WordNet	必須 の ペース または レベル を 維持 する
+維持	verb	WordNet	特定 の 状態 、 条件 または 活動 を 続ける
+維持	verb	WordNet	不変 の 状態 に 保つ か または 維持 する
+維持	verb	WordNet	残す せる 、 または 持続 する せる
+こけもも	noun	WordNet	むき出し の 原 形質 塊 で 、 植物 と 動物 の 両方 の 性質 を 持つ
+こけもも	noun	WordNet	原生 生物 として 分類 する れる こと が ある
+職業性	adj	WordNet	訓練 を 受ける た 活動 や 職務 の 、 または 、 訓練 を 受ける た 活動 や 職務 に関する
+種なしレーズン	noun	WordNet	乾燥 する せる た 種 ない ブドウ
+垢穢	noun	WordNet	ニューイングランド の 海岸 の 小さい カジカ
+鉄欠乏性貧血	noun	WordNet	食事 における 鉄分 の 不足 、 または 慢性 出血 の 結果 生じる 鉄分 損失 による 貧血 の 状態
+裏地	noun	WordNet	服 の 内側 の 表面 として 用いる られる 一片 の 布
+二重母音	noun	WordNet	1つ の 母音 の 発生 位置 近く から 始まる 、 他 の 母音 の 位置 へ 近づく 母音 の 音
+外国人旅行者	noun	WordNet	異国 の 地 を 旅行 する 人
+ヨウ化銀	noun	WordNet	写真 撮影 、 雨 を 作る 雲 へ の 種まき 、 および 医療 で 使う れる ヨウ 化物
+ブルガリア共和国	noun	WordNet	ヨーロッパ 南東 部 の バルカン半島 東部 に ある 共和 国
+サッカレー	noun	WordNet	英国 の 作家 ( インド 生まれ ) ( 1 8 1 1 年 − 1 8 6 3 年 )
+感じさせる	verb	WordNet	何 か を 表現 する ため の 方法 として 処理 する
+スキムミルク	noun	WordNet	乳 脂 を すくう とる た 牛乳
+低酸素症	noun	WordNet	不足 を 是正 する う と する 非常 に 強い 欲 動 を 引き起こす 酸素 不足
+脱臼	verb	WordNet	位置 から 出る
+脱臼	noun	WordNet	身体 の 部分 ( 特に 骨 ) が 正常 だ 位置 から ずれる こと ( 肩 や 脊柱 など )
+滑か	adj	WordNet	葉 形 の 縁 の
+滑か	adj	WordNet	歯 が ばらばら に なる て いる ない
+イグニッションコイル	noun	WordNet	電池 から の 電流 を 発火 プラグ で 必要 と する れる 高圧 電流 に 変換 する 誘導 コイル
+大スンダ列島	noun	WordNet	ボルネオ 、 セレベス 、 ジャワ 、 および スマトラ を 含む 列島
+磨る	verb	WordNet	点火 または 打撃 による 生産 する
+線文字a	noun	WordNet	紀元前 1 7 世紀 の クレタ で 使用 する れる た 解読 する れる て いる ない 書記 体系
+小鳥用水盤	noun	WordNet	小鳥 の 水浴び 用 の ( 通常 、 庭 に ある ) 装飾 的 水盤
+誤判	noun	WordNet	誤る た 情報 による 誤解
+骨格	noun	WordNet	加工 品 を 形作る 内部 の サポート 構造
+骨格	noun	WordNet	何 か を 支える 、 あるいは 保持 する 構造 物
+バード	noun	WordNet	英国 の オルガン 奏者 で 教会 音楽 の 作曲 家
+バード	noun	WordNet	1 6 世紀 の 多 声 音楽 の 大家
+バード	noun	WordNet	トーマス ・ タリス とともに 、 音楽 を 印刷 する 独占 権 が 与える られる た ( 1 5 4 3 年 − 1 6 2 3 年 )
+バード	noun	WordNet	探検 家 で 、 米国 の 海軍 士官
+バード	noun	WordNet	南極大陸 の 探検 を 指揮 する た ( 1 8 8 8 年 − 1 9 5 7 年 )
+カーカー	noun	WordNet	カラス 科 の 鳥 が 出す 音
+さざ波	noun	WordNet	液体 の 表面 の 小さな 波
+三角洲	noun	WordNet	川 が より 大きな 本流 に 入る 前 に 分かれる 沖積 堆積 物 の 低い 三角形 の 領域
+リンパ球新生	noun	WordNet	骨髄 、 リンパ 節 、 胸腺 、 および 脾臓 の リンパ 球 の 構成
+アクロン	noun	WordNet	オハイオ 北東 部 の 都市
+アクロン	noun	WordNet	米国 ゴム 産業 の 中心
+ユークリッド幾何学	noun	WordNet	ユークリッド の 原理 に 基づく 幾何 学
+三葉虫	noun	WordNet	古生代 の 時代 に 豊富 だ ある た 絶滅 する た 節足動物
+三葉虫	noun	WordNet	外 骨格 は 、 3つ の 部品 に 分割 する れる て いる た
+原因である	adj	WordNet	効果 を 生み出す
+ホテイラン	noun	WordNet	1 枚 の 基部 の 葉 より 上 の 直立 する 赤みがかる た 茎 の 先端 に 、 紫 の 斑点 が ある 単 生 の 白 から ピンク の 花 を つける 北半球 の 温帯 の 珍しい 湿原 生 の ラン
+ジェシー・ジェイムズ	noun	WordNet	米国 の 無法者 で 、 南部 連合 の 兵士 として 戦う 、 後 に 無法者 の 集団 を 率いる て 西部 で 列車 や 銀行 から 略奪 する て いる た が 、 一味 の メンバー により 殺害 する れる た ( 1 8 4 7 年 − 1 8 8 2 年 )
+端山	noun	WordNet	山 の 麓 の 斜面 に ある 比較的 低い 丘
+ホワイトホール	noun	WordNet	トラファルガー 広場 から 国会 議事堂 間 で 延びる ロンドン の 広い 道
+ホワイトホール	noun	WordNet	多く の 官公庁 の 所在地
+ホワイトホール	noun	WordNet	英国 の 官庁
+ベンジャミン・ブリテン	noun	WordNet	2 0 世紀 の 一流 の 英国 の 作曲 家
+ベンジャミン・ブリテン	noun	WordNet	オペラ で 知る れる ( 1 9 1 3 年 − 1 9 7 6 年 )
+アイクマン	noun	WordNet	オランダ の 医師 で 、 脚気 が 栄養 不足 で 起きる こと を 発見 する た ( 1 8 5 8 年 − 1 9 3 0 年 )
+エチレンジアミン四酢酸	noun	WordNet	鉛 または 重金属 中毒 の 場合 に 金属 イオン を キレート 化 する ため に 医学 的 に 使用 する れる 錯体 分子
+コカコーラ	noun	WordNet	コカコーラ は 商標 コーラ だ ある
+可塑的	adv	WordNet	柔軟 に
+共同経営会社	noun	WordNet	契約 によって 創設 する れる た ビジネス ベンチャー の 構成 会社
+来る	verb	WordNet	オルガズム を 経験 する
+来る	verb	WordNet	何 か または 誰 か に 向かう また は 何 か または 誰 か に 近づく
+来る	verb	WordNet	起こる か 、 利用 可能 に なる
+相承	verb	WordNet	彼ら の 死後 、 誰か から 得る
+異性愛	noun	WordNet	異性 に 性的 に 惹く れる ( または 性的 関係 を 持つ ) こと
+モーメント	noun	WordNet	離れる た 状態 ( もしくは 、 その 力 の 度合い ) で 、 作用 する 対象 によって 作る れる た 回転 力
+譲歩	noun	WordNet	主張 を 譲歩 する 、 または 曲げる こと
+譲歩	verb	WordNet	譲歩 する
+譲歩	verb	WordNet	妥協 する
+譲歩	verb	WordNet	妥協 に 達する
+スニファ	noun	WordNet	かぐ 人
+オベリスク	noun	WordNet	ピラミッド 形 の 頂点 に 向う て 方形 の 断面 が 先細る に なる て いる 石柱
+津	noun	WordNet	船 が 貨物 を 積み込む だり 、 荷揚げ する たり 保護 港
+食いつき	noun	WordNet	餌 を 取る 魚 の 事例
+洋服屋	noun	WordNet	衣服 を 仕立てる たり 、 直す たり する 仕事 の 人
+羞恥	noun	WordNet	当惑 による 不安 だ 気持ち
+そこから	adv	WordNet	その 場所 から 、 または 、 そこ から
+音階	noun	WordNet	特定 の 配列 に従って ピッチ が 違う ( 普通 1 オクターブ 内 の ) 一連 の 音
+差し込む	verb	WordNet	ぴったり と 収める
+いんちきさ	noun	WordNet	滑る やすい やくざ 者 だ ある 特性
+いんちきさ	noun	WordNet	技能 や 注意 を 必要 と する 品質
+簒奪	verb	WordNet	権限 や 場合 によって は 権力 ない だ 、 取得 する または 支配 する
+簒奪	verb	WordNet	個人 の 権利 あるいは 所有 物 として 手 に 入れる
+簒奪	noun	WordNet	力ずく で ( ある 役職 や 権限 を ) 奪取 する こと
+ランブルシート	noun	WordNet	旧式 の 2 座席 の 車 の 後部 に ある 3 番目 の 小型 座席
+ランブルシート	noun	WordNet	シャツ の 正面 を 想定 する 男性 の 取り外し 可能 だ 差込み ( 通常 、 かたい なる )
+結晶格子	noun	WordNet	結晶 を 構成 する 原子 、 分子 、 イオン の 3 次元 的 だ 幾何 学 配列
+抜き出る	verb	WordNet	非常 に 目立つ
+奪還	verb	WordNet	強制 的 に 法的 親権 から 取る
+子嚢菌	noun	WordNet	半 子 嚢菌 綱 、 不整 子 嚢菌 綱 、 核 菌 綱 と 盤 菌 綱 を 含む 真 菌類 の 大きな 下位 区分
+子嚢菌	noun	WordNet	子 嚢菌
+子嚢菌	noun	WordNet	ある 分類 法 で は 王国 の 菌 と 考える られる て いる
+植民	verb	WordNet	入植 者 として 定住 する
+植民	verb	WordNet	開発 途上 地域 の 国 の
+植民	verb	WordNet	( そこ に ) 入植 者 として 定住 する 、 または 、 植民 地 を 設ける
+ピランガ	noun	WordNet	フウキンチョウ 科 の 一 属
+その場逃れ	noun	WordNet	火急 の 必要 や 緊急 事態 に 対応 する ため に 考える られる た 事柄
+苦情	noun	WordNet	文句 あるいは 苦情 を 表現 する こと
+苦情	noun	WordNet	( 現実 的 だ もの あるいは 想像 上 の もの を 問う ぬ ) 恨み を 抱く 、 行動 を 起こす 根拠 と なる もの
+サルモネラ症	noun	WordNet	サルモネラ菌 に 汚染 する れる た 食物 を 摂取 する こと で 生じる 食中毒
+討議	noun	WordNet	試案 あるいは 提案 に対して 賛否 の 理由 を 述べる 議論
+討議	noun	WordNet	ある 話題 について 考え を 交換 する 合う こと
+無我	noun	WordNet	実在 する ない こと
+タクシー乗り場	noun	WordNet	客 を 待つ て いる タクシー が 待機 する 場所
+遺児	noun	WordNet	両親 を なくす た 子供
+船便	noun	WordNet	陸路 または 海路 で 送る れる 郵便
+茶目っけ	noun	WordNet	腕白 小僧 の よう に 振る舞う 特性
+変事	noun	WordNet	戒厳 令 が しかれる こと
+変事	noun	WordNet	不運 だ 出来事
+黄体形成ホルモン	noun	WordNet	下垂 体 前 葉 によって 分泌 する れる 性腺 刺激 ホルモン
+黄体形成ホルモン	noun	WordNet	メス の 哺乳類 の 排卵 と オス の 哺乳類 の アンドロゲン の 放出 を 刺激 する
+憎悪	verb	WordNet	激しい 嫌う
+憎悪	verb	WordNet	反感 または 嫌悪 を 感じる
+仙骨麻酔	noun	WordNet	脊柱 管 の 尾 方 端 へ 麻酔 薬 を 注射 する こと による 局所 麻酔
+仙骨麻酔	noun	WordNet	現在 、 主 に 硬い 膜 外 麻酔 に 代わる て いる
+フルクトース	noun	WordNet	蜂蜜 や 熟 する た 果物 の 多く に 存在 する 単純 だ 糖
+じょう舌	adj	WordNet	些細 だ 会話 で いっぱい だ ある
+さらし台	noun	WordNet	手首 と 首 用 の 穴 が ある 杭 の 処罰 の 木 の 器具
+さらし台	noun	WordNet	犯罪 者 は 閉じ込める られる 、 そして 公共 の 嘲笑 に さらす れる た
+二人組	noun	WordNet	一 まとまり と 見なす れる 2 人
+はがね色	noun	WordNet	灰色 がかる た 青色
+パピルス	noun	WordNet	パピルス を 細長い 切る 、 プレス する 平ら に する て 作る れる た 紙
+パピルス	noun	WordNet	古代 エジプト 、 ギリシア 、 および ローマ で 用いる られる た
+ロアール	noun	WordNet	フランス 最長 の 川
+ロアール	noun	WordNet	マシフサントラル へ 上る 、 大西洋 の 北部 と 西部 に 流れる
+窒化物	noun	WordNet	窒素 と 更 なり 電気 陽性 元素 を 含む 合成 物 ( リン または 金属 など の )
+文法的	adj	WordNet	文法 の 、 または 、 文法 に関する
+文法的	adj	WordNet	ネイティブ スピーカー によって 認める られる た 文法 または 語法 に 沿う て
+タスマン海	noun	WordNet	オーストラリア の 南東 と ニュージーランド の 間 に ある 南太平洋 の 入り江
+注水	verb	WordNet	水路 、 溝 または 流れ で 、 水 を 供給 する
+嗅覚鈍麻	noun	WordNet	におい に対して 減少 する て いる 感度
+キングズキャニオン国立公園	noun	WordNet	セカイヤオスギ 木 、 アルペン 湖 、 氷河 を 有する カリフォルニア の 国立 公園
+叮寧	adj	WordNet	礼儀 と 丁寧 さ を 示す
+叮寧	adj	WordNet	苦心 する て 慎重 だ 正確 だ
+叮寧	adj	WordNet	態度 、 話し方 、 振舞い など において 、 他人 へ の 敬意 を 示す さま
+生物戦	noun	WordNet	人間 と 動物 か 食物 を 滅ぼす バクテリア 、 ウイルス または 毒素 を 使用 する こと
+日雇い労働者	noun	WordNet	日雇い で 働く 労働 者
+日雇い労働者	noun	WordNet	日給 の ため に
+暖竹	noun	WordNet	継ぎ目 の ある 茎 と 大きな 灰白色 の 羽毛 の よう だ 円錐 花序 を 持つ 、 川辺 や 水路 に 見る られる 大きな 根茎 の ある 多年生 の 草
+食い物にする	verb	WordNet	利己 的 に 利用 する て 利益 を 得る
+カミース	noun	WordNet	だぶだぶ の シャツ または チュニック
+カミース	noun	WordNet	当初 、 中世 に 着る られる た
+垂直	adv	WordNet	まっすぐ に 上下 に 連続 する て
+垂直	noun	WordNet	所定 の 線 や 面 ( 特に 水平 の 面 ) に対して 直角 だ ある という 特質
+垂直	noun	WordNet	水平 に対して 直角 の 位置
+垂直	adv	WordNet	垂直 だ さ まで
+垂直	adj	WordNet	直角 で 交差 する か 、 直角 を 形成 する さ ま
+垂直	noun	WordNet	直角 だ ある もの の 間 の 対照 の 関係
+垂直	adj	WordNet	非常 に 険しい
+垂直	adj	WordNet	位置 または 姿勢 において 直立 の
+垂直	adj	WordNet	垂直 位置 で
+垂直	adj	WordNet	傾斜 する て いる ない さ ま
+支出	noun	WordNet	支払う れる た お金
+支出	noun	WordNet	支出 する れる た 金額
+フォール	noun	WordNet	レスラー の 肩 が マット に 押しつける られる た とき
+フォール	noun	WordNet	力 や 数 や 重要 性 の 突然 の 低下
+インドネシア共和国	noun	WordNet	1 3 , 0 0 0 以上 の 島 を 含む 列島 上 の 南東 アジア の 共和 国
+インドネシア共和国	noun	WordNet	1 9 4 5 年 に オランダ から 独立 を 勝ち取る
+インドネシア共和国	noun	WordNet	極東 、 太平洋 岸 で の 主 だ 石油 産出 地
+約する	verb	WordNet	引き受ける ある い は 与える と 約束 する
+約する	verb	WordNet	1つ の 語 を 代用 する こと により 、 数学 的 だ 方程式 の 式 の 形 を 単純 化 する
+エバーグレイズ国立公園	noun	WordNet	マングローブ の 生える 沼 、 珍しい 鳥 、 野生 動物 が いる 広大 だ 亜熱帯 荒野 を 含む フロリダ の 国立 公園
+歯冠	noun	WordNet	歯肉 の 上 の エナメル 質 に 覆う れる た 歯 の 部分
+インスタンス化	verb	WordNet	例 を 見つける こと ( 単語 または 特別 だ 用法 )
+インスタンス化	verb	WordNet	例 を 使う て 表現 する
+四半期	noun	WordNet	1 年 の 4 分の 1
+四半期	noun	WordNet	3 ヶ月
+篤志	noun	WordNet	社会 全般 の ため に なる 活動 もしくは 贈り物
+風刺画	noun	WordNet	喜劇 的 だ 効果 の ため に 誇張 する れる た ある 人物 の 描写
+筋	noun	WordNet	対照 的 だ 色 の 縞
+筋	noun	WordNet	主として 収縮 細胞 から 成る 動物 組織
+筋	noun	WordNet	文学 作品 、 劇 、 映画 の 主題 または プロット の 要約
+筋	noun	WordNet	本 、 演劇 、 映画 の プロット
+エアシック	adj	WordNet	乗り物 酔い を 経験 する さ ま
+シーカー	noun	WordNet	ある 種 の 放出 ( 熱 、 光 、 音 または 電磁波 ) に 向かう て 引き付ける られる 装置 を 装備 する て いる ミサイル
+心地よくない	adj	WordNet	身体 的 だ 不快 を 与える 、 あるいは 経験 する さ ま
+マンツーマン	adv	WordNet	率直 に
+西角目鳥	noun	WordNet	北大西洋 産 の 一般 的 だ ツノメドリ
+議士	noun	WordNet	議会 の 議員
+fig	noun	WordNet	1 9 9 5 年 に 組織 する れる て 、 アルカイダ と 提携 する て いる た リビア の テロリスト の グループ
+fig	noun	WordNet	リビア 政府 を 急進 化 する う と する
+fig	noun	WordNet	カダフィ を 暗殺 する こと を 試みる た
+左方	noun	WordNet	左側 の 近く の 場所 または その 方向
+左方	noun	WordNet	すなわち 、 人 または オブジェクト が 東 に 直面 する て いる 時 の 北 へ の 側
+構成単位	noun	WordNet	あなた が 最も 幸福 だ 最も 有能 だ ある という 状況
+ヒメネス	noun	WordNet	スペイン 人 の 叙情詩 人 ( 1 8 8 1 年 − 1 9 5 8 年 )
+金子	noun	WordNet	最も 普通 に 使う れる て いる 交換 手段
+金子	noun	WordNet	法定 貨幣 として 機能 する て いる
+教職員	noun	WordNet	学校 の 教師 や 理事 たち の 集団
+ヨハネスブルグ	noun	WordNet	プレトリア の 近く の 南アフリカ の 北東 の 地域 の 都市
+ヨハネスブルグ	noun	WordNet	ダイヤモンド 、 金 産業 の 取引 の 中心
+カクレガニ	noun	WordNet	カキ の 外套 膜 の 穴 内 に すむ 、 非常 に 小さな 軟体 ガニ
+ヴィーゼンタール	noun	WordNet	ナチ の 戦争 犯罪 の オーストリア の 調査官 ( 1 9 0 8 年 生まれ )
+応答	verb	WordNet	言葉 で 反応 する
+長調	noun	WordNet	和声 が 長音階 に 基づく 調
+四分音符	noun	WordNet	小さな かぎ 状 の 器具
+四分音符	noun	WordNet	全 音符 の 四 分の 一 の 長い さ の 音符
+資本主義的	adj	WordNet	資本 主義 または 資本 主義 者 の 、 あるいは 、 資本 主義 または 資本 主義 者 に関する
+資本主義的	adj	WordNet	資本 主義 を 賛成 する か または 実行 する さ ま
+サクランボウ	noun	WordNet	硬い 種 が ひとつ 入る た 赤い 果物
+ストレプトマイセス属	noun	WordNet	好 気性 細菌 ( その 幾つ か は 、 抗生 ストレプトマイシン を 生産 する )
+脈管	noun	WordNet	体液 が 循環 する 管
+多細胞の	adj	WordNet	多く の 細胞 から なる
+睾丸	noun	WordNet	男性 の 2つ の 生殖 腺
+相当な注意	noun	WordNet	分別 の ある 人 だ 、 その よう だ 事情 で は 当然 する だ ある う 注意
+相当な注意	noun	WordNet	法的 義務 を 決定 する 基準
+チャウチャウ	noun	WordNet	厚手 の 外套 、 綿毛 の 縮れる て いる テール 、 および 特有 の ブルー ブラック の 話し方 が ある 中型 の 犬 の 種類
+チャウチャウ	noun	WordNet	ふわふわ する た 巻 毛 の 尾 と はっきり する た 青黒い 舌 を 持つ 厚い 被 毛 の 中型 犬
+塊	noun	WordNet	確か だ 形 の ない 何 か の 大きな 部分
+塊	noun	WordNet	体格 の いい 性的 魅力 の ある 男
+快気	noun	WordNet	くつろぐ で いる か 痛み を 感じる て いる ない 状態
+記	noun	WordNet	何 か または 誰 か に関する 周知 の 事実 の 収集 物
+綿菓子	noun	WordNet	高温 で 熱す た 砂糖 を 回す こと によって 作る れる 飴
+クレブス回路	noun	WordNet	全て の 植物 と 動物 における : 細胞 の エネルギー 源 だ ある 高 エネルギー の リン 酸 塩 合成 物 を 生産 する ため に アセチル 合成 物 の 酸化 の 新陳代謝 を 含む ミトコンドリア 中 の 一連 の 酵素 の 反応
+ミノサイクリン	noun	WordNet	様々 だ バクテリア および リケッチア 感染 症 の 治療 に 使う れる テトラサイクリン から 誘導 する れる た 抗生 物質 ( 商標 名 ミノ シン )
+即席爆発装置	noun	WordNet	急ごしらえ の 爆発 装置
+不滅にする	verb	WordNet	続ける か 、 勝つ せる
+廃位	verb	WordNet	玉 位 から 君主 を 追放 する
+廃位	noun	WordNet	だれ か を 退陣 する せる 行為
+廃位	noun	WordNet	影響 力 の ある 人 を 地位 または 公職 から 解任 する
+廃位	verb	WordNet	去る こと を 強制 する ( 職務 を )
+倒影	noun	WordNet	鏡 ( あるいは 他 の 反射 物 ) によって 映す れる よう だ もの の 像
+玉ねぎ	noun	WordNet	タマネギ の 球根
+性細胞	noun	WordNet	精子 または 卵子
+性細胞	noun	WordNet	dna を 次世代 に 送る こと に 関与 する て いる り 細胞
+植字機	noun	WordNet	活字 に 原文 の 素材 を 組む 印刷 装置
+古典	noun	WordNet	古代 ギリシア ・ ローマ の 文学 作品 の 研究
+熱烈	adj	WordNet	強い 熱意 によって 特徴付ける られる
+トリポリ燐酸ナトリウム	noun	WordNet	石鹸 と 洗剤 の 原料 として 使う れる 三 リン 酸 の ナトリウム 塩
+膵癌	noun	WordNet	膵臓 の 癌
+グラウンドシーツ	noun	WordNet	湿気 を 防ぐ ため に ( テント の 下 など ) 地面 の 上 に 広げる 防水 布
+差押え	noun	WordNet	収益 が 差押える られる た 請求 を 支払う まで 、 他 の 誰か が 所有 する て いる 資産 を 押収 する て 、 それ を 保持 する こと
+比興	verb	WordNet	寓話 として 解釈 する
+比興	verb	WordNet	寓話 に する
+核黄疸	noun	WordNet	脳 と 他 の 神経 細胞 における 胆汁 色素 の 異常 だ 蓄積
+核黄疸	noun	WordNet	黄 変 と 組織 損傷 を 引き起こす
+マヘリア・ジャクソン	noun	WordNet	米国 の 歌手 で 、 作品 が ゴスペル 音楽 を 大衆 化 する ため に 大いに 役割 を 果たす た ( 1 9 1 1 年 − 1 9 7 2 年 )
+ひいて板	noun	WordNet	アイスホッケー リンク を 取り巻く 板
+ひいて板	noun	WordNet	劇場 の ステージ
+アンブローズ・ビアス	noun	WordNet	米国 の 辛い ウイット を もつ た 作家 ( 1 8 4 2 - 1 9 1 4 )
+サッコ	noun	WordNet	米国 の アナキスト ( イタリア 生まれ ) で 、 バートロメオ・バンゼッティ と 殺人 によって 有罪 と 宣告 する れる て 、 世界 的 だ 抗議 に も かかわる ぬ 、 処刑 する れる た ( 1 8 9 1 年 − 1 9 2 7 年 )
+再結成	verb	WordNet	新た に 組織 化 する 、 失敗 の 後 の よう に
+頬骨	noun	WordNet	頬 の 突起 を 形成 する 目の下 の アーチ 型 の 骨
+頬骨	noun	WordNet	側 頭骨 の 頬骨 突起 の 空間 を 埋める と なる 頬骨 の 側 頭 突起 により 形成 する れる 細長い アーチ
+自律訓練法	noun	WordNet	患者 に 自己 誘導 の 弛緩 に関する 訓練 を 行う こと
+ハナゴンドウ	noun	WordNet	北海 で 一般 的 だ スレート から 灰色 の とがる て いる ない 鼻 の イルカ
+静脈内で	adv	WordNet	静脈 内 の 方法 で
+エルギン・マーブル	noun	WordNet	フェイディアス によって 製作 する れる た 古代 ギリシア の 大理石 製 の 像 の 集積 と 建築 物 の 一部
+エルギン・マーブル	noun	WordNet	主 に アテネ の パルテノン から
+ストロフルス	noun	WordNet	とげ の ある 球形 の 果実 の 房 と 香り の よい 樹液 を 持つ フウ 属 の 北 アメリカ の 高木
+ストロフルス	noun	WordNet	家具 を 作る の に 用いる られる 甘い ゴム の 木 の 心材 から の 赤褐色 の 木 と 材木
+ストロフルス	noun	WordNet	非常 に 大きな 赤い ゴム の 木
+ストロフルス	noun	WordNet	特に 耐塩 性 ユーカリ の ユーカリ 属 の いくつ か の 木 の どれ か から の 赤み を 帯びる た 茶 の 乾燥 する た ゴム 質 の 浸出 物
+申出	noun	WordNet	( 提案 や 入札 など ) 提案 する た 何 か
+売笑	noun	WordNet	お金 で 性 を 売る こと
+寛容	adj	WordNet	広い 心 を 持つ さま
+寛容	adj	WordNet	耐久 能力 を 示す さま
+コロンブスデー	noun	WordNet	クリストファー ・ コロンブス が アメリカ大陸 を 発見 する た こと を 記念 する 法定 祝日
+野太い	adj	WordNet	危険 、 差し迫る た 危機 に 気がつく ない または 、 直面 する て いる こと に対して 静か だ 毅然 と する た
+ヤガ科	noun	WordNet	ヤガ
+ヤガ科	noun	WordNet	アワヨトウ
+倒錯者	noun	WordNet	特に 性的 行為 が 常軌 を 逸す て いる 人
+タホ湖	noun	WordNet	ネバダ と カリフォルニア の 境界 から カーソンシティ 西部 まで の 湖
+タホ湖	noun	WordNet	人気 の ある リゾート 地
+パストラル	noun	WordNet	田園 生活 を 思い出す せる よう だ 楽曲
+化粧張り	noun	WordNet	質 の 劣る 木材 の 基板 に 糊付け する れる た 上質 木材 の 薄い 層
+ピンカール	noun	WordNet	髪 の 房 を 湿る せる て 、 カール する 、 その カール を クリップ または ボビー ピン で 留める た 巻く 毛
+卓出	noun	WordNet	全体 的 に 普及 する こと
+卓出	noun	WordNet	広い 行く わたる こと
+オルデンブルク	noun	WordNet	米国 の 彫刻 家 ( スウェーデン 生まれ )
+オルデンブルク	noun	WordNet	ポップアート 運動 の リーダー で 、 ありふれる た 物 へ の 巨大 だ 彫刻 で 知る れる ( 1 9 2 9 年 生まれ )
+四価	adj	WordNet	4 の 原子 価 を もつ
+ステーツウーマン	noun	WordNet	女性 政治 家
+ケルビーニ	noun	WordNet	教会 の 音楽 と オペラ の イタリア の 作曲 家 ( 1 7 6 0 年 − 1 8 4 2 年 )
+聴聞僧	noun	WordNet	告白 ( 自分 に 都合 の 悪い 情報 を 明らか に する こと ) を する 人
+デタント	noun	WordNet	( 特に 国家 間 の ) 緊張 や 緊迫 する た 関係 の 緩和
+個体発生的	adj	WordNet	個体 の 発生 と 進化 の 、 または 、 個体 の 発生 と 進化 に関する
+輸精管	noun	WordNet	精巣 上体 から 射精 管 まで 精子 を 運ぶ 管
+殴り書き	verb	WordNet	細部 を あまり 気 に する ぬ に 、 すばやい 書き留める
+鉄道馬車	noun	WordNet	初期 の 形態 の 路面 車 で 馬 が 引く て いる た
+セクステット	noun	WordNet	ともに 演奏 する 6 人 の 演奏 者 や 歌手
+セクステット	noun	WordNet	一 まとまり と 見なす れる 6 人
+目	noun	WordNet	( 針 に ある よう だ ) 小さい 穴 または 輪
+目	noun	WordNet	見える もの に対して 注意 する こと
+索具	noun	WordNet	船 の マスト と 帆 を 支える ロープ など から 成る ギヤ
+衣文方	noun	WordNet	特定 の 人 に 合わせる て 衣類 の 仮縫い を する 人
+交叉点	noun	WordNet	互い を 横切る 線 から 成る 模様
+版	noun	WordNet	新聞 の 発行
+版	noun	WordNet	テキスト ( 特に 印刷 する れる た 本 ) が 出版 する れる 形
+ヴィクトール・コルチノイ	noun	WordNet	ロシア 人 の チェス マスター ( 1 9 3 1 年 生まれ )
+リブロース	noun	WordNet	あばら骨 の 外部 に 沿う て 位置 する 1 本 以上 の あばら骨 と 肉 を 含む ひと 切れ の 肉 ( 牛肉 か シカ の 肉 )
+ディナーセット	noun	WordNet	ディナー を 出す ため の 食器 一 揃い
+うわさによれば	adv	WordNet	報告 または 他 の 情報 に よる と
+はねハンマー	noun	WordNet	強力 だ 動力 ハンマー
+はねハンマー	noun	WordNet	放つ れる て 重力 で 落下 する まで カム によって 上昇 する れる
+フレンチ・ブルドッグ	noun	WordNet	なめらか だ 被 毛 と 四角い 頭 を 持つ 小型 で ずんぐり する た ブルドッグ
+音栓	noun	WordNet	音質 の よう だ オルガン ・ パイプ の 段階 的 だ 組
+音栓	noun	WordNet	パイプ から の 音 の 音質 を 変える とき に 引く オルガン の つまむ
+マナグア	noun	WordNet	ニカラグア の 首都 で 最大 の 都市
+ブロガー	noun	WordNet	ブログ を つける て 、 更新 する 人
+バーツ	noun	WordNet	タイ で 使う れる て いる 通貨 の 基本 単位
+脳細胞	noun	WordNet	脳 の 神経 細胞
+シーク	noun	WordNet	シク 教 の 支持 者
+シーク	noun	WordNet	ディスク の 特定 の データ トラック に対する 読み書き の ため の ヘッド の 動き
+シーク	adj	WordNet	シーク 教徒 または その 宗教 的 だ 信仰 または 習慣 の 、 あるいは 、 シーク 教徒 または その 宗教 的 だ 信仰 または 習慣 に関する
+鉱山労働者	noun	WordNet	鉱山 で 働く 労働 者
+標本	noun	WordNet	人口 から 無作為 に 選択 する れる て 、 人口 に関する 仮説 を 試験 する ため に 使用 する れる 項目
+標本	noun	WordNet	ある 部類 の 典型 的 と 思う れる 例
+標本	noun	WordNet	全体 を 代表 する ため の 小 部分
+タンタル	noun	WordNet	堅い て 光沢 の ある 灰色 の 金属 元素 で 、 高い 耐 腐食 性 が ある
+タンタル	noun	WordNet	コルンブ 石 、 フェルグソン 石 および タンタライト で 起こる
+持たす	verb	WordNet	( 食物 ) が 腐る の を 防ぐ
+解析幾何学	noun	WordNet	幾何 学 的 性質 を 調べる ため に 代数 を 使う こと
+解析幾何学	noun	WordNet	座標 系 で 定義 する れる た 記号 に 作用 する
+クリンチ	noun	WordNet	くくる つける と共に 作る れる 小さい スリップ 輪 だ わ
+クリンチ	noun	WordNet	一方 の ボクサー が 、 打つ れる の を 避ける 、 一時 的 に 休む ため に 他 の ボクサー に 寄りかかる 行為
+クリンチ	noun	WordNet	釘 または ボルト または リベット の 平ら に する れる た 部分
+失格	noun	WordNet	不適任 だ ある こと を 証明 する て 、 その 人 たち の 参加 を 妨げる 行為
+継続的	adj	WordNet	連続 的 だ ( 連続 する て )
+宇宙医学	noun	WordNet	人間 の 宇宙 飛行 の に対する 影響 を 研究 する て いる 医療 の 分科
+貝類	noun	WordNet	たいてい 貝殻 の 中 に 包 り 柔らかい 無 節 の 体 を 持つ 無 脊椎動物
+到達	noun	WordNet	ある 場所 に 到達 する 行為
+到達	noun	WordNet	目的 の 達成
+到達	verb	WordNet	目的 を 達成 する
+到達	noun	WordNet	新しい 段階 に 達する こと
+舁きあげる	verb	WordNet	機械 の 助け で 上 が るまた は 引き上げる
+与える	verb	WordNet	返却 として 譲り渡す
+与える	verb	WordNet	与える ( 医療 として )
+与える	verb	WordNet	楽しむ せる
+与える	verb	WordNet	持つ こと 、 とる こと を 許容 する
+与える	verb	WordNet	容赦 する か 、 やめる こと が できる ない
+与える	verb	WordNet	何 か を する か 、 または 何 か を 買う ため の 財政 的 だ 手段 を 持つ
+与える	verb	WordNet	引き渡す
+与える	verb	WordNet	他 の 物理 的 コントロール に対して 、 引き渡す 、 または 放棄 する
+与える	verb	WordNet	不快 だ 何 か を 強要 する
+与える	verb	WordNet	入り口 を 提供 する
+与える	verb	WordNet	  判断 する れる た 支給 金 として または 利益 に 基づく て 与える
+ボブ	noun	WordNet	女性 や 子供 の 髪型
+ボブ	noun	WordNet	全体 に 短い 髪型
+物思	noun	WordNet	問題 について しつこい 病的 に 考え込む こと
+ウエット	noun	WordNet	感傷 的 だ うわべ だけ の 感情
+思い浮かぶ	verb	WordNet	記憶 する れる て いる
+ケムニッツ	noun	WordNet	ドイツ 中 東部 の 都市
+ケムニッツ	noun	WordNet	1 9 9 0 年 まで 、 以前 は カールマルクスシュタット 呼ぶ れる た
+ケムニッツ	noun	WordNet	織物 業 で 知る れる
+タガメ	noun	WordNet	突き刺す て 、 吸う 口器 を もつ 大きな チャバネゴキブリ
+タガメ	noun	WordNet	稚魚 を 食べる
+不景気	noun	WordNet	経済 が 後退 する 状態
+不景気	noun	WordNet	gdp と 雇用 率 、 貿易 の 全般 的 だ 後退 で 、 6 ヶ月 から 1 年間 続く
+不景気	noun	WordNet	失業 と 安値 、 取引 と 投資 の 低 水準 が 特徴 だ ある 長期 的 だ 経済 状態
+メフェナム酸	noun	WordNet	非 ステロイド 系 の 抗 炎症 性 の 鎮痛 剤 ( 商標 名 ponstel ) で 、 軽度 だ 痛み ( 特に 月経 痛 ) の 治療 に 使用 する れる
+誘因	noun	WordNet	強い 勧める 行為
+誘因	noun	WordNet	真摯 だ 説得 の 試み
+大天使	noun	WordNet	天使 の 階級 の 最高 位 の 上 に 位置 する 天使
+実際上	adv	WordNet	現実 に 、 実際 に は 、 または 事実 は
+禁足	noun	WordNet	個人 の 自由 を 制限 する こと
+ウラン鉱	noun	WordNet	ウラン が 抽出 する れる 鉱石
+汚毒	verb	WordNet	不潔 に する
+リポソーム	noun	WordNet	核酸 を パッケージ できる 人工 的 に 作る れる た 顕微鏡 の 小 嚢
+リポソーム	noun	WordNet	分子生物学 で は 、 変換 ベクトル として 使用 する れる
+ストローブ	noun	WordNet	物体 の 定期 的 だ 変動 に 連動 する 閃光 を 供給 する 科学 的 手段
+ストローブ	noun	WordNet	動く て いる 物体 を 静止 する て いる よう に する こと の できる
+エイブラハム・リンカーン	noun	WordNet	米国 の 第 1 6 代 大統領
+エイブラハム・リンカーン	noun	WordNet	南北戦争 中 に 北 軍 を 救う 、 奴隷 を 解放 する た
+エイブラハム・リンカーン	noun	WordNet	ブース によって 暗殺 する れる た ( 1 8 0 9 年 − 1 8 6 5 年 )
+柳	noun	WordNet	ヤナギ 属 の 落葉 性 高木 および 低木 の 総称
+キチェ	noun	WordNet	キチュ 族 が 話す て いる た マヤ 語族 に 属する 言語
+キチェ	noun	WordNet	グアテマラ 中 南部 の マヤ 族 の 一員
+マザーウェル	noun	WordNet	米国 の 抽象 表現 主義 の 画家 ( 1 9 1 5 年 − 1 9 9 1 年 )
+牢乎たる	adj	WordNet	譲歩 を する ない
+牢乎たる	adj	WordNet	友人 、 近い または 理由 へ の 執着 において 動揺 する ない
+分封	verb	WordNet	グループ から 取り除く 、 分かれる させる
+ゲートウェイドラッグ	noun	WordNet	習慣 性 が ない 習慣 性 の 薬 、 しかし 、 その 使用 は 、 他 の 習慣 性 薬物 の 使用 に つながる かも しれる ない
+分散媒	noun	WordNet	他 の 物 が コロイド 性 に 分散 する れる 物質 ( コロイド の )
+エナメル質形成	noun	WordNet	歯 の エナメル 質 を 形成 する 発達 上 の 過程
+不敬	adv	WordNet	顧慮 する ぬ に
+不敬	adv	WordNet	不敬 だ 態度 で
+不敬	noun	WordNet	不遜 だ 心的 態度
+不敬	adj	WordNet	尊敬 の 念 の 崇拝 の 欠如 を 示す さま
+カンザスシティ	noun	WordNet	カンザス 川 と ミズーリ 川 の 合流 地点 に 位置 する 西 ミズーリ の 都市
+カンザスシティ	noun	WordNet	カンザス 州 の カンザス シティー に 隣接 する て
+リュリ	noun	WordNet	スペイン 人 の 哲学 者 ( 1 2 3 5 年 − 1 3 1 5 年 )
+リュリ	noun	WordNet	フランス の 作曲 家 ( イタリア 生まれ ) で 、 ルイ 1 4 世 へ の 法廷 作曲 家 だ ある 、 国家 的 だ フランス の オペラ を 創立 する た ( 1 6 3 2 年 − 1 6 8 7 年 )
+光高温計	noun	WordNet	熱い 物体 によって 放出 する れる 光 の 色 を 利用 する 高温 計
+身長	noun	WordNet	ヒト の 体 の 長い さ
+軍用機	noun	WordNet	戦闘 用 に 設計 する れる 、 使用 する れる 航空機
+結合エネルギー	noun	WordNet	分子 や 原子 あるいは 原子核 から 粒子 を 分離 する せる の に 必要 だ エネルギー
+結合エネルギー	noun	WordNet	質量 欠損 に 等しい
+ストーン	noun	WordNet	人体 の 重い さ を 測定 する の に 使用 する れる 常 衡単 位
+ストーン	noun	WordNet	1 4 ポンド と 等しい
+生化学的	adv	WordNet	生化学 に関して
+ヨウジウオ	noun	WordNet	長い 筒 状 の 口先 と 骨ばる た 板 で 覆う れる た スリム だ 体 を もつ た 魚
+窓口	noun	WordNet	光 と 空気 を 通す 、 それ を通じて 顧客 が 応対 する れる 壁 または スクリーン の 開口 部
+中心前回	noun	WordNet	中心 溝 によって 後ろ で 結びつける られる て いる 、 運動 野 を 含む 前頭葉 の 脳 回
+吊るし上げる	verb	WordNet	公然 と または 正式 に 起訴 する 、 非難 する または 汚名 を 着せる
+レーク	noun	WordNet	陸地 に 囲む れる た ( 通常 塩分 を 含む ない ) 水域
+鳥脚類	noun	WordNet	カモノハシ 竜 と その 初期 の 近 縁類 ( ハドロサウルス・トラコドン・イグアナドン ) を 含む 広い 分布 する 群
+下水管	noun	WordNet	下水 か 地上 水 を 運ぶ 去る 排水 管
+投手	noun	WordNet	投球 する 選手
+騎行	noun	WordNet	馬 に 乗る て 馬 の 動き を コントロール する スポーツ
+器用さ	noun	WordNet	手 を 使う とき の 巧妙 さ
+噴門	noun	WordNet	胃 の 入り口 で 、 食道 に 結びつく た 胃 の 部分
+牧歌的	adj	WordNet	牧歌 的 に 素朴 だ
+牧歌的	adj	WordNet	田園 生活 を 連想 する せる
+牧歌的	adj	WordNet	魅惑 的 に 単純 だ 穏やか だ
+全休符	noun	WordNet	4 分の 4 拍子 で 、 4 拍 の 長い さ と 等しい 音楽 の 休止
+無害	adj	WordNet	引き起こす ない こと あるいは 、 害 を 引き起こす 能力 が ある
+アメリカナイゼーション	noun	WordNet	アメリカ の 文化 へ の 同化
+素直	adj	WordNet	偽装 ない だ
+素直	adj	WordNet	率直 だ
+素直	adj	WordNet	装飾 または 飾り の ない
+素直	adj	WordNet	教える られる 準備 が できる て いる て 、 それ を 望む で いる さ ま
+パレスチナ自治政府	noun	WordNet	政治 的 単位 の 下 の ガザ 地区 と ヨルダン川 西岸 地区 を 限る れる た 自治 と 警官 隊 に 結合 する ます
+パレスチナ自治政府	noun	WordNet	1 9 9 3 年 に イスラエル と パレスチナ 解放 機構 と の 協定 で 作成 する れる た
+屁っ放り	noun	WordNet	肛門 を通して 腸 の ガス を 排出 する 反射
+ヘリック	noun	WordNet	英国 の 抒情詩 人 ( 1 5 9 1 年 − 1 6 7 4 年 )
+けんびきょう座	noun	WordNet	射手 座 と やぎ 座 の 近く の 南半球 の かすか だ 星座
+レゲエ	noun	WordNet	西 インド 諸島 が 起源 の ポピュラー ミュージック
+レゲエ	noun	WordNet	ギター により オフビート で 演奏 する れる 反復 的 だ バス ・ リフ と 一定 の コード
+学際的	adj	WordNet	2つ 以上 の 研究 分野 の 参加 から 得る られる 、 または 特徴 づける られる
+客観的	adj	WordNet	感情 または 個人 的 偏向 によって 歪める られる て いる ない
+客観的	adj	WordNet	観察 可能 だ 現象 に 基づく
+客観的	adj	WordNet	実際 の こと または 出来事 の 直接 の 経験 に 属する
+客観的	adj	WordNet	個人 的 だ 感情 の 歪曲 、 虚構 の 問題 の 挿入 、 あるいは 解釈 ない だ 知覚 する れる こと を 強調 する また は 、 表す さま
+客観的	adv	WordNet	客観 性 を 持つ て
+自信過剰	adj	WordNet	過度 に 自信 が ある か 、 でしゃばる の
+自信過剰	adj	WordNet	過度 の 自信 を 特徴 と する
+自尊心	noun	WordNet	尊敬 、 尊重 に 値する 性質
+自尊心	noun	WordNet	自分 を 誇り に 思う 気持ち
+喰違	noun	WordNet	対立 する あう 事実 、 主張 、 意見 の 間 に ある 相違
+チャイルドケア	noun	WordNet	他人 の 子供 の 世話 を する 奉仕 活動
+保護手段	noun	WordNet	害悪 や 不快 さ から 保護 する 手段
+愚物	noun	WordNet	だます れる やすい て 、 利用 する やすい 人
+絞首刑に処する	verb	WordNet	絞首刑 で 、 殺す
+ショービニスト	noun	WordNet	彼 または 彼女 の 同類 の 優位 性 に対する 偏見 の ある 信念 を もつ 人
+前面の	adj	WordNet	本体 の 頭頂 部 の 、 本体 の 頭頂 部 の 近く の 、 または 、 本体 の 前面 の 方 へ
+ハーバーボッシュ法	noun	WordNet	高圧 で 、 鉄 触媒 が 存在 する 場合 に それら を 結合 する こと により 窒素 と 水素 から アンモニア を 発生 する せる 工業 プロセス
+攻撃	noun	WordNet	腐食 性 の 破壊 的 だ 過程 の 始まり ( 化学 薬品 によって )
+攻撃	noun	WordNet	1つ の 目標 を 奪う 、 もしくは ダメージ を 与える か 、 破壊 する こと を 目的 と する た 攻撃
+電波	noun	WordNet	波長 が 0 . 5 cm から 3 0 , 0 0 0 m だ ある 電磁波
+電波	noun	WordNet	電荷 の 加速 から 生じる 電磁場 に 関連 する た エネルギー 波 から なる 放射
+電波	noun	WordNet	ラジオ と テレビ 放送 の ため の メディア
+応力	noun	WordNet	物体 に 圧力 を 生じる させる 力
+線条体	noun	WordNet	各 大脳 半球 の 視床 の 前 に ある 、 白 と 灰色 の 縞 模様 の 塊
+線条体	noun	WordNet	尾 状 核 と レンズ 核 で 構成 する れる
+線条体	verb	WordNet	縞 模様 、 筋 模様 の 跡
+球菌	noun	WordNet	球形 の もしくは 球形 に 似る た バクテリア
+グンカンドリ	noun	WordNet	翼 幅 が 広い 、 二又 に 分かれる た 尾 を 持つ 、 くちばし の 長い 温水 性 海鳥
+訴え	noun	WordNet	一方 が 他方 に対して 取る 法的 手続き
+訴え	noun	WordNet	一方 が 他方 を 告訴 する て 、 不正 行為 または 権利 保護 または 不正 防止 を 求める こと
+ジュース	noun	WordNet	アルコール を 含む ない 飲み物 ( たいてい は 炭酸 ガス 入り )
+1月19日	noun	WordNet	米国 南部 で 祝う れる
+レーザープリンター	noun	WordNet	静 電 的 に 紙 に 転写 する れる イメージ を 形成 する ため に レーザー ビーム を 焦る 束 する せる 静 電 プリンター
+定住地	noun	WordNet	人 の 合法 的 だ 居住 地
+タイトルロール	noun	WordNet	その 登場 人物 の 名 を 取る た タイトル の 劇 の 役
+モアレ	noun	WordNet	表面 に 波紋 の ある 絹地
+パスツレラ症	noun	WordNet	肺炎 と 血液 感染 症 を 生じる 、 急性 感染 症
+ソー川	noun	WordNet	大人 の 雌 豚
+妖婦	noun	WordNet	危険 だ ほど に 魅惑 的 だ ある と 考える られる 女性
+顎骨	verb	WordNet	所在 なげる に 、 くだける て 、 または 親しむ やすい 態度 で 話す
+燻ぼる	verb	WordNet	ゆっくり と 炎 を 出す ぬ に 燃える
+待望む	verb	WordNet	可能 性 の ある 出来事 を 期待 する
+計数回路	noun	WordNet	個別 に 記録 できる ない くらい 急速 に 起こる パルス を 数える ため に 用いる られる 電子 パルス 計数 機
+家蔵	noun	WordNet	あなた が 所有 する すべて
+家蔵	noun	WordNet	全て の 資産 ( 動産 ・ 不動産 の いずれ も ) や 負債
+生々しい	adj	WordNet	あからさま だ 詳細 さ で 裸 または 性行為 を 記述 する
+桧舞台	noun	WordNet	職業 の 最高 レベル ( 特に エンターテイメント において )
+第三脳室	noun	WordNet	脳 梁 の 下 の 中間 平面 における 狭い 室
+第三脳室	noun	WordNet	シルヴィウス 裂溝 を通して 第 四 脳 室 に 連絡 する
+抗戦	verb	WordNet	自己 防衛 する
+抗戦	noun	WordNet	敵対 的 だ 挑戦
+混迷	noun	WordNet	明瞭 さ が 欠ける て いる こと による 混乱
+外転	noun	WordNet	外側 に ひっくり返る 姿勢
+外転	adj	WordNet	特に 筋肉 の
+外転	adj	WordNet	物体 の 中間 線 から または 隣接 部分 から 離れる て 描く
+外転	noun	WordNet	体 の 一部分 が 体 の 中心 軸 から 離れる こと
+ジョイント	noun	WordNet	喫煙 用 の 煙草 に 巻く 入れる た マリファナ の 葉
+弱腰	adj	WordNet	勇気 や 男らしい 強い さ 、 および 決断 力 が ない さ ま
+弱腰	adj	WordNet	情けない ほど おびえる た
+ユリ	noun	WordNet	ユリ 科 の 標準 属
+プロトコル	noun	WordNet	適正 だ 行動 の ため の コード
+クラウス	noun	WordNet	米国 の 劇 作家 ( 1 8 9 3 年 − 1 9 6 6 年 )
+マスネー	noun	WordNet	フランス 人 作曲 家 で 、 ポップ オペラ で よく 知る れる ( 1 8 4 2 年 − 1 9 1 2 年 )
+履行	noun	WordNet	実現 する れる た もの
+仲間言葉	noun	WordNet	人々 の 特定 の グループ に 特有 だ ある 話し方
+キット	noun	WordNet	特殊 の 目的 の ため の 一 組 の 品目 または 道具 で 成る 歯車
+等距離	adj	WordNet	どこ の 場所 から でも 等距離 の
+結びつける	verb	WordNet	と 結びつく また は 、 束縛 によって
+ディスクジョッキー	noun	WordNet	人気 の ある レコード 音楽 を アナウンス する 再生 する 人
+間違った	adj	WordNet	正しく ない
+間違った	adj	WordNet	事実 または 真実 と 符合 する こと ない
+櫂	noun	WordNet	ボート を 推進 する か 、 操縦 する の に 用いる られる 道具
+櫂	noun	WordNet	カヌー または 小さな ボート を 推進 する せる ため の オール 受ける ない だ 使用 する れる 短い 軽い オール
+安心	adj	WordNet	( 仕事 について ) リスク の 恐れ が ない
+安心	adj	WordNet	危険 や 危害 の リスク が ない
+安心	noun	WordNet	快適 もしくは ほっと する た 状態 ( 特に 苦痛 が 除く れる て 楽 に なる た 後 の )
+安心	noun	WordNet	心配 や 失望 から 解き放つ れる た 気持ち
+愛おしむ	verb	WordNet	好き
+愛おしむ	verb	WordNet	付随 する れる
+軍夫	noun	WordNet	内 集団 の 一員 だ ない 支持 者
+軍夫	noun	WordNet	軍人 相手 の 売春 婦
+イオンエンジン	noun	WordNet	ロケット を 宇宙 に 飛ばす ため の 反応 推進 エンジン の 一種
+イオンエンジン	noun	WordNet	陽 イオン の 流れ は 電界 によって 高速度 まで 加速 する れる
+堅苦しさ	noun	WordNet	正式 だ 規則 へ の 承諾
+疑問	noun	WordNet	結婚 申し込み の 非公式 だ 言及
+o	noun	WordNet	2 価 の 非金属 元素 で 、 通例 無色 、 無臭 、 無味 の 不燃 性 の 二 原子 気体
+o	noun	WordNet	体積 で 大気 の 2 8 % を 占める
+o	noun	WordNet	地球 の 地殻 の 中 に 最も 豊富 に 含む れる
+生殖腺	noun	WordNet	配偶 子 ( 性 細胞 ) が 生産 する れる 腺
+野兎	noun	WordNet	北 アメリカ 西部 の 大きな 野ウサギ
+野兎	noun	WordNet	分割 する た 上唇 と 長い 後 脚 を 持つ アナ ウサギ より も 敏捷 だ 臆病 だ 長い 耳 を 持つ 哺乳 動物
+野兎	noun	WordNet	子 は 生まれながら に 被 毛 に 覆う れる 、 眼 が 開く て いる
+ど百姓	noun	WordNet	すき で 耕す 人
+監視ルーチン	noun	WordNet	サブルーチン の オペレーション を 調整 する ルーチン
+洗浄力	noun	WordNet	洗剤 品質
+洗浄力	noun	WordNet	洗浄 力 が ある という 特質
+スペクテーターパンプス	noun	WordNet	女性 用 の 中 ヒール の パンプス
+スペクテーターパンプス	noun	WordNet	通常 つま先 と かかと が 対照 的 だ 色 を する て いる
+化学平衡	noun	WordNet	化学 反応 と その 逆 反応 が 等しい 割合 で 進行 する こと
+用水堀	noun	WordNet	乾燥 地 に 人工 的 に 水 を 供給 する 溝
+屈する	verb	WordNet	別 の 支配 に 明け渡す
+アマランス	noun	WordNet	アマランス の 種子 で 中米 および 南米 で 穀物 として 使う れる
+アマランス	noun	WordNet	緑 または 赤 の 、 密 だ 羽毛 状 の 花 を 持つ 、 ヒユ 属 の 各種 の 植物 の 総称
+アマランス	noun	WordNet	しばしば 食用 に 栽培 する れる
+正気	adj	WordNet	精神 的 に 健康 だ ある
+正気	adj	WordNet	精神 障害 が ない
+母港	noun	WordNet	船 の 出所 で 、 登録 する れる て いる 港
+二重引用符	noun	WordNet	一対 の 引用 符
+接合菌門	noun	WordNet	接合 胞子 を 性的 に 生成 する 菌類 の 分裂
+血管	noun	WordNet	血液 が 循環 する 管
+教理問答	noun	WordNet	キリスト 教 の 原理 を 要約 する た 初歩 的 だ 本
+教理問答	noun	WordNet	問 と 答え の 形式 で 書く れる て いる
+ペプシノーゲン	noun	WordNet	ペプシン の 前駆 物質
+ペプシノーゲン	noun	WordNet	胃壁 に 保管 する れる 、 胃 で 塩酸 によって ペプシン に 変わる
+散瞳	noun	WordNet	筋肉 が 虹彩 を 外側 に 引っ張る 時 の 、 反射 的 だ 瞳孔 の 拡張
+散瞳	noun	WordNet	光 の 減少 や ある 種 の 薬物 に 反応 する て 起こる
+スティームタービン	noun	WordNet	蒸気 が 回転 翼 に 当たる て 回す タービン
+フィルム	noun	WordNet	写真 乳剤 で 覆う れる た セルロイド の ベース から 成る 写真 材料
+フィルム	noun	WordNet	ネガ や 透明 ポジ を 作る ため に 使用 する れる
+出る	verb	WordNet	発行 する れる 、 または 発表 する れる
+出る	verb	WordNet	出る て くる
+出る	verb	WordNet	しばしば 不吉 だ 様相 で 、 ぼんやり と 見える て くる
+惑星間空間	noun	WordNet	太陽系 の 中 の 宇宙 空間 の 一部
+生命力	noun	WordNet	かつて 、 アンリ・ベルクソン によって 有 機体 の 進化 と 発生 を 引き起こす と 考える られる て いる た 、 仮想 の 力 ( 物理 的 だ も 化学 的 だ も ない )
+ひも	noun	WordNet	撚る れる た 繊維 あるいは 糸 で 作る れる た 線
+緑青	verb	WordNet	色 の 緑青
+緑青	noun	WordNet	銅 か 真鍮 で 形成 する れる 、 緑色 か 緑青 の 長期間 空気 または 水 に さらす れる て いる 青銅
+緑青	noun	WordNet	ペイント 用 顔料 として 使用 する れる 青 か 緑色 の 粉
+正教	noun	WordNet	ビザンティン 教会 から 派生 する 、 ビザンツ 式 典礼 に 忠実 だ ある こと
+誡め	noun	WordNet	差し迫る た もの について の 警告 的 だ アドバイス ( 特に 差し迫る た 危険 または 他 の 不愉快 さ )
+誡め	noun	WordNet	他 の 人 に対する 警告 として 意図 する れる た 処罰
+オイタナシー	noun	WordNet	だれ か を ( 特に 不治の病 に 苦しむ 人 を ) 苦痛 ない 殺す 行為
+市長	noun	WordNet	女性 市長
+護身	noun	WordNet	自ら を 守る 行為
+ふじ色の	adj	WordNet	青白い 色 から 、 やや 灰色 がかる た すみれ色 の
+東洋通	noun	WordNet	東洋 学 の 専門 家
+怖ず怖ず	adv	WordNet	極めて 慎重 に
+コロンビア	noun	WordNet	太平洋 と カリブ海 の 海岸 線 沿い の 南 アメリカ の 北西 部 の 共和 国
+コロンビア	noun	WordNet	サイモン ・ ボリバル の 指導 の もと で 1 8 2 1 年 に スペイン から 独立 を 達成 する た
+コロンビア	noun	WordNet	スペイン 語 は 公用 語 だ ある
+公的不法妨害	noun	WordNet	一般 社会 とる て 、 共通 の 権利 を 妨げる 迷惑 行為
+軟風	noun	WordNet	( 普通 さわやか だ ) 軽微 だ 風
+軟風	noun	WordNet	8 − 1 2 ノット で 動く 風
+軟風	noun	WordNet	ビューフォート 風力 階級 で は 風力 3
+ラクノー	noun	WordNet	ウッタル・プラデシ の インド 北部 の 都市
+ラクノー	noun	WordNet	インド 暴動 の 間 に 英国 人 居住 者 は インド 人 反乱 者 によって 包囲 する れる た
+ラクノー	noun	WordNet	ラクナウ の 英国 人 の 居住 者 は インド 暴動 ( 1 8 5 7 ) の 間 、 インド の 反対 分子 によって 包囲 する れる た
+スターティングブロック	noun	WordNet	レース の 始め に 、 走者 が 足 を 踏んばる ため の ブロック
+トレース	noun	WordNet	人 または 動物 または 車両 の 通過 によって 残す れる 目 に 見える 印 ( 足跡 として )
+トレース	noun	WordNet	半 透明 の 紙 を オリジナル 画像 の 上 に 置く 、 オリジナル 画像 の 描線 を その 紙 に 写す こと によって 作成 する れる 図形
+倒れる	verb	WordNet	指定 する れる た 方向 に 動く
+倒れる	verb	WordNet	低い 場所 、 または 高い さ かがむ 、 あるいは 落ちる
+倒れる	verb	WordNet	闘い で 、 または 狩り で 死ぬ
+強迫性障害	noun	WordNet	再発 性 、 固執 思考 や 感情 、 また 儀式 的 行動 の 反復 性 によって 特徴 づける られる 不安 障害
+大きさ	noun	WordNet	大きい マグニチュード
+大きさ	noun	WordNet	大きな 質量 の ある 特性
+三環系	noun	WordNet	ノルエピネフリン と セロトニン の 再 摂取 を 妨げる こと で これら の 物質 を より 多い 脳 の 受容 体 に 作用 する せる 抗 鬱薬
+脈管学	noun	WordNet	血液 と リンパ 管 、 その 障害 について 研究 する メディカル サイエンス の 分野
+トウィンフォールズ	noun	WordNet	アイダホ 南中 部 の トウィンフォールズ 近隣 の スネーク 川 に ある 町
+トウィンフォールズ	noun	WordNet	アイダホ 州 南部 に ある スネーク 川 の 滝
+ローズクォーツ	noun	WordNet	装飾 に 用いる られる 石英 の うち 、 半 透明 だ ばら色 の もの
+調達	verb	WordNet	ある 特定 の 目的 の ため に 基金 を 集める
+ｔ定規	noun	WordNet	製図 者 が 平行 線 を 引く ため に 使う 定規
+ルクレツィア・ボルジア	noun	WordNet	イタリア の 貴族 婦人 で 芸術 の 後援 者 ( 1 4 8 0 年 − 1 5 1 9 年 )
+トランス系	noun	WordNet	性 転換 手術 を する た 人
+トランス系	noun	WordNet	自身 の 性別 を 完全 に 異性 だ ある と 認識 する て いる 人
+トランス系	adj	WordNet	性 の 部分 的 、 または 完全 だ 転換 に 関連 する
+トランス系	adj	WordNet	圧倒的 に 、 異性 だ ある こと 、 完全 に 異性 と 認識 する れる こと を 望む で いる さ ま
+按摩	verb	WordNet	マッサージ する
+兄い	noun	WordNet	誰 か と 親 を 同じく する 男性
+贈もの	noun	WordNet	贈呈 する れる もの
+ラード	noun	WordNet	豚 の 脂肪 組織 溶かす て 得る られる た 柔らかい て 白い 半 固体 の 油脂
+黄白	noun	WordNet	腐敗 が 進行 する て いる 状態
+野外活動日	noun	WordNet	野外 で の 社交 の 集まり に 用いる られる 日
+老大家	noun	WordNet	1 9 世紀 以前 の ヨーロッパ の 大 画家
+ロタウイルス	noun	WordNet	幼児 の 腸 炎 の 原因 と なる レオ ウイルス
+ウッドカッター	noun	WordNet	仕事 として 木 を 切り倒す 、 薪 を 割る
+頬紅	noun	WordNet	黄色 味 がかる た 食用 ハラ タケ で 通常 触れる と 赤い 色 に 変る
+離れる	verb	WordNet	協会 から 立ち退く 、 参加 を 撤退 する
+マグネシア	noun	WordNet	ペリクレース として 自然 に 存在 する 白色 の 硬い 鉱物
+マグネシア	noun	WordNet	マグネシウム の 原鉱
+アカイエカ	noun	WordNet	一般 的 だ イエカ
+一変した	adj	WordNet	完全 に 違う た 形態 または 様相 を する
+カルティエ	noun	WordNet	フランス 人 の 探検 家 で 、 セントローレンス 川 を 探検 する 、 その 領域 は フランス の もの だ ある と 主張 する た ( 1 4 9 1 年 − 1 5 5 7 年 )
+眼球運動	noun	WordNet	目 の 動き
+極点	noun	WordNet	最大 の 可能 性 が ある 量 または 価値
+極点	noun	WordNet	成長 、 発達 、 または 展開 する と 考える られる 事 の 頂点
+極点	noun	WordNet	ある もの が 行き着く 所
+中堅	noun	WordNet	野球 チーム の 中 で 、 外野 の 中央 3 分の 1 に くる ボール を さばく 野手 の ポジション
+中堅	noun	WordNet	センター の 守備 位置 で 守る 人
+バロック	noun	WordNet	バロック 様式 の 美術 様式 、 構造 、 および 音楽 が ヨーロッパ で 栄える た 1 6 0 0 年 頃 から 1 7 5 0 年 まで の 歴史 的 だ 期間
+バロック	noun	WordNet	1 7 世紀 の ヨーロッパー で 栄える た 装飾 芸術 品 と 建築 において の 精巧 で 大 規模 だ 装飾
+施し	noun	WordNet	金銭 や 食べ物 、 衣類 を 貧窮 者 へ 与える こと
+シェリー	noun	WordNet	イギリス 人 で ロマン 派 詩人 ( 1 7 9 2 - 1 8 2 2 )
+シェリー	noun	WordNet	英国 の 作家 で 、 フランケンシュタイン の 怪物 を 作る 、 パーシー・ビッシュ・シェリー と 結婚 する た ( 1 7 9 7 年 − 1 8 5 1 年 )
+クロタネソウ	noun	WordNet	欧州 産 園芸 植物 で 細かい 切れる た 葉 を 持つ 白い または 淡い 青色 の 花 が 咲く
+クロタネソウ	noun	WordNet	微少 に 解離 する た 包 葉 の ある 熱帯 アメリカ の トケイソウ
+クロタネソウ	noun	WordNet	つぶす と 茎 は 悪臭 を 放つ
+ビタミンｂ１	noun	WordNet	脚気 を 防ぐ 働き が ある ビタミン b
+ビタミンｂ１	noun	WordNet	食欲 と 発育 を 維持 する
+チャパティー	noun	WordNet	焼き 板 で 調理 する れる 平たい ホットケーキ の よう だ パン
+淡水化	noun	WordNet	塩 の 除去 ( 特に 海水 から の )
+ブライアン	noun	WordNet	米国 の 弁護士 、 政治 家 で 、 銀 の 自由 鋳造 を 提唱 する 、 ジョン ・ スコープス を 起訴 する ( 1 9 2 5 年 ) 、 進化 論 を テネシー ・ ハイスクール で 教える た ( 1 8 6 0 年 − 1 9 2 5 年 )
+ブライアン	noun	WordNet	テキサス 東部 中央 の 町
+シャハーダ	noun	WordNet	イスラム教 の 一番 大きな 柱 は 、 信頼 の 確認 だ ある
+心疾患	noun	WordNet	心臓 の 病気
+逆数	noun	WordNet	何 か 他 に 関係 する 相互 関係 の ある 何 か ( 用語 、 表現 または 考え )
+棘細胞腫	noun	WordNet	表皮 に できる 腫瘍
+千年期	noun	WordNet	1 0 0 0 年 の 間
+生得説	noun	WordNet	ある 思考 は 生来 の もの だ ある という 哲学 的 学説
+交誼	noun	WordNet	友情 と 真心 を もつ こと
+交誼	noun	WordNet	友人 ( または 友好 的 ) だ ある こと
+交誼	noun	WordNet	人 と 一緒 に いる こと
+中間子	noun	WordNet	原子核 内 の 力 の 原因 と なる 素粒子
+中間子	noun	WordNet	バリオン 数 0 の ハドロン
+端綱	noun	WordNet	馬 用 の 綱 あるいは キャンバス 地 の ヘッド ギア で 引く ため の ロープ が つく て いる
+調性	noun	WordNet	音楽 の 一節 に対する 全 枠組み を 提供 する 2 4 の 長調 または 短調 の 全音 階 の どれ か
+無口	noun	WordNet	打ち解ける ない 特色
+無口	noun	WordNet	必要 以上 に 自発 的 に 何 も する ない
+割増	noun	WordNet	不足 する て いる 物 が 通常 価格 より も 高い 評価 する れる て いる 額
+偵察	noun	WordNet	情報 を 得る 目的 で の 探査
+偵察	noun	WordNet	偵察 行為 ( 特に 敵 または 潜在 敵 について の 情報 を 得る ため )
+偵察	noun	WordNet	ボーイスカウト 運動 の 大人 の メンバー
+ごみ収集車	noun	WordNet	家庭 の ゴミ を 収集 する ため の トラック
+ラバーセメント	noun	WordNet	ベンゼン や ナフサ の よう だ 溶剤 に 未 加 硫 ゴム を 溶かす て 作る 接着 剤
+国君	noun	WordNet	国家 の 支配 者 、 または 、 国家 元首 で 、 たいてい は 世襲 の 権利 による
+単核	adj	WordNet	1つ の 核心 だけ を 持つ て いる さ ま
+東部	noun	WordNet	東 に ある 側
+シンビジウム	noun	WordNet	薄い 葉 と 、 様々 だ 派手 だ 色 の 船 の 形 を する た 花 の 長い 垂れ下がる た 房 を 有する シンビジウム 属 の 様々 だ 植物 の いずれ か
+シンビジウム	noun	WordNet	鉢植え 用 に 大 規模 に 交配 する れる て 栽培 する れる 、 重要 だ 花屋 の 花
+色子	noun	WordNet	アナルセックス に 魅了 する れる た 人 ( 特に 、 男性 と の アナルセックス に 魅了 する れる 男性 )
+色子	noun	WordNet	受動 的 だ パートナー として 少年 と セックス を する 男 ( 通常 ソドミー )
+魚竜	noun	WordNet	背びれ と 尾ひれ と パドル 形 の 手足 が ある ネズミ イルカ の よう だ 体 を 有する 中世代 の いくつ か の 海洋 爬虫類 の いずれ か
+羽衣虫喰	noun	WordNet	オス が 脇 、 羽 と 尻尾 に 明るい オレンジ 色 を もつ 北米 東部 の ムシクイ
+ラジオアイソトープ	noun	WordNet	ニューイングランド の 州
+ラジオアイソトープ	noun	WordNet	最初 の 1 3 の 植民 地 の うち の 1つ
+ラジオアイソトープ	noun	WordNet	最も 小さい 州
+乱入	noun	WordNet	前 に 支配 する て いる ない 地域 に 入る こと
+ひとなで	noun	WordNet	軽い 接触
+ブルー	noun	WordNet	バルビツール 酸 塩 として 使用 する れる アモバルビタール の ナトリウム 塩
+ブルー	noun	WordNet	鎮静 剤 および 催眠 薬 として 使用 する れる
+ブルー	noun	WordNet	青かび 入り の チーズ
+強烈	adj	WordNet	大きな 力 、 腕力 、 効力 、 または 効果 を 持つ
+強烈	adj	WordNet	際立つ た 特徴 を 強い 持つ 、 または 誇示 する
+強烈	adj	WordNet	大きな 力 、 エネルギー または 激しい 感情 を 持つ て 行動 する 、 あるいは それら を 特徴 と する 、 あるいは それら に 起因 する さ ま
+物性	noun	WordNet	物理 的 対象 を 特徴 づける の に 用いる られる 特性
+物性	noun	WordNet	肉体 的 衝動 、 欲求 の 満足 に 優先 性 を 置く こと
+鉄砲百合	noun	WordNet	春 に 咲く 大きな 白い トランペット の 形 の 花 を 持つ 、 丈 の 高い ユリ
+オオバン	noun	WordNet	ユーラシア に すむ オオバン
+オオバン	noun	WordNet	やや カモ に 似る た 、 ゆっくり と 飛ぶ 濃い 青 灰色 の 鳥
+脱着	noun	WordNet	表面 上 で の 吸着 状態 から 気体 もしくは 液体 の 状態 へ 変化 する こと
+脱着	verb	WordNet	それ が 吸着 する れる 表面 から 、 取り除く
+クッシング症候群	noun	WordNet	コルチゾール 過剰 分泌 によって 生じる 腺 疾患
+ロータリーエンジン	noun	WordNet	出力 が 、 回転 部品 に 直接 伝える られる 内燃 機関
+巻雲	noun	WordNet	高 高度 ( 4 ― 8 マイル ) に ある ( 通例 細かい 氷 の 結晶 で できる て いる ) うっすら と する た 白い 雲
+計量経済学	noun	WordNet	経済 的 、 財政 的 データ の 研究 に 数学 と 統計 学 を 適用 する こと
+ホモセクシャル	noun	WordNet	同性愛 の 男性
+電話通信	noun	WordNet	発話 を 離れる た 所 へ 伝達 する こと
+緊急事態	noun	WordNet	迅速 だ 行動 を 求める 緊急 事態
+エルズワース	noun	WordNet	米国 の 法律 専門 家 で 、 連邦 最高 裁判所 の 第 3 代 長官 ( 1 7 4 5 年 − 1 8 0 7 年 )
+標題音楽	noun	WordNet	視る 的 イメージ を 思い起こす せる または 聞き手 に 出来事 を 思い起こす せる 音楽 作品
+軟玉	noun	WordNet	単 斜 晶 系 結晶 型 の カルシウム マグネシウム 珪酸 塩 で 成る 角 閃石 鉱物
+軟玉	noun	WordNet	硬玉 から ほど 貴重 だ ない 翡翠 の 源
+軟玉	noun	WordNet	かつて 腎臓 疾患 に 効く と 信じる られる て いる た
+ネズミ	noun	WordNet	ハツカネズミ に 似る て いる が 、 より 大型 で 長い 尾 を 持つ 各種 の 齧る 歯 動物
+ネズミ	noun	WordNet	元 は 旧 世界 ネズミ で 、 現在 は 世界中 に 分布 する て いる
+ネズミ	noun	WordNet	典型 的 に ほお 袋 の 無い 点 で キヌゲネズミ 科 と 区別 する れる
+観賞花	noun	WordNet	花 を 観賞 する ため に 栽培 する れる て いる 植物
+向こうの	adj	WordNet	遠い が 視界 に ある
+文法的範疇	noun	WordNet	同じ 文法 的 性質 を 持つ 単語 の カテゴリー
+プルネラ	noun	WordNet	大体 が ユーラシア の 多年草 の 小さな 属 で 、 末端 に 小さな 紫 がかる た 白い 花 の 穂 を もつ
+プルネラ	noun	WordNet	イワヒバリ 科 の 標準 属
+前置詞的	adj	WordNet	前置詞 の 、 前置詞 に関する 、 または 、 前置詞 により 形成 する れる
+ブレシア	noun	WordNet	ロンバルディ 中部 の 古代 の イタリア の 都市
+出廷	noun	WordNet	( 裁判 や 公聴 会 など に ) 訴訟 中 の 者 が 正式 に 出席 する こと
+歯科学	noun	WordNet	歯 の 解剖 学 、 発達 と 病気 を 扱う 医学 の 分野
+フローア	noun	WordNet	縦 方向 の 1 か所 に 、 部屋 が 一つ あるいは 一 組 ある 建造 物
+フローア	noun	WordNet	( 部屋 、 廊下 、 テント 、 または その他 の 建造 物 の ) 内側 の 、 下 側 の 水平面
+トマトソース	noun	WordNet	香辛 野菜 と 他 の 調味 料 の 入る た トマト の ピューレ ( または 、 裏ごし する た トマト ) から 作る れる た ソース
+トマトソース	noun	WordNet	パスタ に 使用 する れる こと も ある
+外壁	noun	WordNet	米国 の 歌手 ( 1 9 1 8 年 − 1 9 9 0 年 )
+外壁	noun	WordNet	英国 の 辞書 編集 者 で 、 一貫 する て 語源 を 扱う た 最初 の 人
+外壁	noun	WordNet	彼 の 作品 は サミュエル ・ ジョンソン によって 引用 する れる た ( 1 7 4 2 年 死去 )
+外壁	noun	WordNet	城 の 外 庭
+外壁	noun	WordNet	城 の 外側 の 庭 を 囲む 外側 の 防護 壁
+脱分化	verb	WordNet	形態 または 機能 において 特殊 化 を 失う
+脱分化	noun	WordNet	形式 または 機能 における 専門 化 の 損失
+イラクサ目	noun	WordNet	クワ 科 と イラクサ 科 と ニレ 科 を 含む 双 子葉 植物 の 目
+円熟した	adj	WordNet	年齢 と 経験 を通じて 親切心 または やさしい さ を 得る た
+円熟した	adj	WordNet	年齢 と 経験 を通して 温情 または 優しい さ に 到達 する た さま
+マカルー山	noun	WordNet	ヒマラヤ山脈 に ある 、 ネパール の 山 ( 標高 2 7 、 7 9 0 フィート )
+ファクター	noun	WordNet	結果 に 偶然 結びつく もの
+ファクター	noun	WordNet	ちょうど 別 の 整数 で 割り切れる 2つ 以上 の 整数 の 1つ
+ファクター	noun	WordNet	一緒 に かけ算 する た 場合 に 積 を 作る すべて の 数 ( もしくは 記号 )
+電気機関車	noun	WordNet	電気 モーター で 動力 供給 する れる 機関 車
+どこかよそに	adv	WordNet	別 の 場所 に ある 、 別 の 場所 へ
+ボウフラ	noun	WordNet	蚊 の 幼虫
+精神病	noun	WordNet	心 の 病気 の どれ で も
+精神病	noun	WordNet	感情 的 、 行動 的 だ 問題 が 重 篤 だ 、 専門 家 の 介助 を 必要 と する 精神 的 状態
+精神病	noun	WordNet	現実 と の コンタクト が 失う れる 、 あるいは 非常 に 歪める られる 重度 だ 精神 障害
+芝居	noun	WordNet	劇 の 上演
+芝居	noun	WordNet	本気 だ ない のに 隠す
+芝居	noun	WordNet	ステージ で の 俳優 による 演技 を 目的 と する 劇 の 仕事
+芝居	verb	WordNet	ステージ または 劇場 で の 演技
+沈下	verb	WordNet	低下 により 下層 まで 沈む
+沈下	noun	WordNet	徐々に 低い 方 に 沈む で いく こと
+沈下	noun	WordNet	下 の 穴 へ の 何 か の 突然 の 崩壊
+アルカディア	noun	WordNet	ペロポネソス 半島 中央 に ある ギリシア の 県
+米国東部	noun	WordNet	米国 の オハイオ 川 以北 、 ミシシッピ 川 以東 の 地域
+キャビンボーイ	noun	WordNet	船上 で 使用人 として 仕事 を する 青年
+アコースティックギター	noun	WordNet	音 が 電気 的 手法 で 増幅 する れる て いる ない
+全能性	adj	WordNet	異なる た 細胞 を 生じる させる 能力 が ある
+ポンドスターリング	noun	WordNet	グレートブリテン と 北アイルランド の お金 の 原 単位
+ポンドスターリング	noun	WordNet	1 0 0 ペンス と 同 価
+全米科学財団	noun	WordNet	研究 と 教育 の 支援 プログラム により 科学 と 工業 技術 の 進歩 の 促進 に 関与 する 連邦 政府 の 独立 機関
+上腸間膜動脈	noun	WordNet	小腸 、 盲腸 、 結腸 を 満たす 大動脈 の 上部 に 源 を 発する
+ノーサンプトンシャー州	noun	WordNet	カウンティー は 、 イングランド 中部 だ ある
+鉄板	noun	WordNet	鉄製 タンク より 細い プレート 鉄
+軽侮	verb	WordNet	軽蔑 で 見下ろす
+オキシダント	noun	WordNet	他 の 物質 を 酸化 する せる 物質
+語彙的	adj	WordNet	単語 の 、 または 、 単語 に関する
+語彙的	adj	WordNet	辞書 の 、 または 、 辞書 に関する
+電気的除細動	noun	WordNet	( 通常 は 細 動 除去 器 から 加える られる 電気 ショック によって ) 心筋 の 細 動 を 止める こと による 治療
+崩れ去る	verb	WordNet	砕ける
+ガボローネ	noun	WordNet	ボツワナ の 最 南東 部 に ある 首都 で 最大 の 都市
+回線	noun	WordNet	電気 、 光学 式 シグナル 、 電力 を 送る ため の 導線
+回線	noun	WordNet	電話 接続
+聖なる	adj	WordNet	神通力 に 属す て いる 、 から 派生 する た 、 または に 関連 する て いる
+聖なる	adj	WordNet	神聖 に する れる 、 神聖 だ ある と 宣言 する れる か 、 神聖 だ ある と 考える られる て いる
+聖なる	adj	WordNet	神 または いくつ か の 宗教 的 だ 儀礼 または 使用 に 捧げる られる
+合理的	adj	WordNet	既知 の 声明 または イベント または 状況 に 基づく
+単打	verb	WordNet	シングル ヒット を 打つ
+単打	noun	WordNet	打者 が 一塁 に セーフ で 到達 する ヒット
+石油試掘者	noun	WordNet	油田 が ある と は 知る れる て いる ない 地域 で 油田 を 試掘 する 人
+覆る	verb	WordNet	ひっくり返る また は 落ちる
+西	noun	WordNet	地球 の 温帯 に 起きる 西側 から の 風
+卵細胞	noun	WordNet	滋養 と 防御 の 包 膜 を 持つ 卵 、 もしくは 胎児 も 一緒 の 物 から 成る 動物 生殖 体
+卵細胞	noun	WordNet	特に 例えば 、 メス の 鳥 によって 生まれる た 薄い 殻 の 生殖 体
+特色	noun	WordNet	際立つ た 品質
+無鉛	adj	WordNet	鉛 で 扱う れる ない
+無鉛	adj	WordNet	線 の 間 に リード の ない
+引き合わせ	noun	WordNet	他人 あるいは 世間 に 正式 に 知らせる こと
+貸方	noun	WordNet	支払い 明細 書 が 受領 する れる た
+貸方	noun	WordNet	通常 財務 表 の 右側
+貸方	noun	WordNet	債務 者 が お金 を 借りる て いる 人
+貸方	noun	WordNet	債権 が 存在 する 人
+ビーバー	noun	WordNet	水掻き の 有る 後足 と 幅広い 偏平 だ 尾 を 持つ 半 水生 の 大型 齧る 歯 動物
+ビーバー	noun	WordNet	複雑 だ ダム や 水中 の 小屋 を 作る
+マグ	noun	WordNet	取っ手 が つく て いる て 、 通常 円筒 形
+シュワルツワルト	noun	WordNet	ドイツ 南西 部 の 山岳 森林地帯
+筆甫	noun	WordNet	北東 アルジェリア の 今日 における アンナバ に 隣接 する 北西 アフリカ の 古代 ヌミディア の 町
+脈	noun	WordNet	拘束 として の 行為 だ ある 何 か
+脈	noun	WordNet	長い さ の 単位
+脈	noun	WordNet	岩 の 層 の 間 の 鉱床
+脈	noun	WordNet	未来 に 希望 を 感じる 土壌
+脈	noun	WordNet	岩石 の 周囲 から 分る た 一定 の 境界 線 内 に 現れる た 価値 ある 鉱石 の 堆積 物
+脈	noun	WordNet	心臓 の 打つ 率
+脈	noun	WordNet	通常 、 人 の 健康 の 迅速 だ 評価 を 得る ため に 測定 する れる
+小型犬	noun	WordNet	純粋 に ペット として 飼う れる 非常 に 小型 の 数 品種
+アールヌーボー	noun	WordNet	1 8 9 0 年代 に 人気 が ある た フランス の 芸術 と 建築 の 学校
+アールヌーボー	noun	WordNet	葉 、 つる 、 花 の 物体 の よう だ 定型 化 する れる た 自然 だ 形 と しなやか だ 輪郭 に 特徴付ける られる
+上顆	noun	WordNet	筋肉 と 靭帯 の 付属 を 満たす 顆状 突起 の 上 の 骨 に ある 突起 物
+レール	noun	WordNet	鉄道 車両 または 他 の 車両 が 走行 できる 沿線 を 作る 圧延 鋼材 の 平行棒 あるいは 一 組 の 棒
+レール	noun	WordNet	( 通常 、 木 または 金属 製 の ) 水平 の 棒
+西インド諸島	noun	WordNet	北米 と 南米 の 間 に ある 一連 の 島
+西インド諸島	noun	WordNet	人気 の ある リゾート 地
+二月	noun	WordNet	1月 に 続く て いる て 、 3月 に 先行 する て いる 月
+ムクロジ目	noun	WordNet	双 子葉 植物 の 目
+レーウェンフク	noun	WordNet	オランダ 人 の 先駆 的 だ 顕微鏡 使用 者 で 、 動物 おける 細胞 を 認める た 最初 の 人物 の 1 人 だ ある 、 初めて 微生物 、 精子 、 血球 に対する 正確 だ 説明 を 与える た ( 1 6 3 2 年 − 1 7 2 3 年 )
+光学ガラス	noun	WordNet	屈折 率 が 既知 の 透明 だ 均一 だ ガラス
+光学ガラス	noun	WordNet	レンズ の 製造 に 用いる られる
+ニコシア	noun	WordNet	キプロス の 首都 で 最大 の 都市
+乙女	noun	WordNet	( 特に 処女 だ ある ) 未婚 の 少女
+グリークラブ	noun	WordNet	一緒 に 歌う ため に 組織 する れる た クラブ
+アイライナー	noun	WordNet	目 の 形 を 強調 する ため に 使う メーキャップ
+マシン語	noun	WordNet	コンピュータ が 更 なり 翻訳 ない だ 直接 使う こと が できる よう コーディング する れる た 命令 の セット
+キンバーライト	noun	WordNet	時々 、 ダイアモンド を 含む 珍しい タイプ の かん らん 岩
+キンバーライト	noun	WordNet	南アフリカ 共和 国 および シベリア で 見つける られる
+下記に	adv	WordNet	この 書類 または 声明 または 事柄 など の 後 に 続く 部分
+ローザンヌ	noun	WordNet	スイス 西部 の 都市
+ローザンヌ	noun	WordNet	文化 、 商業 の 中心
+丘疹	noun	WordNet	非 化膿 性 の 皮膚 の 小さな 炎症 性 隆起   ( 水疱瘡 の 場合 の よう に )
+シーダーラピッズ	noun	WordNet	アイオワ 東部 の 都市
+渡津海	noun	WordNet	部分 的 に 陸 に 囲む れる た 大洋 や 広い 海水 域 の 一部分
+ティトゥス・リウィウス	noun	WordNet	ローマ の 歴史 家 で 、 ハンニバル と の 最古 の 戦争 を 含む ローマ 史 を 1 4 2 巻 ( その うち 3 5 巻 のみ が 現存 ) に 記す た ( 紀元前 5 9 年 − 西暦 1 7 年 )
+糖尿病	noun	WordNet	インシュリン の 相対 的 、 あるいは 絶対 的 欠乏 が 原因 で 、 多 尿 が 特徴 の 糖尿 病
+畜房	noun	WordNet	1 匹 の 動物 が つなぐ れる て 餌 を 与える られる 厩舎 の 区画
+配管工	noun	WordNet	パイプ や 取り付け 具 、 備品 を 設置 する たり 、 修理 する たり する 技能 者
+ベロドローム	noun	WordNet	自転車 または オートバイ の レース 用 に 盛り土 する れる た 楕円 形 の トラック
+ヒエロニムス	noun	WordNet	大きな 仕事 が ヘブライ 語 と ギリシア 語 から ラテン語 へ の 聖書 ( ウルガタ 聖書 に なる た ) の 翻訳 だ ある た 初期 の 使徒 教会 の 偉大 だ ファザー の うち の 1 人
+ヒエロニムス	noun	WordNet	聖人 で 教会 博士 ( 3 4 7 年 − 4 2 0 年 )
+ツワイグ	noun	WordNet	オーストリア の 作家 ( 1 8 8 1 年 − 1 9 4 2 年 )
+ロースト	noun	WordNet	1 人前 より 大きい ロースト する た 、 または ロースト 用 肉 の 切り身
+注入	noun	WordNet	頻繁 に 繰り返す 教える こと によって 心 に 焼きつける こと
+注入	verb	WordNet	突く さす こと で ( 液体 または 気体 を ) 押し込む または 動かす
+注入	verb	WordNet	治癒 効果 の ため に 静脈 を通じて 注入 する
+加塩	noun	WordNet	食物 に 塩 を 加える 行為
+秒読み	noun	WordNet	( 宇宙船 の 打ち上げる など の ) ある 出来事 まで に 残る て いる 時間 を 示す ため に 、 任意 の 数 から 始める て 数 を 逆 に 数える こと
+超越	noun	WordNet	物質 的 体験 の 限界 を 超える た 状態 、 あるいは 存在
+再配布	noun	WordNet	再び 分配 する こと
+百年戦争	noun	WordNet	英国 と フランス の 間 で 何 度 と ない 間 を おく て は 繰り広げる られる た 一連 の 戦争
+百年戦争	noun	WordNet	1 3 3 7 年 − 1 4 5 3 年
+千振	noun	WordNet	幼虫 は 捕食 性 水生 の 暗色 昆虫
+驚かせる	verb	WordNet	驚く べし 原因
+ヒカゲノカズラ科	noun	WordNet	ヒカゲノカズラ 目 に 属する シダ の 科
+オクタン	noun	WordNet	石油 に 存在 する 飽和 炭化 水素 の 異性 体 で 、 燃料 および 溶剤 として 使う れる
+ペミカン	noun	WordNet	きめ細かい すりつぶす て 溶ける た 脂肪 を 混ぜる た 、 低 カロリー の 乾燥 肉
+ペミカン	noun	WordNet	特に 北米 の インディアン によって 使用 する れる
+余所余所しい	adj	WordNet	方法 において 遠い
+ウミウシ	noun	WordNet	ウミウシ の 一種
+ウミウシ	noun	WordNet	貝殻 を 持つ ない 、 しばしば 美しい 色 の 体 を 持つ 裸 鰓 亜 目 の 様々 だ 海産 腹足類 の 軟体動物 類 各種
+ウミウシ	noun	WordNet	海産 の ウミウシ の 一 属
+昼寝	verb	WordNet	昼寝 を する
+昼寝	noun	WordNet	午後 の 早い 時間 に とる 仮眠 ( 特に 暑い 国々 で )
+学校教師	noun	WordNet	大学 レベル 以下 の 学校 の 先生
+真面さ	noun	WordNet	正しい て 妥当 だ 論法
+小潮	noun	WordNet	月 の 1 番目 と 3 番 め の 弦 に 起きる 平均 以下 の 潮
+あまっ子	noun	WordNet	( 若い ) 女性 を 指す 口語
+信任投票	noun	WordNet	承認 と 激励 の 表明
+終戦後	adj	WordNet	戦争 の 後 の 期間 に 属する
+規定された	adj	WordNet	規定 する れる た 用法 、 手順 、 または 規律 に 準拠 する
+不適応性	adj	WordNet	日常 生活 の 要求 と 圧力 に 十分 に 合う ない
+不適応性	adj	WordNet	よく 適応 する ない
+リンカンシャー州	noun	WordNet	北海 に 面す 、 農耕 が 盛ん だ イングランド 東部 の カウンティ
+櫻	noun	WordNet	単一 の 堅い 石 を 伴う 小さな 丸い 果実 を つける さまざま だ 木 と 低木 の どれ か
+櫻	noun	WordNet	多く は 貴重 だ 堅 材 に なる
+協議	verb	WordNet	何 か を 徹底的 に 話し合う ため に 、 会議 を 催す
+チリモ	noun	WordNet	淡水 性 緑藻
+白色矮星	noun	WordNet	非常 だ 高密度 の 光度 の 低い 星
+社会主義経済	noun	WordNet	資本 の 国有 化 に 基づく 経済 体制
+善く善く	adv	WordNet	非常 に 大きい 程度 や 範囲 まで
+半熟卵	noun	WordNet	殻 ごと 静か に ゆでる た 卵
+キモシン	noun	WordNet	胃液 に 存在 する 酵素
+キモシン	noun	WordNet	ミルク を 凝固 する せる
+ナショナル	adj	WordNet	国 全体 または 国家 に 属する 、 または それ に 適応 する こと に関する
+生粋	noun	WordNet	本物 だ ある こと
+幼弱	noun	WordNet	少量 ( 特に 飲み物 の )
+取り扱	noun	WordNet	手 ( または 手 の 上手 だ 使用 ) で 、 または 、 機械 式 手段 を 用いる て さわる こと の 動作
+取り扱	noun	WordNet	人 や 物 の 管理
+同窓会	noun	WordNet	再び 集まる た か つて の 仲間 の パーティー
+ドリーム	noun	WordNet	睡眠 中 に 起こる 一連 の 精神 的 イメージ と 感情
+矩形の	adj	WordNet	4つ の 直角 を 持つ て いる さ ま
+アイスランド語の話せる	adj	WordNet	アイスランド 語 で 意思 疎通 が できる
+新自由主義	noun	WordNet	1 9 6 0 年代 の 政治 的 思想
+新自由主義	noun	WordNet	革新 的 だ 政治 に 経済 的 成長 を 強調 する 見解 を 混合 する た
+ドルフィンキック	noun	WordNet	スイミング キック
+ドルフィンキック	noun	WordNet	両足 を いっしょ に 上下 する せる キック
+エドモントン	noun	WordNet	アルバータ の 州 の 首都
+血圧	noun	WordNet	血管 の 壁 に 及ぼす 循環 血液 の 圧
+血圧	noun	WordNet	心臓 の 左 心室 の 収縮 で 生じる
+血圧	noun	WordNet	人 の 健康 を 素早い 診断 する ため に 、 時々 測定 する れる
+リーニュ	noun	WordNet	線形 ユニット ( 1 / 4 0 インチ ) で 、 ボタン の 直径 を 測る の に 使う れる
+ズボン下	noun	WordNet	シャツ と ズボン下 が 一体 に なる た 下着
+襤褸切	noun	WordNet	廃棄 する れる 、 価値 の ない 物質
+ひくひく	noun	WordNet	突然 の 筋肉 の 痙攣
+ひくひく	noun	WordNet	特に 、 神経 が 高ぶる た 状態 に が 原因 で 引き起こす れる もの
+円滑さ	noun	WordNet	音 の 調和 が 取れる て いる 特性
+立体幾何学	noun	WordNet	3 次元 空間 の 幾何 学
+超低密度リポタンパク質	noun	WordNet	トリグリセリド が 豊富 だ 大きな リポ タンパク質
+超低密度リポタンパク質	noun	WordNet	vldl 残余 物 が 変換 する れる 、 ldl に 変わる まで 、 vldl は それら の トリグリセリド を 脂肪 と 筋 組織 に 与える ながら 血液 を 循環 する
+忍び返し	noun	WordNet	塀 または 壁 ( または 恐竜 ) の 頂 部 に 並ぶ 先 の とがる た 突起
+思う	verb	WordNet	に 夢中 だ ある 、 心 を 奪う れる
+思う	verb	WordNet	心 で 形成 する また は 持つ
+思う	verb	WordNet	心 において 活発 に 考える
+防	noun	WordNet	誰 か または 何 か の 保護 の 活動
+シュツットガルト	noun	WordNet	ドイツ 南西 部 の 都市 で 、 革新 的 だ 建築 物 で 有名
+言語学者	noun	WordNet	言語 学 の 専門 家
+薩摩芋	noun	WordNet	食用 芋づる の 塊根 で 、 米国 の 暖かい 地域 で 広い 栽培 する れる
+ロッキングチェア	noun	WordNet	揺る 子 の 上 の イス
+火屋	noun	WordNet	オイル ランプ の 灯心 を 取り巻く ガラス の 送る 気管
+パゴパゴ	noun	WordNet	アメリカ 領 サモア の 港
+ブレスト	noun	WordNet	北西 フランス の 港町 ( ブルターニュ で )
+ブレスト	noun	WordNet	フランス の 主要 だ 海軍 基地
+セス	noun	WordNet	アダム と イブ の 3 人 目 の 息子
+セス	noun	WordNet	殺す れる た アベル の 代わり に 神 から 与える られる た
+セス	noun	WordNet	高い て 四角い 耳 と 長い 鼻 を 持つ 、 野獣 の 頭 を する た 邪悪 だ エジプト の 神
+セス	noun	WordNet	オシ リス の 兄弟 で 殺人 者
+其れに	adv	WordNet	加える て
+オズワルド	noun	WordNet	米国 の 暗殺 者 で 、 ジョン ・ f . ケネディ 大統領 を 暗殺 する た ( 1 9 3 9 年 − 1 9 6 3 年 )
+新聞ジャーナリスト	noun	WordNet	新聞 に 寄稿 する ジャーナリスト
+牴牾	verb	WordNet	互換 性 が ない
+牴牾	verb	WordNet	不一致 だ ある 、 あるいは 衝突 する
+縁側	noun	WordNet	オーディトリアム の 主要 だ 階 の 上 を 後ろ から 突き出る て いる 上層 階
+汚い	adj	WordNet	汚い て 疲れはてる て 不快 だ
+汚い	adj	WordNet	汚染 物質 と 汚染 によって 有害 に する れる た
+汚い	adj	WordNet	敵意 または 嫌悪 を 表明 する こと 、 または 明らか に する さ ま
+汚い	adj	WordNet	下品 によって 特徴付ける られる
+汚い	adj	WordNet	起 炎 菌 で 、 汚染 する れる
+汚い	adj	WordNet	詐欺 で 、 マーク する れる
+汚い	adj	WordNet	( 原稿 の )   変化 で 、 損なう れる ます
+汚い	adj	WordNet	非 倫理 的 または 不正直 の
+絶対論	noun	WordNet	政府 が 完全 だ 自由 だ 力 を 持つ という 原則
+オキーチョビー湖	noun	WordNet	エバーグレーズ の 北方 の フロリダ 南東 部 の 湖
+脊索	noun	WordNet	最下 等 脊索 動物 と 最下 等 脊椎動物 、 それ に 高等 脊椎動物 の 胎児 の 体 の 支軸 を 形成 する 柔軟 棒状 組織
+キバシリ	noun	WordNet	キツツキ の よう に 登る 、 捕食 する 曲がる た くちばし と 補強 する れる た 尾羽 の ある 数 の 南米 と 中米 の 鳥 の 総称
+キバシリ	noun	WordNet	ヨーロッパ で 一般 的 だ 茶 と 淡い 黄 褐色 の キバシリ で 、 くちばし が 下方 に 曲がる て いる
+キバシリ	noun	WordNet	かたい 尾羽 と 足 を 支え に する て 木 の 幹 に 登る 、 北半球 の 様々 だ 小さい 食 虫 鳥類
+ミクソウイルス	noun	WordNet	インフルエンザ や おたふく かぜ の 原因 と なる ウイルス を 含む rna ウイルス 類
+杯盤狼藉たる	adv	WordNet	無秩序 だ 急ぎ で
+安い	adj	WordNet	( 率 または 価格 について 使用 する れる ) 通常 急激 に 減らす れる た
+編輯人	noun	WordNet	出版 の 編集 面 に対して 責任 が ある 人
+編輯人	noun	WordNet	テキスト ( 特に 新聞 か 雑誌 の ) の 最終 的 だ 中身 を 決定 する 人
+指節骨	adj	WordNet	指 または 爪先 の 骨 の 、 あるいは 、 指 または 爪先 の 骨 に関する
+地覆	noun	WordNet	最も 低い 構成 材 の 枠組み または 支える 構造 を 形成 する 継続 的 水平 木材 で 成る 構造 的 部材
+乾留	noun	WordNet	密閉 容器 の 中 の 固体 を 加熱 する て 、 揮発 性 生成 物 を 集める こと
+リアルira	noun	WordNet	過激 派 テロリスト 集団 で 、 主流 の ira 暫定 派 の メンバー ira が 休戦 を 提案 する た 1 9 9 7 年 に 離脱 する た
+リアルira	noun	WordNet	どんな 和平 協定 に 反対 する て テロ 活動 を 続ける た
+グレナデン・シロップ	noun	WordNet	ザクロ の 汁 で 作る た 薄い シロップ
+グレナデン・シロップ	noun	WordNet	混合 飲料 に 使う
+ナルシシズム	noun	WordNet	自分 自身 に 向ける られる 特別 だ 興味 と 賞賛
+磁化	verb	WordNet	磁性 を つける
+磁化	verb	WordNet	磁石 による か の よう に 強い 惹く れる
+正反対に	adv	WordNet	直径 の 反対 の 終わる から の よう に
+血液銀行	noun	WordNet	血液 全体 や 血漿 の 貯蔵 場所
+弁護者	noun	WordNet	法廷 で 事件 を 弁護 する 弁護士
+結合確率	noun	WordNet	2つ の 出来事 が 同時に 起こる 蓋然性
+身近	adj	WordNet	すぐ 近く に
+身近	adj	WordNet	通常 の 日常 的 だ 経験 の 範囲 内 で
+身近	adj	WordNet	一般 的 だ 普通 の
+身近	adj	WordNet	奇妙 だ ない
+解像度	noun	WordNet	コンピュータ 生成 の 表示 に関する 平方 インチ あたり の ピクセル 数
+解像度	noun	WordNet	解像度 が 大きい なる ほど 、 絵 は 鮮明 に なる
+解像度	noun	WordNet	近接 する た 像 の 角 分離 を 計る ため の 顕微鏡 あるいは 望遠鏡 の 能力
+乳頭体	noun	WordNet	脳 の 底面 に ある 小さな 丸い 2つ の 組織 の 1つ で 、 脳 弓 前側 アーチ の 終点 と なる
+ジェネラル	noun	WordNet	最高 位 の 将官
+リュー	noun	WordNet	フランス の 通り か 道路
+繊毛虫	noun	WordNet	細胞 の 表面 から 微小 だ 付属 器官 が 伸びる て いる 原生 動物
+進路	noun	WordNet	全体 的 だ 方向 性
+ギルマー	noun	WordNet	米国 の ジャーナリスト で 、 多数 に 発表 する れる た コラム で 恋 に 悩む 人 へ の アドバイス を 書く た ( 1 8 7 0 年 − 1 9 5 1 年 )
+短角牛	noun	WordNet	英国 産 の 短い 角 の 畜牛
+狂わせる	verb	WordNet	バランス または 安定 性 を 妨げる
+巧妙に	adv	WordNet	巧み だ 方法 で
+セミコンダクタ	noun	WordNet	ゲルマニウム や シリコン の よう に 電気 伝導 率 が 鉄 と 絶縁 体 の 中間 だ ある よう だ 物質
+セミコンダクタ	noun	WordNet	その 伝導 率 は 、 温度 とともに 、 また 不純物 が 含む れる て いる と 増加 する
+搬送波	noun	WordNet	信号 を 電 搬 する ため に 変調 できる 電波
+モダニズム	noun	WordNet	それ まで の 分野 と の 関係 を 意識 する て 絶つ う と する 芸術 や 文学
+暗室	noun	WordNet	写真 を 現像 する 部屋
+ダーダネルズ海峡	noun	WordNet	第 一 次 大戦 中 ( 1 9 1 5 ) に 英国 と フランス が ロシア を 助ける ため に 海路 を 開く う として 起こす 、 失敗 する た 作戦
+ダーダネルズ海峡	noun	WordNet	トルコ 軍 に 敗れる た
+ダーダネルズ海峡	noun	WordNet	エーゲ海 と マルマラ 海 の 間 の 、 ヨーロッパ トルコ と アジア トルコ を 分ける 海峡
+変性	verb	WordNet	原初 の 特性 の すべて を 取り除く か 、 または 減少 する せる よう に 、 特に 熱 、 酸 、 アルカリ 、 または 紫外線 により 修正 する ( 天然 蛋白 として )
+変性	verb	WordNet	( アルコール ) 他 の 目的 に対する 有用 性 を 損なう こと ない 飲む に は 不向き に する
+変性	verb	WordNet	原子 爆弾 へ の 使用 に 適す ない 状態 に する ため に 、 ( 核分裂 物質 に ) 非核 分裂 性 物質 を 加える
+土壌学	noun	WordNet	幼児 と 子供 の 治療 に関する 医学 の 部門
+現れる	verb	WordNet	発表 する れる
+現れる	verb	WordNet	公表 する れる か 、 明らか に する れる
+ジレー	noun	WordNet	前部 を ボタン や ジッパー で 上 まで 留める ニット の ジャケット
+ヘブリディーズ諸島	noun	WordNet	スコットランド 西岸 沖 の 5 0 0 以上 の 群島
+左旋性	adj	WordNet	左 に 回転 する さ ま
+コプラ	noun	WordNet	油 を 抽出 する れる ココヤシ の 果肉 を 乾燥 する せる た もの
+カチッと閉まる	verb	WordNet	パチ ン と 音 を 立てる 動き で 閉じる
+スピーカー	noun	WordNet	電気 信号 を 遠く から でも 十分 に 聞き取れる よう 大きな 音 に 変換 する 電気 音響 変換 器
+アコーデオン	noun	WordNet	携帯 用 の 箱 形 を する て いる リード の ない 楽器
+アコーデオン	noun	WordNet	葦 は 、 演奏 者 により 制御 する れる 送風 装置 から 無線 で 振動 する せる られる
+画する	verb	WordNet	何 か の 境界 を 引く 、 印 を つける または 設定 する
+画する	verb	WordNet	詳細 に 計画 、 叙述 、 調整 する
+写真帳	noun	WordNet	写真 用 の アルバム
+オルゾー	noun	WordNet	大麦 の 粒 の 形 を する た パスタ
+オルゾー	noun	WordNet	しばしば ギリシア 料理 で ラム と いっしょ に 調理 する
+縫合せる	verb	WordNet	縫う こと により 固定 する
+縫合せる	verb	WordNet	裁縫 を する
+筆跡学	noun	WordNet	筆跡 の 研究 ( 特に 筆者 の 性格 や 気質 を 示す もの として )
+ナジュド	noun	WordNet	アラビア 半島 の 中部 高原 地域
+ナジュド	noun	WordNet	サウジアラビア 王国 を 形成 する ため に ヘジャズ と 統合 する た 、 1 9 3 2 年 まで は 独立 する て いる た か つて の サルタン の 支配 国
+手さぐりで	adv	WordNet	見る ない で
+織	noun	WordNet	織る の 模様 あるいは 織物 の 構造
+バトラー	noun	WordNet	英国 の 詩人 ( 1 6 1 2 年 − 1 6 8 0 年 )
+バトラー	noun	WordNet	英国 の 小説 家 で 、 エレウォン と 呼ぶ れる 架空 の 地 について 描く た ( 1 8 3 5 年 − 1 9 0 2 年 )
+ロンドンタクシー	noun	WordNet	強度 を 上げる ため 、 1 − 4 パーセント の マンガン を 含む だ 真鍮
+ケジェリー	noun	WordNet	米 ・ 堅 ゆでる 卵 ・ 薄片 に する た 魚 の 料理
+フラッシュバック	noun	WordNet	思いがける ぬ に 過去 の 経験 が 鮮やか に 再現 する こと ( 特に 幻覚 剤 を 先 に 服用 する た 影響 で 再現 する れる )
+鼻唄	noun	WordNet	柔らかい 低い 音色 で 歌う こと
+鼻唄	noun	WordNet	口 を 閉じる て 歌う 行為
+鼻唄	noun	WordNet	流行 曲 を 感傷 的 に 歌う 行為
+道連	noun	WordNet	一緒 に 旅 を する 人
+ナーバス	adj	WordNet	興奮 する やすい
+ログ	noun	WordNet	送信 する れる または 受領 する れる た 書面 による 記録
+秒当たりサイクル	noun	WordNet	周波数 の 単位
+秒当たりサイクル	noun	WordNet	1 ヘルツ に 1 秒 の 周期 的 だ 間隔 が ある
+ならずもの国家	noun	WordNet	その 国際 的 だ 行動 において 他 の 州 を 尊重 する ない 州
+無保険者	adj	WordNet	保険 で カバー する れる ない
+有性生殖	noun	WordNet	男性 と 女性 の 配偶 子 の 組み合わせ または 統合 に 関わる 生殖
+肉芽腫	noun	WordNet	負傷 、 炎症 または 感染 から 生じる 肉芽組織 から 成る 腫瘍
+次数	noun	WordNet	項 や 変数 の 最大 指数
+ルター	noun	WordNet	宗教 改革 を 指導 する た ドイツ の 神学 者
+ルター	noun	WordNet	神 の 救済 は 功績 より も 信仰 によって 与える られる と 信じる た ( 1 4 8 3 年 − 1 5 4 6 年 )
+ミズキ	noun	WordNet	ミズキ 属 の 低木 の うち の 高木 で しばしば 派手 だ 花 の よう だ 包 葉 を もつ
+ミズキ	noun	WordNet	ミズキ 属 の ハナミズキ の 堅い 丈夫 だ 木
+ミズキ	noun	WordNet	ツゲ 材 に 似る て いる
+失声症	noun	WordNet	発声 器官 の 異常 だ 、 声 が だ ない なる こと
+相補性	noun	WordNet	ある もの が 他 を 補う または 依拠 する お互い の 相互 関係
+相補性	noun	WordNet	2つ の 反する 状態 または 本質 において 可能 性 を 互いに 不毛 に する 関係
+チョーサー	noun	WordNet	英国 の 詩人 で 、 『 カンタベリー 物語 』 で 知る れる ( 1 3 4 0 年 − 1 4 0 0 年 )
+やかまし屋	noun	WordNet	他人 の する こと に 批判 ばかり する 人
+セファドロキシル	noun	WordNet	セファロスポリン 系 抗生 物質 ( 商標 名 ultracef )
+サイドボード	noun	WordNet	容量 を 増やす ため 使う れる 、 ワゴン の 側面 に はめ込む れる た 可動 の 板
+地名辞典	noun	WordNet	( 地図 帳 の 巻末 に ある よう だ ) 地理 の 辞書
+ミニチュア	noun	WordNet	本 に 含む れる 絵 または 挿絵 ( とくに 彩色 する れる た 中世 に 写本 )
+契約	verb	WordNet	契約 書 で 約束 する
+ジェンナー	noun	WordNet	英国 の 医師 で 、 ワクチン 接種 の 先駆 者 と なる た
+ジェンナー	noun	WordNet	ジェンナー は 、 それら が 天然痘 に かかる の を 防ぐ ため に 少量 の 牛痘 で 人々 の 予防 接種 を する た ( 1 7 4 9 年 − 1 8 2 3 年 )
+メンデルスゾーン	noun	WordNet	ドイツ の 音楽家 で 、 オーケストラ と コーラス 作品 の ロマン 派 の 作曲 家 ( 1 8 0 9 年 − 1 8 4 7 年 )
+コモロ	noun	WordNet	コモロ 諸島 から なる 国
+バンダナ	noun	WordNet	大きい 明るい 色 の ハンカチ
+バンダナ	noun	WordNet	しばしば ネッカチーフ として 用いる られる
+カントリーミュージック	noun	WordNet	米国 南部 の 素朴 だ フォーク ミュージック
+カントリーミュージック	noun	WordNet	弦楽器 で 演奏 する れる こと が 多い
+小逕	noun	WordNet	細い 道 または 道路
+無責任	noun	WordNet	信頼 性 の ない 形
+無責任	noun	WordNet	責任 感 が 欠如 する て おる 、 行動 について 責任 が ある と 感じる ない 特徴
+排泄物	noun	WordNet	身体 から 放出 する れる た 老廃 物 ( 尿 か 汗 だ が 特に 糞便 として )
+ハプトグロビン	noun	WordNet	遊離 ヘモグロビン を 縛る 、 それ を 取り除く ( 傷 など から ) プラズマ の タンパク質
+シデナム	noun	WordNet	英国 の 医師 ( 1 6 2 4 年 − 1 6 8 9 年 )
+公共事業体	noun	WordNet	公共 事業 を 行う 会社 や 機関
+公共事業体	noun	WordNet	政府 規制 の 対象
+オックステール	noun	WordNet	牛 の 皮 を 剥く た 尾
+オックステール	noun	WordNet	特に スープ に 使う れる
+漸進的	adj	WordNet	小さな 場面 で 進む
+狼狽	noun	WordNet	うろたえる て 落ち着く ない 気質
+狼狽	noun	WordNet	混乱 を まねく 当惑 の 気持ち
+平滑筋腫	noun	WordNet	平滑 筋 ( 通常 子宮 か 消化 管 の ) の 良性 腫瘍
+アングロサクソン	noun	WordNet	( 特に 、 英国 の ) アングロサクソン 家系 の 人 で 、 母国 語 が 英語 で 、 アングロサクソン 系 白人 新 教徒 『 ワスプ 』 の よう に 英国 文化 に 強い 影響 を 受ける て いる
+アングロサクソン	noun	WordNet	ノ ルマン 人 の 征服 以前 の イングランド の 出身 者 、 または 、 居住 者
+不躾	noun	WordNet	礼儀 正しい さ の 欠如
+不躾	noun	WordNet	他 へ の 尊敬 を しめす こと が できる ない こと
+不躾	noun	WordNet	他人 に対する いたわる を 示す ない こと
+浮動小数点表示法	noun	WordNet	小数点 の 位置 が 基数 の 指数 によって 示す れる 基数 記数 法
+浮動小数点表示法	noun	WordNet	浮動 小数点 表示法 で は 、 0 . 0 0 1 2 は 0 . 1 2 - 2 と 表わす れる 、 - 2 は 指数 だ ある
+新型肺炎	noun	WordNet	2 0 0 3 年 に 中国 本土 で おそらく 端 を 発する 知る れる て いる ない 原因 による 呼吸 器官 の 病
+新型肺炎	noun	WordNet	熱 、 せく 、 困難 呼吸 、 または 低 酸素 により 特徴 づける られる
+新型肺炎	noun	WordNet	致命 的 だ ある かも しれる ない
+抜毛癖	noun	WordNet	自分 の 毛 を 引き抜く う と する 抑え 難い 欲求
+不当	adj	WordNet	正当 だ ない または 公平 だ ない
+不当	adj	WordNet	正当 性 または 承認 を 欠く て いる
+不当	adj	WordNet	法律 で 定める られる た 要求 を する の だ は ない
+不当	adj	WordNet	正義 の 原則 に 違反 する さ ま
+不当	adj	WordNet	不当 に 他人 の 権利 を 侵害 する さ ま
+エグゾーストファン	noun	WordNet	囲う れる た 場所 から 空気 を 追い出す ファン
+フロッタージュ	noun	WordNet	( 人込み の 中 など で ) 他者 に 体 を こする つける て 行う マスターベーション
+鉄製	noun	WordNet	( 格子 ・ 柵 ・ レール など ) 鉄 で できる た 工作 物
+凝望	verb	WordNet	固定 する れる た 視線 で 見る
+凝望	noun	WordNet	大きい 見開く た 目 で じっと 見る こと
+ヒス	noun	WordNet	過度 の 抑制 できる ない 恐れ
+ヒス	noun	WordNet	暴力 的 だ 感情 の 爆発 と 感覚 機能 と 運動 機能 の 障害 が 特徴 的 だ 精神 症状
+アクリル酸塩	noun	WordNet	プロペノール 酸 の 塩 または エステル
+結婚式	noun	WordNet	結婚式 で の 人々 の パーティー
+高血圧	noun	WordNet	異常 に 高い 血圧 ( 測定 値 が 1 4 0 / 9 0   m m   h g または それ 以上 ) が 持続 する 一般 的 だ 疾患
+症状を示す	adj	WordNet	疾患 の 特徴 あるいは 示唆
+被膜	noun	WordNet	身体 組織 を 覆う て いる 膜 、 あるいは 層
+ブラックジャック	noun	WordNet	米国 南東 部 の 一般 的 だ やぶる が 茂る た 落葉樹 で 、 暗い 皮 と 幅広い 3 裂 の ( クラブ 形 の ) 葉 が ある
+ブラックジャック	noun	WordNet	濃い 茂み を 形成 する 傾向 が ある
+ブラックジャック	noun	WordNet	カード を 使用 する ギャンブル ゲーム
+ブラックジャック	noun	WordNet	目的 は 、 2 1 を 超える ぬ に 、 親 より も 高い 数 の カード を 保持 する こと だ
+未処理事項	noun	WordNet	未 完成 の まま に なる て いる 仕事
+カタクチイワシ	noun	WordNet	大抵 の 場合 、 丸ごと 、 あるいは ペースト 状 で 缶詰 に する れる た 小さい ニシン の よう だ プランクトン を 食べる 魚
+カタクチイワシ	noun	WordNet	世界中 の 熱帯 水域 に たくさん いる
+低金利資金	noun	WordNet	低い 金利 で 利用 可能 だ クレジット
+第6回十字軍	noun	WordNet	1 2 2 8 年 から 1 2 2 9 年 まで の 十字軍 は 、 病気 に なる た 神聖 ローマ帝国 皇帝 フレディリック ii で 導く て 、 法王 によって 破門 する れる ます た
+第6回十字軍	noun	WordNet	交渉 の 結果 、 フレデリック 2 世 は エルサレム の 王 に 戴冠 する こと が できる た
+バックグラウンド放射線	noun	WordNet	観測 する れる て いる も の 以外 の 源 から 来る 放射線
+デビルズフードケーキ	noun	WordNet	暗黒 色 の チョコレート ケーキ
+オートジャイロ	noun	WordNet	飛行 中 、 非 動力 で 回転 する 水平 翼 ( または ブレード ) を 使う 航空機
+オートジャイロ	noun	WordNet	前方 へ の 推進 力 は 、 従来 の プロペラ によって もたらす れる
+無器用	adj	WordNet	回りくどい か 、 または あいまい だ ある
+無器用	adj	WordNet	( ラケット の ストローク について ) 手 を ストローク の 方向 に 向ける た まま 体 を 交差 する せる
+無器用	adj	WordNet	一般 に 役に立つ ない て 無駄 だ
+無器用	adj	WordNet	身体 的 だ 運動 技術 、 特に 手 の 技術 が 欠如 する て いる 、
+マッシュポテト	noun	WordNet	皮 を むく て 茹でる て から つぶす た ジャガイモ
+大口バス	noun	WordNet	オオクチバス の 肉
+二重身	noun	WordNet	実際 に 生きる て いる 人物 に とりつく その 人間 の 幽霊 の 分身
+ドギーバッグ	noun	WordNet	客 が レストラン で 食べる ない た もの を 入れる ため の 袋
+ドギーバッグ	noun	WordNet	明白 だ 見せかけ は 、 顧客 の 犬 に 餌 を やる ため に 食物 を 家 へ 持ち帰る という こと だ ある
+レストハウス	noun	WordNet	旅行 者 によって 避難 所 に 使用 する れる 建物 ( 特に ホテル が ない 区域 で )
+早撃ちする	verb	WordNet	銃 を より 素早い 引き抜く 、 あるいは 銃撃 戦 で 負かす
+世界貿易機関	noun	WordNet	世界 貿易 を 管理 する 条項 の 遵守 を 行う せる 、 それ を 監視 する ジュネーブ に 拠点 を 置く 国際 機関
+葉節点	noun	WordNet	1 枚 以上 の 葉 が 生える 植物 茎 の 部分 だ ある 小さな 隆起
+受信箱	noun	WordNet	机 の 上 に 置く れる た 木 または 金属 容器 で 、 入る て くる もの を 入れる て おく
+科学博物館	noun	WordNet	科学 的 に 興味 の ある 物 を 収集 する 展示 する 博物館
+クフ	noun	WordNet	ギザ の 大 ピラミッド の 建設 を 委任 する た 紀元前 2 7 世紀 の エジプト の ファ ラオ
+パルメニデス	noun	WordNet	イタリア で 生まれる た ギリシア の ソクラテス 以前 の 哲学 者
+パルメニデス	noun	WordNet	存在 と は 万物 が 構成 する れる 基本 物質 だ ある 究極 の 実在 だ ある という 形而上学 の 見解 を 持つ た
+パルメニデス	noun	WordNet	運動 と 変化 は 知覚 上 の 幻覚 だ ある といった ( 紀元前 5 世紀 )
+引渡す	verb	WordNet	他国 の 当局 へ 引き渡す
+ネイヴィー	noun	WordNet	国 に 属す 、 海戦 の ため に ある 軍艦 の 編成
+ヨウ素酸	noun	WordNet	水溶 性 の 結晶 質 の 酸
+ヨウ素酸	noun	WordNet	試薬 および 消毒 薬 として 用いる られる
+窮屈	adj	WordNet	不愉快 だ ほど または 不都合 に 小さい
+口裂	noun	WordNet	原生 動物 の 口
+付加条項	noun	WordNet	法律 案 に 付加 する れる た 条項
+剥製術	noun	WordNet	彼ら が 生きる て いる よう だ 出演 を する よう に 、 動物 の 皮膚 を 埋め込む り 技法
+一転させる	verb	WordNet	状況 の 完全 だ 逆転 を 引き起こす
+航進	verb	WordNet	水上 を 風 の 力 で 進む
+移民階級	noun	WordNet	異なる 文化 的 背景 で は ない 社会 経済 的 だ 地位 の 低い さ によって 1つ の 階級 として 一 くくる に する れる た 最近 の 移民 たち
+武器運搬車	noun	WordNet	迫撃 砲 や 機関 銃 と 隊員 を 運ぶ よう に 設計 する れる た 軽 トラック の 軍用 車両
+テオドシウス	noun	WordNet	連合 ローマ帝国 の 最後 の 皇帝 、 彼 は 東部 帝国 を 統制 する 、 西 ゴート 人 と の 戦い を 終結 する せる た
+テオドシウス	noun	WordNet	彼 は キリスト教徒 に なる 、 3 9 1 年 に 異教徒 の 崇拝 の すべて の 形 を 禁止 する た ( 3 4 6 年 − 3 9 5 年 )
+なじんでいる	verb	WordNet	適す て いる 、 または 条件 を 満たす て いる
+エキノコックス症	noun	WordNet	幼虫 の エキノコックス ( 条 虫 ) の 体内 浸入
+牧舎	noun	WordNet	穀物 や 動物 の 餌 を 保管 する たり 家畜 を 収容 する て いる 郊外 の 農舎
+引回す	verb	WordNet	ガイド として の 使用
+モーニングアフターピル	noun	WordNet	性交 の 後 2 4 から 7 2 時間 以内 に 口径 で 多量 の エストロゲン が のむ れる た
+モーニングアフターピル	noun	WordNet	受精卵 の 移植 を 防ぐ で 、 避妊 として 機能 する
+モーニングアフターピル	noun	WordNet	レイプ か 近親 相姦 の 後 に 一般 的 に 使用 する れる
+カーネーション	noun	WordNet	ピンク から 赤 紫色 の 、 スパイス の よう だ 匂い が する 重弁 花 だ ある ユーラシア 植物
+カーネーション	noun	WordNet	様々 だ 種 と 色 で 広い 栽培 する れる て いる
+バハカリフォルニア半島	noun	WordNet	メキシコ 北西 部 の 山 がち の 半島
+自発的に	adv	WordNet	自分 の 自由 意思 の 外 で
+通常兵器	noun	WordNet	軍用 の 武器 の 主 品目 ( 戦車 や ミサイル といった )
+バッターボックス	noun	WordNet	打席 に いる とき に バッター が 立つ ない ば なる ない 境界 線 により 特徴付ける られる 内野 ( ホーム プレート の どちら 側 か ) の 領域
+アウトサイダー・アート	noun	WordNet	自分 たち が 芸術 家 だ ある と 認める ない 未熟 だ 芸術 家 によって 作る れる た 芸術 と 野外 建造 物 の ジャンル
+イラク共和国	noun	WordNet	西 アジア の 中東 の 共和 国
+イラク共和国	noun	WordNet	古代 メソポタミア 文明 は 現在 イラク として 知る れる 地域 に ある た
+盲腸	noun	WordNet	盲腸 の 下部 末端 から 伸びる 、 小袋 に 似る た 退化 する た 突起 物
+盲腸	noun	WordNet	大腸 が 始まる 、 回腸 が 通じる 腔
+e-メイル	verb	WordNet	コンピュータ で 電子 的 に 通信 する
+脊髄造影法	noun	WordNet	可能 性 が ある 障害 ( 通常 クモ 膜 下 腔 へ の 造影 剤 の 注射 の 後 の ) を 発見 する 脊髄 の x線 撮影
+正規軍	noun	WordNet	陸上 の 軍隊 組織
+群を抜いて	adv	WordNet	注意 を 引く 傾向 の 方法 で
+ガウチョ	noun	WordNet	南米 大 草原 の カウボーイ
+選りだす	verb	WordNet	選ぶ 、 多く の 選択肢 から 選ぶ
+共済組合	noun	WordNet	使用 する 人 の 利益 を 目的 に 作る れる 、 運営 する れる 協会
+空集合	noun	WordNet	空 の セット
+空集合	noun	WordNet	要素 の ない 集合
+議事妨害	noun	WordNet	長い 演説 を 行う て 法律 制定 を 遅らせる たり 、 妨害 する 方策
+ピレア	noun	WordNet	とげ の ない 葉 の ため に 栽培 する れる 丈 の 低い 熱帯 の 多年生 植物
+純粋	adj	WordNet	交流 または 交際 によって 堕落 する たり する ない
+純粋	adj	WordNet	混合 物 を 含む ない
+純粋	adj	WordNet	実践 より も 理論 と データ に関する
+純粋	adj	WordNet	応用 に 反対 する
+純粋	adj	WordNet	化合 物 を 構成 する ない
+純粋	adj	WordNet	有毒 だ 要素 と 混ざる こと の ない さ ま
+純粋	adj	WordNet	混じりもの が ない さ ま
+純粋	adj	WordNet	不純物 と 混ぜる ない
+純粋	adj	WordNet	しみ 一つ ない きれい だ 新しい
+声の切迫感	noun	WordNet	声 の 調子 における 急 の 特性
+ユニテリアン主義	noun	WordNet	個々 の 信念 の 自由 を 強調 する て 、 三位一体 を 拒絶 する キリスト教 の 教義
+ひひらく	verb	WordNet	不明瞭 に ペチャクチャ しゃべる
+ひひらく	verb	WordNet	猿 の
+何かを待つ行列	noun	WordNet	何 か を 待つ て いる 人 の 列 または 車 の 列
+来雨	noun	WordNet	大気 中 で 凝縮 する れる た 水蒸気 から 成る 滴 という 形 で の 水 の 落下
+褐色細胞腫	noun	WordNet	副腎 の 血管 腫瘍
+褐色細胞腫	noun	WordNet	断続 的 だ ある か 継続 する れる た 高血圧 の エピネフリン が もたらす 分泌 過多
+ダビング	noun	WordNet	フィルム に 追加 する れる 新しい サウンドトラック
+緊要	adj	WordNet	非常 に 大きな 意義 の ある
+ファハド	noun	WordNet	1 9 8 2 年 から 2 0 0 5 年 まで の サウジアラビア の 王 ( 1 9 2 3 年 − 2 0 0 5 年 )
+コーディネーター	noun	WordNet	仕事 が 調和 する て 進む で いる か 確認 する こと を 任務 と する 人
+硝酸カリウム	noun	WordNet	( kno 3 ) 特に 肥料 や 爆発 物 として 用いる られる
+慣例的	adj	WordNet	一般 的 に 使用 する れる 、 または 実践 する れる
+慣例的	adj	WordNet	通常 の
+使節	noun	WordNet	使節 の 職 あるいは 地位
+使節	noun	WordNet	大使 より 権限 の 少ない 外交 官
+使節	noun	WordNet	ある 人 の 利益 を 代表 する 任務 の ため に 送る れる た 人
+大衆化	noun	WordNet	容易 に 理解 する 受け入れる られる よう だ 解釈
+大衆化	verb	WordNet	一般 大衆 に 理解 できる よう に する
+裂離	noun	WordNet	ある からだ の 部分 から 別 の 一部 を 強制 的 に 裂く または 外科 的 に 分離 する せる
+裂離	noun	WordNet	1 人 の 地主 の 土地 の 1 部 の 損失 により もたらす れる 、 もう 1 方 の 土地 が 上昇 する ため に 2 区画 の 間 に 境界 を 形成 する 流れ の 進路 の 突然 の 変化
+臍下丹田	noun	WordNet	胸骨 の すぐ 下 の 正中 線 に ある わずか な くぼむ ( 一撃 が みぞおち に 影響 を 与える うる )
+霜を置いた	adj	WordNet	年齢 の 特徴 を 示す 、 特に 灰色 か 白髪 を 持つ て いる
+霜を置いた	adj	WordNet	古風 だ
+霜を置いた	adj	WordNet	微少 だ 白っぽい 毛 で 、 または 、 産毛 で 覆う れる て いる
+通り越して	adv	WordNet	任意 の 点 を 通過 する よう に
+着物	noun	WordNet	ゆったり する た ローブ
+着物	noun	WordNet	元来 日本人 に 着る られる た ローブ から 模倣 する れる た
+卵管妊娠	noun	WordNet	卵 管 へ の 子宮 外 妊娠
+ヒマラヤスギ	noun	WordNet	下方 に 垂れる た 先端 の ある 広がる て いる 枝 の ある 背 の 高い 東 インド スギ
+ヒマラヤスギ	noun	WordNet	材木 用 と共に 観賞 用 として も 重要 視 する れる
+住民投票	noun	WordNet	ある 立法 行為 が 、 その 最終 的 賛意 を 有権者 による 一般 投票 に 問う
+観念化	noun	WordNet	考え を 形成 する て 、 関連 する せる 過程
+マンゴスチン	noun	WordNet	モモ ・ パイナップル を 思う せる 水分 の 多い 果肉 を もつ 2 インチ から 3 インチ の 熱帯 性 果物
+マンゴスチン	noun	WordNet	厚い 革 の よう だ 葉 と 食用 の 果実 を 持つ 、 東 インド の 高木
+アースガルズ	noun	WordNet	ノルウェー 人 神 ( アース ) と 殺す れる た 軍神 の 、 天国 の よう だ 住まい
+１杯	noun	WordNet	1 人前 の 飲み物
+探査	noun	WordNet	入念 で 体系 的 だ 捜索
+テクニカルファウル	noun	WordNet	スポーツマン らしい ない 行為 により 選手 、 コーチ あるいは チーム の いずれ か に 課す れる こと の ある ファウル
+テクニカルファウル	noun	WordNet	プレイ 中 の 身体 的 だ 接触 は 通常 含む ない
+何でも	adv	WordNet	絶対 に 、 または 確か に
+昔	noun	WordNet	人生 の 早い 期間 ( 特に 秘密 に する 理由 が ある 場合 )
+昔	noun	WordNet	過去 の 時間
+ハーフパンツ	noun	WordNet	サスペンダー を 着用 する 革 の ショーツ
+ハーフパンツ	noun	WordNet	ババ リア の 人 と 少年 により 特に 身 に 着ける られる て いる
+風格	noun	WordNet	人 から 生じる 印象
+カナダバルサム	noun	WordNet	バルサムノキ から の 黄色 の 透明 だ 滲出 物
+カナダバルサム	noun	WordNet	光学 機器 ( 特に 顕微鏡 ) の 透明 の 接合 剤 として そして 封入 剤 として 使用 する れる
+応接係	noun	WordNet	ホテル の 受付 係
+アモルファス	adj	WordNet	本当 の 、 または 見かけ の 結晶 形 の ない
+美貌	noun	WordNet	( 特に 男性 の ) 均斉 が とれる て 目鼻立ち が はっきり する た 特性
+ジャズの	adj	WordNet	ジャズ に 類似 する て いる ( 特に リズム で )
+よたよたする	verb	WordNet	揺れる 運動 で 、 不安定 に 動く
+遺伝子	noun	WordNet	ポリペプチド 鎖 を 作り出す の に 関係 する dna 断片
+遺伝子	noun	WordNet	エクソン 間 の イントロン と 同様 に コード 化 dna に 先行 する て いる て 、 続く て いる 領域 を 含む こと が 可能 だ ある
+遺伝子	noun	WordNet	それ は 、 遺伝 の 単位 と 考える られる
+肺動脈弁狭窄	noun	WordNet	右 心室 から 肺 動脈 に 通じる 孔 の 異常 だ 狭小 化
+発泡プラスチック	noun	WordNet	細胞 型 の 軽量 の 素材
+発泡プラスチック	noun	WordNet	製造 の 間 に 気泡 を もたらす こと によって 作る れる
+定性分析	noun	WordNet	物質 を 構成 元素 に 分解 する 行為
+電話局	noun	WordNet	電話 業務 を 行う 公益 事業 体
+電話局	noun	WordNet	電話 から の 線 は 通信 を 許可 する ため に 接続 する れる 情報 通信 として 機能 する 仕事場
+塩化窒素	noun	WordNet	小麦粉 を 漂白 する 、 熟成 する せる ため に 、 以前 に 使用 する れる た 黄色 の 刺激 的 だ 揮発 性 油 ( 商標 名 エイ ジーン )
+バグパイプ	noun	WordNet	管状 の 管楽器
+バグパイプ	noun	WordNet	プレーヤー は 、 袋 に 空気 を 吹き込む 、 ド ローン 管 を通して 絞り出す
+平時	noun	WordNet	戦争 が ない 時期
+逆平行	adj	WordNet	( 特に ベクトル の ) 平行 だ が 反対 方向 を 向く た
+法務	noun	WordNet	軍 の 部署 へ の シニア 法的 アドバイザー
+不妊	noun	WordNet	( 通常 女性 の ) 子供 が いる ない 状態 、 あるいは 子供 が できる ない こと
+ホワイトペッパー	noun	WordNet	殻 を とる た コショウ の 実 を ひく た もの
+差動歯車	noun	WordNet	2つ の シャフト が 異なる 速度 で 回転 する よう に する か さ 歯車
+差動歯車	noun	WordNet	車輪 が カーブ で 異なる 速度 で 回転 する よう に する 自動車 の 後部 アクセル に 用いる られる
+いやに	adv	WordNet	のろわしい 方法 で
+内軟骨腫	noun	WordNet	管状 骨 ( 特に 手足 の ) の 端 の 軟骨 の セル の 優しい 成長 の 遅い 腫瘍
+不似合い	adj	WordNet	調和 する て 結合 する の が 簡単 だ ない
+ヒップ	noun	WordNet	ウエスト の 下 の 、 また 、 腿 より 上 の 体 の 一方 の 側
+タバスコ	noun	WordNet	シカ の 肉 用 : 炒める た 野菜 ・ 添え物 ・ マリ ネー ・ 多量 の コショウ を 入れる た ブラウンソース
+タバスコ	noun	WordNet	タバスコ で 作る た 非常 に 辛い ソース
+タバスコ	noun	WordNet	カンペチェ 湾 の メキシコ の 州
+二義的	adj	WordNet	重要 だ ない
+学生	noun	WordNet	大学 に 籍 を 置く 生徒
+学生	noun	WordNet	教育 機関 に 登録 する れる て いる 学習 者
+総合的	adj	WordNet	本物 だ ない か 自然 だ ない
+ワニガメ	noun	WordNet	背中 に 3つ の 峰 が ある 大型 種
+ワニガメ	noun	WordNet	米国 南東 部 で 見る られる
+プランナー	noun	WordNet	計画 を 立てる 人
+斜めに	adv	WordNet	勾配 の ある さま
+斜めに	adv	WordNet	斜め の 所定 の 位置 か 方向 に 動く か 、 または 向ける られる
+斜めに	adv	WordNet	斜 角 で
+斜めに	adv	WordNet	傾斜 で
+斜めに	adv	WordNet	対角線 の 方法 で
+想像	verb	WordNet	空想 に ふける
+怯懦	noun	WordNet	勇気 に 欠ける 特性
+怯懦	noun	WordNet	見下げる 果てる た 臆病者
+ハーバード	noun	WordNet	アメリカ 人 の 慈善 家 で 、 現在 彼 の 名前 が つく て いる マサチューセッツ の 大学 に 彼 の 図書館 と 財産 の 半分 を 残す た ( 1 6 0 7 年 − 1 6 3 8 年 )
+律義	noun	WordNet	綿密 で 念 の 入る た 特性
+救ける	verb	WordNet	害 を 及ぼす こと を 控える
+救ける	verb	WordNet	罪 から 救う
+慣習法	noun	WordNet	制定 法 より むしろ 判例 に 基づく 法学 の システム
+弔鐘	noun	WordNet	死 を 知らせる ため に 鳴らす 鐘
+弔鐘	noun	WordNet	死 や 葬式 や 何 か の 終わる を 告げる ため に ゆっくり 鳴らす れる 鐘 の 音
+弔鐘	noun	WordNet	死 や 破滅 の 前兆
+サーヴィス	noun	WordNet	助ける たり 援助 する たり する 行為
+トケイソウ科	noun	WordNet	熱帯 の 木質 の 巻く ひる げ の ある よじ登る つ 植物
+タンジール	noun	WordNet	モロッコ 北部 の 都市 で ジブラルタル 海峡 の 西端 に ある
+父系氏族	noun	WordNet	男性 の 子孫 に 基づく 家系
+インテリアデザイン	noun	WordNet	家具 や 内装 の 選択 と 構成 を 扱う 建築 学 の 分野
+ダラシ	noun	WordNet	ガンビア の 通貨 の 基本 単位
+alb	noun	WordNet	袖 の ある 白い リンネル の 典礼 に 用いる 式服
+alb	noun	WordNet	聖職 者 が 身 に 着ける
+総じて	adv	WordNet	他 の もの から の 一つ の 区別 ない だ
+総じて	adv	WordNet	通常 の 状態 で
+剛毛	noun	WordNet	コケ ・ 被膜 の 軸
+剛毛	noun	WordNet	剛毛
+剛毛	noun	WordNet	硬い 髪 や 荒 毛
+駆水	noun	WordNet	液体 を 流す 出す こと で 何 か を 空 に する こと
+モクレン亜綱	noun	WordNet	よく 発達 する た 花 被 と 離 生 心 皮 の 子房 を 持つ 、 一般 的 に 最も 原始 的 だ 現存 の 顕花植物 と する れる て いる 、 高木 、 低木 、 草本 の グループ
+モクレン亜綱	noun	WordNet	モクレン 科 と キンポウゲ 科 を 含む 3 6 の 科 を 包含 する
+モクレン亜綱	noun	WordNet	時に 上目 に 位置づける られる
+組成	noun	WordNet	人 や 物 が 構成 する れる 方法
+組成	verb	WordNet	物質 を 形成 する
+細胞発生	noun	WordNet	細胞 の 変異 、 発達 と 起源
+遣い果す	verb	WordNet	完全 に 費やす
+カーク	noun	WordNet	スコットランド の 教会
+側庭	noun	WordNet	家 の 両 横 の 地面
+国際手形	noun	WordNet	ある 国 で 振り出す れる て 別 の 国 で 払い出し する れる 為替 手形
+仄仄	adv	WordNet	かすか だ 程度 に 、 または 弱々しい 認識 する れる
+払	noun	WordNet	金銭 を 支払う 行為
+出来高仕事	noun	WordNet	生産 量 に 応じる て 報酬 が 支払う れる 仕事
+叫く	verb	WordNet	しつこい 騒がしい 言う 、 または 公言 する
+太平洋時間	noun	WordNet	1 2 0 番目 の 子午線 西 で 数える られる た 、 グリニッジ の 8 番目 の 時間 帯 の 西 の 標準時
+太平洋時間	noun	WordNet	西経 1 2 0 度 の 現地 時間 で 、 米国 西部 の 諸 州 で 用いる られる
+リコーバー	noun	WordNet	米国 の 海軍 大将 で 、 原子力 潜水 艦 の 開発 を 支持 する た ( 1 9 0 0 年 − 1 9 8 6 年 )
+衆愚政治	noun	WordNet	暴徒 が 支配 の もと と なる て いる 政治 体制
+衆愚政治	noun	WordNet	大衆 による 政治
+敵対的買収	noun	WordNet	標的 の 会社 の 経営 陣 によって 抵抗 する れる 乗っ取る
+下垂体	noun	WordNet	内分泌 系 の 脳下垂体
+下垂体	noun	WordNet	内分泌 系 の 主要 だ 腺
+解き解す	verb	WordNet	もつれる から 開放 する s
+むだ話	noun	WordNet	無駄 だ 、 馬鹿 だ 意味 の ない 話
+オジロワシ	noun	WordNet	短い くさび 形 の 白い 尾 の 大きな 灰色 がかる た 茶色 の ワシ
+オジロワシ	noun	WordNet	ヨーロッパ ・ グリーンランド 産
+公開講座	noun	WordNet	正規 の 学生 として 登録 する れる て いる ない 人々 に 大学 が 提供 する 教育 の 機会
+しかと	adv	WordNet	安全 だ 方法 で
+しかと	adv	WordNet	危険 が ない さま の
+コンセプト・アルバム	noun	WordNet	レコーディング が 若干 の テーマ によって 統一 する れる アルバム ( 楽器 、 叙情詩 調 、 物語 風 、 あるいは 組成 )
+回送	verb	WordNet	中間 基地 または 位置 から 輸送 する て 送る
+長老派教会	noun	WordNet	長老 会派 教会 の 主義 と 実践 : カルヴァン 主義 に 基づく
+スキャナ	noun	WordNet	コンピュータ に データ を 入力 する ため の 、 画像 の デジタル 表現 を 生成 する 電子 装置
+カポネ	noun	WordNet	米国 の ギャング で 、 脱税 の 理由 で 逮捕 する れる まで 、 禁酒 法 時代 に シカゴ を 恐れる させる た ( 1 8 9 9 年 − 1 9 4 7 年 )
+白質	noun	WordNet	ニューロン と その ミエリン 鞘 から 成る 中枢 神経 系 の 白 っぽい 神経 組織
+肩峰	noun	WordNet	肩 甲骨 の 最も 外側 に ある とげ 状 突起 物
+弾道的	adj	WordNet	自身 の 推進 力 下 あるいは 重力 下 に ある 物体 の 動き に 関連 する て いる あるいは の 特徴
+ベッセル	noun	WordNet	ドイツ 人 の 数学 者 、 天文学 者 で 、 星 の 距離 の 正確 だ 寸法 を する て 、 8 番目 の 惑星 で 存在 を 予測 する た ( 1 7 8 4 年 − 1 8 4 6 年 )
+除湿	verb	WordNet	湿度 を 抑える
+ウイスキーサワー	noun	WordNet	ウイスキー を 使う た サワー
+誤用	noun	WordNet	間違う た 使用 、 または 間違う た 適用
+誤用	verb	WordNet	間違う た もの または 人 へ 適用 する
+誤用	verb	WordNet	悪い 、 または 間違う て 適用 する
+誤用	noun	WordNet	不適切 だ 使用 や 過剰 だ 使用
+誤用	noun	WordNet	語句 の 不自然 または 矛盾 する た 使用 法 で 、 誤る て ( 「 香り の よい 」 の 意味 で 「 騒々しい 」 を 使う など ) あるいは 不適切 に ( 「 盲 いる た 口 」 の よう だ 混喩 など ) 使う もの
+誤用	noun	WordNet	同じ よう に 聞こえる もの と 混同 する て 間違う て 意図 する ない で 使用 する こと
+ブラッドフォード	noun	WordNet	米国 の 印刷 業者 ( 英国 生まれ ) で 、 その 出版 社 が 米国 初 の 祈祷 書 と ニューヨーク 市 初 の 新聞 を 作る た ( 1 6 6 3 年 − 1 7 5 2 年 )
+銀鈴	noun	WordNet	ハレシア 属 の 種々 の 落葉樹 で 、 鐘 形 の 白い 花 を 持つ
+小衝く	verb	WordNet	急 に 突き出す あるいは 突き刺す
+循環気質	noun	WordNet	長期 にわたって 続く 、 軽症 の 双極 性 障害
+ハッテラス岬	noun	WordNet	ノースカロライナ の 大西洋 岸 沖 の ハッテラス 島 の 岬
+鋏角亜門	noun	WordNet	クモ
+鋏角亜門	noun	WordNet	サソリ
+鋏角亜門	noun	WordNet	カブトガニ
+指令	noun	WordNet	裁判所 の 記録 に 記入 する れる 法的 に 拘束 力 の ある 命令 または 決定 ( あたかも 裁判所 または 判事 によって 発行 する れる た よう だ )
+乳腺炎	noun	WordNet	乳房 ( あるいは 動物 の 乳房 ) の 炎症
+人くさい	adj	WordNet	動物 または 神 の 形体 や 特性 と は 反対 に 、 人間 の 形体 や 特性 を 持つ
+エルアラメイン	noun	WordNet	第 二 次 世界 大戦 の 激戦 ( 1 9 4 2 年 ) で 、 ロンメル 率いる ドイツ 軍隊 に対して 、 モンゴメリー 率いる 英国 軍 により 連合 軍 の 決定的 だ 勝利 に 終わる た
+エルアラメイン	noun	WordNet	エジプト の 北岸 の アレクサンドリア の 西 の 村
+エルアラメイン	noun	WordNet	1 9 4 2 年 の ドイツ に対する 決定的 だ 連合 軍 の 勝利 の 場面
+クレマンソー	noun	WordNet	フランス の 政治 家 で 、 ベルサイユ の 条約 を 協議 において 重要 だ 役割 を 果たす た ( 1 8 4 1 年 − 1 9 2 9 年 )
+用法	noun	WordNet	言語 ( または 言語 の 形 ) が 話す れる か 、 書く れる 慣習 的 だ 方法
+辞書編集	noun	WordNet	辞書 を 執筆 する 行為
+ヒナゲシ	noun	WordNet	ヨーロッパ 産 の 一 年生 の ケシ で 穀物 畑 に よく 見る られる 、 しばしば 栽培 も する れる て いる
+できない	adj	WordNet	必要 だ 手段 または 技術 または ノウハウ を 持つ ない さ ま
+らっぱ水仙	noun	WordNet	トランペット 形 を する て いる 中央 の 副 花冠 が ある 派手 だ しばしば 黄色い 花 を 持つ て いる 多数 で さまざま だ ナルキッソス 植物 の どれ か
+習得	verb	WordNet	十分 に 熟達 する て いる 、 に 熟練 する た 、 あるいは 、 に なる
+http	noun	WordNet	サーバ と ブラウザ 間 の ハイパーテキスト の 要求 と 情報 を 転送 する ( 転送 制御 プロトコル を 利用 する ) プロトコル
+プロベネシド	noun	WordNet	血液 の 尿 酸 の レベル を 減少 する せる 尿 酸 排泄 促進 薬
+プロベネシド	noun	WordNet	痛風 を 治療 する の に 用いる られる
+パイ	noun	WordNet	ギリシア 語 アルファベット の 1 6 番目 の 文字
+パイ	noun	WordNet	果物 が いっぱい 詰まる て いる 小さな 開く て いる パイ
+パイ	noun	WordNet	有史 以前 の 記録 に 残る て いる ない 言語 で 、 すべて の インド ヨーロッパ 語 族 の 先祖 だ ある た
+パイ	noun	WordNet	上面 に 練る 粉 を つける 、 練り 粉 の 皮 を 敷く た 皿 で 焼く た もの
+パイ	noun	WordNet	円 の 直径 へ の 円周 の 比率
+パイ	noun	WordNet	3 . 1 4 1 5 9 2 6 5 3 5 8 9 7 9 3 2 3 8 4 6 と ほぼ 等しい
+プリミドン	noun	WordNet	強い 悪性 けいれん と 振る 顫 を 治療 する の に 使用 する れる た 抗 けいれん 薬 ( 商標 名 マイソリン )
+オブジェクト	noun	WordNet	コンピュータ に バーチャル に 知る れる て いる すべて の 物 の 記述 を 提供 する 独立 する た 項目
+色褪せる	verb	WordNet	新鮮 さ 、 活力 または 体力 を 失う
+優等	noun	WordNet	優れる て いる という 性質
+優等	noun	WordNet	高度 だ 上等 だ 性質 を 持つ て いる こと
+縮らせる	verb	WordNet	棟木 を 層 に する
+縮らせる	verb	WordNet	滑らか だ 表面 に しわ または 折り目 を 作る
+縮らせる	verb	WordNet	押す れる た 、 折りたたむ れる た 、 あるいは しわ の 寄る た 線 を 作る
+シーズー	noun	WordNet	ペキニーズ に 似る た 中国 の 小型 犬 の 品種
+吸乳器	noun	WordNet	柔軟 性 の ある 乳首 を 持つ 、 ミルク または その 混合 物 で 満たす れる た 容器
+吸乳器	noun	WordNet	母乳 で 育てる られる 乳児 と とても 若い 子供 に対する 代替 物 として 使用 する れる
+ジダノシン	noun	WordNet	hiv 感染 の 治療 に 用いる られる 抗 ウイルス 薬
+充電	verb	WordNet	正味 電荷 の 形成 を 引き起こす
+充電	verb	WordNet	何 か 必要 だ もの を ( 装置 ) に 備え付ける
+充電	noun	WordNet	何らかの 考え や 人 や 物 に 注ぐ れる リビドー エネルギー
+スパンデックス	noun	WordNet	弾力 性 の ある 合成 繊維
+寄せ算	noun	WordNet	合計 する 算術 演算
+寄せ算	noun	WordNet	2つ 以上 の 数 の 和 を 計算 する こと
+中佐	noun	WordNet	海軍 少佐 の 上 で 、 そして 、 キャプテン の 下 に ランク する れる 任命 する れる た 海軍 士官
+中佐	noun	WordNet	米 陸軍 、 空軍 、 海軍 における 少佐 の 上 、 大佐 の 下 の 位 の 将校
+トレーディングカード	noun	WordNet	絵 の つく た カード
+トレーディングカード	noun	WordNet	子供 達 が 集める て 交換 する
+酒宴	noun	WordNet	長期 の 飲酒
+細胞遺伝学	noun	WordNet	遺伝 ( 特に 染色 体 ) の 細胞 的 機構 を 研究 する 生物 学 の 一 部門
+肺炎	noun	WordNet	ウイルス 、 バクテリア または 刺激 物 により 引き起こす れる て いる 鬱血 による 肺 実質 ( 気管支 を 除く ) の 炎症 によって 特徴 づける られる 呼吸 器 疾患
+雁木車	noun	WordNet	ロッキング ・ レバー に 噛み合う て いる ギヤ
+ラクトゲン	noun	WordNet	牛乳 の 生産 を 高める 作 因
+地質断層	noun	WordNet	片側 が 他方 に対して ずれる た 、 地殻 の 断 裂
+頂上に	adv	WordNet	頂上 に 、 そこ へ 、 または そこで
+亜急性	adj	WordNet	緊急 ほど だ は ない
+亜急性	adj	WordNet	徴候 の ない 症状 の 人 に関する
+製材所	noun	WordNet	丸太 や 材木 を 切る ため の 工場
+通行許可	noun	WordNet	どこ か を 通行 する また は どこ か へ 行く 許可
+ブレン軽機関銃	noun	WordNet	ガス 圧力 によって 操作 する れる た 短 機関 銃
+ブレン軽機関銃	noun	WordNet	第 二 次 世界 大戦 で 英国 人 によって 使う れる た
+タロットカード	noun	WordNet	美徳 、 悪 、 死 、 運 など を 意味 する 2 2 枚 の カード を 含む 一 組 の ( 通常 7 2 舞 ) カード
+タロットカード	noun	WordNet	易者 によって 使用 する れる
+言い換える	verb	WordNet	異なる た 言葉 で 同じ メッセージ を 表現 する
+多元論的	adj	WordNet	多元 論 の 哲学 的 教義 の 、 または 、 多元 論 の 哲学 的 教義 に関する
+痺れ	noun	WordNet	死ぬ で 、 生命 の ない 特性
+痺れ	noun	WordNet	弾性 を 失う た 物 の 物理 的 特性
+アスピリン	noun	WordNet	サリチル酸 の アセチル 化 誘導体
+アスピリン	noun	WordNet	鎮痛 消炎 剤 ( 商標 名 は バイエル または エンピリン ) で 通例 錠剤 の 形態 で 飲む
+アスピリン	noun	WordNet	解熱剤 として 使用 する れる
+アスピリン	noun	WordNet	血小板 の 力 を 減ずる こと により 、 血 の 凝固 を 遅らせる
+より悪いこと	noun	WordNet	質 や 条件 や 効果 など で より 劣る て いる もの
+リモコン	noun	WordNet	遠方 から 機械 や 器具 を 制御 する の に 使用 できる 装置
+薄のろさ	noun	WordNet	経験 から 理解 する 利益 を 得る こと の 下手 だ
+リーズ	noun	WordNet	北 イギリス の 西 ヨークシャー の エア 川 の 傍 の 町
+リーズ	noun	WordNet	衣類 工業 の 中心 地
+リンド	noun	WordNet	スウェーデン 人 の ソプラノ 歌手 で 、 p . t . バーナム の 管理 の 下 で 米国 の ツアー を 行う た ( 1 8 2 0 年 − 1 8 8 7 年 )
+眼球	noun	WordNet	脊椎動物 の 目 を 含む 球形 の 被膜
+臆測	noun	WordNet	推測 や 推量 で 形成 する れる た 仮説 ( 普通 はっきり と する た 証拠 が ない )
+臆測	verb	WordNet	不完全 だ 証拠 から 推論 する
+ナミュール	noun	WordNet	ミューズ 川 と サンブ 川 の 間 の 岬 に 位置 する 南 中部 ベルギー の 都市
+ナミュール	noun	WordNet	第 一 次 世界 大戦 と 第 二 次 世界 大戦 で の 激戦 区
+カルピス	noun	WordNet	雄 の 生殖 細胞
+カルピス	noun	WordNet	雄 性 配偶 子
+儀	noun	WordNet	厳粛 だ 場 で の 、 礼儀 正しい 、 もしくは 伝統 に のっとる た 振る舞い
+月給泥棒	noun	WordNet	彼 の 仕事 または 任務 ( 特に 戦時 に 兵役 を 逃れる う と する 人 ) を を 回避 する 人
+思上がり	noun	WordNet	過度 に 自負 する 感情
+筋緊張	noun	WordNet	筋肉 の 正常 だ 緊張
+殿堂	noun	WordNet	飾り立てる た 大 展示 ホール
+殿堂	noun	WordNet	いくつ か の 神聖 だ もの または 人 に 関連 する て 神聖 に する れる 崇拝 の 場所
+新版	noun	WordNet	変更 する れる 、 改訂 する れる て 、 再度 売る に 出す れる ( 本 の よう だ ) 出版 物
+緊迫状態	noun	WordNet	心配 または 感情 的 だ 緊張 を 引き起こす 困難
+ホースアウト	noun	WordNet	走る ない ば なる ない ランナー を 刺殺 する こと
+ホースアウト	noun	WordNet	刺殺 は 、 走者 が 進む べし ベース に 到達 する 前 に 、 その ベース に ボール を 持つ て タッチ する こと で 成立 する
+スティグマータ	noun	WordNet	張り付け に する れる た キリスト 身体 の 傷 に にる た 斑 痕
+干上がる	verb	WordNet	水 が なくなる
+描出	noun	WordNet	人 の 出演 と 性格 の 言葉 による 生き生き と する た 描写
+描出	noun	WordNet	絵 や 肖像 で 表す こと
+適切	adj	WordNet	要点 に対して よく 表現 する れる た
+適切	adj	WordNet	間近 だ 問題 へ の 正確 だ あるいは 論理 的 だ 関連 が ある さま
+適切	adj	WordNet	目的 の ため に 十分 だ
+霊界	noun	WordNet	神聖 だ 魂 によって 支配 する れる 世界 が ある という 信念
+馬具	noun	WordNet	革 の スト ラップ の 調整 具 で 成る 安定 する た ギア が 荷車 用 動物 に 合う ため に それ が 取り付ける られる 、 荷車 を 引っ張る
+消波堤	verb	WordNet	泳ぐ ながら 、 水面 上 で ひれ を 見せる
+山猫	noun	WordNet	イエネコ に 似る た 野生 の 小型 または 中型 猫
+声紋	noun	WordNet	人 の 声 を 電子 的 に 録音 する て 、 視覚 的 に 表す こと による バイオメトリック 認証
+一揃え	noun	WordNet	同じ 種類 の もの が 一緒 に なる て 使用 する れる 、 もの の グループ
+金敷き	noun	WordNet	重い 鉄 か 鉄鋼 の ブロック で 、 その 上 で 溶銑 が ハンマー によって 成形 する れる
+フェース	noun	WordNet	打つ たり 使う たり する 道具 の 面
+求められない	adj	WordNet	求める られる ない
+取りあつかう	verb	WordNet	手 で 触る 、 持ち上げる または つかむ
+取りあつかう	verb	WordNet	口頭 で 、 あるいは 何 か 芸術 的 だ 表現 で 行う
+中小企業経営者	noun	WordNet	雇用 者 数 1 0 0 人 未満 の 会社 を 経営 する 実務 家
+発火合金	noun	WordNet	衝撃 を 与える たり 、 鋼鉄 で 引っかく たり する と 火花 を 散らす 合金
+発火合金	noun	WordNet	ライター の 火打石 として 用いる られる
+胡麻	noun	WordNet	ゴマ 植物 の 小さな 卵 形 の 種子
+呆然とした状態	noun	WordNet	何 か 悪い もの が 偶然 起こる とき あなた が 抱く 苦悩 と 不信 感
+プルオーバー	noun	WordNet	ぴったり する た プルオーバー の シャツ
+消えさる	verb	WordNet	廃止 する れる か 、 または 放棄 する れる
+誉望	noun	WordNet	名誉 と なる 、 良い 評判 を もつ て いる 性質
+ダッフル	noun	WordNet	粗い 重い 毛織物
+旗竿	noun	WordNet	1 フィート の 広い さ で 白 と 赤 に 交互 に 塗装 する れる た まっすぐ だ 棒 から 成る 測量 器
+旗竿	noun	WordNet	測量 士 の 観測 に 使用 する れる
+旗竿	noun	WordNet	旗 を 揚げる 背 の 高い 杖 あるいは ポール
+煮たてる	verb	WordNet	沸点 まで 上げる て 、 または その 状態 を 維持 する
+ヤドン	noun	WordNet	動作 の のろい 人
+ビタミン過剰症	noun	WordNet	ビタミン を 過剰 に 摂取 する こと によって 生じる 異常 症状
+ビタミン過剰症	noun	WordNet	ビタミン a 、 d 、 k の 場合 は 深刻 だ 症状 を 呈する 場合 も ある
+弛緩薬	adj	WordNet	筋肉 の 、 または 神経質 だ 緊張 を リラックス する か 、 軽減 する 傾向 が ある
+弛緩薬	noun	WordNet	張力 を ほぐす 、 和らげる 薬
+自由思想家	noun	WordNet	神 が 宇宙 を 創る た が 、 その後 放置 する て いる と 信じる 人
+パジェット病	noun	WordNet	中高年 者 と 年配 に 起こる 骨 の 病気
+パジェット病	noun	WordNet	時々 骨 の 痛み や 破壊 、 骨格 の 変形 に 結びつく 過度 の 骨 破壊
+アンプ	noun	WordNet	中 を 通る 信号 の 強度 を 増加 する せる 電子 的 装置
+引寄せる	verb	WordNet	心理 学 的 力 または 物理 的 属性 という 手段 で そのもの または その 人 自身 に 直接 向ける られる た
+カレーソース	noun	WordNet	カレー 粉 と ストック の 代わり に ココナッツ ミルク を 入れる た アルマンドソース
+ホジキン	noun	WordNet	英国 の 化学 者 ( エジプト 生まれ ) で 、 有機 化合 物 の 構造 を 研究 する ため に 結晶 学 を 用いる た ( 1 9 1 0 年 − 1 9 9 4 年 )
+ホジキン	noun	WordNet	英国 の 生理学 者 で 、 アンドリュー ・ ハックスレー とともに 、 神経 インパルス の 伝達 で の カリウム と ナトリウム 原子 の 役割 を 発見 する た ( 1 9 1 4 年 − 1 9 9 8 年 )
+ホジキン	noun	WordNet	英国 の 医者 で 、 最初 に ホジキン 病 を 解説 する た ( 1 7 9 8 年 − 1 8 6 6 年 )
+冠静脈洞	noun	WordNet	心臓 の 静脈 の 大 部分 を 受け入れる 短い 洞
+冠静脈洞	noun	WordNet	右 心房 に 通じる
+昼間	noun	WordNet	平均 太陽 日 より も 約 4 分 短い 、 ある 特殊 の 星 と 相対 的 だ 地球 の 完全 だ 自転 に対する 時間
+昼間	noun	WordNet	好機 だ ある 期間
+ワット時	noun	WordNet	1 時間 作動 する 1 ワット の パワー と 等しい エネルギー の 単位
+一時停止	noun	WordNet	中断 に 続く 不 活動 状態
+コートランド	noun	WordNet	大形 の 赤い リンゴ
+ジャーナル	noun	WordNet	伝動 軸 の 一部 で ベアリング に 含む れる
+ジャーナル	noun	WordNet	( 普通 個人 的 だ ) 経験 と 観察 の 毎日 書く れる 記録
+兵学者	noun	WordNet	作戦 を 立てる の に 熟練 する た 人
+土地収用	noun	WordNet	公共 の ため に 私有 財産 を 摂取 する 国 の 権利
+土地収用	noun	WordNet	米国 憲法 修正 第 5 条 は 、 その 補償 を 命じる て いる
+動脈	noun	WordNet	血液 を 心臓 から 身体 へ 運ぶ 血管
+m1	noun	WordNet	通貨 供給 量 の 基準
+m1	noun	WordNet	流通 貨幣 プラス 要求 払い 預金 ないしは 当座 預金 勘定
+条項	noun	WordNet	法廷 の 前 の ビジネス に関する 司法 手続 ( または 彼ら の 弁護士 によって ) で 当事者 によって なす れる 合意 または 譲歩
+条項	noun	WordNet	裁判 歴 の 一部 だ ある 場合 を 除く 、 文書 だ ない ば なる ない
+淡蒼球	noun	WordNet	レンズ 核 の 内側 の 淡い 黄色 の 部分
+線形代数	noun	WordNet	一 次 方程式 と 一 次 変換 の 理論 を 扱う 代数 の 分野
+アミノ安息香酸エチル	noun	WordNet	局所 麻酔 として 用いる られる 白い エステル 結晶
+調節する	verb	WordNet	レベル か キャラクタ を 設定 する
+米国南東部	noun	WordNet	米国 の 南東 の 地域
+スピーチライター	noun	WordNet	演説 を 行う 人 の ため に 原稿 を 作る 人
+歓迎	verb	WordNet	喜ぶ で 受理 する
+歓迎	noun	WordNet	歓迎 する れる て いる こと
+スケデュール	noun	WordNet	出来事 が 行う れる よう に 計画 する れる た 時間 の 順番 に 並ぶ だ リスト
+ハイドロクラッキング	noun	WordNet	石油 の 炭化 水素 分子 が 促進 剤 の 存在 下 で 高圧 下 の 水素 の 追加 により 灯油 と ガソリン に 分解 する れる 過程
+入れ墨	noun	WordNet	入れ墨 によって 皮膚 に 作る れる 模様
+特色づける	verb	WordNet	特徴 、 品質 または 特有 性 を 述べる 、 または 描く
+特色づける	verb	WordNet	独特
+トランシルバニア	noun	WordNet	トランシルバニア アルプス によって 国 の 残り 部分 と 切り離す れる て いる ルーマニア 北西 部 の 歴史 的 だ 高原 地帯
+トランシルバニア	noun	WordNet	元来 は ハンガリー の 一部
+トランシルバニア	noun	WordNet	第 一 次 世界 大戦 終了 後 ルーマニア に 取り込む れる た
+小さな点	noun	WordNet	非常 に 小さな 点
+スカロップ	noun	WordNet	淵 に 沿う た 曲線 により 形成 する れる 円形 突起 ( または 、 それら の 間 の v 字形 の 切込み ) の 1つ ( 葉 の 縁 、 布 切れ 、 貝殻 の 縁 、 高張 液 中 の しわ が よる た 赤血球 など )
+b-52	noun	WordNet	米国 軍 航空機
+b-52	noun	WordNet	b − は 爆弾 を 示す
+明か	adj	WordNet	目立つ 色 を する て いる さ ま
+クロルジアゼポキシド	noun	WordNet	アルコール 依存 症 を 治療 する の に 用いる られる 精神 安定 剤 ( 商標 名 リブリウム )
+ステラーカイギュウ	noun	WordNet	以前 は 、 ベーリング海 の アジア 沿岸 近く で 見つかる た 絶滅 する た 大型 海牛 目 の 哺乳 動物
+牛車	noun	WordNet	牛 に 引く れる 荷車
+目差す	verb	WordNet	提案 または 意図 する
+ソルガム	noun	WordNet	人間 と 動物 の 食物 にとって 重要 だ
+ソルガム	noun	WordNet	生長 の 習性 と 茎 の 形 は トウモロコシ に 似る て いる が 、 鋸歯 状 の 縁 の 葉 を 持つ
+グラマースクール	noun	WordNet	大学 進学 に 備える て ラテン語 と ギリシア 語 を 重点的 に 教える 中等 学校
+ゴジュウカラ	noun	WordNet	強い 足 と 木 の 上 に 登る て 小さな 木の実 や 昆虫 を 主食 に する 鋭い くちばし を 持つ 各種 の 小 鳥類 の 1つ
+上る	verb	WordNet	社会 的 地位 を 改善 する
+女房孝行	adj	WordNet	妻 が 愚か に も 好き だ ある 、 または 、 妻 に 従順 だ ある
+ファミリ	noun	WordNet	主要 だ 社会 グループ
+ファミリ	noun	WordNet	両親 と 子供 たち
+デモイン	noun	WordNet	アイオワ の 州都 で 最大 の 都市
+避く	verb	WordNet	何 か を する こと を 控える
+ギャンブラー	noun	WordNet	ゲーム か スポーツ 競技 の 結果 に お金 を 賭ける 人
+クランク	noun	WordNet	クランク は エンジン を 始動 する せる た もの だ た
+兵長	noun	WordNet	兵卒 の 上 、 伍長 の 下 の 位 の 海軍 の 下士官 兵
+右手	noun	WordNet	身体 の 右側 に ある 手
+右手	noun	WordNet	右側 に 近い 、 または 右 方向 の 位置
+右手	noun	WordNet	つまり 、 人 または 物 が 東 を 向く て いる 時 の 南側
+検閲	noun	WordNet	出版 物 や 書信 や 演劇 の 部分 を 削除 する こと
+検閲	verb	WordNet	政治 的 だ ある か 、 宗教 的 だ ある か 、 道徳 的 だ 検閲 を 前提 として
+事柄	noun	WordNet	それ 自身 の 存在 を 持つ と 考える られる 特質 または 品質 の いずれ か
+再審	noun	WordNet	裁判所 の 審議 の 再 審査 ( 特に 、 上訴 裁判所 による )
+再審	noun	WordNet	すでに 訴訟 に 持ち込む れる た 案件 、 または 裁判所 が すでに 裁決 を 下す て いる 案件 が 同じ 法廷 で 再 審査 する れる こと
+再審	noun	WordNet	手続き 上 の 間違い で 最初 の 裁判 が 適切 だ ない 、 または 不 公正 だ ある と 分かる た とき 行う れる
+再審	verb	WordNet	もう一度 見る
+再審	verb	WordNet	再 試験 する
+モリスダンス	noun	WordNet	様々 だ 英国 の フォークダンス の 総称 で 、 衣装 を 着ける た ダンサー 達 が 踊る
+第三世界	noun	WordNet	集合 的 に アジア 、 アフリカ と ラテンアメリカ の 未 発達 で 発展 途上 の 国々
+調達者	noun	WordNet	貯蔵 品 ( 特に 食料 ) を 供給 する 人
+法曹界	noun	WordNet	ある 法 管轄 内 で 法的 活動 を 行う 資格 の ある 個人 の 団体
+万分の一	noun	WordNet	1 万 の 同等 の 部分 の 一部
+悲しげ	adj	WordNet	悲しみ で いっぱい の 、 または 悲しみ を そそる
+夜遊び	noun	WordNet	夜間 の 娯楽 を 求める て いる 人々 が 利用 できる エンターテイメント
+夜遊び	noun	WordNet	夜 の 娯楽 を 求める 人々 の 活動 ( 劇場 または ナイトクラブ など で )
+拡張子	noun	WordNet	ピリオド から 始まる 、 一つ 以上 の 文字 が 続く 文字 列
+拡張子	noun	WordNet	pc コンピュータファイルネーム の 任意 の 二 番目 の 部分
+金持	noun	WordNet	所有 物 と 富 ( 集団 として みなす れる ) を 持つ 人々
+鉞	noun	WordNet	幅広い 鋭利 だ 刃 付き の 大きな 斧
+北欧神話	noun	WordNet	キリスト 教 成立 前 の スカンジナビア の 神話 ( 一部 、 英国 や ドイツ の 神話 と 共通 )
+ヒレル	noun	WordNet	ユダヤ 法 の パレスチナ 人 の ラビ と 通訳
+ステアリン	noun	WordNet	グリセロール と ステアリン 酸 の エステル
+スービーズ	noun	WordNet	炒める た 刻み タマネギ・ホイップクリーム 入り の ブルーテソース
+合歓の木	noun	WordNet	魅力 的 だ ドーム 形 あるいは 平たい 梢 を 持つ アジア 産 の 高木 で 、 二 回 羽 状 の 葉 と 絹 の よう だ 長い 雄 蘂 が ある 花 を 持つ
+無骨	adj	WordNet	ふるまう または 出演 において 行儀 が 悪い 、 無作法 だ 、 卑劣 だ
+花糸	noun	WordNet	おしい べ の 茎
+逃げる	verb	WordNet	突然 、 急ぐ で いる か の よう に 去る
+匍匐	noun	WordNet	両手 と 両 ひざ を つく た 、 ゆっくり と する た 移動 方法 、 または 体 を 引きずる こと
+コナクリ	noun	WordNet	ギニア の 港 で 首都
+スクアット	noun	WordNet	ひざ を 曲げる て かがむ で いる 位置 を 繰り返す 取る こと によって 運動 する こと
+スクアット	noun	WordNet	脚 の 筋肉 を 強化 する
+最後の晩餐	noun	WordNet	キリスト が 磔刑 前夜 に 自分 の 弟子 達 と 行う た 、 伝統 的 だ 過 越し の 祝い の 夕食 会
+決議	noun	WordNet	裁判所 の 決定 の 理由 を 述べる 法律 文書
+ヘディングシュート	noun	WordNet	頭 を 使う て ゴール に サッカー ボール を 入れる う と する こと
+悪霊	noun	WordNet	害 を 及ぼす がち だ 霊
+控えめに	adv	WordNet	謙遜 を 伴う て
+控えめに	adv	WordNet	控え目 だ 態度 で
+単純	adj	WordNet	副次的 要素 に 混ざる ない
+単純	adj	WordNet	精神 的 だ 能力 と 繊細 さ が 不足 する さ ま
+公的扶助	noun	WordNet	必要 だ 人 に対する 政府 による 経済 的 援助 の 支給
+はつか	adj	WordNet	心 または 感覚 によって 認める の が 不可能 だ ある か 難しい
+アビドス	noun	WordNet	ダーダネルス 海峡 の アジア 側 に ある 、 古代 ギリシャ の 植民 市
+アビドス	noun	WordNet	ヘーロー と レアンドロス の 伝説 の 舞台
+聴覚コミュニケーション	noun	WordNet	聴覚 に 頼る コミュニケーション
+ハキリバチ	noun	WordNet	葉 や 花 を 丸い 切る 、 自分 の 巣 の 内側 を 覆う ハチ
+不可思議	noun	WordNet	理解 する すべ が ない 説明 できる ない もの
+不可思議	adj	WordNet	説明 する れる か 、 説明 する れる こと が 不可能 だ ある
+サンジョゼドスカンポス	noun	WordNet	サンパウロ の 北東 へ の ブラジル 南東 部 の 都市
+均等	adj	WordNet	度 、 程度 または 量 において 同等 だ
+均等	adj	WordNet	同様 に 合う た または 釣り合う て いる
+ガスタービン	noun	WordNet	内部 の 燃焼 によって 液体 燃料 の 化学 エネルギー を 機械 的 エネルギー に 変える タービン
+ガスタービン	noun	WordNet	( 圧縮 空気 の 中 で 燃やす れる ) 燃料 の ガス 状 の 生成 物 は タービン を 通る て 膨張 する
+シャトルバス	noun	WordNet	2 地点 間 を 折り返す 運行 する シャトル バス
+拍動	verb	WordNet	規則 的 に 拡大 する 収縮 する
+拍動	verb	WordNet	リズミカル に 打つ れる
+麻酔性	adj	WordNet	無感覚 状態 に する 、 または それ に関する
+風雅	adj	WordNet	美的 基準 と 感覚 を 満足 する せる さま
+地主	noun	WordNet	土地 の 所有 者 または 経営 者
+地主	noun	WordNet	他人 に 貸す 土地 所有 者
+婦長	noun	WordNet	カンニング 防止 の ため に 受験 者 を 見張る 人
+強慾	noun	WordNet	食べ物 に対する 過度 の 欲望
+強慾	noun	WordNet	物質 的 だ 富 に対する 過度 の 貪欲
+フィクサー	noun	WordNet	もの を 直す か 、 または 修理 する 熟練 労働 者
+フィクサー	noun	WordNet	窮地 に いる 人 の ため に ( 通常 報酬 の ため に 後ろ 暗い か 違法 だ 手段 を 使う て ) 権威 の ある 人 と の 仲介 に 入る 人
+ミシン	noun	WordNet	縫物 の ため に 家庭 用 器具 として 使う れる 織物 機械
+受入れる	verb	WordNet	肯定 的 だ 返事 を 与える
+受入れる	verb	WordNet	好意 的 に 応じる
+受入れる	verb	WordNet	保護 を 提供 する
+アメリカヅタ	noun	WordNet	北 アメリカ 原産 の つる 植物 で 、 複合 葉 と 青みがかる た 黒色 の 液 果 状 の 実 を つける
+媒介物	noun	WordNet	何 か を 表現 する たり 達成 する ため の 手段
+ボースン	noun	WordNet	商船 上 の 他 の 船員 の 仕事 を 制御 する 下士官
+めためた	adj	WordNet	乱雑 または 混乱 の 状態 に おく れる
+アスペルガー症候群	noun	WordNet	通常 低 学年 の 間 に 見つかる 精神 障害
+アスペルガー症候群	noun	WordNet	障害 の ある 社会 的 関係 と 、 また ふるまう の 反復 的 だ パターン によって 特徴 づける られる
+小言	noun	WordNet	人 を 厳しい 叱る こと
+突起	noun	WordNet	動植物 の 有 機体 の 一部分 から の 自然 の 延長 または 突出
+ビーフジャーキー	noun	WordNet	牛 の 薄い 干し 肉
+計時	verb	WordNet	イベント や 活動 の 時間 、 または 継続 期間 、 あるいは ある 一定 期間 活動 する 人 を 測定 する
+難波薔薇	noun	WordNet	香り の よい 白い 花 を つける 、 中国 産 の よじ登る 性 バラ
+ジレット	noun	WordNet	米国 の 発明 家 、 生産 者 で 、 安全 剃刀 を 考案 する た ( 1 8 5 5 年 − 1 9 3 2 年 )
+分散データ処理	noun	WordNet	機能 の 一部 が 別々 の 場所 で 実行 する れる 、 通信 設備 によって 接続 する れる データ 処理
+錐体部	adj	WordNet	( 骨 、 特に 側 頭骨 について ) 硬い さ の 似る て いる 石
+レア	noun	WordNet	計画 的 だ 2 人 の 娘 によって 裏切る れる 、 不当 だ 扱い を 受ける た ウィリアム ・ シェークスピア の 悲劇 の 主人公
+レア	noun	WordNet	ダチョウ に 似る て いる が 、 3 本 の 足 指 を 持つ 2 種類 の 背 の 高い て 早い 走る 、 飛べる ない 鳥 の 内 の 小さい 方
+レア	noun	WordNet	ペルー から マゼラン 海峡 まで を 発見 する た
+レア	noun	WordNet	英国 の 画家 で ナンセンス 詩人 ( 1 8 1 2 ― 1 8 8 8 )
+レア	noun	WordNet	古代 ギリシャ 神話 の 豊饒 の 女神
+レア	noun	WordNet	クロノス の 妻 で ゼウス の 母
+レア	noun	WordNet	ローマ 神話 の オプス 、 古代 小 アジア の キュベレー に 同じ
+レア	noun	WordNet	ダチョウ に 似る て いる が 3つ の 爪先 を 持つ 2つ の 背 の 高い 、 足 の 速い 飛べる ない 鳥 の うち の 大きい 方
+レア	noun	WordNet	ブラジル から パタゴニア にかけて 見つかる
+基準	noun	WordNet	比較 の ため の 基準 あるいは 標準
+基準	noun	WordNet	通常 、 深部 が ある として 考える られる て いる 抽象 的 だ 場所
+基準	noun	WordNet	典型 的 と する れる 水準 、 模範 または 見本
+基準	noun	WordNet	何 か を 判断 する 観点 から の 理想
+基準	noun	WordNet	貨幣 制度 に ある て 金銭 が 奥 に もつ 価値
+反中性子	noun	WordNet	中性子 の 反 粒子
+二連脈	adj	WordNet	組 に なる て 起こる さま
+いびき	noun	WordNet	いびき を かく て いる とき に 生じる グーグー いう 音
+いびき	noun	WordNet	寝る て いる とき いびき を かく 人
+ポンテオピラト	noun	WordNet	イエス を はりつける に する よう 命令 する た ユダヤ の ローマ 代理人 ( 西暦 3 6 年 に 死ぬ )
+関連性	noun	WordNet	当面 の 問題 と 何 か が 関連 する て いる こと
+蛍光を放つ	adj	WordNet	外部 電源 から の 放射 照射 の 間 発光 する
+中傷	noun	WordNet	中傷 的 だ 意見 または 嫌疑
+中傷	verb	WordNet	中傷 的 だ 声明 を 出版 する
+中傷	noun	WordNet	人 の 評判 を だい ない に する 意図 が ある 攻撃
+召しいだす	verb	WordNet	来る よう に 頼む
+訓練期間手当	noun	WordNet	指定 する れる た 仕事 の ため に 訓練 を 受ける こと を 可能 に する 財政 援助
+画一	noun	WordNet	基準 または 制限 の 賦課
+ロドピ山脈	noun	WordNet	ヨーロッパ 南東 部 の バルカン半島 の 山脈
+ロドピ山脈	noun	WordNet	ギリシャ と ブルガリア 間 の 境界 に 沿う て 広がる
+幼児ポルノ	noun	WordNet	ポルノ 写真 か フィルム へ の 子供 の 違法 使用
+ガリアーノ	noun	WordNet	ハーブ で 風味 を つける られる た 金色 の イタリア の リキュール
+エクレア	noun	WordNet	長方形 の クリーム パフ
+ロナルドレーガン	noun	WordNet	米国 の 第 4 0 代 大統領 ( 1 9 1 1 年 − 2 0 0 4 年 )
+アーチ形	noun	WordNet	開口 に かかる 垂直 面 に ある 曲がる た 形
+アーチ形	noun	WordNet	曲線 の 石 作り の 建設 物 下 の 通路
+グラム分子	noun	WordNet	グラム で 表す れる 物質 の 分子 量
+グラム分子	noun	WordNet	国際 単位 系 で 採用 する れる て いる 物質 の 総量 の 基本 単位
+バノックバーン	noun	WordNet	ロバート 1 世 指揮 下 の スコットランド 軍 が イングランド 軍 に 勝つ 、 スコットランド の 独立 を 確保 する た 戦闘
+自由詩	noun	WordNet	一貫 する た 韻律 の パターン が ない 無韻 の 詩
+コメニュウス	noun	WordNet	チェコ の 教育 的 改革 者 ( 1 5 9 2 年 − 1 6 7 0 年 )
+コンゴ川	noun	WordNet	アフリカ の 主要 だ 川 ( 世界 で 最も 長い 川 の 1つ )
+コンゴ川	noun	WordNet	ザイール を 流れる て 南 大西洋 に 注ぐ
+砂浜	noun	WordNet	海 や 湖 に 降りる て ゆく 砂地
+プリマ	noun	WordNet	本来 は 食用 リンゴ に 使う れる
+オーストラリアアルプス	noun	WordNet	大 分水嶺 山脈 の 南端 を 形成 する オーストラリア の 山脈
+電気化学	noun	WordNet	電気 の 化学 作用 や 、 化学 反応 で 電気 を 作る こと を 扱う 化学 の 分野
+手で触ること	noun	WordNet	手 で 何 か を 触る 行為
+紙幣	noun	WordNet	政府 や 中央 銀行 が 発行 する 通貨 で 、 印刷 する れる た 紙 で できる て おる 、 正貨 の 代用 として 通用 できる
+録る	verb	WordNet	電子 的 に 登録 する
+カブリオレ	noun	WordNet	小型 の 二 輪 馬車
+カブリオレ	noun	WordNet	座席 が 2つ と 折り畳む 幌 付き
+多慾	adj	WordNet	過度 に 熱心 だ
+多慾	adj	WordNet	豚 に 類似 する て いる
+多慾	adj	WordNet	下品 に むさぼる 、 または 食い意地 の 張る た
+無価値とみなす	verb	WordNet	何 か または 誰 か の 損失 または 無 価値 さ 認める
+沖荷役	noun	WordNet	港 で 船 に 荷 を 積む だり 降ろす たり する 労働 者
+俊英	noun	WordNet	ある 分野 や 活動 で 非凡 で 天賦 の 才能 を 有する 人
+当て物	noun	WordNet	詰める たり 、 形 を 作る たり 、 保護 する たり 、 より 心地好い する ため に 用いる られる 柔らかい あるいは 弾力 の ある 人工 品
+ラヴ	noun	WordNet	敬意 と 愛情 の 混じる た 強い 前向き だ 感情
+ワイヴァーン	noun	WordNet	中世 の 紋章 で 使用 する れる た 炎 を 吹く ドラゴン
+ワイヴァーン	noun	WordNet	ドラゴン の 頭 、 蛇 の しっぽ 、 翼 と 2つ の 脚 を 持つ 体 を する た
+哀しい	adj	WordNet	悲しみ または 不幸 を 経験 する か 、 示す さま
+非近交系	adj	WordNet	密室 に 関連 する て いる ない 両親 から 生まれる た
+非近交系	adj	WordNet	異なる 階級 または 種族 の 両親 を 持つ こと
+栄養失調	noun	WordNet	栄養 不足 の 状態
+栄養失調	noun	WordNet	食餌 の 不足 や 過剰 、 アンバランス だ 食餌 、 食物 吸収 不能 によって 生じる
+持ち	noun	WordNet	圧力 や 力 に 耐える 能力 に 基づく 永続 性
+軽歌劇	noun	WordNet	短い おもしろい オペラ
+わが家へ	adv	WordNet	家 か 家族 で 、 家 か 家族 へ 、 あるいは 家 か 家族 の 方向 に
+アバダン	noun	WordNet	イラン 南西 部 の 港湾 都市
+通い	noun	WordNet	通勤 者 の 移動
+麗しげ	adj	WordNet	容姿 、 行動 または 様式 において 洗練 する れる 趣味 の よい
+チェーンソー	noun	WordNet	携帯 用 の 動力 のこぎり
+チェーンソー	noun	WordNet	循環 連鎖 を 作る ため に 結合 する れる た 歯
+余波	noun	WordNet	原因 から 時間 を おく た 後 の 結果
+余波	noun	WordNet	事象 の 結果 ( 特に 破滅 的 だ 事象 )
+つゆだく	adj	WordNet	濃度 と 見た目 が スープ の よう だ
+アニメ	noun	WordNet	アフリカ の 木 から 取れる 硬い コーパル
+アニメ	noun	WordNet	いろいろ だ 樹脂 または オレオレジン の どれ で も
+狂った	adj	WordNet	狂わす れる
+ウィジャ板	noun	WordNet	アルファベット が 書く れる て いる ボード
+ウィジャ板	noun	WordNet	超 自然 の メッセージ を 一 字 一 句 書く プランシェット と 一緒 に 使用 する れる
+散文的	adv	WordNet	事務 的 だ 方法 で

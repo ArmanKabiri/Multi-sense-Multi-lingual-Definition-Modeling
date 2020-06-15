@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b91e084c-2f6c-4e27-9954-e3fbe480d6e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XwLLJPhaXtufKNhlab3ph9CT0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Parse_WordNet_Dictionary" />
+  </component>
+  <component name="RunManager" selected="Python.TransformIndexedEmbeddingsToOriginalEmbeddings">
+    <configuration name="TransformIndexedEmbeddingsToOriginalEmbeddings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Corpus_Embeddings_Transformation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransformIndexedEmbeddingsToOriginalEmbeddings.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../../../Embeddings--IG--/Word2vec/FastTextPreProcessingOnWikipedia/Indexed/w2v/wiki-w2v.nl.txt $PROJECT_DIR$/../../../Embeddings-Corpora--IG--/FastText_Corpora/data/wikimedia/20191203/Dictionaries-Frequencies/wiki-dic.nl.txt $PROJECT_DIR$/../../../Embeddings--IG--/Word2vec/FastTextPreProcessingOnWikipedia/Indexed/w2v/wiki-w2v.nl2.txt UNK" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TransformTokenizedCorpusToIndexes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Corpus_Embeddings_Transformation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TransformTokenizedCorpusToIndexes.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../../../Embeddings-Corpora--IG--/FastText_Corpora/data/wikimedia/20191203/Tokenized_Corpora/wiki-tokenized.el.txt $PROJECT_DIR$/../../../Embeddings-Corpora--IG--/FastText_Corpora/data/wikimedia/20191203/Dictionaries-Frequencies/wiki-dic.el.txt trans.txt did.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TransformIndexedEmbeddingsToOriginalEmbeddings" />
+      <item itemvalue="Python.TransformTokenizedCorpusToIndexes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TransformIndexedEmbeddingsToOriginalEmbeddings" />
+        <item itemvalue="Python.TransformTokenizedCorpusToIndexes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91e084c-2f6c-4e27-9954-e3fbe480d6e7" name="Default Changelist" comment="" />
+      <created>1581952152197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581952152197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="398" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583375602322">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="470" y="398" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583375602322" />
+    <state width="1537" height="568" key="DebuggerActiveHint" timestamp="1583373396237">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1537" height="568" key="DebuggerActiveHint/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583373396237" />
+    <state x="2659" y="279" width="424" height="482" key="FileChooserDialogImpl" timestamp="1583466840690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2659" y="279" width="424" height="482" key="FileChooserDialogImpl/1920.0.1920.1080/65.24.1855.1056@1920.0.1920.1080" timestamp="1583466840690" />
+    <state x="779" y="297" width="424" height="482" key="FileChooserDialogImpl/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583374746262" />
+    <state width="1832" height="295" key="GridCell.Tab.0.bottom" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.0.center" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.0.left" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.0.right" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.1.bottom" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.1.bottom/1920.0.1920.1080/65.24.1855.1056@1920.0.1920.1080" timestamp="1583375653466" />
+    <state width="1832" height="295" key="GridCell.Tab.1.bottom/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.1.center" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.1.center/1920.0.1920.1080/65.24.1855.1056@1920.0.1920.1080" timestamp="1583375653466" />
+    <state width="1832" height="295" key="GridCell.Tab.1.center/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.1.left" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.1.left/1920.0.1920.1080/65.24.1855.1056@1920.0.1920.1080" timestamp="1583375653466" />
+    <state width="1832" height="295" key="GridCell.Tab.1.left/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+    <state width="1832" height="295" key="GridCell.Tab.1.right" timestamp="1583378052914">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1832" height="295" key="GridCell.Tab.1.right/1920.0.1920.1080/65.24.1855.1056@1920.0.1920.1080" timestamp="1583375653466" />
+    <state width="1832" height="295" key="GridCell.Tab.1.right/1920.0.1920.1080/65.24.1855.1056@65.24.1855.1056" timestamp="1583378052914" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TransformTokenizedCorpusToIndexes.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

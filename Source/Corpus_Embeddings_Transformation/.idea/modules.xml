@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Corpus_Embeddings_Transformation.iml" filepath="$PROJECT_DIR$/.idea/Corpus_Embeddings_Transformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Main_Project/.idea/Project_Phase1_English.iml" filepath="$PROJECT_DIR$/../../Main_Project/.idea/Project_Phase1_English.iml" />
+    </modules>
+  </component>
+</project>

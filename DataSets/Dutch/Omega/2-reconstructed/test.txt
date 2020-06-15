@@ -1,0 +1,1650 @@
+jungle	NOUN	OmegaWiki	een wild gebied , meerstal groot en bedekt met dikke vegetatie , overwegend ongeschaad door mensen .
+staatsbos	NOUN	OmegaWiki	bos eigendom van en beheerd door de staat .
+blauwe_rivier	NOUN	OmegaWiki	de derde langste stroom ter wereld , ontspringt in de provincie qinghai en vloeit oostwaarts van zijn bron in de oost-chinese zee nabij shangai .
+operette	NOUN	OmegaWiki	een lichtere vorm van opera met een frivool verhaal en gesproken dialoog .
+muilezel	NOUN	OmegaWiki	de nakomeling van een mannelijk paard en een vrouwelijke ezel .
+hemelsblauw	NOUN	OmegaWiki	de kleur van een heldere lucht of de diepe zee , tussen groen en violet in het zichtbare spectrum , en een van de primaire additieve kleuren voor overgebracht licht ; de kleur die wordt verkregen door rood en groen van wit licht af te trekken met magenta en cyaan filters .
+astronoom	NOUN	OmegaWiki	een wetenschapper die zich bezig houdt met de astronomie of sterrenkunde .
+veronderstelling	NOUN	OmegaWiki	de daad om iets als waar aan te nemen , of het aanvaarden van iets zonder bewijs .
+vatten	VERB	OmegaWiki	met de handen grijpen .
+wimpers	NOUN	OmegaWiki	een van de haren die groeit op het ooglid , rond de ogen .
+droevig	ADJ	OmegaWiki	zich mentaal onconfortabel voelend als er iets mis of verkeerd is .
+eetkamer	NOUN	OmegaWiki	een ruimte waarin maaltijden genuttigd worden , zowel thuis of in een hotel , voornamelijk de ruimte waarin de hoofd of meer formele maaltijden worden gegeten .
+numerale	NOUN	OmegaWiki	[ een woord dat een aantal weergeeft of een rangnummer . ]
+onafgebroken	ADJ	OmegaWiki	zonder onderbreking , ophouden of interruptie .
+onafgebroken	ADV	OmegaWiki	op elk moment .
+tegenmaatregel	NOUN	OmegaWiki	een genomen actie om een andere actie te neutraliseren .
+urineleiderontsteking	NOUN	OmegaWiki	ontsteking van de urineleider .
+job	NOUN	OmegaWiki	een persoon uit het oude testament .
+bruuskheid	NOUN	OmegaWiki	een abrupte onhoffelijke manier .
+herberg	NOUN	OmegaWiki	een gelegenheid waar reizigers onderdak alsook eten en drinken kunnen verkrijgen .
+watersalamander	NOUN	OmegaWiki	wateramfibie uit het geslacht pleurodelinae van de familie echte salamanders met een hagedisachtig lichaam waarbij de vier ledematen een identieke omvang hebben .
+maandags	ADV	OmegaWiki	iedere maandag .
+wasmachine	NOUN	OmegaWiki	een machine , gewoonlijk automatisch , die kleren enz . wast .
+papaja	NOUN	OmegaWiki	de vrucht van de carica papaya plant .
+eufonie	NOUN	OmegaWiki	een aangenaamheid voor het oor .
+eufonie	NOUN	OmegaWiki	een mengeling van dissonerende klanken .
+ziekte_van_alzheimer	NOUN	OmegaWiki	een algemeen voorkomende vorm van dementie met onbekende oorzaak , gewoonlijk beginnend op late middelbare leeftijd , gekenmerkt door geheugenverlies , verwarring , emotionele onstandvastigheid en progressief verlies van de geestelijke bekwaamheden .
+minderjarige	NOUN	OmegaWiki	een jonge persoon .
+minderjarige	NOUN	OmegaWiki	een stukje of reepje aardappel dat gebakken is ( meestal in olie ) en dat meestal wordt gegeten met of als fastfood .
+minderjarige	NOUN	OmegaWiki	een persoon die te jong is om als wettelijk bekwaam te worden beschouwd volgens de regels van de rechtspraak .
+minderjarige	NOUN	OmegaWiki	een persoon die nog niet aan de puberteit begonnen is .
+francium	NOUN	OmegaWiki	scheikundig element met symbool fr en atoomnummer 87. het is een alkalimetaal .
+erfelijkheid	NOUN	OmegaWiki	gelijkenis tussen individuen gerelateerd door afkomst ; transmissie van trekken van de ouders naar de nakomenlingen .
+erfelijkheid	NOUN	OmegaWiki	een lijn van voorvaderen die tot bij iemands ouders loopt .
+erfelijkheid	NOUN	OmegaWiki	de afstammelingen van een individu .
+gietijzer	NOUN	OmegaWiki	legering van ijzer en koolstof .
+plaat	NOUN	OmegaWiki	een plat stuk materiaal ontworpen voor een speciaal doel .
+plaat	NOUN	OmegaWiki	een vinyl- of cd-opname , bevattende meerdere muziekstukken .
+controle	NOUN	OmegaWiki	een onderzoek of inspectie .
+cafetaria	NOUN	OmegaWiki	een zaak die verschillende alcoholvrije dranken verkoopt , en gewoonlijk hapjes en eenvoudige maaltijden ( zoals ontbijten en lunches ) met de mogelijkheid ze daar te verbruiken .
+algebraïsch	ADJ	OmegaWiki	van , of in betrekking met de algebra .
+vrijwilliger	NOUN	OmegaWiki	iemand die , dikwijls belangeloos , dienst verricht of productie levert uit vrije wil .
+schade_aan_akkers	VERB	OmegaWiki	een daling van de productiviteit van een terrein of in haar vermogen om de natuurlijke ecosystemen of soorten van de landbouw te ondersteunen .
+roemenië	NOUN	OmegaWiki	een land in europa .
+geweeklaag	NOUN	OmegaWiki	een schreeuw van verdriet en rouw .
+oor	NOUN	OmegaWiki	het orgaan om mee te horen , bestaande uit het buitenoor , het gehoorkanaal , het trommelvlies , hamer , aambeeld , stijgbeugel en het slakkenhuis .
+crack	NOUN	OmegaWiki	de persoon die het meest uitzonderlijk of excellent is ; iemand die boven alle anderen staat .
+crack	NOUN	OmegaWiki	een soort cocaïne , meestal een klont , gewoonlijk gerookt met een crackpijp .
+claqueur	NOUN	OmegaWiki	iemand die betaald is om in een theater of een andere publieke voorstelling te applaudisseren .
+alcoholverslaafde	NOUN	OmegaWiki	een persoon die verslaafd is aan excessief alcoholgebruik .
+alcoholverslaafde	NOUN	OmegaWiki	iemand die regelmatig grote hoeveelheden alcohol drinkt en er aan verslaafd is .
+denim	NOUN	OmegaWiki	een soort van katoenen stof , vaak blauw , gebruikt voor het maken van jeans , overalls en andere werk- en vrijetijdskledij .
+vormgever	NOUN	OmegaWiki	een professionele ontwikkelaar van gebouwen of andere bouwwerken , ofwel iemand die de plannen maakt en toezicht houdt op de constructie .
+vormgever	NOUN	OmegaWiki	iemand die plannen maakt om gebruikt te worden om iets te vervaardigen .
+brievenbus	NOUN	OmegaWiki	object of sleuf waar brieven of pakjes kunnen worden achtergelaten voor aflevering .
+brievenbus	NOUN	OmegaWiki	een bus waarin de post wordt afgeleverd .
+in_groten_getale	ADJ	OmegaWiki	in een grote menigte , met heel veel
+uitwas	NOUN	OmegaWiki	een abnormaal uitgroeisel , gewoonlijk ongevaarlijk , op een dier of plantaardig lichaam .
+landverhuizer	NOUN	OmegaWiki	iemand die een land verlaat om te gaan verder leven in een ander .
+gat	NOUN	OmegaWiki	het vlezige deel van het menselijk lichaam waarop men zit .
+tuchtloosheid	NOUN	OmegaWiki	buitensporige toegeeflijkheid aan sensueel plezier .
+ononderbroken	ADJ	OmegaWiki	zonder onderbreking , ophouden of interruptie .
+ditmaal	ADV	OmegaWiki	bij deze gelegenheid , bij deze kans .
+vermaard	ADJ	OmegaWiki	goed of wijd bekend .
+vermaard	ADJ	OmegaWiki	algemeen bekend en geacht .
+berustend	ADJ	OmegaWiki	de orders en wensen van een ander uitvoeren zonder protest .
+kramp	NOUN	OmegaWiki	een ongewilde pijnlijke spiersamentrekking .
+eclectisch	ADJ	OmegaWiki	kiezend uit een mengeling van wat het beste schijnt uit verschillende doctrines , methoden of stijlen .
+interventie	NOUN	OmegaWiki	de handeling van interveniëren .
+veroudering	NOUN	OmegaWiki	het proces van ouder of rijper worden .
+afwisselend	ADJ	OmegaWiki	gekenmerkt door diversiteit of verschillen .
+frivoliteit	NOUN	OmegaWiki	buitensporige toegeeflijkheid aan sensueel plezier .
+anorak	NOUN	OmegaWiki	een soort van zware jas .
+overgeven	VERB	OmegaWiki	de inhoud van de maag uitstoten .
+overgeven	VERB	OmegaWiki	geven of overmaken , daarbij gebruik makend van iemands hand .
+rechtshandig	ADJ	OmegaWiki	handiger met de rechterhand dan met de linkerhand .
+aanschaf	NOUN	OmegaWiki	de aanwinst of de manier van iets te kopen door de betaling in geld of iets dergelijks .
+gastenkamer	NOUN	OmegaWiki	een kamer in een huis ( waar meestal tenminste een bed en een kast staat ) waar een persoon slaapt .
+gastenkamer	NOUN	OmegaWiki	kamer in een huis , dat voor gasten op bezoek bestemd is .
+bipolir	ADJ	OmegaWiki	twee polen bezittend .
+beogen	VERB	OmegaWiki	in gedachten hebben als doel of bedoeling .
+densiteit	NOUN	OmegaWiki	de massa van een volumeenheid van een stof .
+ultrasonoor	ADJ	OmegaWiki	frequenties hebbend boven die van het hoorbaar geluid .
+besmetting	NOUN	OmegaWiki	proces waarbij een ziekte wordt overgedragen .
+afkeuring	NOUN	OmegaWiki	een uitdrukking van afkeuring .
+ontleden	VERB	OmegaWiki	in detail overwegen en onderwerpen aan analyse om essentiele eigenschappen of betekenis te ontdekken .
+ontleden	VERB	OmegaWiki	in stukken snijden of weefsel afzonderen , voornamelijk voor anatomische studie .
+spul	NOUN	OmegaWiki	verschillende artikelen .
+een_wind_laten	VERB	OmegaWiki	spijsverteringsgassen langs de anus uitstoten .
+boekwinkel	NOUN	OmegaWiki	een winkel waar boeken verkocht worden .
+buiten	ADJ	OmegaWiki	gelegen , geschikt voor , of plaats hebbend in openlucht .
+spouwmuur	NOUN	OmegaWiki	een muur gebouwd met een ingesloten binnenruimte om waterinsijpeling te voorkomen .
+eloquentie	NOUN	OmegaWiki	vloeiend , krachtig , elegant of overtuigend spreken in het openbaar .
+overdenken	VERB	OmegaWiki	intens en lang nadenken voor spirituele doeleinden .
+vaatdoek	NOUN	OmegaWiki	een doek voor te gebruiken bij het wassen van het vaat .
+accentueren	VERB	OmegaWiki	de nadruk of extra gewicht leggen op iets .
+knaap	NOUN	OmegaWiki	een jong mannelijke persoon , meestal een kind of tiener .
+andorra_la_vella	NOUN	OmegaWiki	de hoofdstad en grootste stad van andorra .
+bemiddelaar	NOUN	OmegaWiki	een aangstelde persoon , of een gekozene door partijen om te beslissen in een geschil tussen hen .
+mousseren	ADJ	OmegaWiki	de eigenschap van gasbellen af te geven .
+zwerven	ADJ	OmegaWiki	gewoonlijk reizend van plaats naar plaats .
+zwerven	VERB	OmegaWiki	doelloos of zonder bestemming rondlopen .
+asteroïde	NOUN	OmegaWiki	een klein , meestal rotsachtig object dat in een baan om de zon draait .
+ebbe	NOUN	OmegaWiki	de minimum hoogte van de zee gedurende een getijdecyclus . deze cyclus duurt normaal 12 uren .
+brokkelen	VERB	OmegaWiki	iets in kleine stukjes verdelen door het plat te duwen of het tot poeder te malen .
+kauwgom	NOUN	OmegaWiki	de gezoete en van smaakstoffen voorziene gom van de chickle boom , gemaakt om te kauwen .
+consequent	ADJ	OmegaWiki	vragen naar strikte aandacht voor de regels en procedures .
+bengaals	NOUN	OmegaWiki	een indische taal voornamelijk gesproken in bangladesh en india .
+noordpoolcirkel	NOUN	OmegaWiki	de breedtecirkel die op 66.5 graden ten noorden van de evenaar ligt en die de noordelijke koude zone begrenst .
+gretig	ADJ	OmegaWiki	een levendige interesse hebbend of tonend , een intens verlangen of een ongeduldig vooruitzicht .
+gretig	ADJ	OmegaWiki	hebbend of een verlangen uitdrukkend voor iets .
+taiwan	NOUN	OmegaWiki	een niet erkende eilandstaat in oost-azië , ten oosten van china .
+admiraliteit	NOUN	OmegaWiki	het kantoor of de jurisdictie van een admiraal .
+daardoor	NOUN	OmegaWiki	als consequentie .
+schrijn	NOUN	OmegaWiki	oorspronkelijk een container , met name voor een relikwie veelal een culurele afbeelding , en/of een heilige locatie waar de schrijn bewaard wordt .
+kabelweg	NOUN	OmegaWiki	een spoorbaan bij welke de wagens getrokken worden door een bewegende kabel .
+ozonisatie	NOUN	OmegaWiki	het proces van het behandelen , impregneren of combineren met ozon .
+instrument	NOUN	OmegaWiki	een apparaat gebouwd of aangepast met het doel van muziek te maken .
+instrument	NOUN	OmegaWiki	een mechaniek bedoeld om een taak uit te voeren .
+kanshebber	NOUN	OmegaWiki	persoon waaraan men bij een wedstrijd de meeste kansen geeft .
+ongelovige	NOUN	OmegaWiki	iemand die niet gelooft in de god van de bijbel en is noch christelijk , joods of moslim is .
+ongelovige	NOUN	OmegaWiki	iemand die niet gelooft of weigert te geloven .
+tuinbed	NOUN	OmegaWiki	een stuk grond waarop planten groeien .
+oman	NOUN	OmegaWiki	een land in het midden-oosten , in de zuidoost hoek van het arabisch-schiereiland , met masqat als hoofdstad .
+getroffen	ADJ	OmegaWiki	met angst , ontzetting of consternatie geslagen zijn .
+centraal-amerikans_spaans	NOUN	OmegaWiki	de varieteit van het spaans , die in centraal-amerika word gesproken .
+klaagzang	NOUN	OmegaWiki	een treurig gedicht of stuk muziek geschreven of voorgedragen als een herinnering aan een afgestorvene .
+kostbaar	ADJ	OmegaWiki	waarde bezittend .
+kostbaar	ADJ	OmegaWiki	een hoge prijs hebbende .
+patates_frites	NOUN	OmegaWiki	een stukje of reepje aardappel dat gebakken is ( meestal in olie ) en dat meestal wordt gegeten met of als fastfood .
+patates_frites	NOUN	OmegaWiki	een gerecht van gefrituurde aardappelreepjes .
+noodzakelijk	ADJ	OmegaWiki	wat niet vermeden kan worden .
+roggebrood	NOUN	OmegaWiki	van roggebloem gebakken brood .
+arrogantisch	ADV	OmegaWiki	op een arrogantische manier .
+zoutarm	ADJ	OmegaWiki	weinig zout bevattend .
+zeebeer	NOUN	OmegaWiki	elk van de verschillende oorrobben van de geslachten callorhinus of arctocephalus , met een dikke zachte vacht .
+kruispunt	NOUN	OmegaWiki	punt waarin twee lijnen of meer algemeen twee elementen elkaar kruisen .
+kruispunt	NOUN	OmegaWiki	een punt waar een weg in twee wegen verandert .
+zwitterion	NOUN	OmegaWiki	een ion dat een negatieve en positieve lading heeft .
+almería	NOUN	OmegaWiki	de hoofdstad van de provincie almería , spanje . gelegen in het zuidoosten van spanje aan de middellandse zee .
+almería	NOUN	OmegaWiki	een provincie in het zuiden van spanje . zij grenst aan de provincies granada en murcia en aan de middellandse zee . haar hoofdstad is almería .
+garage	NOUN	OmegaWiki	een plaats waar men voor wegvoertuigen benzine verkoopt .
+garage	NOUN	OmegaWiki	een gebouw , of een deel van een gebouw , gebruik om een auto , gereedschappen en andere verschillende zaken in te plaatsen .
+door_middel_van	ADV	OmegaWiki	een zaak gebruiken om een andere te bereiken .
+overwegen	VERB	OmegaWiki	lang en op een aandachtige manier observeren .
+wijziging	NOUN	OmegaWiki	beurtelingse opeenvolging van onderling verschillende zaken .
+linkshandig	ADJ	OmegaWiki	handiger met de linkerhand dan met de rechterhand .
+entrepeneur	NOUN	OmegaWiki	de praktijk van het opstarten van nieuwe organisaties , vooral nieuwe zaken hoofdzakelijk als antwoord op geïndentificeerde opportuniteiten .
+entrepeneur	NOUN	OmegaWiki	iemand die activiteit ( en ) verricht om zakelijk goed ( eren ) en/of dienst ( en ) te leveren .
+entrepeneur	NOUN	OmegaWiki	een persoon die heeft gesticht of waarvan wordt afgestamd , als in `` de stichter van een land ''
+twistgesprek	NOUN	OmegaWiki	een controversieel dispuut .
+twistgesprek	NOUN	OmegaWiki	de handeling van betwisting .
+belangrijkheid	NOUN	OmegaWiki	een maat , voor hoe belangrijk iets is voor iets .
+zambia	NOUN	OmegaWiki	een land in zuidelijk afrika . met hoofdstad lusaka .
+reductie	NOUN	OmegaWiki	vermindering in hoeveelheid of aantal .
+reductie	NOUN	OmegaWiki	de handeling van vermindering of de staat van verminderd te zijn .
+reductie	NOUN	OmegaWiki	een chemische reactie waarbij een element er een elektron bij krijgt .
+goudvink	NOUN	OmegaWiki	pyrrhula pyrrhula , een kleine zangvogel van de vinkenfamilie fringillidae .
+het_wezen	NOUN	OmegaWiki	dat wat wordt waargenomen of gekend is of betekend een duidelijk eigen betaan te hebben .
+veel	ADJ	OmegaWiki	een groot aantal van .
+waterman	NOUN	OmegaWiki	één van de twaalf sterrenbeelden van de zodiac .
+porseleinen	ADJ	OmegaWiki	gemaakt van porselein .
+thaise_gebarentaal	NOUN	OmegaWiki	een thaise taal .
+varese	NOUN	OmegaWiki	een provincie in de regio lombardije in italië .
+kanon	NOUN	OmegaWiki	een groot stuk artilleriegeschut .
+schijnheilige	NOUN	OmegaWiki	iemand die huichelt .
+namibië	NOUN	OmegaWiki	land in zuidelijk afrika dat grenst aan angola , zuid-afrika , botswana , zimbabwe en zambia . de hoofdstad is windhoek .
+ontzetting	NOUN	OmegaWiki	een verbijsterde toestand .
+albumine	NOUN	OmegaWiki	het wit van een ei , dat hoofdzakelijk bestaat uit albumine opgelost in water .
+bionisch	ADJ	OmegaWiki	van of in relatie tot de bionica .
+geldzuchtig	ADJ	OmegaWiki	mateloos naar geld , vermogen of bezit trachtend .
+corse-du-sud	NOUN	OmegaWiki	een frans departement dat bestaat uit het zuiderlijk deel van het eiland corsica .
+promesse	NOUN	OmegaWiki	een transactie tussen twee personen waardoor de eerste persoon zich in de toekomst ertoe verbindt om één of andere dienst of gift aan de tweede persoon te geven of hier en nu iets iets waardevols in zijn gebruik geeft .
+berenvacht	NOUN	OmegaWiki	de huid of de pels van een beer .
+kelvin	NOUN	OmegaWiki	si-eenheid van temperatuur met symbool `` k '' .
+boomschors	NOUN	OmegaWiki	het buitenste dat de stam en takken van een boom omvat .
+europium	NOUN	OmegaWiki	scheikundig element met symbool eu en atoomnummer 63. het is een zilverwit lanthanide .
+dikte	NOUN	OmegaWiki	de uitzetting door druk van binnenuit .
+weber	NOUN	OmegaWiki	de si eenheid van magnetische flux met symbool `` wb '' .
+aardappelstamper	NOUN	OmegaWiki	keukentoestel met welk gekookte aardappelen tot moes geplet worden .
+presentie	NOUN	OmegaWiki	het feit of toestand van aanwezig te zijn .
+alifatische_verbinding	NOUN	OmegaWiki	koolwaterstoffen bestaande uit een open ketting van koolstofatomen , welke normaal of vertakt , verzadigd of onverzadigd zijn .
+alifatische_verbinding	NOUN	OmegaWiki	elke organische verbinding van waterstof en koolstof , gekarakteriseerd door een rechte keten van koolstofatomen .
+ommezien	NOUN	OmegaWiki	in een heel korte tijd ; in een moment .
+bijgevolg	NOUN	OmegaWiki	als consequentie .
+kleden	VERB	OmegaWiki	kleden , uitdossen of versieren , vooral voor speciale gelegenheden , ceremonies , enz .
+kleden	VERB	OmegaWiki	iets of iemand kleding aantrekken .
+treurzang	NOUN	OmegaWiki	een treurig gedicht of stuk muziek geschreven of voorgedragen als een herinnering aan een afgestorvene .
+lieveling	NOUN	OmegaWiki	persoon waaraan men bij een wedstrijd de meeste kansen geeft .
+substantief	NOUN	OmegaWiki	een woord dat gebruikt kan worden om te verwijzen naar een persoon , plaats , ding , kwaliteit of idee ; een onderdeel van de taal . het kan gebruikt worden als onderwerp of lijdend voorwerp voor een werkwoord . bijvoorbeeld een tafel of een computer .
+uiterst	ADV	OmegaWiki	tot in extreme mate .
+opgewonden	ADJ	OmegaWiki	met opwinding .
+hoofding	NOUN	OmegaWiki	papier waar op bovenaan de naam van de persoon of het bedrijf vooraf gedrukt werd .
+negenentwintig	NOUN	OmegaWiki	het hoofdtelwoord dat na achtentwintig en vóór dertig komt , vertegenwoordigd in romeinse cijfers als xxix en in arabische cijfers als 29 .
+beteuterd	ADJ	OmegaWiki	met angst , ontzetting of consternatie geslagen zijn .
+allergisch	ADJ	OmegaWiki	gekenmerkt of veroorzaakt door een allergie .
+element	NOUN	OmegaWiki	een kleiner , autonoom deel van een groter geheel . vaak onder verwijzing naar een fabricageonderdeel van een groter toestel .
+element	NOUN	OmegaWiki	een abstract gedeelte van iets .
+element	NOUN	OmegaWiki	een stof bestaande uit atomen met hetzelfde atoomnummer ; voorbeelden zijn waterstof , goud en ijzer .
+aariya	NOUN	OmegaWiki	een taal uit india .
+fascist	NOUN	OmegaWiki	een voorstander van het fascisme .
+duizendste	NOUN	OmegaWiki	een van de duizend gelijke delen van een geheel .
+loge	NOUN	OmegaWiki	een afgescheiden gedeelte in een theater of stadion waar een kleine groep naar de voorstelling kan kijken .
+at-sign	NOUN	OmegaWiki	het logogram @ .
+richting	NOUN	OmegaWiki	een indicatie van een punt waarnaar of waarvandaan een voorwerp beweegt .
+op_dezelfde_wijze	ADJ	OmegaWiki	gemeenschappelijke trekken of kenmerken hebbend .
+promenade	NOUN	OmegaWiki	iedere open , vlakke ruimte , voornamelijk dienend voor openbare wandelingen of ritjes .
+eucalyptus	NOUN	OmegaWiki	een soort van grote australische groenblijvende boom , leverend hout , gom en olie , die gebruikt wordt om verkoudheden te behandelen .
+nedersorbisch	NOUN	OmegaWiki	een west-slavische taal gesproken in de historische provincie neder-lausitz , nu een deel van brandenburg .
+uitheems	ADJ	OmegaWiki	zijnde van of hebbende kenmerken van een andere plaats op de aarde .
+uitheems	ADJ	OmegaWiki	opvallend vreemd of ongewoon .
+uitheems	ADJ	OmegaWiki	zijnde , of van , of gekenmerkt , door een andere plaats of deel van de wereld .
+matchen	VERB	OmegaWiki	akkoord zijn .
+matchen	VERB	OmegaWiki	harmoniseren in mening , stelling of actie ; verenigd , in overeenstemming of consistent zijn .
+acetyleen	NOUN	OmegaWiki	elke organische verbinding hebbende een of meer koolstof-koolstof drievoudige binding ; een alkyn .
+hindi	NOUN	OmegaWiki	een indische taal voornamelijk gesproken in noordelijk en centraal india .
+vanille-orchidee	NOUN	OmegaWiki	iedere tropische , klimmende orchidee van het geslacht vanilla ( vooral vanille-orchidee ) , voorzien van peultachtige vruchten waarvan het extract gebruikt wordt als smaakstof in levensmiddelen of in parfums .
+ademhalingsziekte	NOUN	OmegaWiki	aandoening aan de luchtwegen .
+ademhalingsziekte	NOUN	OmegaWiki	iedere ziekte met betrekking tot de longen .
+verzakking	NOUN	OmegaWiki	een inzinking van een deel van de aardkorst , gewoonlijk te wijten aan ondergrondse opgravingen .
+zanger	NOUN	OmegaWiki	een persoon die zingt , die in staat is te zingen , of zijn kost al zingend verdient .
+rendabel	ADJ	OmegaWiki	een aanzienlijke winst opleverend .
+proficiat	NOUN	OmegaWiki	een uitdrukking van goedkeuring en lof .
+in_de_schijnwerpers_staan	NOUN	OmegaWiki	in de focus van de publieke belangstelling staan .
+ebbenboom	NOUN	OmegaWiki	ieder van de verschillende aziatische of afrikaanse bomen van het geslacht diospyros .
+rigide	ADJ	OmegaWiki	onmogelijk of bestand tegen buiging .
+stoer	ADJ	OmegaWiki	geneigd zijnd te wagen of risico 's te nemen .
+dijon	NOUN	OmegaWiki	dijon is een franse stad , de hoofdstad van het departement van de côte-d'or en van de regio bourgondië ( bourgogne ) , waartoe de côte-d'or behoort .
+verleden	NOUN	OmegaWiki	de tijdsperiode die voorbij is .
+ravenklauw	NOUN	OmegaWiki	een fictieve afdeling die hard werken , vriendschap en fair play waardeert ( uit harry potter van jk rowling ) . haar embleem is de das .
+ravenklauw	NOUN	OmegaWiki	een fictieve afdeling die intelligentie , kennis en slimheid waardeert ( uit harry potter van jk rowling ) . haar embleem is de adelaar .
+ravenklauw	NOUN	OmegaWiki	de fictieve school waar harry potter op zit ( in de serie harry potter van jk rowling ) .
+ravenklauw	NOUN	OmegaWiki	een fictieve afdeling die moed , durf en ridderschap waardeert ( uit harry potter van jk rowling ) . haar embleem is de leeuw .
+ravenklauw	NOUN	OmegaWiki	een fictieve afdeling die ambitie , sluwheid en vindingrijkheid waardeert ( uit harry potter van jk rowling ) . haar embleem is de slang .
+tiendelig	ADJ	OmegaWiki	bevattende of hebbende als basis het getal tien .
+blijgestemd	ADJ	OmegaWiki	opgewekt zijn .
+middelen	NOUN	OmegaWiki	het vermogen om lasten te dragen , met name financiële .
+tibet	NOUN	OmegaWiki	een hoogland in centraal azië en het land van herkomst van van het tibetaanse volk .
+titanium	NOUN	OmegaWiki	een sterk en goed bewerkbaar wit metallisch element , dat zeer corrosiebestendig is en voorkomt in de mineralen rutiel en ilmeniet . het wordt gebruikt voor het vervaardigen van sterke lichtgewicht legeringen , in het bijzonder vliegtuig onderdelen .
+context	NOUN	OmegaWiki	de tekst in welk een woord of passage voorkomt en wat helpt de betekenis te begrijpen .
+verdeelbaar	NOUN	OmegaWiki	eigenschap van iets dat kan verdeelt worden .
+teerling	NOUN	OmegaWiki	een voorwerp met veel ( meestal zes ) vlakken , ieder met een andere waarde , dat in veel spellen wordt gebruikt om een willekeurig nummer te selecteren .
+mus	NOUN	OmegaWiki	een kleine zangvogel uit de familie der passeridae .
+afvalverwerking	NOUN	OmegaWiki	elk proces of de combinatie van processen dat de chemische , fysische of biologische samenstelling of het karakter van een afval verandert , vermindert of de schadelijke eigenschappen of kenmerken verwijdert voor een ander doel .
+kaaiman	NOUN	OmegaWiki	ieder van de verschillende tropisch amerikaanse krokodillen van het geslacht caiman .
+zestig	NOUN	OmegaWiki	het hoofdtelwoord dat na negenenvijftig en vóór eenenzestig komt , vertegenwoordigd in romeinse cijfers als lx en in arabische cijfers als 60 .
+aangeklaagde	NOUN	OmegaWiki	een persoon die verdacht wordt van iets , het begaan van een misdaad in het bijzonder .
+contractueel	ADJ	OmegaWiki	van of betreffende een contract .
+indonesië	NOUN	OmegaWiki	een land in zuidoost azië met jakarta als hoofdstad .
+oenologie	NOUN	OmegaWiki	de studie van de wijn .
+bol	NOUN	OmegaWiki	rond driedimensionaal object waarvan elk punt aan de oppervlakte een gelijke afstand tot het middelpunt heeft .
+volmaakt	ADJ	OmegaWiki	hooggeschoold .
+zelfingenomen	ADJ	OmegaWiki	overdreven zelfvertrouwen hebbend .
+zelfingenomen	ADJ	OmegaWiki	karakteristiek van valse trots .
+evenwichtskunstenaar	NOUN	OmegaWiki	iemand die evenwichtsprestaties opvoert , zoals koorddansen .
+blaas	NOUN	OmegaWiki	een hol ballonvormig gespierd orgaan , dat de urine opslaat , totdat het uit het lichaam verwijderd wordt .
+speerwerper	NOUN	OmegaWiki	een atleet die een speer werpt .
+rekrutering	NOUN	OmegaWiki	de handeling of proces van rekruteren .
+kei	NOUN	OmegaWiki	een zeer bekwaam persoon .
+kei	NOUN	OmegaWiki	de persoon die het meest uitzonderlijk of excellent is ; iemand die boven alle anderen staat .
+tandenborstel	NOUN	OmegaWiki	een instrument met een handvat en een kop met meerdere min of meer buigzame haren gebruikt om tanden te poetsen .
+communiceren	VERB	OmegaWiki	in mondeling contact staat ; informatie of ideeën uitwisselen .
+communiceren	VERB	OmegaWiki	informatie overbrengen .
+ablatie	NOUN	OmegaWiki	heelkundige verwijdering van elk deel of orgaan .
+ablatie	NOUN	OmegaWiki	chirugische verwijdering of amputatie van een lichaamsdeel of weefsel .
+brandstof	NOUN	OmegaWiki	vast , vloeibaar of gasvormig materiaal zoals aardgas , benzine , aardolie , steenkool of hout , wordt gebruikt voor het produceren van warmte of kracht door verbranding .
+cellist	NOUN	OmegaWiki	iemand die de cello bespeelt .
+vouw	NOUN	OmegaWiki	een plaats in een dun materiaal ( zoals papier ) waar het materiaal abrupt van richting verandert , typisch richting zichzelf .
+zolder	NOUN	OmegaWiki	een plaats helemaal boven in het huis onder het dak .
+vriendin	NOUN	OmegaWiki	een vrouwelijk persoon met wie iemand een liefdesrelatie heeft .
+valsheid	NOUN	OmegaWiki	gebrek aan eerlijkheid of integriteit .
+hemel	NOUN	OmegaWiki	deel van de aardatmosfeer en ruimte daarbuiten dat zichtbaar is vanaf het aardoppervlak . overdag lijkt het blauw , maar 's nachts zwart .
+hemel	NOUN	OmegaWiki	een hoge overdekking die bescherming levert , zoals een kleed aangebracht boven een object , in het bijzonder boven een bed .
+veldkijker	NOUN	OmegaWiki	een instrument om objecten op afstand dichterbij te laten zien , met afzonderlijke oogstukken voor ieder oog .
+hyena	NOUN	OmegaWiki	een grote carnivoor van de familie hyaenidae , lijkend op een hond en bewoner van afrika en azië , best gekend door het lachend geluid dat hij voort brengt als hij opgewonden is .
+legerkamp	NOUN	OmegaWiki	een plaats waar tenten , bungalows of andere tijdelijke bouwwerken zijn opgetrokken ten behoeve van militairen voor de opleiding van soldaten en dergelijke .
+byte	NOUN	OmegaWiki	een meeteenheid voor informatieopslag , gewoonlijk betaande uit acht bits .
+spoorweg	NOUN	OmegaWiki	een permanent spoor dat uit een lijn van parallelle metalen rails wordt samengesteld bevestigd aan dwarsbalken , voor vervoer van passagiers en goederen in treinen .
+archivaris	NOUN	OmegaWiki	een persoon belast met het verzamelen en catalogiseren van archieven .
+ervan_uitgaan	VERB	OmegaWiki	aanvaarden zonder verificatie of bewijs .
+juskom	NOUN	OmegaWiki	een schaal ( vaak in de vorm van een boot ) waaruit jus of saus wordt geserveerd .
+troepenmacht	NOUN	OmegaWiki	een grote , militaire macht die zich voornamelijk bezighoudt met grondoperaties .
+ongenade	NOUN	OmegaWiki	de toestand van uit de gunst te zijn .
+nationaal-socialist	NOUN	OmegaWiki	de ideologie van de duitse nazi partij tijdens adolf hitler .
+nationaal-socialist	NOUN	OmegaWiki	een volgeling van de ideologie van het nationaalsocialisme .
+hypothese	NOUN	OmegaWiki	een voorlopige gissing die een verklaring geeft aan een observatie , fenomeen of wetenschappelijk probleem dat verder getest kan worden door observatie , onderzoek en of experimenteel .
+tekeergaan	NOUN	OmegaWiki	een continu luid , ruw of schel rumoer .
+modificeren	VERB	OmegaWiki	anders maken .
+schakelpaneel	NOUN	OmegaWiki	een elektrisch apparaat dat bestaat uit een geisoleerd paneel bestaande uit schakelaars , draaiknoppen en meters voor het regelen van andere elektronische apparaten .
+uitbenen	VERB	OmegaWiki	botten verwijderen uit .
+zowel	ADV	OmegaWiki	als toevoeging aan wat al gezegd of genoemd is .
+chemisch	ADJ	OmegaWiki	van of in relatie met de scheikunde .
+langzaamaan	ADV	OmegaWiki	langzaam vooruitgang makend .
+kriekenboom	NOUN	OmegaWiki	een kersenboom , prunus cerasus , gekenmerkt door zijn grijze bast .
+kriekenboom	NOUN	OmegaWiki	de eetbare vrucht van de prunus cerasus .
+vendutie	NOUN	OmegaWiki	een openbaar evenement waar goederen of bezittingen verkocht worden aan de hoogste bieder .
+naar_beneden	ADV	OmegaWiki	van een hogere positie naar een lagere .
+naar_beneden	ADJ	OmegaWiki	van de ene kant naar de andere ; in het bijzonder van een hogere kant naar een lagere .
+verkwisting	NOUN	OmegaWiki	een verspilling van tijd/of geld ; een zinloze onderneming .
+orthopedist	NOUN	OmegaWiki	een medisch specialist die zich bezig houdt met de orthopedie .
+aalscholver	NOUN	OmegaWiki	middelgrote , zwarte watervogel van de familie van de phalacrocoracidae , wetenschappelijke naam phalacrocorax carbo .
+gast	NOUN	OmegaWiki	volwassen menselijk lid van de kunne die jong begint met het bevruchten van eicellen .
+atjehs	NOUN	OmegaWiki	een taal uit indonesië ( sumatra ) .
+blijheid	NOUN	OmegaWiki	gevoel van geluk .
+beleg	NOUN	OmegaWiki	een langdurige militaire aanval op een blokkade van een stad of fort met de bedoeling het veroveren door middel van geweld of uitputting .
+beleg	NOUN	OmegaWiki	voedsel bedoeld om gegeten te worden bovenop of tussen het brood , samen met het brood meestal boter of margarine om alzo een sandwich te maken .
+octrooi	NOUN	OmegaWiki	een vergunning voor het recht om andere uit te sluiten van het maken , gebruiken of verkopen van iemand 's uitvinding en het omvat het recht om andere te vergunnen het te maken , te gebruiken en te verkopen .
+leververvetting	NOUN	OmegaWiki	vetophoping in de levercellen
+fotografie	NOUN	OmegaWiki	het proces van het vormen van zichtbare beelden rechtstreeks of onrechtsreeks door de invloed van licht of andere vormen van straling op een gevoelig oppervlak .
+fotografie	NOUN	OmegaWiki	de bezigheid van het nemen van en het afdrukken van foto 's of het maken van films .
+trekken	VERB	OmegaWiki	aangetrokken door een natuurkracht , nadering , vastplakken of verenigen veroorzakend of trachten te veroorzaken .
+trekken	VERB	OmegaWiki	kracht uitoefenen ( op een object ) zodat het in de richting komt vanwaar de uitgeoefende kracht zijn herkomst heeft .
+trekken	VERB	OmegaWiki	het bewegen langs de grond door sleping veroorzaken .
+kruisbeeld	NOUN	OmegaWiki	een decoratieve of symbolische voorstelling van christus aan het kruis .
+sec	ADJ	OmegaWiki	een classificatie voor wijn met een relatief laag suikergehalte .
+aragón	NOUN	OmegaWiki	autonome gemeenschap in het noordoosten van spanje .
+opvoeren	NOUN	OmegaWiki	een akte waarbij iemand muziek speelt , toneel of een dergelijke kunstvorm ter plekke uitvoert .
+lang	ADJ	OmegaWiki	relatief groot zijnde .
+lang	ADJ	OmegaWiki	verticaal gezien boven gemiddeld ; de bovenkant , top , uiteinde , hoofd enz . ver omhoog hebbend ; grote verticale uitdijing ( vaak groter dan horizontale ) ; hoog .
+lang	ADJ	OmegaWiki	van een relatief grote duur .
+vondeling	NOUN	OmegaWiki	een verlaten kind .
+pluviometer	NOUN	OmegaWiki	meet de hoeveelheid gevallen neerslag .
+bewust	ADJ	OmegaWiki	in staat iemands zintuiglijke en geestelijke vermogens te gebruiken om de omgeving en de huidige stand van zaken te bevatten .
+bewust	ADJ	OmegaWiki	zorgvuldig bedacht of gepland .
+winnen_uit	VERB	OmegaWiki	beredeneren of vaststellen door deductie .
+verontachtzaming	NOUN	OmegaWiki	het in de steek laten van iets .
+kort_overzicht	NOUN	OmegaWiki	een beknopte samenvatting zoals van een boek of artikel .
+godsdienstig	ADJ	OmegaWiki	in god of in een godheid gelovend en eerbied tonend .
+dragon	NOUN	OmegaWiki	de bladeren van deze plant ( artemisia dracunculus ) zowel vers , of ingemaakt in azijn , gebruikt als kruiderij .
+dragon	NOUN	OmegaWiki	een overblijvende plant , artemisia dracunculus , uit europa en delen van azië .
+ui	NOUN	OmegaWiki	een plant uit het geslacht allium die gebruikt wordt als een groente en als een kruid .
+catania	NOUN	OmegaWiki	een provincie op de autonome eiland regio sicilië in italië .
+onbevlekt	ADJ	OmegaWiki	zonder fout of gebrek .
+onbevlekt	ADJ	OmegaWiki	van , betreffende tot , kenmerkend van , of passend bij een maagd .
+arabische_cijfers	NOUN	OmegaWiki	de symbolische voorstelling van nummers gebruik makend van de tekens 0123456789 .
+omkleden	VERB	OmegaWiki	andere kleding aantrekken .
+hengst	NOUN	OmegaWiki	een ongecastreerd , mannelijk paard
+hengst	NOUN	OmegaWiki	een krachtige stoot met de vuist of een wapen .
+kleurpotlood	NOUN	OmegaWiki	een potlood met een gekleurde tekenstift .
+pijnlijk	ADJ	OmegaWiki	ellende en zorg veroorzakend .
+pijnlijk	ADJ	OmegaWiki	zich mentaal onconfortabel voelend als er iets mis of verkeerd is .
+starten	VERB	OmegaWiki	een activiteit starten .
+starten	VERB	OmegaWiki	in beweging zetten , laten beginnen .
+starten	VERB	OmegaWiki	de eerste stap of stappen nemen in het uitvoeren van een actie .
+elementair	ADJ	OmegaWiki	betreffende de basis , essentieel of fundamentalistisch deel van iets .
+watersnood	NOUN	OmegaWiki	extreme bovengrondse wateroverlast veroorzaakt door vloed , heftige regenval , gesmolten sneeuw of afvoer van geplaveide terreinen .
+hartkwaal	NOUN	OmegaWiki	een ziekte die het hart aantast .
+hartkwaal	NOUN	OmegaWiki	een verzamelnaam voor aandoeningen die het hart- en vaatsysteem aangaan
+beoefenen	VERB	OmegaWiki	een post of een functie bekleden .
+neurocranium	NOUN	OmegaWiki	het bovenste deel van de schedel
+arbeidsintensief	ADJ	OmegaWiki	economie : de inzet van veel arbeid eisen , maar minder kapitaal .
+bekwaamheid	NOUN	OmegaWiki	macht . middelen of recht iets te doen .
+bekwaamheid	NOUN	OmegaWiki	de capaciteit om iets goed te doen . ze worden meestal verworven of geleerd , in tegenstelling tot capaciteiten , die vaak als aangeboren worden beschouwd .
+ontharen	VERB	OmegaWiki	haar van het lichaam verwijderen .
+begerig	ADJ	OmegaWiki	mateloos naar geld , vermogen of bezit trachtend .
+begerig	ADJ	OmegaWiki	hebbend of een verlangen uitdrukkend voor iets .
+begerig	ADJ	OmegaWiki	gretig met het vergaren van bezittingen .
+begerig	ADJ	OmegaWiki	een levendige interesse hebbend of tonend , een intens verlangen of een ongeduldig vooruitzicht .
+dierenleven	NOUN	OmegaWiki	een levend organisme gekenmerkt door vrijwillige beweging .
+dierenleven	NOUN	OmegaWiki	het totale dierenrijk van een gegeven gebied , habitat of geologisch stratum .
+dierenleven	NOUN	OmegaWiki	elk nietmenselijk dier , voornamelijk een groot viervoetig zoogdier .
+dierenleven	NOUN	OmegaWiki	eender welk levend organisme getypeerd door vrije beweging , het bezit van cellen met noncellaire celwanden en gespecialiseerde zintuigen die snel reageren op prikkels en complexe organische stoffen zoals planten en andere dieren opnemen .
+vestingwerk	NOUN	OmegaWiki	een versterkte plaats ; een grote en permanente fortificatie , soms een stad omsluitend .
+speeksel	NOUN	OmegaWiki	een afscheiding van de speekselklieren ( in de mond ) die uitgespuugd kan worden .
+literatuurstudie	NOUN	OmegaWiki	de identificatie , beschrijving , analyse en klassificatie van boeken en ander materiaal dat gebruikt of geraadpleegd wordt bij de voorbereiding van het schrijven van een stuk .
+verwerven	VERB	OmegaWiki	het gemaakt hebben of er in slagen of verkrijgen van iets .
+verwerven	VERB	OmegaWiki	het bemachtigen of verkrijgen van een iets .
+verwerven	VERB	OmegaWiki	( succes ) verkrijgen door inspanning of werk .
+kalmerend_middel	NOUN	OmegaWiki	een middel dat de opgewondenheid vermindert en een persoon kalmeert .
+renaturatie	NOUN	OmegaWiki	een proces van terugkeer naar natuurlijke ecosystemen in hun oorspronkelijke structuur en soortensamenstelling .
+kapot_maken	VERB	OmegaWiki	de vernietiging veroorzaken van .
+handdruk	NOUN	OmegaWiki	de vastgrijping en schudding van de hand van een persoon , vaak bij de begroeting of bij het maken van een akkoord .
+wreedaardig	NOUN	OmegaWiki	onverschilligheid ten opzichte van het lijden van een ander en zelfs een positief genoegen eraan ontlenen .
+verweerbaar	ADJ	OmegaWiki	in staat om verdedigd te worden .
+beitel	NOUN	OmegaWiki	een stuk gereedschap met een snijkant aan het uiteinde .
+la	NOUN	OmegaWiki	een schuivend vak in een deel van een meubel , van boven open , dat kan worden uitgetrokken om gemakkelijker toegang aan zijn inhoud te hebben .
+etalageraam	NOUN	OmegaWiki	een opening in een winkel , meestal gevuld met glas , die mensen toestaat om de winkel en zijn producten van buitenaf te bekijken .
+eilandengroep	NOUN	OmegaWiki	eilandengroep , waarbij de eilanden zo aan elkaar geschakeld zijn als het ware een ketting .
+eilandengroep	NOUN	OmegaWiki	een cluster van eilanden inclusief de omringende wateren .
+eilandengroep	NOUN	OmegaWiki	een groep met meerdere eilanden
+drieënveertig	NOUN	OmegaWiki	het hoofdtelwoord dat na tweeënveertig en vóór vierenveertig komt , vertegenwoordigd in romeinse cijfers als xliii en in arabische cijfers als 43 .
+trompetist	NOUN	OmegaWiki	koperen blaasinstrument voor muziek .
+trompetist	NOUN	OmegaWiki	een koperen blaasinstrument , iets kleiner dan de trompet .
+trompetist	NOUN	OmegaWiki	muzikant die de trompet bespeelt .
+pen	NOUN	OmegaWiki	gebruiksvoorwerp , normaliter buisvormig met inkt in gebruik om te schrijven of tekens aan te brengen .
+je	ADJ	OmegaWiki	van of behorend tot jou .
+je	ADJ	OmegaWiki	van of behorend tot jullie .
+in_tweeën_splitsen	VERB	OmegaWiki	iets in twee ( gelijke ) delen verdelen .
+geneugte	NOUN	OmegaWiki	een gevoel van extreem genoegen of voldoening .
+strijken	VERB	OmegaWiki	beroeren met een zwierige beweging .
+strijken	VERB	OmegaWiki	met de hand of een object over een ander object of oppervlakte bewegen ( daarbij constant contact houdend en matige druk toepassend ) .
+huisband	NOUN	OmegaWiki	een muzikale groep die een permanent contract heeft met een bepaald ( horeca- ) bedrijf , bijvoorbeeld een restaurant .
+enzovoort	ADV	OmegaWiki	voortgaan op dezelfde manier .
+onbegrensd	ADJ	OmegaWiki	zonder grenzen in omvang of grootte of hoeveelheid .
+scherprechter	NOUN	OmegaWiki	de persoon die op veroordeelden lijfstraffen uitvoert inclusief the doodstraf .
+aankleden	VERB	OmegaWiki	iets of iemand kleding aantrekken .
+pleite	ADV	OmegaWiki	in een richting van de spreker of een voorwerp af .
+pleite	ADJ	OmegaWiki	niet gevonden of teruggevonden kunnen worden .
+bibliograaf	NOUN	OmegaWiki	iemand die bibliografies samenstelt .
+vloeibare_toestand	NOUN	OmegaWiki	een fundamentele staat van materie . vloeibaar is de staat tussen vast en gasvormig . een vloeistof kan gewoonlijk gevangen worden in een glas of gelijkwaardige container . een vloeistof kan bevriezen om de vaste staat te bereiken of verdampen naar de gasvormige staat .
+te_verwezenlijken	ADJ	OmegaWiki	in staat bereikt te worden of tot stand te brengen .
+visindustrie	NOUN	OmegaWiki	de industrie van het vangen , verwerken en verkopen van vis .
+gastheer	NOUN	OmegaWiki	een persoon of organisatie verantwoordlijk voor het leiden van een evenement .
+alkalisch	ADJ	OmegaWiki	van , in relatie met , of alkali bevattend .
+inbreker	NOUN	OmegaWiki	een dief die in een gebouw binnendringt met de bedoeling van te stelen .
+plaag	NOUN	OmegaWiki	iedere willekeurige ramp op grote schaal .
+van_mening_verschillen	VERB	OmegaWiki	van verschillende mening zijn .
+beton	NOUN	OmegaWiki	een mengsel of aggregaat van water , een bindmiddel , meestal cement ; het hardt uit tot iets wat op steen lijkt als het is gedroogd .
+maria-tenhemelopneming	NOUN	OmegaWiki	de opname van het lichaam en ziel van de maagd maria wanneer haar aardse leven beëindigd was .
+prepareren	VERB	OmegaWiki	klaarmaken voor een specifiek toekomstig doel .
+biologie	NOUN	OmegaWiki	een onderdeel van de natuurwetenschappen dat zich bezig houdt met de studie van leven en levende organismen .
+recommandatie	NOUN	OmegaWiki	aanbeveling verwijst naar een actie die adviserend van karakter is maar niet verplichtend .
+escaleren	VERB	OmegaWiki	verhogen in intensiteit , grootte enz .
+stadscentrum	NOUN	OmegaWiki	het centrale deel van een stad .
+verhelderen	VERB	OmegaWiki	spiritueel of intellectueel inzicht geven aan .
+verhelderen	VERB	OmegaWiki	het klaar of duidelijk maken .
+appendicitis	NOUN	OmegaWiki	de ontsteking van de blindedarm in het lichaam welk gewoonlijk pijn veroorzaakt en dikswijls de heelkundige verwijdering van de appendix vereist .
+uitbarsting	NOUN	OmegaWiki	een heftige uitstoting , zoals het uitstoten van lave uit een vulkaan .
+somme	NOUN	OmegaWiki	een frans departement vernoemd naar de rivier de somme , gelegen in het noorden van frankrijk .
+broedmachine	NOUN	OmegaWiki	een toestel dat gebruikt wordt om de milieucondities te handhaven die nodig zijn voor het uitbroeden van eieren .
+legpuzzel	NOUN	OmegaWiki	een logicaspel waar een persoon of groep probeert een afbeelding te reproduceren die in vele te verbinden stukken is gesneden .
+almaar	ADV	OmegaWiki	op elk moment .
+almaar	ADJ	OmegaWiki	geen onderwerp of gevoeligheid voor verandering of afwijking in vorm , kwaliteit of aard .
+stier	NOUN	OmegaWiki	mannelijk rundachtig dier .
+stier	NOUN	OmegaWiki	één van de twaalf sterrenbeelden van de zodiac .
+stier	NOUN	OmegaWiki	één van de twaalf sterrenbeelden van de zodiac .
+stier	NOUN	OmegaWiki	mannelijk rundachtig dier .
+desperatie	NOUN	OmegaWiki	verlies van hoop .
+praten	VERB	OmegaWiki	mondeling communiceren , gebruik makend van een bepaalde taal .
+praten	VERB	OmegaWiki	op een vriendelijk en informele wijze praten .
+hoogtemeter	NOUN	OmegaWiki	een instrument dat de hoogte meet en aangeeft boven het zeeniveau op welk een object , zoals een vliegtuig zich bevindt .
+kruidenkunde	NOUN	OmegaWiki	een fictief schoolvak dat zich concentreert op de studie van magische platen , kruiden en paddestoelen ( uit de serie harry potter van jk rowling ) .
+koelbloedig	ADJ	OmegaWiki	niet bang te maken of te intimideren .
+analgeticum	ADJ	OmegaWiki	in staat pijn te milderen of te verdrijven .
+saksen	NOUN	OmegaWiki	een in het oosten gelegen deelstaat van duitsland met dresden als hoofdstad .
+snufferd	NOUN	OmegaWiki	het orgaan van het gezicht om dingen te ruiken .
+oogschaduw	NOUN	OmegaWiki	een cosmetica-artikel in de vorm van een gekleurd poeder , welk op de oogleden en onder de wenkbrauwen aangebracht wordt .
+zand	NOUN	OmegaWiki	los materiaal bestaande uit kleine stukjes mineraal of steen en mineralen , zichtbaar met het blote oog ; korrels variëren van bijna bolvormig tot hoekig met een doorsnede van 1/16 tot 2 mm .
+spreeuw	NOUN	OmegaWiki	( sturnus vulgaris ) een zangvogel uit de familie sturnidae .
+cellofaan	NOUN	OmegaWiki	een dun , flexibel , transparant cellulose materiaal gemaakt van houtpulp en gebruikt als waterdicht verpakkingsmiddel .
+lonend	ADJ	OmegaWiki	laag in prijs .
+vreeswekkend	ADJ	OmegaWiki	dienend tot afschrikken .
+zaagsel	NOUN	OmegaWiki	houtdeeltjes aangemaakt door een zaag in werking .
+onvindbaar	ADJ	OmegaWiki	niet gevonden of teruggevonden kunnen worden .
+aardolie	NOUN	OmegaWiki	olie die is afgeleid van aardolie en bestaat uit koolwaterstoffen .
+paardenbloem	NOUN	OmegaWiki	een soort van het geslacht taraxacum , een groot geslacht van bloeiende planten in de familie asteraceae .
+auto-ongeluk	NOUN	OmegaWiki	een ongeval met een auto .
+daling	NOUN	OmegaWiki	de handeling van vermindering of de staat van verminderd te zijn .
+daling	NOUN	OmegaWiki	vermindering in hoeveelheid of aantal .
+daling	NOUN	OmegaWiki	een helling waarlangs men afdaalt .
+apostrof	NOUN	OmegaWiki	een teken ( ' ) welk gebruikt wordt om aan te tonen dat een letter of letters van een woord weggelaten zijn .
+klokhuis	NOUN	OmegaWiki	het binnenste gedeelte van een appel dat de zaden bevat .
+klokhuis	NOUN	OmegaWiki	het centrale minder appetijtelijk deel van een appel dat normaal verwijderd wordt .
+zoöloog	NOUN	OmegaWiki	iemand die de zoölogie beoefent of bestudeert .
+sluis	NOUN	OmegaWiki	stuk kanaal of andere waterweg ingesloten door poorten in gebruik om vaartuigen hoger of lager te laten liggen tussen de niveaus .
+regel	NOUN	OmegaWiki	een platt , rechthoekig instrument om mee te meten of tekenen met daarop gradaties in meeteenheden .
+regel	NOUN	OmegaWiki	een specificatie van gedrag gebruikt als geldende gids voor gedrag .
+parasiet	NOUN	OmegaWiki	organisme dat leeft en zich van voedsel voorziet ten koste van een ander organisme , de gastheer
+verward	ADJ	OmegaWiki	met angst , ontzetting of consternatie geslagen zijn .
+verward	ADJ	OmegaWiki	hevig ontsteld door vele conflictsituaties of verklaringen .
+verward	ADJ	OmegaWiki	aangetast met of lijdend aan nood .
+coïteren	VERB	OmegaWiki	sexuele activiteit ontplooien ( gewoonlijk sexuele gemeenschap ) met een ander met als doel sexueel genot .
+tuin	NOUN	OmegaWiki	een stuk land bij een huis waar bloemen en andere planten geplant zijn veelal met een grasoppervlak .
+dommerik	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+bevoorrecht	ADJ	OmegaWiki	een bevoorrechte positie .
+coiffeur	NOUN	OmegaWiki	iemand die beroepsmatig de kapsels van mensen verzorgt .
+gezicht	NOUN	OmegaWiki	het deel van een dier of mens dat bestaat uit de kin , de mond en de voornaamste zintuigelijke organen .
+gezicht	NOUN	OmegaWiki	het voorste gedeelte van het hoofd , bestaande uit de ogen , neus , mond en het aangrenzende gebied .
+zaad	NOUN	OmegaWiki	mannelijk zaad .
+zaad	NOUN	OmegaWiki	volwassen bevruchte plantencel bestaande uit een embryo en zijn voedingsbodem omhuld door een beschermende laag .
+rondzien_naar	VERB	OmegaWiki	iets proberen te vinden .
+klanten	NOUN	OmegaWiki	de groep klanten van een winkel , een openbaar lokaal een kantoor enz .
+ieder	ADJ	OmegaWiki	ieder element van een telbare groep , zonder uitzondering .
+minachtend	NOUN	OmegaWiki	een kleinerend , betuttelend of geringschattende woord of uitdrukking .
+bladzijde	NOUN	OmegaWiki	een zijde van blad in een boek of manuscript .
+stiptheid	NOUN	OmegaWiki	de eigenschap van dicht bij de juiste waarde te zijn .
+jasmijnrijst	NOUN	OmegaWiki	langkorrelige rijstsoort , oorspronkelijk uit thailand , welke geurt als 'n jasmijnbloem .
+hernemen	VERB	OmegaWiki	iets opnieuw beginnen vanaf het punt vanwaar het gestopt of onderbroken was .
+manicure	NOUN	OmegaWiki	cosmetische behandeling van de handen en nagels .
+abbreviatie	NOUN	OmegaWiki	de vorm tot wat een woord of zin is verkort door samentrekking en weglating .
+etnologisch	ADJ	OmegaWiki	van of betreffende de etnologie .
+programmeur	NOUN	OmegaWiki	een persoon die computersoftware ontwikkelt of aanpast .
+duitse_democratische_republiek	NOUN	OmegaWiki	een socialistische duitse staat , die werd gesticht op 7 oktober 1949 op het door de sovjet-unie bezette gebied van duitsland , inclusief het sovjet-russische deel van berlijn , en die zich op 3 oktober 1990 , op grond van een besluit van de volkskammer ( volksvertegenwoordiging ) , bij de bondsrepubliek duitsland aansloot .
+fundament	NOUN	OmegaWiki	de laagste ondersteuning van een structuur .
+fundament	NOUN	OmegaWiki	het vlezige deel van het menselijk lichaam waarop men zit .
+snood	ADJ	OmegaWiki	een duidelijk gebrek aan eer of moraal hebbende .
+moselle	NOUN	OmegaWiki	een departement in het oosten van frankrijk vernoemd naar de rivier de moezel .
+fris	ADJ	OmegaWiki	hebbende een enigzins lage temperatuur ; milde of aangename koude .
+scheiden	VERB	OmegaWiki	eindigen met twee of meer stukken die niet eenvoudig weer kunnen worden samengevoegd .
+straatprostituee	NOUN	OmegaWiki	een vrouw die sexuele diensten voor geld verkoopt .
+straatprostituee	NOUN	OmegaWiki	een prostituee , die op strat klanten aanlokt .
+trapani	NOUN	OmegaWiki	een provincie in de autonome eiland regio in sicilië in italië .
+met_korte_mouwen	ADJ	OmegaWiki	met korte mouwen .
+de_hersens_inspannen	VERB	OmegaWiki	het eigen brein actief en bewust gebruiken , gewoonlijk om ideeën te vormen .
+flexibiliteit	NOUN	OmegaWiki	kwaliteit om flexibel te zijn .
+insectivoor	ADJ	OmegaWiki	wat zich met insecten voedt .
+aanwijzing	NOUN	OmegaWiki	iets aantonend .
+aanwijzing	NOUN	OmegaWiki	alles dienend tot aanwijzen of aanduidend , zoals een teken of een signaal .
+recessie	NOUN	OmegaWiki	de toestand bij een terugval van de economie .
+massaal	ADJ	OmegaWiki	in een grote menigte , met heel veel
+luchtvaartkunde	NOUN	OmegaWiki	de wetenschap van de ruimtevaart .
+luchtvaartkunde	NOUN	OmegaWiki	de wetenschap of praktijk van het vliegen .
+finish	NOUN	OmegaWiki	een beschermende laag aangebracht op een oppervlak om het te vrijwaren van vocht en krassen .
+finish	NOUN	OmegaWiki	elke wijze van behandeling van een materiaal ( metaal , polymeer of hout ) , waardoor het oppervlak ontvankelijk wordt voor inkten , verven , lakken , lijmen , en diverse andere behandelingen , of bestand wordt tegen de weersomstandigheden of chemische beschadiging .
+quotiënt	NOUN	OmegaWiki	het getal resulterend uit de deling met een ander getal .
+zeug	NOUN	OmegaWiki	een volwassen vrouwelijk varken .
+verduren	VERB	OmegaWiki	het uithouden met iets of iemand die onplezierig is .
+verduren	VERB	OmegaWiki	onwillend accepteren .
+desavoueren	VERB	OmegaWiki	radicaal en plechtig weigeren iets te erkennen .
+valkenjacht	NOUN	OmegaWiki	de jaagsport gebruikmakend van getrainde roofvogels , voornamelijk valken en haviken .
+tergend	ADJ	OmegaWiki	dat wat tergt , woedend maakt , egert of irriteert .
+sarthe	NOUN	OmegaWiki	een frans departement vernoemd naar de rivier de sarthe .
+cornet	NOUN	OmegaWiki	koperen blaasinstrument voor muziek .
+cornet	NOUN	OmegaWiki	een koperen blaasinstrument , iets kleiner dan de trompet .
+cornet	NOUN	OmegaWiki	muzikant die de trompet bespeelt .
+suf	ADJ	OmegaWiki	een gebrek aan goede smaak , wijsheid of vooruitzicht vertonen .
+opbouwen	NOUN	OmegaWiki	de activiteit van construeren .
+liefhebbend	ADJ	OmegaWiki	genegenheid voelen ; houden van .
+bosrand	NOUN	OmegaWiki	de buitenrand van een bos .
+tabberd	NOUN	OmegaWiki	kledingstuk gedragen door een heraut en versierd met het familiewapen van zijn meester .
+huisschilder	NOUN	OmegaWiki	iemand die beroepsmatig schilderwerken aan en in gebouwen uitvoerd .
+gereed	ADJ	OmegaWiki	voorbereid voor onmiddelijke actie of gebruik .
+heks	NOUN	OmegaWiki	een persoon , meestal vrouwelijk , die magie gebruikt .
+huwelijksnacht	NOUN	OmegaWiki	de nacht na de huwelijksvoltrekking , als de bruid en bruidegom hun eerste officiële nacht samen doorbrengen .
+vereenvoudigen	VERB	OmegaWiki	gemakkelijk maken .
+onkostenrekening	NOUN	OmegaWiki	een rekening van zakenuitgaven , zoals reis , hotelkamer , maaltijden , en vermaak in verband met het werk , voor welk een bediende vergoed wordt door de werkgever .
+behoorlijk	ADJ	OmegaWiki	genoeg om te kunnen inschatten of meten .
+administrator	NOUN	OmegaWiki	iemand die een zaak beheert .
+vietnamees	NOUN	OmegaWiki	een austroaziatische taal in hoofdzaak gesproken in vietnam .
+vietnamees	ADJ	OmegaWiki	uit of betreffende vietnam , het vietnamese volk of de vietnamese taal .
+tegenactie	NOUN	OmegaWiki	actie met de bedoeling het opheffen van de effecten van een voorgaande actie .
+inkt	NOUN	OmegaWiki	een oplossing van pigment of verf in een vloeistof , pasta of poeder afgevende drager toegepast toe en gedroogd op een ondergrond ; schrijf- , markeer- , teken- en drukinkt worden in diverse vormen toegepast op papier , metaal , plastic , hout , stof of andere ondergronden .
+trappen	NOUN	OmegaWiki	een aaneengesloten groep treden die twee verdiepingen met elkaar verbinden .
+trappen	VERB	OmegaWiki	iemand of iets met de voet raken .
+anker	NOUN	OmegaWiki	iets , gewoonlijk een zwaar stuk metaal met punten welke zich in de zeebodem graven , gebruikt om een schip ter plaatse te houden .
+vurig_verlangend	ADJ	OmegaWiki	een levendige interesse hebbend of tonend , een intens verlangen of een ongeduldig vooruitzicht .
+lul	NOUN	OmegaWiki	de mannelijke seksuele orgaan voor copulatie en de plassen , de buisvormige deel van de mannelijke genitaliën
+zoon	NOUN	OmegaWiki	het mannelijke kind van iemand .
+vormlijkheid	NOUN	OmegaWiki	een formeel evenement voor een speciale gebeurtenis .
+pis	NOUN	OmegaWiki	vloeibaar uitwerpsel , bestaande uit water , zouten en ureum , die worden gemaakt in de nieren , opgeslagen in de blaas , en dan vrijgegeven door de urinebuis .
+helper	NOUN	OmegaWiki	persoon die assisteert of personen die assisteren bij een of ander karwei .
+dweperij	NOUN	OmegaWiki	de kenmerkende eigenschappen van een dweper ; onverdraagzaamheid of vooroordeel , voornamelijk religieus of raciaal .
+bar	NOUN	OmegaWiki	eenheid van druk gelijk aan 100 000 pascales .
+bar	NOUN	OmegaWiki	een zaak met een licentie voor de verkoop van alcoholische dranken die daar ter plaatse genuttigd worden .
+bar	ADV	OmegaWiki	tot in extreme mate .
+ongetwijfeld	ADJ	OmegaWiki	zonder enige twijfel of mogelijkheid tot afwijken .
+ongetwijfeld	ADV	OmegaWiki	op een manier die geen mogelijkheid tot twijfel geeft .
+uitvloeisel	NOUN	OmegaWiki	voorwaarde dat die volgt iets waarvan het afhankelijk is .
+uitvloeisel	NOUN	OmegaWiki	effecten omvatten : a ) de directe effecten , die zijn veroorzaakt door een actie en gebeuren op hetzelfde moment en plaats , b ) de ondirecte effecten , die zijn veroorzaakt door een actie en gebeuren later in de tijd of verder verplaatst in afstand , maar die zijn nog redelijk voorspelbaar .
+uitvloeisel	NOUN	OmegaWiki	een voorstel dat gemakkelijk volgt uit het bewijs van een ander voorstel .
+endosperm	NOUN	OmegaWiki	voedzaam weefsel dat de kiem van zaden van bloeiende planten omringt .
+antisepticum	NOUN	OmegaWiki	een middel , zoals warmte , straling of chemisch , dat ontsmet door vernietiging , neutralisatie of de groei van ziekte dragende microorganismen afremt .
+ampel	ADJ	OmegaWiki	meer dan genoeg in afmeting in omvang of in capaciteit .
+ampel	ADJ	OmegaWiki	ruim genoeg en meer dan vodoende voor het doel of de vereisten .
+drammen	VERB	OmegaWiki	nadrukkelijk of vastbesloten zijn en weigeren toe te geven .
+zuid-korea	NOUN	OmegaWiki	een geografisch gebied , beschaving , en voormalig staat gelegen op het koreaanse schiereiland in oost-azië .
+papieren	NOUN	OmegaWiki	opgeslagen informatie op om het even welk type media ( papier , op een server , gegevens in een programma , microfilm , op een harde schijf , enzovoort ) met de bedoeling om de officiële zaken van de organisatie te bewaren .
+papieren	ADJ	OmegaWiki	van papier .
+klaaglied	NOUN	OmegaWiki	een treurig gedicht of stuk muziek geschreven of voorgedragen als een herinnering aan een afgestorvene .
+dertigjaarlijks	ADJ	OmegaWiki	alle dertig jaar geschiedend .
+kwetsbaar	ADJ	OmegaWiki	gemakkelijk beschadigd of een voorzichtige behandeling vereisend .
+bombay	NOUN	OmegaWiki	hoofdstad van de staat maharashtra in india .
+braaf	ADJ	OmegaWiki	zacht en beminnelijk , vanuit een attente of vriendelijke opstelling .
+verwerping	NOUN	OmegaWiki	een uitdrukking van afkeuring .
+kleine_broertje	NOUN	OmegaWiki	een man met een lagere leeftijd dan een of meer van zijn broers of zussen .
+alaska	NOUN	OmegaWiki	de 49e staat van de verenigde staten van amerika , ten westen van canada in noord-amerika .
+aandringen	VERB	OmegaWiki	nadrukkelijk of vastbesloten zijn en weigeren toe te geven .
+rutherfordium	NOUN	OmegaWiki	scheikundig element met symbool rf en atoomnummer 104. het is een vermoedelijk grijs of zilverkleurig overgangsmetaal .
+azimut	NOUN	OmegaWiki	de hoekafstand van een object rond of parallel met de horizon vanuit een vooraf bepaald punt .
+overlijdensakte	NOUN	OmegaWiki	een door de aanwezige arts getekend formulier met aanduiding van tijd en doodsoorzaak van iemand .
+oneindig	ADJ	OmegaWiki	wat geen einde heeft .
+oneindig	ADJ	OmegaWiki	zonder grenzen in omvang of grootte of hoeveelheid .
+vijf	NOUN	OmegaWiki	het vijfde natuurlijk getal ( 5 ) .
+vijf	NOUN	OmegaWiki	het cijfer `` 5 '' .
+vijf	NOUN	OmegaWiki	het hoofdtelwoord dat na vier en vóór zes komt , vertegenwoordigd in romeinse cijfers als v en in arabische cijfers als 5 .
+luchtdruk	NOUN	OmegaWiki	het gewicht van de atmosfeer van de aarde op een gedeelte van het aardoppervlak , gemeten met een kwikbarometer op zeeniveau , overeenkomende met een druk vereist om een kwikkolom van 760mm omhoog te brengen .
+luchtdruk	NOUN	OmegaWiki	opwaartse kracht zoals degene welke een vliegtuig omhoog houdt .
+antithese	NOUN	OmegaWiki	het tegengestelde .
+schuim	NOUN	OmegaWiki	een grote hoeveelheid kleine luchtzakjes of bellen met vaste of vloeibare grenzen .
+smartphone	NOUN	OmegaWiki	een mobiele telfoon met geavanceerde mogelijkheden , vaak met pc-achtige functionaliteit .
+computer	NOUN	OmegaWiki	een programmeerbaar apparaat dat wiskundige berekeningen en logische operaties uitvoert , in het bijzonder een apparaat dat grote hoeveelheden gegevens snel kan verwerken , opslaan en ophalen .
+airconditioner	NOUN	OmegaWiki	een toestel dat de lucht koel en droog houdt .
+taxateur	NOUN	OmegaWiki	een persoon die schat , vooral een die kosten raamt .
+taxateur	NOUN	OmegaWiki	iemand die rekent .
+taxateur	NOUN	OmegaWiki	iemand die officieel de waarde van of de kwaliteit van dingen schat .
+omroeper	NOUN	OmegaWiki	een persoon die programma 's inleidt of het nieuws leest op radio of televisie .
+moskou	NOUN	OmegaWiki	de hoofdstad en grootste stad van rusland .
+verte	NOUN	OmegaWiki	de hoeveelheid ruimte tussen twee punten .
+retinitis	NOUN	OmegaWiki	ontsteking van het netvlies .
+overerving	NOUN	OmegaWiki	de afstammelingen van een individu .
+overerving	NOUN	OmegaWiki	gelijkenis tussen individuen gerelateerd door afkomst ; transmissie van trekken van de ouders naar de nakomenlingen .
+overerving	NOUN	OmegaWiki	een lijn van voorvaderen die tot bij iemands ouders loopt .
+eufemisme	NOUN	OmegaWiki	een stijlfiguur waarbij iets mooier wordt voorgesteld dan het is .
+verwijderen	VERB	OmegaWiki	verwijderen of van de hand doen , zoals op één of andere manier ongewenst zijnd .
+verwijderen	VERB	OmegaWiki	een gebruik doen ophouden .
+verwijderen	VERB	OmegaWiki	iets wegnemen .
+ongerustheid	NOUN	OmegaWiki	een hevig gevoel van onrust .
+burqa	NOUN	OmegaWiki	een loshangend , gewoonlijk zwart of lichtblauw kleed dat door moslima 's gedragen wordt en dat gans het lichaam van hoofd tot tenen bedekt .
+intussen	VERB	OmegaWiki	gedurende die tijd .
+telescoop	NOUN	OmegaWiki	optisch instrument voor het observeren van objecten over een grote afstand .
+negenste	NOUN	OmegaWiki	het negende natuurlijke getal ( 9 ) .
+negenste	NOUN	OmegaWiki	een van de negen gelijke delen van een geheel .
+vagebond	NOUN	OmegaWiki	een persoon die door de gemeenschap in de steek is gelaten , vooral zonder vaste woning en middelen van bestaan .
+spoorwegstation	NOUN	OmegaWiki	een plaats langs de route waar een trein stopt om passagiers of goederen in of uit te laden , in het bijzonder met bijbehorende gebouwen en diensten .
+spoorwegstation	NOUN	OmegaWiki	een gebouw waar een trein in of bij stopt .
+myanmar	NOUN	OmegaWiki	een land in zuid-oost azië dat gedeeltelijk op het indische subcontinent ligt en grenst aan bangladesh , china , india , laos en thailand .
+ijsbeer	NOUN	OmegaWiki	grote witte beer die in de poolstreken woont .
+rekenmachine	NOUN	OmegaWiki	een electronisch apparaat dat mathematische berekeningen uitvoert .
+niet_houden_van	VERB	OmegaWiki	een afkeer of tegenzin hebben of voelen voor .
+problematisch	ADJ	OmegaWiki	niet gemakkelijk , waar moeite , geduld en inspanning voor vereist is .
+problematisch	ADJ	OmegaWiki	veel inspanning kostend om te doen of te begrijpen .
+zero	NOUN	OmegaWiki	het cijfer `` 0 '' .
+regenval	NOUN	OmegaWiki	water dat als regen uit de wolken valt .
+regenval	NOUN	OmegaWiki	neerslag in de vorm van vloeibare waterdruppels met een diameter groter dan 0,5 millimeter .
+journalistiek	NOUN	OmegaWiki	de discipline van vergaring , analysering , verifiëring en presentering van nieuws , rekening houdend met actuele gebeurtenissen , trends , kwesties en mensen .
+bontgevoerd	ADJ	OmegaWiki	met een laag pels voorzien .
+aristocratisch	ADJ	OmegaWiki	behorende tot of karakteristiek voor de adel of aristocratie .
+vriezer	NOUN	OmegaWiki	een koelkast waarin bevroren voedsel voor een lange tijd wordt bewaard .
+consciëntie	NOUN	OmegaWiki	het moreel gevoel van goed en kwaad .
+prettig_kerstfeest	NOUN	OmegaWiki	een groet met kerst .
+spannend	ADJ	OmegaWiki	het creëren of produceren van opwinding .
+flessendop	NOUN	OmegaWiki	een toestel gebruikt om de opening van van allerlei flessen te dichten .
+kaffer	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+gratie	NOUN	OmegaWiki	verfijning , sierlijkheid en schoonheid , in beweging , voorkomen of manieren .
+geel	ADJ	OmegaWiki	de kleur hebbend van een eierdooier , een citroen of goud .
+kudde	NOUN	OmegaWiki	een groot aantal dieren , voornamelijk schapen of geiten die samen gehouden worden .
+tafelmanieren	NOUN	OmegaWiki	manier van doen aan tafel .
+geprivilegieerd	ADJ	OmegaWiki	een bevoorrechte positie .
+connectie	NOUN	OmegaWiki	een sociale of zakelijke verwantschap .
+indonesisch	NOUN	OmegaWiki	een austronesische taal voornamelijk gesproken in indonesië en oost-timor .
+drinken	VERB	OmegaWiki	een vloeistof door de mond consumeren .
+drinken	VERB	OmegaWiki	vloeistof consumeren die alcohol bevat .
+toeva	NOUN	OmegaWiki	een russische republiek gelegen in zuid centraal siberië .
+münchen	NOUN	OmegaWiki	de hoofdstad van de duitse federale staat beieren en de op twee na grootste stad van duitsland
+baai	NOUN	OmegaWiki	een ingang van de zee met een zeer grote wateroppervlakte , dieper inspringend dan een baai en gewoomlijk meer ingesloten .
+baai	NOUN	OmegaWiki	een open , gebogen inkeping gemaakt door de zee of het meer in de kustlijn .
+bruidsmeisje	NOUN	OmegaWiki	een jonge vrouw die de bruid begeleidt tijdens een huwelijksceremonie .
+bloei	NOUN	OmegaWiki	de ontluiking van bloemen op een plant .
+bloei	NOUN	OmegaWiki	een bloem op een boom of struik .
+verkeerd	ADJ	OmegaWiki	één of meerdere fouten inhoudend .
+verkeerd	NOUN	OmegaWiki	op een foute manier .
+verkeerd	ADJ	OmegaWiki	afwijkend van wat als goed , correct of juist beschouwd wordt .
+benzinemotor	NOUN	OmegaWiki	een inwendige verbrandingsmotor die een mengsel van lucht en benzinedamp als brandstof gebruikt .
+aartsengel	NOUN	OmegaWiki	een engel geplaatst boven de hoogste rang in de hemelse hiërarchie .
+apenstaartje	NOUN	OmegaWiki	het logogram @ .
+haring	NOUN	OmegaWiki	een klein type vette vis van het geslacht clupea , vaak als voedsel verbruikt .
+libido	NOUN	OmegaWiki	sexueel verlangen of drang .
+ruiter	NOUN	OmegaWiki	een persoon die paarden berijdt .
+ruiter	NOUN	OmegaWiki	een man die een paard berijdt .
+simpel	ADJ	OmegaWiki	weinig kennis of inspanning vereisend .
+simpel	ADV	OmegaWiki	op een simpele wijze of staat .
+simpel	ADJ	OmegaWiki	een gebrek aan goede smaak , wijsheid of vooruitzicht vertonen .
+van_glas	ADJ	OmegaWiki	materiaal in glasachtige toestand .
+beheren	VERB	OmegaWiki	de leiding of de zorg nemen over .
+bespotten	VERB	OmegaWiki	met minachting handelen of spreken .
+toepassing	NOUN	OmegaWiki	het benutten van iets .
+staking	NOUN	OmegaWiki	de collectieve neerlegging van het werk .
+jordanië	NOUN	OmegaWiki	een land in het midden-oosten .
+spierkracht	NOUN	OmegaWiki	spiercapaciteit om snelheid of vorm van een ander fysiek voorwerp te veranderen of een andere kracht te bestrijden .
+lieveheerbeestje	NOUN	OmegaWiki	ieder kevertje van de familie coccinellidae , met een typisch afgeronde vorm en een rood of geel gepikkeld schild .
+hoornvlies	NOUN	OmegaWiki	het doorschijnende voorste gedeelte van het oog dat de iris , pupil en voorste oogkamer bedekt .
+bloedonderzoek	NOUN	OmegaWiki	onderzoek naar de samenstelling van het bloed .
+manubrium_sterni	NOUN	OmegaWiki	het centrale smalle bot aan de voorzijde van de borst .
+suprematie	NOUN	OmegaWiki	de toestand die bestaat wanneer één persoon of groep de macht heeft over een ander .
+wrevel	NOUN	OmegaWiki	het feit of het gevoel van ontevreden te zijn .
+wrevel	NOUN	OmegaWiki	iets dat ergert .
+jojo	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+jojo	NOUN	OmegaWiki	een stuk speelgoed dat bestaat uit twee uitgebalanceerde schijven als gewicht , verbonden door een as , waaromheen een touwtje wordt gewonden . aan het uiteinde van het touwtje zit een lusje ; het spelen gebeurt door het lusje om een vinger te doen , het gewicht vast te houden , en dit in een vloeiende beweging weg te werpen . enige trucjes kunnen worden uitgevoerd alvorens het gewicht naar de hand terug te laten keren .
+eten	VERB	OmegaWiki	iets vasts of semi-vasts consumeren ( meestal voedsel ) door het in de mond te stoppen en uiteindelijk door te slikken .
+eten	VERB	OmegaWiki	een maaltijd nemen .
+welgemeend	ADJ	OmegaWiki	warmte en vriendelijkheid uitstralen .
+jaargetijde	NOUN	OmegaWiki	een van de vier gelijke perioden waarin het jaar is verdeeld door nachteveningen en zonnewendingen , ontstaan door de zichtbare beweging van de zon noord en zuid van de evenaar tijdens de elliptsche omloop van de aarde . deze perioden ( lente , zomer , herfst en winter ) hebben hun eigen weerskarakteristieken .
+jaargetijde	NOUN	OmegaWiki	een jaarlijkse terugkerende periode van onbepaalde lengte , vrij lang maar nog korter dan een jaar , als een bepaald gewas rijp is of een bepaald type werk , meestal verwant met landbouw , wordt uitgevoerd .
+klassiek	ADJ	OmegaWiki	de aanvaarde gewoontens en welvoegelijkheden volgen .
+klassiek	NOUN	OmegaWiki	een creatie van de hoogste voortreffelijkheid .
+ångström	NOUN	OmegaWiki	een internationale erkende eenheidsmaat voor lengte die gelijk aan 0.1 nanometer ( nm ) .
+rat	NOUN	OmegaWiki	elk van de vele knaagdieren die gelijk maar groter zijn aan een muis .
+gebied	NOUN	OmegaWiki	het bereik van de laagste noot tot de hoogste noot dat een instrument kan weergeven .
+gebied	NOUN	OmegaWiki	de plek waar een voorwerp of organisme zich bevindt .
+gebied	NOUN	OmegaWiki	een terrein in welk iets optreedt of teweeg brengt of de macht of de controle bezit .
+gebied	NOUN	OmegaWiki	een bepaalde omgeving of levensloop .
+andere_tijden,_andere_regels	NOUN	OmegaWiki	omstandigheden veranderen met het verstrijken van de tijd .
+androgeen	NOUN	OmegaWiki	een mannelijk geslachtshormoon geproduceerd in de testikels , welk verantwoordelijk is voor de typische mannelijke kenmerken .
+oceaan	NOUN	OmegaWiki	de watermassa die het aardoppervlak bedekt met uitsluiting van meren en binnenzeeën .
+taalwetenschap	NOUN	OmegaWiki	de wetenschappelijke studie van de natuurlijke talen .
+bruinkool	NOUN	OmegaWiki	kolen van relatief recente oorsprong , bestaande uit lagen opgebouwd van gedeeltelijk verteerde vegetatie , intermediair tussen turf en bitumineuze kolen ; bevat vaak patronen uit het hout waaruit zij zijn gevormd .
+budgettair	ADJ	OmegaWiki	van of in relatie tot een budget .
+wiskundige	NOUN	OmegaWiki	een wetenschapper die de wiskunde beoefent .
+kameelachtigen	NOUN	OmegaWiki	leden van de biologische familie camelidae .
+kaasrasp	NOUN	OmegaWiki	een keukentoestel gebruikt om voedingswaren ( zoals kaas en wortelen ) in fijne reepjes te snijden .
+schoolhoofd	NOUN	OmegaWiki	de persoon die de leiding heeft over en verantwoordelijk is voor de gang van zaken van een school .
+zeeland	NOUN	OmegaWiki	een nederlandse provincie .
+geslachtsgemeenschap	NOUN	OmegaWiki	de handeling van seksuele voortplanting tussen een man en een vrouw ; de penis van de man wordt ingebracht in de vagina van de vrouw en gestimuleerd totdat het orgasme en de ejaculatie plaatsvinden .
+synoniem	NOUN	OmegaWiki	een woord of zin die precies dezelfde of vrijwel gelijke betekenis heeft als een ander woord of een andere zin .
+surinaams	NOUN	OmegaWiki	creoolse taal die in suriname wordt gesproken .
+trechter	NOUN	OmegaWiki	een conische gevormde pijp , gebruikt als voorziening voor het gieten van vloeistof of korrelachtige substanties in een container met smalle opening .
+broodbakmachine	NOUN	OmegaWiki	elektrisch keukenapparaat , dat automatisch brood kan bakken nadat de ingrediënten toegevoegd zijn .
+broodbakmachine	NOUN	OmegaWiki	iemand die brood en taarten bakt en ze verkoopt .
+commissie	NOUN	OmegaWiki	een bijdrage aangerekend voor het uitvoeren van een transactie .
+knopje	NOUN	OmegaWiki	een vrouwelijk seksueel orgaan homoloog aan de penis , gelegen aan de bovenzijde van de vulva tussen de grote schaamlippen .
+heptadecagoon	NOUN	OmegaWiki	een veelhoek met zeventien zijden .
+hoogsilezisch	NOUN	OmegaWiki	een taal van polen , de tsjechische republiek en duitsland .
+eetstoornis	NOUN	OmegaWiki	een stoornis van de normale eetroutine .
+uitzetten	VERB	OmegaWiki	een persoon wegsturen vanuit een land , een gebouw enz. , doormiddel van een legaal proces .
+uitzetten	VERB	OmegaWiki	het land uitzetten .
+korea	NOUN	OmegaWiki	een geografisch gebied , beschaving , en voormalig staat gelegen op het koreaanse schiereiland in oost-azië .
+hoofdgerecht	NOUN	OmegaWiki	een schotel in een volgorde van opgediende schotels die samen een menu maken .
+lichtzinnig	ADJ	OmegaWiki	niet ernstig in inhoud , houding of gedrag .
+onverschilligheid	NOUN	OmegaWiki	afwezigheid van interesse .
+kookgelegenheid	NOUN	OmegaWiki	een ruimte die is uitgerust voor het voorbereiden en bereiden van voedsel .
+saboteren	VERB	OmegaWiki	eigendom verwoesten of normaal functioneren belemmeren
+test	VERB	OmegaWiki	een onderzoek uitvoeren op ( een substantie , een materiaal of een systeem ) door een of andere chemische of fysische procedure toe te passen ontworpen om op de aanwezigheid van een substantie of het hebben van een eigenschap aan te tonen .
+biaks	NOUN	OmegaWiki	een taal van indonesië ( papoea ) .
+visite	NOUN	OmegaWiki	eén enkele handeling van het bezoeken .
+ma	NOUN	OmegaWiki	een vrouw met tenminste een kind .
+ma	NOUN	OmegaWiki	een vrouwelijke kloosterling die kiest om biddend en overdenkend te leven in een klooster of convent .
+machinegeweer	NOUN	OmegaWiki	een vuurwapen , dat kogels vlug achtereen afvuurt terwijl het afvuurmechanisme geactiveerd is .
+kern	NOUN	OmegaWiki	het passendste , essentiëelste of vitaalste deel .
+kern	NOUN	OmegaWiki	punt op een segment dat halverwege de uiteinden ligt .
+kern	NOUN	OmegaWiki	het middelste deel , dat duidelijk kan worden onderscheiden van het omvattende deel .
+bestraald	ADJ	OmegaWiki	met radioactiviteit besmet .
+lood	NOUN	OmegaWiki	een zwaar giftig blauwwit metallisch element dat goed smeedbaar is ; het komt voornamelijk voor als galena en wordt gebruikt in legeringen , accumulatoren , kabelmantels , verven en als een stralingsscherm .
+megalomaan	ADJ	OmegaWiki	aan grootheidswaanzin lijdend .
+megalomaan	NOUN	OmegaWiki	een persoon lijdend aan megalomanie .
+turkmenistan	NOUN	OmegaWiki	land in centraal-azië .
+voorzien	VERB	OmegaWiki	toekennen voor een specifiek einde , gebruik of doel .
+voorzien	VERB	OmegaWiki	vooruit in de tijd denken .
+assumeren	VERB	OmegaWiki	iets veronderstellen of denken zonder over een bewijs te beschikken dat het waar is .
+eertijds	ADV	OmegaWiki	in het verleden .
+eertijds	ADV	OmegaWiki	één en maar één maal .
+eertijds	ADV	OmegaWiki	in een tijd in het verleden .
+geïlllustreerd_handschrift	NOUN	OmegaWiki	een handschrift waarin de tekst wordt aangevuld met decoratieve toevoegingen , zoals versierde initialen , randen en kleine illustraties .
+aabenraa	NOUN	OmegaWiki	een stad aan de oostkust van zuid-jutland in denemarken .
+puzzel	NOUN	OmegaWiki	een logicaspel waar een persoon of groep probeert een afbeelding te reproduceren die in vele te verbinden stukken is gesneden .
+civilisatie	NOUN	OmegaWiki	een samenleving in een gevorderde staat van sociale ontwikkeling .
+oneven	ADJ	OmegaWiki	een geheel getal dat geen veelvoud is van twee .
+jammer	ADJ	OmegaWiki	falend in het volbrengen van iemands hoop of verwachtingen .
+jammer	ADV	OmegaWiki	op een ongelukkige manier .
+aanspraak_maken_op	VERB	OmegaWiki	de erkenning van een wedderrechtelijk weggenomen of ontzegd recht of moreel goed eisen .
+teelaarde	NOUN	OmegaWiki	het zachte en losse materiaal waarmee een groot deel van het aardoppervlak bedekt is .
+oogzenuw	NOUN	OmegaWiki	de zenuw die de visuele informatie overbrengt van het netvlies naar de hersenen .
+duizeligheid	NOUN	OmegaWiki	de sensatie van onregelmatige of draaiende beweging , ofwel vanuit zichzelf of van externe voorwerpen .
+mozambikaanse_gebarentaal	NOUN	OmegaWiki	een taal van mozambique .
+voorwerp	NOUN	OmegaWiki	iets wat fysiek bestaat .
+keniaan	NOUN	OmegaWiki	land in oostelijk afrika .
+meitnerium	NOUN	OmegaWiki	scheikundig element met symbool mt en atoomnummer 109. het is een vermoedelijk grijs of zilverkleurig overgangsmetaal .
+bajes	NOUN	OmegaWiki	een plaats waar individuele personen in hun persoonlijke vrijheid beperkt worden .
+zwachtel	NOUN	OmegaWiki	een of ander therapeutisch materiaal dat men op een kwetsuur aanbrengt .
+emulsie	NOUN	OmegaWiki	een stabiele dispersie van een vloeistof in een tweede niet-mengbare vloeistof , zoals melk ( olie gedispergeerd in water ) .
+emulsie	NOUN	OmegaWiki	een substantie die twee vloeistoffen helpt te combineren , voornamelijk een op water gebaseerde vloeistof en een olie .
+perplex	ADJ	OmegaWiki	met angst , ontzetting of consternatie geslagen zijn .
+perplex	ADJ	OmegaWiki	hevig ontsteld door vele conflictsituaties of verklaringen .
+gitaarspeler	NOUN	OmegaWiki	een persoon die de gitaar bespeelt .
+aanhangsel	NOUN	OmegaWiki	wat behoort tot iets anders dat als hoofdzaak beschouwd wordt ; iets additioneel en ondergeschikt , een hulpstuk .
+ingang	NOUN	OmegaWiki	een inkomplaats of ingang , voornamelijk een hal of vestibule .
+stellig	ADJ	OmegaWiki	zonder enige twijfel of mogelijkheid tot afwijken .
+stellig	ADV	OmegaWiki	op een categorische manier .
+weerspanning	ADJ	OmegaWiki	krachtig weerstand aan de oppositie bieden .
+bezoek	NOUN	OmegaWiki	eén enkele handeling van het bezoeken .
+romeinse_cijfer	NOUN	OmegaWiki	de symbolische voorstelling van nummers gebruik makend van de tekens ivxlcdm .
+uitstekend	ADJ	OmegaWiki	van de hoogste kwaliteit .
+muil	NOUN	OmegaWiki	een laag schoeisel , gemakkelijk aan en uit te doen , wordt normaal binnenshuis gedragen .
+copieus	ADJ	OmegaWiki	in grote hoeveelheid aanwezig .
+ethanol	NOUN	OmegaWiki	een kleurloze vloeistof , mengbaar met water , gebruikt als reagens en oplosmiddel .
+ethanol	NOUN	OmegaWiki	een ontvlambare kleurloze vloeistof , die als oplosmiddel , desinfecteermiddel en roesmiddel gebruikt wordt .
+naaldboom	NOUN	OmegaWiki	een boom die kegels draagt .
+auditief	ADJ	OmegaWiki	van het oor .
+beamen	VERB	OmegaWiki	bevestigen dat het waar is .
+brood	NOUN	OmegaWiki	een voedsel dat uit deeg bestaat , dat gemaakt is door het te kneden , en dat meestal met gist of bakpoeder rijst , waarna het wordt gebakken .
+communicatie	NOUN	OmegaWiki	het concept , wetenschap , techniek en proces van het overbrengen , ontvangen of uitwisselen van informatie en data .
+werkzaam	ADJ	OmegaWiki	een gewenst of beslist effect produceren .
+werkzaam	ADJ	OmegaWiki	betrokken bij een soort operatie .
+geassorteerd	ADJ	OmegaWiki	van of vele verschillende soorten bevattend .
+gooien	VERB	OmegaWiki	een ​​object te veroorzaken om snel te verplaatsen door de lucht , met de kracht van de hand of arm .
+urineren	VERB	OmegaWiki	urine uit de blaas laten stromen .
+vier	NOUN	OmegaWiki	het vierde natuurlijke getal ( 4 ) .
+vier	NOUN	OmegaWiki	het hoofdtelwoord dat na drie en vóór vijf komt , vertegenwoordigd in romeinse cijfers als iv en in arabische cijfers als 4 .
+stamboomonderzoek	NOUN	OmegaWiki	studie of onderzoek naar voorouders betreffende afkomst en/of familiegeschiedenis .
+rondreizend	ADJ	OmegaWiki	gewoonlijk reizend van plaats naar plaats .
+nijdas	ADJ	OmegaWiki	een slecht gehumeurde persoon .
+gootsteen	NOUN	OmegaWiki	een gootsteen in een keuken .
+vaarwel	NOUN	OmegaWiki	een afscheidsgroet ; gebruikt als een of meer mensen in een situatie , dialoog of op een locatie weggaan , terwijl anderen blijven .
+placenta	NOUN	OmegaWiki	de vasculaire structuur in de baarmoeder van de meeste zoogdieren , voor het verstrekken van zuurstof en voedingsstoffen , en de overdracht van afvalstoffen uit de zich ontwikkelende foetus .
+regenworm	NOUN	OmegaWiki	borstelarme worm ( oligochaeta ) uit de orde haplotaxida en de familie regenwormen ( lumbricidae ) .
+isobarisch	ADJ	OmegaWiki	( van een thermodynamisch proces ) een constant drukverloop hebbend .
+afschaffen	VERB	OmegaWiki	een gebruik doen ophouden .
+afschaffen	VERB	OmegaWiki	verwijderen of van de hand doen , zoals op één of andere manier ongewenst zijnd .
+gloeilamp	NOUN	OmegaWiki	met glas omhulde gloeidraden die in een lampenfitting gedraaid na stroomtoevoer licht geven .
+hulporganisatie	NOUN	OmegaWiki	een organisatie in dienst tot het verstrekken van hulp .
+penis	NOUN	OmegaWiki	de mannelijke seksuele orgaan voor copulatie en de plassen , de buisvormige deel van de mannelijke genitaliën
+in_doodsangst_verkeren	VERB	OmegaWiki	lijden aan hevige pijn of smarten .
+vleugje	NOUN	OmegaWiki	een kleine en nauwelijks vast te stellen hoeveelheid .
+gedeelte	NOUN	OmegaWiki	een kleiner , autonoom deel van een groter geheel . vaak onder verwijzing naar een fabricageonderdeel van een groter toestel .
+combinatieslot	NOUN	OmegaWiki	een slot dat alleen kan geopend worden door het draaien van de kiesschijf in een speciale volgorde .
+siroop	NOUN	OmegaWiki	iedere dikke vloeistof die als smaakstof aan het voedsel toegevoegd of gegoten wordt en een hoog suikergehalte heeft .
+verlies	NOUN	OmegaWiki	resultaat van een bedrijfshandeling waar overtollige kosten groter zijn dan ontvangsten of inkomsten .
+yvelines	NOUN	OmegaWiki	een frans departement in de île-de-france regio .
+gram	ADJ	OmegaWiki	geërgerd , in een boze bui , boosheid tonend .
+gram	NOUN	OmegaWiki	eenheid van massa met symbool `` g '' .
+zwartgalligheid	NOUN	OmegaWiki	psychische en / of psychologische staat van terneergeslagenheid welke kan leiden tot ongeluk , pessimisme en mistroostigheid .
+putoptie	NOUN	OmegaWiki	het recht aandelen in de toekomst voor een bepaalde prijs te verkopen
+neushoorn	NOUN	OmegaWiki	een grote plantenetende pachyderm uit de familie rhinocerotidae , met een dikke , grijze huid en een of twee hoorns op hun snuit .
+imbeciel	ADJ	OmegaWiki	intelligentie missend .
+aanzien	NOUN	OmegaWiki	reputatie of invloed dankzij succes .
+aanzien	NOUN	OmegaWiki	gunstige waardering .
+marshallees	NOUN	OmegaWiki	een taal van de marshalleilanden .
+paprika	NOUN	OmegaWiki	pikante poeder van capsicum annuum
+paprika	NOUN	OmegaWiki	een milde vrucht van de capsicum .
+eindeloos	ADJ	OmegaWiki	zonder onderbreking , ophouden of interruptie .
+eindeloos	ADJ	OmegaWiki	durend of voortdurend voor een onbepaalde lange tijd .
+pief	NOUN	OmegaWiki	volwassen menselijk lid van de kunne die jong begint met het bevruchten van eicellen .
+exquisiet	ADJ	OmegaWiki	zeer voorzichtig en zorgvuldig geselecteerd .
+koers	NOUN	OmegaWiki	iedere sportieve proef waar snelheid op het spel staat .
+vervaardigen	VERB	OmegaWiki	zaken maken , gewoonlijk op grote schaal , met werktuigen en ofwel lichamelijke arbeid of machinale bewerking .
+vervaardigen	VERB	OmegaWiki	iets creëren , werken of wat werk verrichten met resultaat .
+juichen	VERB	OmegaWiki	bijval betonen of door toejuiching gelukwensen .
+schatting	NOUN	OmegaWiki	een ruwe berekening of een inschatting .
+veehouderij	NOUN	OmegaWiki	een tak van de landbouw die zich bezig houdt met het fokken en voederen van vee .
+veehouderij	NOUN	OmegaWiki	het fokken van vee , paarden en gelijksoortige dieren .
+bestrijden	VERB	OmegaWiki	twisten over recht of juistheid .
+stoppel	NOUN	OmegaWiki	kort , ruw haar , vooral op het gelaat van een man .
+stoppel	NOUN	OmegaWiki	een stijf of ruw haar .
+dinsdag	NOUN	OmegaWiki	de tweede dag van de week in europa en in systemen waar de standaard iso 8601 wordt gebruikt of de derde dag van de week in de verenigde staten van amerika .
+entree	NOUN	OmegaWiki	de weg of manier om toegang te krijgen .
+entree	NOUN	OmegaWiki	een weg of middel om te naderen of binnen te komen .
+evenals	ADV	OmegaWiki	als toevoeging aan wat al gezegd of genoemd is .
+akropolis	NOUN	OmegaWiki	de verheven en versterkte plaats in een antieke griekse stad .
+met_klemtoon	ADJ	OmegaWiki	van of in verband met de klemtoon .
+ongerept	ADJ	OmegaWiki	van , betreffende tot , kenmerkend van , of passend bij een maagd .
+categorie	NOUN	OmegaWiki	een groep in welke items zijn ingedeeld op basis van overeenkomst of gedefinieerde criteria .
+spenen	VERB	OmegaWiki	een zuigeling de borst geven .
+kleerhanger	NOUN	OmegaWiki	een driehoekig gebruiksvoorwerp gemaakt uit draad , hout of plastic met een haak aan het boveneinde , wordt gebruikt om kleding al hangend weg te bergen .
+leegte	NOUN	OmegaWiki	de toestand van leeg te zijn .
+leegte	NOUN	OmegaWiki	een ontbrekende stuk ( als een gaping in een manuscript ) .
+opkomst	NOUN	OmegaWiki	de personen of het aantal personen dat aanwezig is .
+wegreizen	VERB	OmegaWiki	een plaats verlaten .
+downtime	NOUN	OmegaWiki	de tijd die verloren gaat vanwege krachten buiten de invloedsfeer , zoals bij een computercrash .
+endodontoloog	NOUN	OmegaWiki	een tandarts gespecialiseerd in de behandeling van kwalen van de tandpulpa en tandzenuwen .
+damaceen	NOUN	OmegaWiki	een inwoner van damascus .
+pogen	VERB	OmegaWiki	zichzelf inspannen om iets te doen of te verwezenlijken .
+vuisthamer	NOUN	OmegaWiki	een gereedschap met een zware kop en een steel dat gebruikt worden om mee te slaan .
+bijstaan	VERB	OmegaWiki	hulp of bijstand verlenen .
+reeks	NOUN	OmegaWiki	een grote groep mensen of zaken op een zekere manier uitgelijnd .
+systematisch	ADJ	OmegaWiki	gekarakteriseerd door orde en planmatigheid .
+beperking	NOUN	OmegaWiki	de eigenschap beperkt of begrenst te zijn .
+succesboek	NOUN	OmegaWiki	een boek dat in vele oplagen verkoopt .
+kristallijn	ADJ	OmegaWiki	helder en transparant zoals kristal .
+archief	NOUN	OmegaWiki	een plaats voor het opslaan van belangrijke en historisch materiaal .
+volkenkundige	NOUN	OmegaWiki	een specialist in de etnologie .
+epiloog	NOUN	OmegaWiki	een korte rede , direct naar de audiëntie toegesproken aan het einde van een theaterstuk .
+epiloog	NOUN	OmegaWiki	een korte rede of tekst aan het einde van een literair werk .
+verbazend	ADV	OmegaWiki	op een verbazingwekkende manier ; tot ieders verrassing .
+huidarts	NOUN	OmegaWiki	specialist binnen de geneeskunde die zich bezighoudt met aandoeningen van de huid , de nagels en het haar , samen huidziekten genoemd .
+endocarpium	NOUN	OmegaWiki	the harde binnenlaag van het pericarp van vele vruchten , zoals de pit of de steen van een kers , perzik of olijf .
+endocarpium	NOUN	OmegaWiki	de houten schil die wordt aangetroffen binnen in sommige soorten fruit , in het bijzonder steenvruchten , die het zaad omvat .
+tweeogig	ADJ	OmegaWiki	betreffende beide ogen .
+eeuwig	ADV	OmegaWiki	voor alle tijd , voor alle eeuwigheid , voor een oneindige hoeveelheid tijd .
+eeuwig	ADJ	OmegaWiki	durend of voortdurend voor een onbepaalde lange tijd .
+soepkip	NOUN	OmegaWiki	een meestal oude en grote kip , die hoofdzakelijk voor het bereiden van soep gebruikt wordt .
+trouwtaart	NOUN	OmegaWiki	een vaak meerlagige taart die ceremonieel wordt aangesneden door het bruidspaar op hun huwelijksfeest .
+kleur_van_de_ogen	NOUN	OmegaWiki	de kleur van de iris van iemands ogen .
+samenwerking	NOUN	OmegaWiki	het proces waarbij mensen of organisaties samenwerken voor een gemeenschappelijk doel te bereiken .
+samenwerking	NOUN	OmegaWiki	werken met iemand anders of werken in een team .
+putsch	NOUN	OmegaWiki	een plotse , doortastende beweging van macht waarbij de bestaande regering wordt omvergeworpen zonder de toestemming van het volk .
+putsch	NOUN	OmegaWiki	plotselinge regeringsmachtsovername , dikwijls met on ( grond ) wettige middelen door een deel van de gevestigde ( staats ) orde ( diensten ) doelend op het omverwerpen van kopstukken .
+putsch	NOUN	OmegaWiki	de plotse omverwerping van een regering .
+putsch	NOUN	OmegaWiki	persoon , die aan een putsch deelneemt .
+engeltjesmaakster	NOUN	OmegaWiki	vrouw , die illegaal abortussen verricht , vaak in onhygiënsche en onveilige omstandigheden .
+oenig	ADJ	OmegaWiki	een gebrek aan goede smaak , wijsheid of vooruitzicht vertonen .
+tweeënvijftig	NOUN	OmegaWiki	het hoofdtelwoord dat na eenënvijftig en vóór drieënvijftig komt , vertegenwoordigd in romeinse cijfers als lii en in arabische cijfers als 52 .
+bloeden	VERB	OmegaWiki	bloed opgeven of verliezen .
+toga	NOUN	OmegaWiki	een mantel uit één stuk , door de mannen gedragen in het antieke rome .
+winstgevend	ADJ	OmegaWiki	een aanzienlijke winst opleverend .
+briefopener	NOUN	OmegaWiki	een meslijkend gereedschap met een botte snede , gebruikt om brieven met open te snijden .
+bedreigen	VERB	OmegaWiki	in gevaar brengen .
+autoseksualiteit	NOUN	OmegaWiki	de manuele prikkeling van iemands eigen geslachtsdelen , meestal op een orgasme eindigend .
+huizenblok	NOUN	OmegaWiki	een gebouw of groep gebouwen , aan alle zijden omgeven door relatief brede straten , ruweg in een vierkant of rechthoek .
+stilistiek	NOUN	OmegaWiki	de bestudering van stijl gebruikt in geschreven of gesproken taal en het effect dat de schrijver of spreker wil hebben op de lezer of toehoorder .
+horde	NOUN	OmegaWiki	een grote groep mensen die zich verenigd heeft voor een bepaald doel .
+kelner	NOUN	OmegaWiki	een persoon die bedient in een restaurant , een café , of iets dergelijks .
+chinees	ADJ	OmegaWiki	uit of gerelateerd aan china , de mensen uit china of hun talen .
+chinees	NOUN	OmegaWiki	een sino-tibetaanse taal voornamelijk gesproken in china en de omringende regio 's en landen .
+goedhartig,	ADJ	OmegaWiki	warmte en vriendelijkheid uitstralen .
+rechtzaak	NOUN	OmegaWiki	juridische analyse en beoordeling van zaken tussen handelende partijen ; of ze wettige of feitelijke punten betreffen . een rechtsoordeel volgens de wet van het land van een zaak , civiel of crimineel van de zaken tussen partijen , of wel wettelijk , dan wel feitelijk , voor een hof dat toepasselijke rechtsspraak doet .
+rechtzaak	NOUN	OmegaWiki	de ingesloten plaats waarin een rechter regelmatig oordelen velt .
+conflictdiamant	NOUN	OmegaWiki	een diamant uit een oorlogsgebied , die gebruikt wordt om gewapende conflicten te financieren .
+lokaliseren	VERB	OmegaWiki	iets tot een plaats beperken .
+draaien	VERB	OmegaWiki	een nummer kiezen op een telefoon .
+criterium	NOUN	OmegaWiki	een standaard of test door welke individuele dingen of mensen kunnen vergeleken worden en beoordeelt .
+criterium	NOUN	OmegaWiki	een standaard met welk iets wordt beoordeeld of afgemeten .
+vrouw	NOUN	OmegaWiki	een getrouwde vrouw .
+vrouw	NOUN	OmegaWiki	een speelkaart met daarop een plaatje van een koningin ; de twaalfde kaart in een kaartspel .
+vrouw	NOUN	OmegaWiki	een volwassen menselijk lid van de sekse die eicellen produceert en nageslacht baart .
+schijnwerper	NOUN	OmegaWiki	in de focus van de publieke belangstelling staan .
+eetstokje	NOUN	OmegaWiki	een werktuig in de vorm van een kleine stok die in paren in china , japan , korea , en vietnam wordt gebruikt om voedsel te eten .
+receptionist	NOUN	OmegaWiki	een hotelreceptionist .
+kuster	NOUN	OmegaWiki	een vaartuig in dienst voor de handel langs de kustplaatsen .
+frikadel	NOUN	OmegaWiki	een schijfvormige portie gehakt of vleesvervangmiddel .
+kapel	NOUN	OmegaWiki	een plaats van aanbidding , kleiner dan , of ondergeschikt aan een kerk .
+pc	NOUN	OmegaWiki	een kleine computer , gebouwd rondom een microprocessor , die gelijktijdig door één persoon te gebruiken is .
+surfen	VERB	OmegaWiki	zich op de golven vlug voortbewegen , gewoonlijk op een surfplank .
+droge	ADJ	OmegaWiki	( bijna ) vrij van vloeistof of vocht .
+dagvlinder	NOUN	OmegaWiki	een vlinder die overdag actief is .
+kabul	NOUN	OmegaWiki	de hoofdstad van afghanistan .
+genadeloos	ADJ	OmegaWiki	geen genade tonend .
+in_'t_klein_verkopen	NOUN	OmegaWiki	de verkoop van goederen , in kleine aantallen en rechtstreeks aan de consument .
+in_'t_klein_verkopen	NOUN	OmegaWiki	plaats waar men artikelen kan aanschaffen .
+vader	NOUN	OmegaWiki	het opperwezen , de schepper , de geest waardoor en waarin alles is , zoals hij bij monotheïsten , vooral bij joden en christenen genoemd wordt .
+vader	NOUN	OmegaWiki	een persoon die heeft gesticht of waarvan wordt afgestamd , als in `` de stichter van een land ''
+vader	NOUN	OmegaWiki	een mannelijke ouder .
+vader	NOUN	OmegaWiki	iemand die activiteit ( en ) verricht om zakelijk goed ( eren ) en/of dienst ( en ) te leveren .
+vader	NOUN	OmegaWiki	een boosaardig fictief karakter in het universum van star wars , een dark lord van de sith .
+vader	NOUN	OmegaWiki	de praktijk van het opstarten van nieuwe organisaties , vooral nieuwe zaken hoofdzakelijk als antwoord op geïndentificeerde opportuniteiten .
+vader	NOUN	OmegaWiki	een boosaardig fictief karakter in het universum van star wars , een dark lord van de sith .
+vader	NOUN	OmegaWiki	een mannelijke ouder .
+vader	NOUN	OmegaWiki	een persoon die heeft gesticht of waarvan wordt afgestamd , als in `` de stichter van een land ''
+vader	NOUN	OmegaWiki	het opperwezen , de schepper , de geest waardoor en waarin alles is , zoals hij bij monotheïsten , vooral bij joden en christenen genoemd wordt .
+vader	NOUN	OmegaWiki	de praktijk van het opstarten van nieuwe organisaties , vooral nieuwe zaken hoofdzakelijk als antwoord op geïndentificeerde opportuniteiten .
+vader	NOUN	OmegaWiki	iemand die activiteit ( en ) verricht om zakelijk goed ( eren ) en/of dienst ( en ) te leveren .
+gelijkwaardigheid	NOUN	OmegaWiki	de toestand om essentieel gelijk te zijn .
+gelijkwaardigheid	NOUN	OmegaWiki	de toestand of de eigenschap van gelijk te zijn .
+hals	NOUN	OmegaWiki	het voorste gedeelte van de hals .
+hals	NOUN	OmegaWiki	het deel van het lichaam ( in een aantal dieren , waaronder mensen ) dat het hoofd en de romp verbindt .
+hals	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+alcoholicus	NOUN	OmegaWiki	een persoon die verslaafd is aan excessief alcoholgebruik .
+alcoholicus	NOUN	OmegaWiki	iemand die regelmatig grote hoeveelheden alcohol drinkt en er aan verslaafd is .
+alomtegenwoordig	ADJ	OmegaWiki	komt overal voor .
+dagvaarding	NOUN	OmegaWiki	volgens de wet , een geschreven eis tot het verschijnen voor de rechtbank voor een getuigenis .
+cruise	NOUN	OmegaWiki	een plezierreis op een schip , gewoonlijk met stopplaatsen in verschillende havens .
+arbeid	NOUN	OmegaWiki	de hoeveelheid energie die door een kracht wordt overgedragen .
+arbeid	NOUN	OmegaWiki	een taak of een werk dat uitgevoerd moet worden , voornamelijk een routineklus , moeilijk of onplezierig .
+arbeid	NOUN	OmegaWiki	iets dat gedaan dient te worden , een te verrichten taak .
+nooddruftig	ADJ	OmegaWiki	niets of bijna niets bezittend .
+vloeken	VERB	OmegaWiki	beledigende taal bezigen .
+schoolslag	NOUN	OmegaWiki	een zwemstijl die op de borst gezwommen wordt .
+brindisi	NOUN	OmegaWiki	een provincie in de apulia regio van italië .
+zinnebeeldige_voorstelling	NOUN	OmegaWiki	een object of een voorstelling dat als symbool dient .
+zinnebeeldige_voorstelling	NOUN	OmegaWiki	een voorstelling met een abstracte of spirituele betekenis door concrete of wezenlijke vormen .
+karavaan	NOUN	OmegaWiki	een configuratie van de transmissie van een motorvoertuig voor het bekomen van een specifieke verhouding tussen de snelheid en de astorsie .
+droogdok	NOUN	OmegaWiki	een dok waar het water uit gepompt kan worden .
+wijden	VERB	OmegaWiki	zich volledig aan een specifieke persoon , activiteit of zaak geven .
+acacia	NOUN	OmegaWiki	een struik of een boom van de soort dat behoort tot het geslacht acacia .
+auditorium	NOUN	OmegaWiki	het gedeelte van een theater enz . waar het publiek zit .
+olijfboom	NOUN	OmegaWiki	het hout van de olijfbomen .
+olijfboom	NOUN	OmegaWiki	een boom van het geslacht olea gecultiveerd voor zijn vruchten .
+alarmsignaal	NOUN	OmegaWiki	een signaal dat wordt gegeven om een gebeurtenis of conditie aan te geven die op gevaar kan duiden .
+driekoppig	ADJ	OmegaWiki	drie koppen hebbende .
+winnen	VERB	OmegaWiki	krijgen als een prijs van een loterij of een andere wedstrijd .
+kou	NOUN	OmegaWiki	koelte te wijten aan een koude omgeving .
+kou	NOUN	OmegaWiki	de staat van lage temperatuur .
+korte_drank	NOUN	OmegaWiki	alcoholische dranken die meer dan 20 % alcohol bevatten .
+bloedvatenstelsel	NOUN	OmegaWiki	kringloop van het bloed in het lichaam .
+bloedvatenstelsel	NOUN	OmegaWiki	deze structuren , met inbegrip van het hart en de bloedvaten , die kanalen voor de doorstroming van bloed voorzien .
+deelneming	NOUN	OmegaWiki	een uitdrukking van sympathie met een ander zijn verdriet .
+deelneming	NOUN	OmegaWiki	een uitdrukking van sympathie met iemands leed .
+slazwierder	NOUN	OmegaWiki	keukentoestel , dat het overtollige water van gewassen slabladeren verwijdert door rotatie .
+opslag	NOUN	OmegaWiki	een plaats waar iets ligt , om het op te slaan , verzekerd te bewaren of te behouden .
+idioot	ADJ	OmegaWiki	intelligentie missend .
+idioot	ADJ	OmegaWiki	een gebrek aan goede smaak , wijsheid of vooruitzicht vertonen .
+idioot	ADJ	OmegaWiki	mentaal niet helemaal gezond..
+kip	NOUN	OmegaWiki	munteenheid van laos .
+kip	NOUN	OmegaWiki	een gedomesticeerde vogel uit de orde hoenders die vaak voor consumptie wordt grootgebracht ( gallus gallus domesticus ) .
+pisa	NOUN	OmegaWiki	een provincie in de regio toscane in italië .
+verschrikkelijk	ADJ	OmegaWiki	verschrikkelijk ; angst en ontsteltenis veroorzakend .
+verschrikkelijk	ADV	OmegaWiki	op een verschrikkelijke manier .
+zus	NOUN	OmegaWiki	een vrouwelijke persoon die dezelfde ouders heeft als een andere persoon .
+zus	NOUN	OmegaWiki	iemands broer of zus .
+kwellend	ADJ	OmegaWiki	ellende en zorg veroorzakend .
+kwellend	ADJ	OmegaWiki	extreem pijnlijk .
+leerzaam	NOUN	OmegaWiki	de handeling of het proces van het overbrengen van informatie of het verkrijgen van kennis of vaardigheden .
+leerzaam	NOUN	OmegaWiki	de kunst of de wetenschap van onderwijzen .
+leerzaam	NOUN	OmegaWiki	bedoeld voor het geven van aanwijzigen , voor onderwijs .
+olievlek	NOUN	OmegaWiki	olie die drijft op een wateroppervlak , omwille van een ongeval , op natuurlijke wijze of zo gewenst . deze oliemassa kan verplaats worden door stroming , getijden en de wind .
+rubbertje	NOUN	OmegaWiki	een voorbehoedsmiddel bestaande uit een dunne rubberen of latex hoes gedragen over de penis gedurende de geslachtsgemeenschap .
+ongerust	ADJ	OmegaWiki	bezorgheid of ongerustheid voelen of tonen .
+fietsenmaker	NOUN	OmegaWiki	een persoon die fietsen verkoopt en repareert .
+protactinium	NOUN	OmegaWiki	scheikundig element met symbool pa en atoomnummer 91. het is een metalliek zilverkleurig actinide .
+bankier	NOUN	OmegaWiki	iemand die een bank bezit of een bank leidt .
+peen	NOUN	OmegaWiki	het absorberende en verankerende orgaan van een vasculaire plant ; hij draagt geen bladeren of bloemen en bevindt zich meestal ondergronds .
+peen	NOUN	OmegaWiki	geel-oranje langwerpige ondergrondse rauw of gekookt eetbare groente .
+beleid	NOUN	OmegaWiki	een algemeen beleidsplan , geformuleerd door een politieke partij , een regeringsinstantie of een dergelijke institutie .
+stembureau	NOUN	OmegaWiki	plaats waar kiesgerechtigde mensen tijdens algemene verkiezingen hum stem mogen uitbrengen .
+spektakel	NOUN	OmegaWiki	een continu luid , ruw of schel rumoer .
+verbazen	NOUN	OmegaWiki	iemand zeer verrassen .
+verbazen	VERB	OmegaWiki	overstelpen met een verrassing of zich plotseling verwonderen .
+biograaf	NOUN	OmegaWiki	een schrijver van iemands biografie .
+drol	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+reukorgaan	NOUN	OmegaWiki	het orgaan van het gezicht om dingen te ruiken .
+ergeren	VERB	OmegaWiki	in hoge mate irriteren of provoceren .
+ergeren	VERB	OmegaWiki	iemand vrijwillig ongenoegen veroorzaken , door handelingen of woorden .
+ergeren	VERB	OmegaWiki	iemand tamelijk boos of ongeduldig maken .
+grondverzakking	NOUN	OmegaWiki	een inzinking van een deel van de aardkorst , gewoonlijk te wijten aan ondergrondse opgravingen .
+demotiveren	VERB	OmegaWiki	het laten verliezen van iemand zijn motivatie .
+geschikt	ADJ	OmegaWiki	voldoende hebben of de vereiste eigenschappen bezitten voor een zeker doel of zaak ; passend voor de gelegenheid .
+geschikt	ADV	OmegaWiki	op een geschikte manier .
+aandachtig	ADJ	OmegaWiki	intensief gefocust .
+kwaal	NOUN	OmegaWiki	een verwonding , afwijking of ziekte die fysiek of mentaal lijden veroorzaakt bij de getroffen persoon of het getroffen dier .
+kwaal	NOUN	OmegaWiki	een vastgesteld pathologisch proces met een typische groep kenmerken en symptomen die schadelijk zijn voor het welzijn van een individu .
+klingel	NOUN	OmegaWiki	een drukknop aan een buitendeur die een rinkelend of zoemend geluid afgeeft als erop wordt gedrukt .
+heptagoon	NOUN	OmegaWiki	( meetkunde ) een veelhoek met zeven zijden en zeven hoeken .
+piacenza	NOUN	OmegaWiki	een provincie in de regio emilia-romagna in italië .
+ongehoord	ADJ	OmegaWiki	zich niet houdend aan ethische of morele principes .
+ongehoord	ADJ	OmegaWiki	brengend of oneer verdienend .
+warmte-isolatie	NOUN	OmegaWiki	het proces van verhindering dat warmteoverdracht zou plaats vinden naar of van een lichaam door het te omringen met niet geleidend materiaal .
+schoonschrift	NOUN	OmegaWiki	de kunst van het schoonschrijven .
+schoonschrift	NOUN	OmegaWiki	iemand bedreven in de schrijfkunst .
+varkensgehakt	NOUN	OmegaWiki	met de vleesmolen gemalen varkensvlees .
+varkensgehakt	NOUN	OmegaWiki	met de vleesmolen gemalen vlees .
+schroot	NOUN	OmegaWiki	elk materiaal van metaal dat als afval uit productieprocessen komt en meestal geschikt is voor hergebruik .
+vloeibaar	ADJ	OmegaWiki	bestaande als of de kenmerken van een vloeistof hebbend .
+in_de_regel	ADV	OmegaWiki	als een regel ; gewoonlijk .
+in_de_regel	ADV	OmegaWiki	onder normale condities .
+hazelnootolie	NOUN	OmegaWiki	plantaardige olie , die uit de noten van de hazelnotenboom ( corylus avellana ) geperst wordt .
+hazelnootolie	NOUN	OmegaWiki	de plant die de hazelnoot voortbrengt . botanische naam : corylus avellana .
+hazelnootolie	NOUN	OmegaWiki	vrucht van de hazelaar .
+haarbreedte	ADJ	OmegaWiki	de breedte van een haar hebbend ; zeer smal .
+aboriginal	NOUN	OmegaWiki	inheemse australiër en afstammeling van de eerst gekende menselijke bewoners van het australische continent en omliggende eilanden .
+hyperbool	NOUN	OmegaWiki	een extreme overdrijving , speciaal als een literaire of retorische zinswending .
+nomen	NOUN	OmegaWiki	een woord dat gebruikt kan worden om te verwijzen naar een persoon , plaats , ding , kwaliteit of idee ; een onderdeel van de taal . het kan gebruikt worden als onderwerp of lijdend voorwerp voor een werkwoord . bijvoorbeeld een tafel of een computer .
+set	NOUN	OmegaWiki	verzameling verschillende voorwerpen voor een specifiek doel .
+set	NOUN	OmegaWiki	overeenkomstige verzameling van soortgelijke zaken .
+apotheek	NOUN	OmegaWiki	een winkel waar medicijnen gemaakt en verkocht worden .
+begin	NOUN	OmegaWiki	oorsprong , begin van een gebeurtenis , van een conditie of van een periode .
+begin	NOUN	OmegaWiki	de aanvang van een activiteit of gebeurtenis .
+al	NOUN	OmegaWiki	ieder individu of elk element van een bepaalde klasse , zonder uitzondering .
+al	ADV	OmegaWiki	voor een aangegeven tijd , in het verleden , het heden of de toekomst .
+al	ADJ	OmegaWiki	ieder element van een telbare groep , zonder uitzondering .
+map	NOUN	OmegaWiki	gestructureerde lijst van namen en eigenschappen van de bestanden op een opslagmedium .
+verwerpelijk	ADJ	OmegaWiki	onderhevig aan uitzondering of bezwaar .
+ringvinger	NOUN	OmegaWiki	de vinger tussen de middenvinger en de pink .
+milieubeleid	NOUN	OmegaWiki	officieele uiting van principes , intenties , waarden en doelstellingen die gebaseerd zijn op de wetgeving en de autoriteit van de regering van een staat en die dient als een leidraad voor de activiteiten van overheids en private activiteiten met betrekking tot het milieu
+taart	NOUN	OmegaWiki	een lelijke of humeurige vrouw .
+taart	NOUN	OmegaWiki	meestal cirkelvormig gebak , gemaakt van deeg en afgewerkt met slagroom , vruchten of marsepein .
+denigreren	VERB	OmegaWiki	valselijke aanval met kwaadaardige bedoeling , op iemands goede naam en reputatie .
+voortleven	VERB	OmegaWiki	doorgaan met leven of bestaan ondanks een ongeluk of een beproeving .
+ablutie	NOUN	OmegaWiki	de rituele reiniging van de handen van een priester of van gewijde benodigdheden .
+rijk_zijn_aan	VERB	OmegaWiki	veelvoorkomend of aanwezig zijn in grote hoeveelheden of getallen .
+renpaard	NOUN	OmegaWiki	een paard dat gefokt werd voor wedrennen .
+proxyserver	NOUN	OmegaWiki	een server die clients toestaat indirect verbindingen te maken met andere servers en netwerken . deze biedt het gevraagde ofwel door zelf te verbinden ofwel door de gegevens uit een cache aan te bieden .
+charente	NOUN	OmegaWiki	een departement in centraal frankrijk genaamd naar de rivier de charente .
+peut	NOUN	OmegaWiki	een krachtige stoot met de vuist of een wapen .
+vleugel	NOUN	OmegaWiki	het aanhangsel van het lichaam van een dier ( vogel , vleermuis , insect ) dat het in staat stelt om te vliegen in de lucht .
+vleugel	NOUN	OmegaWiki	vliegtuigonderdeel dat het in staat stelt in de lucht te blijven .
+staakt-het-vuren	NOUN	OmegaWiki	een tijdelijke staking van vijandelijkheden zoals overeengekomen door de strijdende partijen .
+toerenteller	NOUN	OmegaWiki	een toestel dat de omwentelingen per minuut meet van een draaiende as .
+stelling	NOUN	OmegaWiki	een tijdelijk modulair systeem van metaal , hout of bamboe pijpen die een raamwerk vormen voor de ondersteuning van mensen en materiaal bij het maken of repareren van gebouwen en andere grote structuren .
+stelling	NOUN	OmegaWiki	een gerationaliseerde mentale houding .
+stelling	NOUN	OmegaWiki	een enigszins belangrijke wiskundige bewering die bewezen waar is .
+brandkast	NOUN	OmegaWiki	een gepantserde kast die dient om de inhoud zeker te stellen
+uitlaat	NOUN	OmegaWiki	systeem bestaande uit de delen van een machine langs waar verbrandde gassen of stoom worden afgevoerd .
+ruggenstreng	NOUN	OmegaWiki	het lichaamsdeel dat bestaat uit een rij wervels , die het hoofd en romp ondersteunen en tot kanaal voor zenuwen dienen .
+werklozensteun	NOUN	OmegaWiki	geld dat werklozen van de staat krijgen of van een verzekering .
+sterkte	NOUN	OmegaWiki	spiercapaciteit om snelheid of vorm van een ander fysiek voorwerp te veranderen of een andere kracht te bestrijden .
+haai	NOUN	OmegaWiki	een schubbenloze vis met een kraakbenen skelet die 5 tot 7 kieuwspleten aan ieder zijde van de kop heeft .
+aanwijsbaar	ADJ	OmegaWiki	in staat van aangetoond of bewezen te worden .
+aanwijsbaar	NOUN	OmegaWiki	in staat om vastgesteld of gevonden te worden .
+zinnelijkheid	NOUN	OmegaWiki	een verlangen naar sexuele intimiteit .
+zinnelijkheid	NOUN	OmegaWiki	sexuele lust hebben .
+wolkig	ADJ	OmegaWiki	bedekt met wolken .
+nawerking	NOUN	OmegaWiki	een vertraagd effect van een geneesmiddel of therapie .
+bevloeien	VERB	OmegaWiki	het land van water voorzien zodat gewassen en planten groeien of beter groeien .
+winters	ADJ	OmegaWiki	van , betreffende tot of gekenmerkt door de winter .
+dichtvriezen	VERB	OmegaWiki	bedekt worden met een ijslaag .
+beslissing	NOUN	OmegaWiki	een opinie en oordeel gevormd of geuit over iets .
+hem	NOUN	OmegaWiki	bij het kinderspelletje `` tikkertje '' : de rol van de persoon wiens taak het is achter welk van de andere spelers dan ook aan te rennen en die aan te raken ; de eerste persoon die aangeraakt wordt ( meestal met de uitroep `` tikkie , jij bent hem ! '' ) neemt deze rol over .
+best	ADJ	OmegaWiki	de overtreffende trap van goed .
+verwelking	NOUN	OmegaWiki	het uitdrogen , het hangen , en afsterven van de bladeren van een plant , te wijten aan gebrekkige watervoorziening , overmatige transpiratie , of een vasculaire ziekte .
+cocktail	NOUN	OmegaWiki	een gemengde drank , met meestal twee of meer soorten alchohol . vruchtsap of andere smaakmakers .
+coïtus	NOUN	OmegaWiki	de handeling van seksuele voortplanting tussen een man en een vrouw ; de penis van de man wordt ingebracht in de vagina van de vrouw en gestimuleerd totdat het orgasme en de ejaculatie plaatsvinden .
+zwak	ADJ	OmegaWiki	gemakkelijk beschadigd of een voorzichtige behandeling vereisend .
+om_het_leven_brengen	VERB	OmegaWiki	het onrechtmatig en opzettelijk doden een ander mens .
+endogamie	NOUN	OmegaWiki	huwelijk binnen een zekere groep in overeenstemming met de gewoonte en de wet .
+uitvegen	VERB	OmegaWiki	het verwijderen van noteringen of informatie .
+klucht	NOUN	OmegaWiki	een licht en geestig drama met een gelukkige afloop .
+welgemoed	ADJ	OmegaWiki	opgewekt zijn .
+jenzen	VERB	OmegaWiki	een ​​object te veroorzaken om snel te verplaatsen door de lucht , met de kracht van de hand of arm .
+alexandrië	NOUN	OmegaWiki	de tweede grootste stad van egypte en zijn grootste zeehaven , met een bevolking tussen de 3.5 en de 5 miljoen inwoners .
+pleister	NOUN	OmegaWiki	een kleine bedekking voor wondjes die niet ernstig genoeg zijn voor het aanbrengen van een volledig verband .
+yao	NOUN	OmegaWiki	een bantutaal gesproken door de yao aan de zuidelijke kant van het malawimeer .
+fervent	ADJ	OmegaWiki	gekenmerkt door actieve belangstelling en enthousiasme .
+ghanees	NOUN	OmegaWiki	een land in west afrika .
+diagonaal	NOUN	OmegaWiki	een lijn die twee niet aangrenzende hoeken van een polygoon of polyhedron verbindt .
+naaien	VERB	OmegaWiki	sexuele activiteit ontplooien ( gewoonlijk sexuele gemeenschap ) met een ander met als doel sexueel genot .
+tigris	NOUN	OmegaWiki	de oostelijke van de beide stromen die mesopatanië definiëren , en van anatolië door irak naar de perzische golf stroomt .
+pram	NOUN	OmegaWiki	het vlezige orgaan op de borst van een seksueel rijpe menselijk vrouw dat melkklieren bevat .
+planteneter	NOUN	OmegaWiki	een dier dat zich met planten voedt .
+witte_walvis	NOUN	OmegaWiki	( delphinapterus leucas ) tandwalvis die doorgaans bij volwassenheid melkwit van kleur is .
+zintuig	NOUN	OmegaWiki	een van de methoden voor een levend wezen om gegevens uit de omgeving te verzamelen ; het zicht , de reuk , het gehoor , het gevoel , de smaak .
+zintuig	NOUN	OmegaWiki	een fysiek gevoel of perceptie met iets dat met het lichaam in contact komt .
+delegatie	NOUN	OmegaWiki	een groep mensen geautoriseerd om een persoon of organisatie te vertegenwoordigen .
+archeoloog	NOUN	OmegaWiki	oudheidkundige , iemand die archeologie heeft gestudeerd .
+verrot	ADJ	OmegaWiki	een gewijzigde kleur , geur of samenstelling hebbende ( gedeeltelijk of volledig ) , wegens aangevallen van en ontbinding door micro-organismen ( met betrekking tot organische materie ) .
+gebruiker	NOUN	OmegaWiki	een drugsverslaafde , iemand die drugs gebruikt .
+gebruiker	NOUN	OmegaWiki	iemand die een voorwerp , toepassing , proces gebruikt of van een dienst gebruik maakt .
+vloedbranding	NOUN	OmegaWiki	een golf veroorzaakt bij binnenkomend tij opgestuwd door een trechtermonding .
+tiet	NOUN	OmegaWiki	het vlezige orgaan op de borst van een seksueel rijpe menselijk vrouw dat melkklieren bevat .
+hydro-elektrisch	ADJ	OmegaWiki	van of betreffende tot of het gebruik van elektriciteit geproduceerd door waterkracht .
+mechanica	NOUN	OmegaWiki	tak van de natuurkunde over het gedrag van fysische lichamen als zij onderworpen worden aan krachten of verplaatsingen en het daaropvolgende effect van de lichamen op hun omgeving .
+hart-_en_vaatziekten	NOUN	OmegaWiki	een verzamelnaam voor aandoeningen die het hart- en vaatsysteem aangaan
+hart-_en_vaatziekten	NOUN	OmegaWiki	een ziekte die het hart aantast .
+vriend	NOUN	OmegaWiki	een relatie die hulp verleent .
+vriend	NOUN	OmegaWiki	een persoon , anders dan een familielid , echtgenoot of geliefde , wiens gezelschap men op prijs stelt en ten aanzien van wie men genegenheid voelt .
+prolongatie	NOUN	OmegaWiki	de handeling van voortzetten .
+erbium	NOUN	OmegaWiki	scheikundig element met symbool er en atoomnummer 68. het is een zilverwit lanthanide .
+klos	NOUN	OmegaWiki	een haspel waar rond draad kan gewonden worden .
+deegroller	NOUN	OmegaWiki	een cilindervormig keukengereedschap , dat voor het vormen en uitrollen van deeg gebruikt wordt .
+vuurdoop	NOUN	OmegaWiki	de eerste keer dat een persoon iets doet dat onverwacht uitdagend of moeilijk is .
+goudbrasem	NOUN	OmegaWiki	( sparus aurata ) zeevissoort , met goudkleurige schubben .
+verbinden	VERB	OmegaWiki	het verbinden of vestigen van een relatie .
+verbinden	VERB	OmegaWiki	verbinden van twee of meer zaken .
+verbinden	VERB	OmegaWiki	samenvoegen of verbinden , als het ene ding aan het andere , of als verschillende eenheden , om zo het aantal te vergroten , de kwantiteit te verhogen , het hoeveelheid te vergroten , of er een enkel aggregaat van te maken ; ...
+zweden	NOUN	OmegaWiki	een land in noord-europa en een deel van scandinavië
+handdoek	NOUN	OmegaWiki	absorberend lap stof of vel papier van nut om iets of iemand droog te wrijven .
+taak	NOUN	OmegaWiki	een taak of een werk dat uitgevoerd moet worden , voornamelijk een routineklus , moeilijk of onplezierig .
+taak	NOUN	OmegaWiki	een taak aan iemand toegewezen .
+taak	NOUN	OmegaWiki	iets dat gedaan dient te worden , een te verrichten taak .
+overeenkomst	NOUN	OmegaWiki	een onafscheidelijke overeenkomst tussen personen of zaken .
+overeenkomst	NOUN	OmegaWiki	de mondelinge of geschreven verklaring van een ruil van beloften .
+overeenkomst	NOUN	OmegaWiki	een overeenkomst , afspraak of belofte tussen ttwee of meer partijen in daad door schrijven , ondertekend en bezorgd waarbij elk van de partijen zich gehouden is ten opzichte van de andere dat iets gedaan of niet gedaan zal worden of instaat voor de waarheid van bepaalde feiten .
+schande	NOUN	OmegaWiki	gebrek of verlies van eer .
+oorkussen	NOUN	OmegaWiki	kussen dat men onder het hoofd plaatst om te slapen .
+vensterloos	ADJ	OmegaWiki	zonder venster .
+sorteren	VERB	OmegaWiki	op volgorde zetten .
+sorteren	VERB	OmegaWiki	schikken of ordenen volgens klassen of categoriën .
+basjkirostan	NOUN	OmegaWiki	een russische republiek in de oeral gelegen .
+melbourne	NOUN	OmegaWiki	de tweede meest bevolkte stad van australië .
+eudiometer	NOUN	OmegaWiki	meetinstrument bestaande uit een gegradueerde glazen buis voor het meten van de volumeveranderingen bij chemische reacties tussen gassen .
+cryptografie	NOUN	OmegaWiki	een geheime schrijfmethode .
+zekerheid	NOUN	OmegaWiki	iets waaraan men niet kan twijfelen .
+roemeens	NOUN	OmegaWiki	een romaanse taal voornamelijk gesproken in roemenië , moldavië en vojvodina .
+roemeens	ADJ	OmegaWiki	van of in relatie met roemenië , roemenen of de roemeense taal .
+clochard	NOUN	OmegaWiki	een persoon die door de gemeenschap in de steek is gelaten , vooral zonder vaste woning en middelen van bestaan .
+dreuzel	NOUN	OmegaWiki	een persoon zonder magische krachten in de werken van j.k . rowling .
+vermanen	VERB	OmegaWiki	een uitbrander geven of berispen .
+bokking	NOUN	OmegaWiki	een grote gezouten en gerookte haring .
+lichaamsgebrek	NOUN	OmegaWiki	een lichamelijke of mentale handicap , dat een persoon belet een volledig normaal leven te leiden of een winstgevend werk uit te oefenen .
+daarstraks	ADV	OmegaWiki	op een moment vroeger in tijd .
+vercijferen	VERB	OmegaWiki	gewoon schrift in code omzetten .
+opportuniteit	NOUN	OmegaWiki	een gunstige omstandigheid .
+bulgaarse	ADJ	OmegaWiki	uit of gerelateerd aan bulgarije , de mensen uit bulgarije of hun taal .
+verijdelen	VERB	OmegaWiki	een gebeurtenis verhinderen .
+organisatie	NOUN	OmegaWiki	term gebruikt in het handelsrecht omvattend een bedrijf , regering of overheidsafdeling , zaak , vennootschap of vereniging , twee of meer personen met een gezamenlijk of gemeenschappelijk belang of elke andere juridische of commerciële eenheid .
+afgezaagd	ADJ	OmegaWiki	saai en vermoeiend , maar met pretenties van betekenis of originaliteit .
+afgezaagd	ADJ	OmegaWiki	te dikwijls herhaald ; ook bekend door veelvuldig gebruik .
+onafgelaten	ADJ	OmegaWiki	zonder onderbreking , ophouden of interruptie .
+dopplereffect	NOUN	OmegaWiki	het dopplereffect is de verandering van golflengte en frequentie van geluid of licht ( of andere golfverschijnselen ) door een snelheidsverschil tussen de zender en de ontvanger .
+lithium	NOUN	OmegaWiki	een zacht zilverwitkleurig alkalimetallisch element met het symbool li en atoomnummer 3 , hoofdzakelijk voorkomend in de mineralen lepidoliet , spodumeen en amblygoniet . het wordt toegepast in een lithium batterij .
+mathematica	NOUN	OmegaWiki	de wetenschap , die zich met concepten zoals hoeveelheden , structuur , ruimte en veranderingen , bezighoudt .
+blijdschap	NOUN	OmegaWiki	een gevoel of toestand van grote vreugde of trots .
+lichamelijk	ADJ	OmegaWiki	van , betreffende tot , of kenmerkend voor het lichaam .
+bevreesd	ADJ	OmegaWiki	bezorgheid of ongerustheid voelen of tonen .
+predator	NOUN	OmegaWiki	een dier dat andere dieren doodt en opeet .
+innocent	ADJ	OmegaWiki	gebrek aan opzet of capaciteit om te verwonden .
+eerlang	ADV	OmegaWiki	in de nabije toekomst .
+onderzoeken	VERB	OmegaWiki	het zorgvuldig of kritisch observeren of inspecteren .
+onderzoeken	VERB	OmegaWiki	in detail overwegen en onderwerpen aan analyse om essentiele eigenschappen of betekenis te ontdekken .
+zagreb	NOUN	OmegaWiki	de hoofdstad van kroatië .
+olietanker	NOUN	OmegaWiki	een schip ontworpen voor het transport van ladingen vloeistof of gas .
+olietanker	NOUN	OmegaWiki	een zeer groot schip dat ruwe olie vervoert of andere petroleumproducten in grote tanks .
+loir-et-cher	NOUN	OmegaWiki	een departement in noord centraal frankrijk vernoemd naar de rivieren de loir en de cher .
+schepsel	NOUN	OmegaWiki	eender welk levend organisme getypeerd door vrije beweging , het bezit van cellen met noncellaire celwanden en gespecialiseerde zintuigen die snel reageren op prikkels en complexe organische stoffen zoals planten en andere dieren opnemen .
+schepsel	NOUN	OmegaWiki	een levend organisme gekenmerkt door vrijwillige beweging .
+schepsel	NOUN	OmegaWiki	het totale dierenrijk van een gegeven gebied , habitat of geologisch stratum .
+schepsel	NOUN	OmegaWiki	elk nietmenselijk dier , voornamelijk een groot viervoetig zoogdier .
+waag	NOUN	OmegaWiki	een apparaat om het gewicht van iets te meten .
+deputatie	NOUN	OmegaWiki	een groep mensen geautoriseerd om een persoon of organisatie te vertegenwoordigen .
+peluw	NOUN	OmegaWiki	kussen dat men onder het hoofd plaatst om te slapen .
+lichtzinnigheid	NOUN	OmegaWiki	buitensporige toegeeflijkheid aan sensueel plezier .
+dweper	NOUN	OmegaWiki	iemand die zeer loyaal is met zijn eigen sociale groep , en irrationeel intolerant of minachtend tegenover andere .
+sluwheid	NOUN	OmegaWiki	intelligentie gemanifesteerd door het scherpzinnig zijn .
+sluwheid	NOUN	OmegaWiki	een misleidend maneuver ( speciaal om gevangenneming te vermijden ) .
+marge	NOUN	OmegaWiki	de scheidslijn of het gebied direct binnen de grens .
+accumulator	NOUN	OmegaWiki	een oplaadbaar apparaat , waarin elektrische energie kan worden opgeslagen in de vorm van chemische energie , bestaande uit een of meer afzonderlijke secundaire cellen .
+lozère	NOUN	OmegaWiki	een departement in het zuidoosten van frankrijk nabij het centraal massief .
+geboorte	NOUN	OmegaWiki	het feit of de actie van het baren van een kind , als hoogtepunt van zwangerschap .
+geboorte	NOUN	OmegaWiki	het moment waarop iemand geboren wordt
+klinker	NOUN	OmegaWiki	geluid van de stem , die door de vibratie van de larynx voortgebracht wordt en door een min of meer grotere mondopening veranderd wordt .
+klinker	NOUN	OmegaWiki	bouwmateriaal gewoonlijk van klei , gevormd als een rechthoekig blok en gebakken of gebrand in een steenoven .
+angsthaas	NOUN	OmegaWiki	een persoon die het aan moed ontbreekt .
+angsthaas	NOUN	OmegaWiki	een persoon met zwak karakter die moed mist en / of morele kracht .
+oprollen	VERB	OmegaWiki	tot een bal vormen door winden of rollen .
+doorzichtig	NOUN	OmegaWiki	waar licht zo ongehinderd door kan treden , zodat men er makkelijk doorheen kan kijken .
+dubbelster	NOUN	OmegaWiki	zijn twee sterren die om elkaar heen bewegen .
+terugkomen	VERB	OmegaWiki	daarheen gaan waar men eerder was .
+blokfluit	NOUN	OmegaWiki	een fluitachtig blaasinstrument met gaten voor zeven vingers en een voor de duim van de bovenhand .
+antologie	NOUN	OmegaWiki	een verzameling werken van verschillende schrijvers of van één auteur gekozen voor een specifieke strekking of voor specifieke aspecten .
+vertrekken	VERB	OmegaWiki	een plaats , situatie of dialoog verlaten .
+vertrekken	VERB	OmegaWiki	een plaats verlaten .
+vertrekken	VERB	OmegaWiki	zich van een plek naar een andere , verderweg gelegen plaats bewegen .
+luchtdicht	ADJ	OmegaWiki	het binnenstromen of ontsnappen van lucht of gas voorkomen .
+verrnietigen	VERB	OmegaWiki	volledig vernielen zonder een spoor na te laten .
+rechts	ADJ	OmegaWiki	handiger met de rechterhand dan met de linkerhand .
+rechts	NOUN	OmegaWiki	een richting of kant , tegenovergesteld aan links . als een persoon de hand uitsteekt met de handpalm naar beneden , is de vorm van de eerste vinger en de duim niet de letter `` l '' in deze richting .
+bedrukt	ADJ	OmegaWiki	zich mentaal onconfortabel voelend als er iets mis of verkeerd is .
+zangkoor	NOUN	OmegaWiki	een zanggroep ; een groep mensen die samen zingen .
+wedervaren	NOUN	OmegaWiki	een gebeurtenis van sociale of persoonlijke betekenis .
+schoonheidsleer	NOUN	OmegaWiki	overwegingen , waarden en oordelen betreffende de kwaliteit van de menselijke waarnemingszin ( inbegrepen zicht , geluid , reuk , gevoel , smaak en beweging ) opgewekt door fenomenen of bestanddelen van de omgeving .
+ex_aequo	NOUN	OmegaWiki	een latijnse uidrukking die `` van hetzelfde '' betekend .
+antilope	NOUN	OmegaWiki	ieder van de vele herkauwers van de familie bovidae , voornamelijk voorkomend in afrika en azië , voorzien van blijvende , holle onvertakte hoorns .
+aangekochte	NOUN	OmegaWiki	de aanwinst of de manier van iets te kopen door de betaling in geld of iets dergelijks .
+opzeggen	VERB	OmegaWiki	harop , op een oratorische manier spreken .
+finistère	NOUN	OmegaWiki	een frans departement en onderdeel van bretagne .
+rente	NOUN	OmegaWiki	bedrag betaald of opgelegd voor gebruik of lening van geld gedurende een gegeven hoeveelheid tijd .
+zestien	NOUN	OmegaWiki	het hoofdtelwoord dat na vijftien en vóór zeventien komt , vertegenwoordigd in romeinse cijfers als xvi en in arabische cijfers als 16 .
+existeren	VERB	OmegaWiki	een wezen hebben .
+onverwacht	ADJ	OmegaWiki	snel gebeurend met weinig of geen waarschuwing .
+roepnaam	NOUN	OmegaWiki	de naam die bij de geboorte aan een persoon wordt gegeven , en die aan de familienaam voorafgaat .
+hacker	NOUN	OmegaWiki	een persoon die zich ongeoorloofd toegang verschaft tot computers en computernetwerken .
+cuneo	NOUN	OmegaWiki	een provincie in het zuidwesten van de piedmont regio in italië .
+vliegtuig	NOUN	OmegaWiki	elke constructie , machine of voertuig , ontworpen om gedragen te worden door lucht , door de dynamische actie van lucht op de oppervlaktes van de constructie of object of door zijn dichtheid .
+vliegtuig	NOUN	OmegaWiki	aangedreven vliegmachine die zwaarder is dan lucht met vaste vleugels , omhooggestuwd wordt door het bernoulli-effect en in gebruik voor transport .
+fragiel	ADJ	OmegaWiki	gemakkelijk beschadigd of een voorzichtige behandeling vereisend .
+conakry	NOUN	OmegaWiki	de hoofdstad van guinee en een haven aan de atlantische oceaan .
+luxemburg	NOUN	OmegaWiki	de hoofdstad van luxemburg .
+luxemburg	NOUN	OmegaWiki	een land ( groothertogdom ) in het noordwesten van europa dat grenst aan belgië , duitsland en frankrijk . hoofdstad is het gelijknamige luxemburg .
+papiaments	NOUN	OmegaWiki	een taal die gesproken wordt in de nederlandse antillen en aruba .
+kak	NOUN	OmegaWiki	hetgene dat mensen en dierenlichamen van tijd tot tijd ontlasten als een keutel afval van de vertering , nadat dit in de dikke darm verzameld werd .
+kak	NOUN	OmegaWiki	afvalstoffen , zoals zweet , urine , of feces , uit het lichaam uitgescheiden .
+allemaal	NOUN	OmegaWiki	ieder individu of elk element van een bepaalde klasse , zonder uitzondering .
+anus	NOUN	OmegaWiki	het laagste gedeelte van het spijsverteringskanaal , langswaar de uitwerpselen passeren .
+standvastigheid	NOUN	OmegaWiki	de eigenschap vrij van verandering of variatie te zijn .
+rechtspersoon	NOUN	OmegaWiki	een juridische constructie waarmee het wettelijk mogelijk is voor een groep natuurlijke personen te handelen .
+soeplepel	NOUN	OmegaWiki	soort lepel met een lange steel en aan het eind een diepe kom .
+stille_zaterdag	NOUN	OmegaWiki	de zaterdag na goede vrijdag en voor paaszondag .
+golf	NOUN	OmegaWiki	een ingang van de zee met een zeer grote wateroppervlakte , dieper inspringend dan een baai en gewoomlijk meer ingesloten .
+kathedraal	NOUN	OmegaWiki	de hoofdkerk van een bisdom ( waar de zetel van bisschop staat ) .
+diepvriezer	NOUN	OmegaWiki	een koelkast waarin bevroren voedsel voor een lange tijd wordt bewaard .
+koperen_ploert	NOUN	OmegaWiki	de ster ( sol ) in het centrum van ons zonnestelsel , die zorgt voor licht en warmte op aarde .
+zandpapier	NOUN	OmegaWiki	stevig papier voorzien van een laagje zand of een ander schuurmiddel , gebruikt voor het gladschuren of polijsten .
+consistent	ADJ	OmegaWiki	vragen naar strikte aandacht voor de regels en procedures .
+gierig	ADJ	OmegaWiki	overdreven onwillig geld uit te geven .
+worstelen	NOUN	OmegaWiki	sport behelzend een hand-in-handstrijd tussen twee onbewapende tegenstanders met als doel andermans schouders aan de grond te krijgen .
+oppersorbisch	NOUN	OmegaWiki	een west-slavische taal gesproken in de historische provincie opper-lausitz , nu deel van saksen .
+ontleding	NOUN	OmegaWiki	scheiding en isolering van weefsels voor heelkundige toepassingen , of voor de analyses of studie van hun structuur .
+afbakening	NOUN	OmegaWiki	de handeling van een grens af te bakenen of een limiet te stellen .
+afbakening	NOUN	OmegaWiki	de scheidslijn tussen politieke of geografische gebieden .
+elasticiteit	NOUN	OmegaWiki	de bekwaamheid van een materiaal om terug te keren naar de originele staat na vervorming .
+slinger-a	NOUN	OmegaWiki	het logogram @ .
+bibberen	VERB	OmegaWiki	nerveus beven , zoals van schrik .
+chief	NOUN	OmegaWiki	leider van een afdeling of volksstam .
+putschist	NOUN	OmegaWiki	plotselinge regeringsmachtsovername , dikwijls met on ( grond ) wettige middelen door een deel van de gevestigde ( staats ) orde ( diensten ) doelend op het omverwerpen van kopstukken .
+putschist	NOUN	OmegaWiki	persoon , die aan een putsch deelneemt .
+putschist	NOUN	OmegaWiki	de plotse omverwerping van een regering .
+putschist	NOUN	OmegaWiki	een plotse , doortastende beweging van macht waarbij de bestaande regering wordt omvergeworpen zonder de toestemming van het volk .
+komi	NOUN	OmegaWiki	russische republiek ten westen van de oeral .
+tentoonstelling	NOUN	OmegaWiki	een presentatie op grote schaal van objecten of producten .
+hygroscopie	NOUN	OmegaWiki	de mogelijkheid van een stof om watermoleculen van de omgeving op te nemen door ofwel absorptie of adsorptie .
+kogel	NOUN	OmegaWiki	een projectiel , normalerwijze uit metaal , dat met hoge snelheid uit een vuurwapen geschoten wordt .
+verwoesten	VERB	OmegaWiki	zodanig onklaar maken dat het niet meer repareerbaar is en derhalve weg kan .
+verwoesten	VERB	OmegaWiki	de vernietiging veroorzaken van .
+zeekanarie	NOUN	OmegaWiki	( delphinapterus leucas ) tandwalvis die doorgaans bij volwassenheid melkwit van kleur is .
+koliek	NOUN	OmegaWiki	hevige pijn in de buik .
+diamantmijn	NOUN	OmegaWiki	een mijn waaruit diamant gewonnen wordt .
+fins	NOUN	OmegaWiki	een finno-oegrische taal voornamelijk gesproken in finland .
+nep	NOUN	OmegaWiki	een kopie die wordt voorgesteld als het origineel .
+terni	NOUN	OmegaWiki	een provincie in de regio umbrië in italië .
+irriteren	VERB	OmegaWiki	iemand vrijwillig ongenoegen veroorzaken , door handelingen of woorden .
+oven	NOUN	OmegaWiki	een structuur of apparaat waarin warmte wordt opgewekt door de verbranding van brandstof , vaak om huizen te verwarmen , metalen te smelten , stoom te produceren en aardewerk te bakken .
+ranonkel	NOUN	OmegaWiki	enige van de verscheidene planten van het geslacht ranunculus .
+wand	NOUN	OmegaWiki	een verticale constructie van natuursteen , bakstenen , hout , enzovoort , met een lengte en hoogte die veel groter dan zijn dikte , gebruikt om te omsluiten , op te delen of te ondersteunen .
+gebarentaal	NOUN	OmegaWiki	taal waarin men door gebaren en gezichtsexpressies communiceert .
+gebarentaal	NOUN	OmegaWiki	communicerend in een seintaal .
+meerduidig	ADJ	OmegaWiki	van twijfelachtige betekenis .
+meerduidig	ADJ	OmegaWiki	veelzijdig mogelijke verklaringen inhouden .
+geloof	NOUN	OmegaWiki	uitdrukking van iemands geloof in en ontzag voor een opperwezen erkend als schepper van en heerser over het heelal .
+geloof	NOUN	OmegaWiki	wat iemand voor waar aanneemt ; een feit , mening of bewering als reëel of waar beschouwen ondanks gebrek aan sterk bewijs of kennis .
+zesentwintig	NOUN	OmegaWiki	het hoofdtelwoord dat na vijfentwintig en vóór zevenentwintig komt , vertegenwoordigd in romeinse cijfers als xxvi en in arabische cijfers als 26 .
+hoofdstad	NOUN	OmegaWiki	een stad aangewezen als het wetgevend centrum van de regering of een andere autoriteit , vaak de stad waarin de regering zich bevindt ; anders de belangrijkste stat van een land of een onderverdeling daarvan .
+gabber	NOUN	OmegaWiki	een persoon , anders dan een familielid , echtgenoot of geliefde , wiens gezelschap men op prijs stelt en ten aanzien van wie men genegenheid voelt .
+bespeuren	VERB	OmegaWiki	iets vaag zien of van op afstand door zorgvuldig kijken .
+tyfoon	NOUN	OmegaWiki	een storm die gekenmerkt wordt door de convergentie en de opstijgende draaiende wind rond een laagdrukgebied ( het oog ) die heftig van uit een hoogdrukgebied weggetrokken wordt .
+bestormen	VERB	OmegaWiki	bestoken of omsingelen met gewapende machten , met het doel tot overgave te dwingen .
+absoluut_gehoor	NOUN	OmegaWiki	de mogelijkheid om een muzikale noot te herkennen zonder vooraf een referentienoot te hebben gehoord .
+weeklacht	NOUN	OmegaWiki	een schreeuw van verdriet en rouw .
+sprakeloos	ADJ	OmegaWiki	vervuld zijn met de emotionele slag van overstelpende verrassing of shock .
+sprakeloos	ADJ	OmegaWiki	hevig ontsteld door vele conflictsituaties of verklaringen .
+in_hordes	ADJ	OmegaWiki	in een grote menigte , met heel veel
+bekoorlijk	ADJ	OmegaWiki	prettig om naar te kijken .
+bekoorlijk	ADJ	OmegaWiki	zeer aantrekkelijk en in staat van de hoop en het verlangen te prikkelen .
+bekoorlijk	NOUN	OmegaWiki	aangetrokken of bekoort door iets flatterend of begeerlijk .
+slaapvertrek	NOUN	OmegaWiki	kamer in een huis , dat voor gasten op bezoek bestemd is .
+slaapvertrek	NOUN	OmegaWiki	een kamer in een huis ( waar meestal tenminste een bed en een kast staat ) waar een persoon slaapt .
+gone_with_the_wind	NOUN	OmegaWiki	een film uit 1939 , gebaseerd op het boek van margaret mitchell ( 1936 ) met de gelijke naam .
+bereiken	VERB	OmegaWiki	succesvol beëindigen .
+bereiken	VERB	OmegaWiki	het gemaakt hebben of er in slagen of verkrijgen van iets .
+citadel	NOUN	OmegaWiki	een fort op een leidende positie in of bij een stad .
+veiligheidsraad	NOUN	OmegaWiki	het orgaan van de verenigde naties met de taak het voortbestaan van vrede en veiligheid tussen de naties .
+vestigen	VERB	OmegaWiki	iets beginnen , een plan uitvoeren , een instituut een onderneming in het leven roepen enz .
+ontzenuwen	VERB	OmegaWiki	bewijzen dat iets vals of ongeldig is .
+gouden_ring	NOUN	OmegaWiki	een vingerring van goud gemaakt .
+kortsluiten	VERB	OmegaWiki	geharmoniseerd worden in mening , stelling of actie ; verenigd , in overeenstemming of consistent gemaakt worden .
+neus	NOUN	OmegaWiki	het orgaan van het gezicht om dingen te ruiken .
+punt	NOUN	OmegaWiki	het leesteken in de vorm van een stip dat het einde van een zin aangeeft .
+punt	NOUN	OmegaWiki	een rond gevormd leesteken .
+liefdadig	ADJ	OmegaWiki	in verband met of gekenmerkt door liefdadigheid .
+vakantie	NOUN	OmegaWiki	een periode waarin een pauze wordt genomen van werk of studie om uit te rusten , te reizen of voor recreatie .
+córdoba	NOUN	OmegaWiki	hoofdstad van de provincie córdoba in argentinië .
+mierenhoop	NOUN	OmegaWiki	een aardverhoging gevormd door mieren die hun nest graven .
+motorrijder	NOUN	OmegaWiki	iemand die met een motorfiets rijdt .
+trouwjurk	NOUN	OmegaWiki	kleding die gedragen wordt door een bruid tijdens een trouwceremoie ; traditioneel wit in de westerse cultuur .
+struik	NOUN	OmegaWiki	een plant die op een kleine boom lijkt , maar geen stam heeft en die nooit zal ontwikkelen .
+rib	NOUN	OmegaWiki	een van de lange gebogen botten die de ribbenkast vormen .
+ierse_gebarentaal	NOUN	OmegaWiki	een taal uit ierland .
+tienduizend	NOUN	OmegaWiki	tien tot de vierde macht ( 10000 ) .
+'s_ochtends	ADV	OmegaWiki	in de morgen .
+anemisch	ADJ	OmegaWiki	met betrekking tot of lijden aan anemie .
+drinker	NOUN	OmegaWiki	iemand die regelmatig grote hoeveelheden alcohol drinkt en er aan verslaafd is .
+drinker	NOUN	OmegaWiki	een persoon die verslaafd is aan excessief alcoholgebruik .
+cher	NOUN	OmegaWiki	een departement in het midden van frankrijk . het is vernoemd naar de rivier de cher .
+afsnijden	VERB	OmegaWiki	iets in sneetjes snijden .
+befaamd	ADJ	OmegaWiki	goed of wijd bekend .
+befaamd	ADJ	OmegaWiki	boven andere staan in karakter , kundigheid of reputatie .
+befaamd	ADJ	OmegaWiki	algemeen bekend en geacht .
+oeganda	NOUN	OmegaWiki	land in oostelijk afrika met kampala als hoofdstad .
+bosnisch	NOUN	OmegaWiki	een zuid-slavische taal , gesproken door de bosniërs , in bosnië en herzegovina , de regio sandžak of raška .
+compactplaat	NOUN	OmegaWiki	een plat , rond , optisch medium dat tot 700 megabytes digitale data of 80 minuten audio kan opslagen . de opgeslagen data wordt door middel vant een laser afgelezen .
+onschuldig	ADJ	OmegaWiki	niet schuldig .
+onschuldig	ADJ	OmegaWiki	van , betreffende tot , kenmerkend van , of passend bij een maagd .
+onschuldig	ADJ	OmegaWiki	gebrek aan opzet of capaciteit om te verwonden .
+onschuldig	ADJ	OmegaWiki	vrij van zonden zijn .
+oreren	VERB	OmegaWiki	harop , op een oratorische manier spreken .
+arabische_republiek_egypte	NOUN	OmegaWiki	een land in noord-afrika .
+banneling	NOUN	OmegaWiki	een persoon die buiten zijn eigen land woont .
+banneling	NOUN	OmegaWiki	een persoon die verbannen werd uit zijn of haar geboorteland .
+bijbrengen	VERB	OmegaWiki	kennis en/of vaardighe ( i ) d ( en ) overdragen .
+bijbrengen	VERB	OmegaWiki	het bewustzijn terug bijbrengen .
+met_gespreide_benen	ADV	OmegaWiki	met de gestrekte benen ver uiteen .
+cilinder	NOUN	OmegaWiki	de cilinderkamer of ruimte in het cilinderblok van een verbrandingsmotor waarin zich de zuigers bevinden en de verbranding plaats heeft .
+dans	NOUN	OmegaWiki	het uitvoeren van ritmische bewegingen op muziek .
+dans	NOUN	OmegaWiki	een reeks ritmische stappen of bewegingen uitgevoerd met de muziek , voor het plezier of als een sociale interactie vorm .
+amateurisme	NOUN	OmegaWiki	de overtuiging dat mensen moeten deelnemen aan de sport als een hobby ( voor de lol ) eerder dan voor het geld .
+bevriezen	VERB	OmegaWiki	een chemisch vaste staat bereiken door het proces van koelen .
+bevriezen	VERB	OmegaWiki	iets ( meestal voedsel ) in een diepvriezer zetten , opdat het vers blijft .
+explosie	NOUN	OmegaWiki	een heftige , plotse vrijmaking van energie , afkomstig van poeders of gassen die een ogenblikkelijke ontsteking of een andere vorm van detonatie ondergaan , vaak vergezeld van een grote warmte producerende kracht , grote structurele schade , schokgolven en wegvliegende brokstukken .
+politieagent	NOUN	OmegaWiki	een beambte in de wetshandhaving .
+substitutie	NOUN	OmegaWiki	de handeling van het vervangen , in plaats stellen van .
+haat	NOUN	OmegaWiki	extreme haat of walging , het gevoel van volslagen afkeer .
+haat	NOUN	OmegaWiki	een gevoel van sterke afkeer of vijandigheid .
+samenzwering	NOUN	OmegaWiki	een geheime overeenkomst tussen twee of meer partijen voor een frauduleus , onwettig of bedriegelijk doel .
+samenzwering	NOUN	OmegaWiki	goedkeuring van een geheim complot .
+invoegstrook	NOUN	OmegaWiki	een rijstrook , typisch aan de rechterzijde van een rijweg , waar een voertuig kan versnellen tot wanneer het zich veilig in het verkeer kan begeven .
+komisch	ADJ	OmegaWiki	gelach uitlokkend .
+ijdelheid	NOUN	OmegaWiki	gevoelens van overmatige hoogmoed .
+agronoom	NOUN	OmegaWiki	een wetenschapper met als specialiteit de agronomie .
+kruiwagen	NOUN	OmegaWiki	kleine stortkar met één wiel ( zelden met tweewielen ) , die op bouwwerven en in tuinen het transporteren van een zware ladingen mogelijk maakt , men duwt de kar gewoonlijk voor zich uit .
+zien	VERB	OmegaWiki	de ogen actief gebruiken .
+zien	VERB	OmegaWiki	het opnemen van beelden met het oog , zonder daar noodzakelijkerwijs aandacht aan te besteden .
+zien	VERB	OmegaWiki	opmerken , met het visueelvermogen .
+cruiseschip	NOUN	OmegaWiki	passagiersschip voor zeereizen , waarbij niet het vervoer van haven naar haven van belang is maar eerder het verblijf op het uiterst comfortabel schip zelf .
+avocadoboom	NOUN	OmegaWiki	de vrucht van de avocadoboom ( persea americana ) .
+bloesem	NOUN	OmegaWiki	de ontluiking van bloemen op een plant .
+bloesem	NOUN	OmegaWiki	een bloem op een boom of struik .
+oordopje	NOUN	OmegaWiki	een dopje van zacht plooibaar materiaal geplaatst in de opening van het buitenoor , voornamelijk om water of lawaai af te sluiten .
+kleuring	NOUN	OmegaWiki	een handeling of proces welk kleur aanbrengt .
+intuïtie	NOUN	OmegaWiki	instinctieve kennis zonder het gebruik van rationele processen .
+spaakbeen	NOUN	OmegaWiki	het been in de voorarm dat gaat van de elleboog tot aan de duimzijde van de pols .
+belegerd	ADJ	OmegaWiki	omsingeld met troepen .
+fotocamera	NOUN	OmegaWiki	een toestel om foto 's mee te maken .
+piëta	NOUN	OmegaWiki	een diep bewustzijn van het leiden van een ander , gekoppeld met de wens dat te verlichten .
+weleens	ADV	OmegaWiki	bij bepaalde gelegenheden , of in bepaalde omstandigheden , maar niet altijd .
+reddingsboei	NOUN	OmegaWiki	een levensreddende boei ontworpen om naar een persoon in het water te worden geworpen , om drijfvermogen te verschaffen ter voorkoming van verdrinking .
+gezichtsvermogen	NOUN	OmegaWiki	het zintuig of de mogelijkheid van het zien .
+maagzuur	NOUN	OmegaWiki	het uitscheidingsproduct van de maag ; vooral zoutzuur .
+kaarslicht	NOUN	OmegaWiki	licht dat door een brandende kaars wordt uitgestraald .
+weide	NOUN	OmegaWiki	een term voor een veld dat permanent met gras begroeid is voor hooi , maar die ook gebruikt wordt om rijke graasvelden bij water aan te geven die niet ingezet kunnen worden voor het verbouwen van gewassen .
+weide	NOUN	OmegaWiki	land bedekt met gras of kruiden en begraasd door of geschikt om op te laten grazen door vee .
+zuivelfabriek	NOUN	OmegaWiki	een plaats waar melk wordt behandeld en melkproducten zoals boter , kaas enz . geproduceerd worden .
+spierballen	NOUN	OmegaWiki	buigzame spier die is geplaatst in de bovenarm .
+modewoord	NOUN	OmegaWiki	een woord of zinsdeel dat in algemeen gebruik is , maar niet gedurende een lange periode .
+behoud	NOUN	OmegaWiki	de bescherming van een natuurlijke hulpbron , gewoonlijk door gepland beheer , ter voorkoming van uitputting of vernieling .
+teckel	NOUN	OmegaWiki	hondenras met korte poten en een lange romp .
+laten_gelden	VERB	OmegaWiki	het volhouden of verdedigen van aanspraken , rechten , enz .
+geestdrift	NOUN	OmegaWiki	vlotte bereidheid .
+geestdrift	NOUN	OmegaWiki	een gevoel of toestand van grote vreugde of trots .
+beschaving	NOUN	OmegaWiki	een samenleving in een gevorderde staat van sociale ontwikkeling .
+gans	NOUN	OmegaWiki	watervogel uit de familie anatidae .
+erotiek	NOUN	OmegaWiki	de sexuele of erotische eigenschap of kenmerk van iets .
+endodontologie	NOUN	OmegaWiki	de tak van de tandheelkunde dat de kwalen van de tandwortel , tandpulpa en omgevend weefsel behandelt .
+(het)_proeven	NOUN	OmegaWiki	het nemen van een klein beetje voedsel of drank in de mond om het te proeven .
+tweedeling	NOUN	OmegaWiki	een verdeling in tweeën ; een verdeling
+nijverheid	NOUN	OmegaWiki	groep bedrijven samengegaan in dezelfde of soortgelijke economische activiteiten . zij vervaardigen een reeks producten die verkocht worden met de verwachting de totale productiekosten terug te verdienen .
+metser	NOUN	OmegaWiki	een vakman die bouwt met steen of baksteen anders gekend als metselwerk .
+strafinrichting	NOUN	OmegaWiki	een plaats waar individuele personen in hun persoonlijke vrijheid beperkt worden .
+pop	NOUN	OmegaWiki	de vorm aangenomen door sommige insecten in een vroeg stadium van hun ontwikkeling .
+hafnium	NOUN	OmegaWiki	scheikundig element met symbool hf en atoomnummer 72. het is een staalgrijs overgangsmetaal .
+t-splitsing	NOUN	OmegaWiki	een punt waar een weg in twee wegen verandert .
+onderste	ADJ	OmegaWiki	gesitueerd op de bodem of in de onderste positie .
+tactvol	ADJ	OmegaWiki	door voorzichtigheid of bescheidenheid en verstandige zelfbeheersing gekenmerkt .
+ongedierte	NOUN	OmegaWiki	kleine dieren en insekten die schadelijk kunnen zijn en die moeilijk te controleren zijn wanneer ze in grote aantallen voorkomen .
+zerk	NOUN	OmegaWiki	een op een graf geplaatste gedenksteen , vaak voorzien van een inscriptie met naam en geboortedatum en sterfdatum van de overleden persoon .
+grillen	VERB	OmegaWiki	voor eten te bereiden , meestal vlees of vis , boven gloeiend houtskool .
+bezem	NOUN	OmegaWiki	een borstel gemaakt van samengebonden twijgen en een lange steel .
+immer	ADV	OmegaWiki	op ieder moment .
+immer	ADV	OmegaWiki	op elk moment .
+avondmaal	NOUN	OmegaWiki	een maaltijd dat dagelijks wordt gegeten in de namiddag of de avond .
+vijftienjaarlijks	ADJ	OmegaWiki	alle vijftien jaar gebeurend .
+halverwege	ADV	OmegaWiki	in het midden van een afstand tussen twee punten .
+entomoloog	NOUN	OmegaWiki	een persoon die is onderricht in of werkend in de entomologie .
+hoekig	ADJ	OmegaWiki	betreffende een hoek of hoeken ; hebbend een hoek of hoeken ; vormend een hoek .
+belachelijk_maken	VERB	OmegaWiki	met minachting handelen of spreken .
+aronskelk	NOUN	OmegaWiki	iedere plant van de familie araceae , met massaal geplaatste kleine bloempjes op een spadix en omringt door een groot schutblad .
+verkiezingsnederlaag	NOUN	OmegaWiki	her verliezen van een politieke verkiezing .
+respectvol	ADJ	OmegaWiki	eerbied betonend .
+schaamteloos	ADJ	OmegaWiki	zonder enige poging tot verhulling ; overduidelijk .
+schaamteloos	ADJ	OmegaWiki	brengend of oneer verdienend .
+gewone_vos	NOUN	OmegaWiki	( `` vulpes vulpes '' ) heet ; een vleesetende , relatief kleine hondachtige .
+aanbevelen	VERB	OmegaWiki	goedkeuring betuigen .
+waanzinnig	ADJ	OmegaWiki	mentaal niet helemaal gezond..
+de_poeper_dichtknijpen	VERB	OmegaWiki	ophouden met leven .
+week	NOUN	OmegaWiki	een periode van zeven dagen .
+kuis	ADJ	OmegaWiki	van , betreffende tot , kenmerkend van , of passend bij een maagd .
+schitterend	ADJ	OmegaWiki	wat verbazing , verrassing of verwondering opwekt .
+schitterend	ADJ	OmegaWiki	( van weer ) hoogst plezierig .
+gaanpad	NOUN	OmegaWiki	een geplaveid voetpad aan de kant van een weg voor het gebruik van de voetgangers .
+specerij	NOUN	OmegaWiki	elke groene , gebladerde plant , of deel ervan , gebruikt om ons voedsel op smaak te brengen .
+bethlehem	NOUN	OmegaWiki	stad in het west bank gebied van palestina .
+huishoudelijk_afval	NOUN	OmegaWiki	ongewenst materiaal normaliter uit de weg geruimd .
+degen	NOUN	OmegaWiki	een smal , recht , scherppuntig zwaard .
+degen	NOUN	OmegaWiki	een langbladig wapen , met een handgreep ( en soms een gevest ) dat ontworpen werd om te steken , te snijden en te houwen .
+stam	NOUN	OmegaWiki	woord waarvan ander ( e ) woord ( en ) zijn afgeleid .
+ondernemingszin	NOUN	OmegaWiki	bereidheid om nieuwe risico 's op zich te nemen .
+kinetisch	ADJ	OmegaWiki	gekenmerkt door beweging .
+coach	NOUN	OmegaWiki	iemand die atleten traint .
+ontbrekend	ADJ	OmegaWiki	niet in staat gevonden te worden .
+doelpunt	VERB	OmegaWiki	het scoren van een punt in een spel .
+zitkamer	NOUN	OmegaWiki	een kamer in een privaat huis voor algemene sociale activiteiten en vrijetijdsbesteding .
+aanlenging	NOUN	OmegaWiki	het product van vervalsing .
+kompas	NOUN	OmegaWiki	navigatie-instrument dat de voornaamste windstreken van de aarde aanduidt .
+tevoorschijn_komen	VERB	OmegaWiki	binnen het gezichtsveld komen of zichtbaar worden .
+cacaoboter	NOUN	OmegaWiki	lichtgeel plantaardig vet , bekomen door persing van cacaobonen .
+achtloosheid	NOUN	OmegaWiki	het in de steek laten van iets .
+emeticum	NOUN	OmegaWiki	een middel dat braken veroorzaakt .
+onthullen	VERB	OmegaWiki	iets bekent maken dat tot nu toe geheim gehouden werd .
+afwasautomaat	NOUN	OmegaWiki	een toestel om vaatwerk en keukenbenodigdheden automatisch af te wassen .
+bacterieel	ADJ	OmegaWiki	van , betreffende tot , of veroorzaakt door bacteriën .
+aanleg	NOUN	OmegaWiki	de activiteit van construeren .
+aanleg	NOUN	OmegaWiki	de capaciteit om iets goed te doen . ze worden meestal verworven of geleerd , in tegenstelling tot capaciteiten , die vaak als aangeboren worden beschouwd .
+statuten	NOUN	OmegaWiki	akte waarin de wet- en regelgeving van een organisatie of bedrijf en zijn relaties zijn vasthelegd .
+bioclimatologie	NOUN	OmegaWiki	de studie van klimaat in relatie met fauna en flora .
+herbivoor	NOUN	OmegaWiki	een dier dat zich met planten voedt .
+verwaandheid	NOUN	OmegaWiki	gevoelens van overmatige hoogmoed .
+verwaandheid	NOUN	OmegaWiki	hoge dunk van zichzelf .
+verwaandheid	NOUN	OmegaWiki	de liefde voor zichzelf .
+sollicitatiebrief	NOUN	OmegaWiki	brief met welke iemand zijn/haar interesse voor een specifiek werkaanbod uitdrukt .
+ontnuchtering	NOUN	OmegaWiki	bevrijding van valse hoop of illusie .
+verbijstering	NOUN	OmegaWiki	een verbijsterde toestand .
+verbijstering	NOUN	OmegaWiki	overstelpende verrassing of verwondering .
+opvoeder	NOUN	OmegaWiki	een persoon die opleiding geeft , voornamelijk een leraar , principaal , of andere persoon betrokken bij de planning of de richting van de opleiding .
+sponde	NOUN	OmegaWiki	een meubel waarop een persoon kan slapen .
+alchemist	NOUN	OmegaWiki	een beoefenaar van de alchemie .
+kardinaal_getal	NOUN	OmegaWiki	een getal dat wordt gebruikt on een hoeveelheid aan te geven .
+waterijs	NOUN	OmegaWiki	een koud dessert of tussendoortje ( gemaakt van water , gecombineerd met smaakmakers en suiker ) dat populair is als het warm is .
+detail	NOUN	OmegaWiki	een abstract gedeelte van iets .
+opperhuid	NOUN	OmegaWiki	de opper of bovenste laag van de twee hoofdlagen weefsel dat de de huid bevat .
+kazachs	NOUN	OmegaWiki	een turkse taal voornamelijk gesproken in kazachstan .
+ontvreemden	VERB	OmegaWiki	zich iets toeëigenen dat van een ander is zonder diens medeweten , typisch ongezien in plaats van met geweld .
+ontvreemden	VERB	OmegaWiki	zich frauduleus voor eigen gebruik toe-eigenen van aan uw zorg toevertrouwde eigendom .
+helm	NOUN	OmegaWiki	harde hoofdbescherming voor o.a. militairen , brandweerlieden , mobiele eenheid en sporters .
+barbecueën	VERB	OmegaWiki	voor eten te bereiden , meestal vlees of vis , boven gloeiend houtskool .
+verslechtering	NOUN	OmegaWiki	het proces van verandering naar een inferieure staat .
+schokdemper	NOUN	OmegaWiki	mechanisch apparaat onworpen om enige plotselinge schokimpuls te verzachten of op te vangen en kinetische energie te verstrooien ; bestaat doorgaans uit een spiraalveer en een cilinder met daarin een hydraulische vloeistof .
+effectiviteit	NOUN	OmegaWiki	de mogelijkheid of het vermogen tot het produceren van het gewenst effect .
+bijwoord	NOUN	OmegaWiki	een woord dat een werkwoord , bijvoegelijk naamwoord of een ander bijwoord of een voorzetselbepaling nader bepaalt .
+bebouwd	ADJ	OmegaWiki	velden gebruikt voor de opbrengst van gewassen .
+binnenplaats	NOUN	OmegaWiki	een plaats geheel of gedeeltelijk omgeven door muren of gebouwen .
+bliksem	NOUN	OmegaWiki	de flauwe lichtflitsen van onweer aan de horizon , zonder hoorbare donder .
+quantum_bit	NOUN	OmegaWiki	een kwantumbit ; de eenheid van kwantuminformatie .
+amfoor	NOUN	OmegaWiki	een kruik met twee handgrepen .
+boogscheut	NOUN	OmegaWiki	zeer dichtbij .
+geraas	NOUN	OmegaWiki	een continu luid , ruw of schel rumoer .
+thuis	NOUN	OmegaWiki	verblijfplaats van 1 of meer mensen .
+thuis	NOUN	OmegaWiki	iemand 's eigen verblijfplaats ; het huis of de structuur waarin men leeft ; vooral het huis waarin men met zijn familie leeft .
+verlof	NOUN	OmegaWiki	een periode waarin een pauze wordt genomen van werk of studie om uit te rusten , te reizen of voor recreatie .
+paardenvlees	NOUN	OmegaWiki	het vlees van een paard .
+grootmeester	NOUN	OmegaWiki	de persoon die het meest uitzonderlijk of excellent is ; iemand die boven alle anderen staat .
+stront	NOUN	OmegaWiki	hetgene dat mensen en dierenlichamen van tijd tot tijd ontlasten als een keutel afval van de vertering , nadat dit in de dikke darm verzameld werd .
+stront	NOUN	OmegaWiki	afvalstoffen , zoals zweet , urine , of feces , uit het lichaam uitgescheiden .
+keerlus	NOUN	OmegaWiki	gewoonlijk een wijd rond gebied , maar niet noodzakelijk , aan het einde van een weg om het keren van een voertuig te vergemakkelijken .
+wonderolie	NOUN	OmegaWiki	een kleurloos of licht geelachtige olie gewonnen uit de zaden van de wonderboom , farmaceutisch als laxeermiddel en huidverzachter gebruikt en industrieel als smeermiddel .
+maputo	NOUN	OmegaWiki	de hoofdstad van mozambique .
+wolfraam	NOUN	OmegaWiki	scheikundig element met symbool w en atoomnummer 74. het is een grijswit overgangsmetaal .
+tafelkleed	NOUN	OmegaWiki	bedekking , meestal van stof of plastic ter bescherming van een ( eet ) tafel .
+ballonvaarder	NOUN	OmegaWiki	iemand die met een ballon vliegt .
+pest	NOUN	OmegaWiki	iedere willekeurige ramp op grote schaal .
+applaudiseren	VERB	OmegaWiki	bijval of goedkeuring laten blijken door handgeklap .
+magerheid	NOUN	OmegaWiki	de eigenschap van mager zijn .
+nalatig	ADJ	OmegaWiki	slordig of onachtzaam .
+esp	NOUN	OmegaWiki	een soort populier
+welhaast	ADV	OmegaWiki	in de nabije toekomst .
+liquideren	VERB	OmegaWiki	verwijderen of van de hand doen , zoals op één of andere manier ongewenst zijnd .
+liquideren	VERB	OmegaWiki	het onrechtmatig en opzettelijk doden een ander mens .
+bèta	NOUN	OmegaWiki	de tweede letter van het griekse alfabet .
+verzekeringsmaatschappij	NOUN	OmegaWiki	handeling , systeem of bedrijf dat financiële bescherming biedt tegen zaken als overlijden , verlies of schade en behelst regelmatige premiebetaling in ruil voor een polis die zo'n bescherming garandeert .
+seizoen	NOUN	OmegaWiki	een van de vier gelijke perioden waarin het jaar is verdeeld door nachteveningen en zonnewendingen , ontstaan door de zichtbare beweging van de zon noord en zuid van de evenaar tijdens de elliptsche omloop van de aarde . deze perioden ( lente , zomer , herfst en winter ) hebben hun eigen weerskarakteristieken .
+seizoen	NOUN	OmegaWiki	een vooraf bepaalde reeks culturele gebeurtenissen ; bijvoorbeeld theatrale prestaties of sportengebeurtenissen , die tijdens een uitgebreide tijdspanne plaatsvinden , die wel korter is dan een jaar .
+seizoen	NOUN	OmegaWiki	een jaarlijkse terugkerende periode van onbepaalde lengte , vrij lang maar nog korter dan een jaar , als een bepaald gewas rijp is of een bepaald type werk , meestal verwant met landbouw , wordt uitgevoerd .
+alibi	NOUN	OmegaWiki	het feit of een verklaring dat een beschuldigde ergens anders was toen de misdaad werd bedreven .
+uitmuntend	ADJ	OmegaWiki	van de hoogste kwaliteit .
+produceren	VERB	OmegaWiki	zaken maken , gewoonlijk op grote schaal , met werktuigen en ofwel lichamelijke arbeid of machinale bewerking .
+produceren	VERB	OmegaWiki	iets creëren , werken of wat werk verrichten met resultaat .
+xerofiel	ADJ	OmegaWiki	droogte-minnend ; in staat te weerstaan aan de afwezigheid of het gebrek aan vocht .
+gehoorzamen	VERB	OmegaWiki	handelen in overeenstemming met iemands regels , bevelen of wensen .
+wachten	VERB	OmegaWiki	zich van handelen of bewegen onthouden gedurende enige tijd of tot één of andere gebeurtenis zich voordoet .
+wachten	VERB	OmegaWiki	naar iets uitkijken waarvan wordt gedacht dat het gaat gebeuren of komen .
+uilenbal	NOUN	OmegaWiki	een persoon met slecht beoordelingsvermogen of weinig intelligentie .
+ramp	NOUN	OmegaWiki	een gebeurtenis resulterend in een groot verlies en of leed .
+ramp	NOUN	OmegaWiki	een plotseling , wijdverbreide omgeluk of calamiteit die de bronnen van een gebied of regio ver overscheidt .
+ramp	NOUN	OmegaWiki	een plotseling geweldadig gebeuren .
+creëren	VERB	OmegaWiki	maken dat iets bestaat .
+creëren	VERB	OmegaWiki	iets creëren , werken of wat werk verrichten met resultaat .
+vliegmachine	NOUN	OmegaWiki	aangedreven vliegmachine die zwaarder is dan lucht met vaste vleugels , omhooggestuwd wordt door het bernoulli-effect en in gebruik voor transport .
+vliegmachine	NOUN	OmegaWiki	elke constructie , machine of voertuig , ontworpen om gedragen te worden door lucht , door de dynamische actie van lucht op de oppervlaktes van de constructie of object of door zijn dichtheid .
+vluchteling	NOUN	OmegaWiki	individu die een toevluchtsoord zoekt , vooral politiek asiel , in het buitenland .
+vluchteling	NOUN	OmegaWiki	een persoon die die vlucht of ontsnapt aan iets .
+vluchteling	NOUN	OmegaWiki	persoon buiten land van herkomst die , zich niet in te wijten aan gegronde angst voor vervolging , zich onbeschermd beschouwt in dat land .
+luchtroute	NOUN	OmegaWiki	een geregelde koers gevolgd door een vliegtuig .
+lancet	NOUN	OmegaWiki	een puntig tweesnijdend chirurgisch instrument .
+fabriek	NOUN	OmegaWiki	geheel van gebouwen , machines en benodigde hulpmiddelen om een handeling te verrichten .
+fabriek	NOUN	OmegaWiki	een inrichting waar men producten op industiële methode produceert .
+delaware	NOUN	OmegaWiki	de eerste staat van de verenigde staten van amerika , gelegen in het noordoosten .
+jaloersheid	NOUN	OmegaWiki	een jaloers gevoel , neiging , toestand of stemming .
+houden	VERB	OmegaWiki	iets blijven bezitten .
+annalen	NOUN	OmegaWiki	jaarlijks historisch verslag van de gebeurtenissen .
+opvorderbaar	ADJ	OmegaWiki	vatbaar om opgeëist te worden .
+zakkenroller	NOUN	OmegaWiki	een behendige dief die uit jaszakken en tassen steelt .
+biosfeer	NOUN	OmegaWiki	het gedeelte van de aarde en de atmosfeer dat in staat is levende organismen te ondersteunen .
+hoofdvak	NOUN	OmegaWiki	het hoofdstudiegebied van een student die naar een graad toewerkt aan een college of univeriteit .
+verbluffend	ADJ	OmegaWiki	versteld staan of sprakeloos geslagen door verwondering .
+nazi	NOUN	OmegaWiki	de ideologie van de duitse nazi partij tijdens adolf hitler .
+nazi	NOUN	OmegaWiki	een volgeling van de ideologie van het nationaalsocialisme .
+darmkoliek	NOUN	OmegaWiki	hevige pijn in de buik .
+burcht	NOUN	OmegaWiki	historisch gebouw of groep van gebouwen gebruikt voor de verdediging door de strijdkrachten , waarvan de belangrijkste structuren muren en torens zijn .
+burcht	NOUN	OmegaWiki	een versterkte plaats ; een grote en permanente fortificatie , soms een stad omsluitend .
+houding	NOUN	OmegaWiki	een lichaamshouding .
+houding	NOUN	OmegaWiki	een uitdrukking of voorkomen die een bepaalde toestand van de geest aangeeft .
+houding	NOUN	OmegaWiki	enige waarneembare actie of reactie op omgevingsfactoren van een wezen , groep of soort .
+akker	NOUN	OmegaWiki	een beperkt stuk land met gras of gewassen dat meestal wordt omringd door omheining of een dicht beplante heg als het onderdeel is van een boerderij .
+kontlikker	ADJ	OmegaWiki	iemand die veel complimenten maakt , vaak overdreven .
+barsten	VERB	OmegaWiki	breken door innerlijke druk .
+duivel	NOUN	OmegaWiki	boze geest of persoon die boosaardig of wreed in zijn daden is .
+duivel	NOUN	OmegaWiki	titel gegeven aan het bovennatuurlijke wezen , dat wordt beschouwd als een krachtige , kwade entiteit en de verleider van de mensheid .
+havervezels	NOUN	OmegaWiki	de buitenste laag van havergranen die een bijproduct van het malen zijn en veel voedingsvezels bevatten .
+aanvatten	VERB	OmegaWiki	in beweging zetten , laten beginnen .
+aanvatten	VERB	OmegaWiki	een activiteit starten .
+meisje	NOUN	OmegaWiki	een vrouwelijk persoon met wie iemand een liefdesrelatie heeft .
+meisje	NOUN	OmegaWiki	jonge vrouwelijke persoon , doorgaans een kind of tiener .
+levensverwachting	NOUN	OmegaWiki	het gemiddelde aantal jaren dat verwacht wordt dat mensen op een gegeven leeftijd nog te leven hebben .
+honderd	NOUN	OmegaWiki	het hoofdtelwoord dat na negenennegentig en vóór honderdeen komt , vertegenwoordigd in romeinse cijfers als c en in arabische cijfers als 100 .
+toenemend	ADJ	OmegaWiki	toeneming of groei door cumulatie van achtereenvolgende bijvoegsels .
+toenemend	NOUN	OmegaWiki	trapsgewijze luider worden .
+luchtfoto	NOUN	OmegaWiki	foto 's maken vanuit een vliegtiug .
+pauze	NOUN	OmegaWiki	een gewoonlijk korte periode van rust of verlichting .
+ethiopische_gebarentaal	NOUN	OmegaWiki	een taal uit ethiopië .
+station	NOUN	OmegaWiki	een gebouw waar een trein in of bij stopt .
+station	NOUN	OmegaWiki	een plaats langs de route waar een trein stopt om passagiers of goederen in of uit te laden , in het bijzonder met bijbehorende gebouwen en diensten .
+station	NOUN	OmegaWiki	een plaats langs de route of lijn waar een bus , een trein etc . stopt voor brandstof of om passagiers of goederen op te pikken of uit te laten , speciaal met bijbehorende gebouwen en services .
+ventilator	NOUN	OmegaWiki	een apparaat dat de lucht laat circuleren in een gesloten ruimte door een propeller te laten draaien , om alzo iemand of een ding te koelen .
+ventilator	NOUN	OmegaWiki	een toestel dat een luchtstroom produceert .
+tweespalt	ADJ	OmegaWiki	gebrek aan harmonie .
+wenen	VERB	OmegaWiki	tranen vergieten door de uitwerking van een emotie .
+wenen	VERB	OmegaWiki	tranen vergieten door de uitwerking van een emotie .
+vertalen	VERB	OmegaWiki	een geschreven of gesproken tekst van een taal naar een andere omzetten .
+wijnkenner	NOUN	OmegaWiki	iemand die geniet van het kiezen en het drinken van wijn van hoge kwaliteit en daarover heel veel weet .
+proef	VERB	OmegaWiki	een onderzoek uitvoeren op ( een substantie , een materiaal of een systeem ) door een of andere chemische of fysische procedure toe te passen ontworpen om op de aanwezigheid van een substantie of het hebben van een eigenschap aan te tonen .
+recent	ADV	OmegaWiki	in een tijd van het recente verleden .
+protohistorie	NOUN	OmegaWiki	de periode tussen de prehistorie en de oudheid , gedurende welke een cultuur of beschaving het schrift nog niet ontwikkeld had , maar andere culturen vermelden het in hun geschriften
+kwatten	VERB	OmegaWiki	speeksel met kracht uit de mond doen bewegen .
+éénhonderd	NOUN	OmegaWiki	het hoofdtelwoord dat na negenennegentig en vóór honderdeen komt , vertegenwoordigd in romeinse cijfers als c en in arabische cijfers als 100 .
+weefsel	NOUN	OmegaWiki	een deel van een organisme bestaande uit een groot aantal cellen met de dezelfde structuur en functie .
+weefsel	NOUN	OmegaWiki	elk weefsel gemaakt van garen of vezels door weven , breien , vervilten , enzovoort
+weefsel	NOUN	OmegaWiki	materiaal maakt van natuurlijke of door de mens gemaakte vezels en gebruikt voor de productie van voorwerpen zoals kleding en stoelbekleding .
+weefsel	NOUN	OmegaWiki	een geweven materiaal zoals gebruikt bij kleding , decoratie , reiniging en andere practische toepassingen .
+window	NOUN	OmegaWiki	een rechthoekig of anders vormgegeven gebied op een het computerterminal of scherm die een of andere gebruikersinterface bevat , waarin de uitvoer wordt getoond en invoer gegeven kan worden voor één van een aantal computerprocessen die gelijktijdig worden uitgevoerd .
+ontsmettingsmiddel	NOUN	OmegaWiki	een middel , zoals warmte , straling of chemisch , dat ontsmet door vernietiging , neutralisatie of de groei van ziekte dragende microorganismen afremt .
+kakofonie	NOUN	OmegaWiki	een aangenaamheid voor het oor .
+kakofonie	NOUN	OmegaWiki	een mengeling van dissonerende klanken .
+goudmijn	NOUN	OmegaWiki	een mijn waar goud gewonnen wordt .
+sociale_uitsluiting	NOUN	OmegaWiki	het verwijzen van sommige groepen individuen naar de rand van de samenleving .
+wit-russisch	NOUN	OmegaWiki	een oost-slavische taal hoofdzakelijk gesproken in wit-rusland .
+zaal	NOUN	OmegaWiki	het gedeelte van een theater enz . waar het publiek zit .
+bloeitijd	NOUN	OmegaWiki	een bloem op een boom of struik .
+bloeitijd	NOUN	OmegaWiki	de ontluiking van bloemen op een plant .
+weekblad	NOUN	OmegaWiki	een publicatie die eens om de zeven dagen wordt uitgegeven , of éénmaal per week verschijnt .
+weekblad	NOUN	OmegaWiki	een nieuwsblad dat éénmaal per week verschijnt .
+antarctisch	ADJ	OmegaWiki	aan of nabij de zuidpool .
+speculaaspop	NOUN	OmegaWiki	een type koekje ( dat typisch voor consumptie op 5 december wordt gemaakt - sinterklaasavond ) dat met een beeld of een figuur is gestempeld op de voorzijde .
+zoölogisch	ADJ	OmegaWiki	van , of betreffende tot de dieren .
+wendakker	NOUN	OmegaWiki	een strook land aan het einde van een voor in een veld waar een ploeg kan keren .
+alimentatie	NOUN	OmegaWiki	financiële ondersteuning die na een scheiding door de meest kapitaalkrachtige partner aan ex-partner verstrekt wordt .
+het_eens_zijn	VERB	OmegaWiki	akkoord zijn .
+het_eens_zijn	VERB	OmegaWiki	harmoniseren in mening , stelling of actie ; verenigd , in overeenstemming of consistent zijn .
+beieren	NOUN	OmegaWiki	een vrijstaat ( duits : freistaat ) in het uiterste zuiden van duitsland met een oppervlakte van 70.533 km² en 12,4 miljoen inwoners , met münchen als hoofdstad .
+naamgever	NOUN	OmegaWiki	een persoon , echt of fictief , wiens naam wordt gebruikt om een bepaald object of activiteit aan te duiden .
+schrikaanjagend	ADJ	OmegaWiki	dienend tot afschrikken .
+best-seller	NOUN	OmegaWiki	een boek dat in vele oplagen verkoopt .
+aquarel	NOUN	OmegaWiki	een schilderij gemaakt met waterverf .
+munt	NOUN	OmegaWiki	een muntstuk , meestal van metaal en in de vorm van een schijf , maar soms polygoon , of met een gat in het midden .
+delven	VERB	OmegaWiki	aarde , stenen , enzovoort uit de weg ruimen , meestal om een gat te maken .
+worden	VERB	OmegaWiki	verhogen in getal of hoeveelheid .
+senegalees	NOUN	OmegaWiki	een persoon van senegal of senegalese afkomst .
+senegalees	ADJ	OmegaWiki	van , of in betrekking tot senegal , het senegalese volk of taal .
+senegalees	NOUN	OmegaWiki	een land in westelijk afrika met dakar als hoofdstad .
+epicurisme	NOUN	OmegaWiki	een stroming in de filosofie gebaseerd op de leer van epicurus ( 340 - 270 v.chr . ) .
+bluetongue	NOUN	OmegaWiki	een niet-besmettelijke virusziekte , overgedragen door muggen , die voornamelijk voorkomt bij schapen en wordt veroorzaakt door een dsrna-virus uit de familie van de reoviridae . hij wordt gekarakteriseerd door hoge koorts en de blauwe kleur van de tong .
+een_hele_tijd	NOUN	OmegaWiki	een bepaalde tijdsduur .
+rail	NOUN	OmegaWiki	een paar evenwijdige rails vormen een weg voor wielen .
+slangenkruid	NOUN	OmegaWiki	de bladeren van deze plant ( artemisia dracunculus ) zowel vers , of ingemaakt in azijn , gebruikt als kruiderij .
+accelerator	NOUN	OmegaWiki	het mechanisme waarmee het vermogen van een motor wordt verhoogd of verlaagd .
+heiden	NOUN	OmegaWiki	iemand die niet gelooft of weigert te geloven .
+heiden	NOUN	OmegaWiki	iemand die niet gelooft in de god van de bijbel en is noch christelijk , joods of moslim is .
+upgrade	NOUN	OmegaWiki	een verbeterd component of reservedeel .
+zakdoek	NOUN	OmegaWiki	een stuk stof , gewoonlijk vierkant en vaak fijn en elegant , gedragen om het gelaat , neus of handen af te vegen .
+proliferatie	NOUN	OmegaWiki	een snelle toename in aantal .
+ontmoedigd	ADJ	OmegaWiki	teneergeslagen zijn .
+gelijkelijk	ADV	OmegaWiki	van het zelfde niveau of graad .
+onvermijdelijk	ADJ	OmegaWiki	wat niet vermeden kan worden .
+onvermijdelijk	ADV	OmegaWiki	op een wijze dat het onmogelijk is om te vermijden of te voorkomen .
+waterverfschilderij	NOUN	OmegaWiki	een schilderij gemaakt met waterverf .
+gage	NOUN	OmegaWiki	een hoeveelheid geld uitbetaald aan een arbeider voor een specifieke hoeveelheid werk .
+gage	NOUN	OmegaWiki	een vast geldbedrag betaald aan een werknemer , gewoonlijk gemeten op een maand of jaarbasis .
+verderop	ADV	OmegaWiki	verder in ruimte , tijd of graad .
+hardop	ADJ	OmegaWiki	hoorbaar , tegengesteld met stil .
+nomenklatoera	NOUN	OmegaWiki	de elite van de communistische partij van de sovjet-unie .
+elektromagnetische_straling	NOUN	OmegaWiki	straling bestaande uit elektrische en magnetische velden die zich met de snelheid van het licht verplaatsen . voorbeelden : licht , radiogolven , gamma stralen , x-stralen .
+bekleden	VERB	OmegaWiki	een post of een functie bekleden .
+schaapherderin	NOUN	OmegaWiki	vrouw die de schapen bewaakt .
+schaapherderin	NOUN	OmegaWiki	een persoon die schapen hoedt .
+attent	ADJ	OmegaWiki	zacht en beminnelijk , vanuit een attente of vriendelijke opstelling .
+attent	ADJ	OmegaWiki	bekommernis tonen voor de rechten en gevoelens van anderen .
+sinusitis	NOUN	OmegaWiki	ontsteking van een sinus of de sinussen .
+bellenvat	NOUN	OmegaWiki	een vat waarin bewegingen van elementaire deeltjes zichtbaar kunnen worden gemaakt .
+baas	NOUN	OmegaWiki	volwassen menselijk lid van de kunne die jong begint met het bevruchten van eicellen .
+saven	VERB	OmegaWiki	een file kopiëren naar de schijf .
+onjuist	ADJ	OmegaWiki	één of meerdere fouten inhoudend .
+intracerebraal_hematoom	NOUN	OmegaWiki	een bloeding in de hersenen veroorzaakt door een aderbreuk binnen in het hoofd .
+identiteitsbewijs	NOUN	OmegaWiki	een kaart voor het identificeren van de drager , gevende naam , adres en andere persoonlijke gegevens .
+geheim_houden	VERB	OmegaWiki	voorkomen van gezien of ontdekt te worden .
+behang	NOUN	OmegaWiki	papier vaak gekleurd en bedrukt met ontwerpen dat op de muur als een decoratieve bedekking geplakt wordt .
+kloot	NOUN	OmegaWiki	het mannelijke voortplantingsorgaan dat sperma en mannelijke hormonen produceert , aanwezig in sommige typen dieren .
+qinghai	NOUN	OmegaWiki	provincie in de volksrepubliek china in het noordoosten van het tibetaanse hoogland .
+vooral	ADV	OmegaWiki	op een speciale manier .
+acrobaat	NOUN	OmegaWiki	een atleet die nummers uitvoert die kunde , lenigheid en coördinatie vereisen .
+vamp	NOUN	OmegaWiki	een verleidelijke vrouw die gebruik maakt van haar sex-appeal om mannen uit te buiten .
+uiterlijk	NOUN	OmegaWiki	het uiterlijke aspect van een persoon of ding .
+uiterlijk	NOUN	OmegaWiki	een uitdrukking of voorkomen die een bepaalde toestand van de geest aangeeft .
+linguïstiek	NOUN	OmegaWiki	de wetenschappelijke studie van de natuurlijke talen .
+spinnen	VERB	OmegaWiki	het maken van draden uit wol .
+schap	NOUN	OmegaWiki	een plat , stevig , rechthoekig bouwsel , rechthoekig tegen een muur bevestigd in gebruik voor het ondersteunen , opslaan of uitstallen van voorwerpen .
+el	NOUN	OmegaWiki	een oude lengte-eenheid gebaseerd op de lengte van de voorarm .
+kleun	NOUN	OmegaWiki	een krachtige stoot met de vuist of een wapen .

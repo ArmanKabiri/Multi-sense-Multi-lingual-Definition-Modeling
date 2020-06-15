@@ -1,0 +1,2175 @@
+lancio_pubblicitario	NOUN	Italian WordNet	messaggio pubblicitario
+traspirare	VERB	Italian WordNet	eliminare , espellere sudore mediante traspirazione
+traspirare	VERB	Italian WordNet	filtrare , uscire in forma di minutissime gocce o di vapore
+ovaio	NOUN	Italian WordNet	ghiandola dell'apparato genitale femminile in cui si sviluppano le cellule uovo
+atmosfera	NOUN	Italian WordNet	la massa d'aria che circonda la terra o anche altri pianeti
+boy-scout	NOUN	Italian WordNet	ragazzo che appartiene a una associazione di giovani esploratori
+lucignolo	NOUN	Italian WordNet	piccola treccia di fili che si mette dentro la candela ( e un tempo dentro l'olio delle lucerne ) e si accende
+pistillo	NOUN	Italian WordNet	organo femminile del fiore costituito da ovario , stilo e stimma
+gocciare	VERB	Italian WordNet	fuoriuscire da un contenitore goccia a goccia , detto di liquidi
+pregiato	ADJ	Italian WordNet	di grande valore , pregio
+maggiormente	ADV	Italian WordNet	in modo precipuo
+climatizzare	VERB	Italian WordNet	dotare di climatizzazione
+aeroporto	NOUN	Italian WordNet	luogo nel quale partono ed arrivano aerei
+accelerazione	NOUN	Italian WordNet	l'accelerare
+accelerazione	NOUN	Italian WordNet	variazione della velocità nell'unità di tempo
+istrice	NOUN	Italian WordNet	grosso mammifero vegetariano dei roditori con lunghi aculei sul dorso
+fare_vedere	VERB	Italian WordNet	mettere in mostra , esporre alla vista degli altri
+rudere	NOUN	Italian WordNet	edificio che è crollato
+depurazione	NOUN	Italian WordNet	il depurare o depurarsi
+cosmologia	NOUN	Italian WordNet	l'origine dell'universo
+sessuale	ADJ	Italian WordNet	relativo al sesso
+insipidezza	NOUN	Italian WordNet	l'essere scipito
+dinamometro	NOUN	Italian WordNet	apparecchio usato per misurare le forze
+colite	NOUN	Italian WordNet	infiammazione del colon
+zinzino	NOUN	Italian WordNet	piccola quantità di qualcosa
+zinzino	NOUN	Italian WordNet	piccola quantità
+distruzione	NOUN	Italian WordNet	il distruggere
+francis_bacon	NOUN	Italian WordNet	filosofo inglese ( 1561-1626 )
+donnaiuolo	NOUN	Italian WordNet	chi va troppo dietro alle donne
+agganciare	VERB	Italian WordNet	unire con gancio
+mercanteggiamento	NOUN	Italian WordNet	il negoziare , il condurre trattative
+a-zigzag	ADV	Italian WordNet	modo di procedere con cambiamenti di direzione secchi e decisi
+irrazionale	ADJ	Italian WordNet	privo di ragione
+animato	ADJ	Italian WordNet	contrario di inanimato
+motosega	NOUN	Italian WordNet	sega a motore
+sibarita	NOUN	Italian WordNet	persona amante del lusso e dei piaceri raffinati
+pressa	NOUN	Italian WordNet	il sollecitare
+pressa	NOUN	Italian WordNet	moltitudine confusa di persone
+pressa	NOUN	Italian WordNet	macchina atta a esercitare una forte pressione per comprimere e spianare materiali cedevoli o plastici
+pressa	NOUN	Italian WordNet	moltitudine fitta e confusa di persone
+circuito	NOUN	Italian WordNet	circuito elettrico
+istantanea	NOUN	Italian WordNet	fotografia presa con un breve tempo di posa
+contenitore	NOUN	Italian WordNet	contenitore di varia forma e materiale soprattutto per liquidi o materiali incoerenti
+contenitore	NOUN	Italian WordNet	oggetto che serve a contenerne altri , spec . per agevolarne il trasporto
+accendino	NOUN	Italian WordNet	dispositivo che serve per accendere
+grup	NOUN	Italian WordNet	difterite della laringe
+d'abitudine	ADV	Italian WordNet	per abitudine , di solito
+tangente_trigonometrica	NOUN	Italian WordNet	funzione trigonometrica
+smontaggio	NOUN	Italian WordNet	lo smontare
+sorosio	NOUN	Italian WordNet	tipo di infruttescenza
+pantheon	NOUN	Italian WordNet	tempio dedicato a tutte le divinità
+pantheon	NOUN	Italian WordNet	tempio dove sono sepolti gli uomini importanti di una nazine
+cretinismo	NOUN	Italian WordNet	malattia da insufficienza tiroidea caratterizzata da disturbi fisici e deficit mentale
+bisogno	NOUN	Italian WordNet	mancanza di qlco
+induistico	ADJ	Italian WordNet	relativo all'induismo
+tergiversare	VERB	Italian WordNet	cercare di sfuggire a una domanda rispondendo in modo ambiguo
+noce-del-diavolo	NOUN	Italian WordNet	erba annua velenosa del genere datura , con fiori bianchi e foglie acuminate ricche di atropina e iosciamina usate in farmacia per la preparazione di preparazione di polveri e sigarette antiasmatiche
+fanatico	ADJ	Italian WordNet	detto di sentimenti , espressioni , comportamenti esagerati ed eccessivi
+fascinoso	ADJ	Italian WordNet	che è pieno di fascino , che affascina , incanta
+volatile	NOUN	Italian WordNet	animale vertebrato oviparo dal corpo coperto di penne e piume , con ali , cova le uova e si occupa della prole
+fiorentemente	ADV	Italian WordNet	in modo proficuo e fruttuoso
+riflettore	NOUN	Italian WordNet	apparecchio costituito da una sorgente luminosa e da uno specchio che riflette la luce
+rialto	NOUN	Italian WordNet	territorio rialzato dalla superficie
+casamento	NOUN	Italian WordNet	edificio popolare composto da più abitazioni
+vertude	NOUN	Italian WordNet	eccellenza morale
+fioco	ADJ	Italian WordNet	che ha un suono debole
+fioco	ADJ	Italian WordNet	debole detto della luce
+sillaba	NOUN	Italian WordNet	unità fonica formata da una vocale o un dittongo , soli o accompagnati da consonanti
+incontrare	VERB	Italian WordNet	imbattersi per caso in qc . o in q.c
+spacciatore	NOUN	Italian WordNet	chi spaccia droga
+tartufo	NOUN	Italian WordNet	fungo sotterraneo a forma di tubero dal caratteristico profumo penetrante , molto ricercato per aromatizzare e guarnire vivande
+occhio	NOUN	Italian WordNet	organo della vista , di forma sferica , situato nell'orbita e protetto dalle palpebre
+offendersi	VERB	Italian WordNet	provare risentimento o dispiacere per parole o comportamenti che si giudicano lesivi dei propri diritti o della propria sensibilità
+veleno	NOUN	Italian WordNet	sostanza tossica che , penetrando nell'organismo , può provocare gravi disturbi o addirittura la morte
+tiroide	NOUN	Italian WordNet	ghiandola endocrina
+agrostide	NOUN	Italian WordNet	erba perenne usata come foraggio
+alpinismo	NOUN	Italian WordNet	sport che consiste nella scalata di pareti rocciose
+calibro	NOUN	Italian WordNet	strumento di forme diverse , per misurare lo spessore di lamiere , chiodi , il diametro di fili , tubi , proiettili , fori
+calibro	NOUN	Italian WordNet	diametro di un proiettile o di un tubo
+calibro	NOUN	Italian WordNet	il valore di qualcosa
+dieta	NOUN	Italian WordNet	assemblea politica o parlamentare di alcuni stati
+dieta	NOUN	Italian WordNet	dieta dimagrante
+dieta	NOUN	Italian WordNet	regime alimentare
+disastroso	ADJ	Italian WordNet	che porta sciagure , distruzioni
+repulsione	NOUN	Italian WordNet	senso di disgusto , avversione , ripugnanza
+inadatto	ADJ	Italian WordNet	che non ha i requisiti necessari a uno scopo
+inadatto	ADJ	Italian WordNet	inadeguato
+gay	ADJ	Italian WordNet	detto di chi prova attrazione per persone dello stesso sesso
+gay	NOUN	Italian WordNet	uomo omosessuale
+estroverso	ADJ	Italian WordNet	detto di chi è aperto e socializza molto facilmente
+pistola	NOUN	Italian WordNet	arma da fuoco corta , che si maneggia con una sola mano
+retto	NOUN	Italian WordNet	tratto dell'intestino
+sbeffare	VERB	Italian WordNet	farsi beffe di qlcu . con atti o parole sprezzanti , deridere pesantemente
+gravità	NOUN	Italian WordNet	austerità
+gravità	NOUN	Italian WordNet	qualità , attributo del comportamento , dell'atteggiamento , dell'incedere
+gravità	NOUN	Italian WordNet	l'essere grave
+gravità	NOUN	Italian WordNet	l'essere austero
+gravità	NOUN	Italian WordNet	forza di attrazione gravitazionale
+gravità	NOUN	Italian WordNet	l'essere austero e severo
+dinamo	NOUN	Italian WordNet	macchina che converte energia meccanica in energia elettrica
+monaca	NOUN	Italian WordNet	donna che ha preso i voti
+tronfiamente	ADV	Italian WordNet	in modo ampolloso
+classe_media	NOUN	Italian WordNet	ceto medio
+buco_nell'acqua	NOUN	Italian WordNet	totale fallimento
+convertibile	NOUN	Italian WordNet	macchina
+convertibile	ADJ	Italian WordNet	che si può convertire , trasormare o cambiare in altro
+convertibile	NOUN	Italian WordNet	automobile scoperta dotata di capote
+raggrinzire	VERB	Italian WordNet	diventare grinzoso
+ubriacone	NOUN	Italian WordNet	chi beve alcolici , e specialmente vino , in modo incontrollato
+schno'rchel	NOUN	Italian WordNet	nei sommergibili , apposito tubo per aspirare l'aria necessaria ai motori
+scippatore	NOUN	Italian WordNet	chi ruba strappando a forza un oggetto , e fuggendo rapidamente
+umorista	NOUN	Italian WordNet	chi ha molto senso dell'umorismo
+sale	NOUN	Italian WordNet	sostanza solida cristallina , solubile in acqua e usata per dare sapore ai cibi e conservarli
+sale	NOUN	Italian WordNet	composto chimico risulatante dalla combinazione di un acido con una base
+vecchiaia	NOUN	Italian WordNet	ultimo periodo della vita umana , caratterizzato dal decadimento di alcune funzioni
+dispeptico	ADJ	Italian WordNet	malato di dispepsia
+dispeptico	NOUN	Italian WordNet	chi soffre di dispepsia
+difficoltà	NOUN	Italian WordNet	l'essere difficile
+simulacro	NOUN	Italian WordNet	essere immaginario
+simulacro	NOUN	Italian WordNet	immagine o statua raffigurante una divinità , un eroe , un personaggio illustre
+risalto	NOUN	Italian WordNet	stato di che è al centro dell'attenzione
+risalto	NOUN	Italian WordNet	in alpinismo , piccolo gradino
+risalto	NOUN	Italian WordNet	in alpinismo
+morello	ADJ	Italian WordNet	di colore tendente al nero , detto del mantello del cavallo
+dimesticare	VERB	Italian WordNet	rendere mansueti e/o obbedienti animali selvaggi o feroci
+compromesso	NOUN	Italian WordNet	accordo tra parti per raggiungere una soluzione
+compromesso	NOUN	Italian WordNet	soluzione intermedia tra due estremi , compromesso
+imperturbabile	ADJ	Italian WordNet	che non lascia trasparire emozioni , che è impossibile turbare
+edilizia	NOUN	Italian WordNet	l'industria della costruzione di edifici
+donnaccia	NOUN	Italian WordNet	donna che si guadagna da vivere prostituendosi
+banjo	NOUN	Italian WordNet	strumento musicale a pizzico
+sepoltura	NOUN	Italian WordNet	l'operazione con cui vengono sepolti i morti
+autonoleggio	NOUN	Italian WordNet	il prendere macchine a nolo
+biondo	ADJ	Italian WordNet	detto di persona che ha i capelli chiari
+alternanza	NOUN	Italian WordNet	l'alternare , l'alternarsi
+scrupoloso	ADJ	Italian WordNet	che è pieno scrupoli morali o religiosi
+scrupoloso	ADJ	Italian WordNet	detto di persona attenta ai minimi particolari
+lingotto	NOUN	Italian WordNet	barra di metallo
+analfabetismo	NOUN	Italian WordNet	condizione di chi è analfabeta
+joseph_stalin	NOUN	Italian WordNet	dette al regime sovietico un carattere dittatoriale mantenuto col terrore e col controllo poliziesco ( 1935-37 )
+joseph_stalin	NOUN	Italian WordNet	uomo politico sovietico ( 1879-1953 )
+joseph_stalin	NOUN	Italian WordNet	segretario del partito comunista ( 1922 )
+ceruleo	ADJ	Italian WordNet	che ha un colore azzurro chiaro
+rottura	NOUN	Italian WordNet	atto , effetto del lacerare o del lacerarsi
+rottura	NOUN	Italian WordNet	atto ed effetto del rompere o del rompersi
+guerra	NOUN	Italian WordNet	tragico evento per cui un conflitto tra stati viene risolto con la lotta armata
+mistral	NOUN	Italian WordNet	vento tipico di alcune zone della francia
+vulcano	NOUN	Italian WordNet	divinità romana
+vulcano	NOUN	Italian WordNet	dio del fuoco e della lavorazione del metallo
+vinilpelle	NOUN	Italian WordNet	tipo di finta pelle
+allarmista	NOUN	Italian WordNet	chi diffonde notizie preoccupanti spesso senza alcun fondamento
+contafrottole	NOUN	Italian WordNet	chi inventa frottole
+vasellame	NOUN	Italian WordNet	assortimento di piatti , scodelle , bicchieri e altre stoviglie , di vetro , ceramica , cristallo , terraglia o metallo , per uso di cucina e di tavola
+sloveno	ADJ	Italian WordNet	della slovenia
+cinese	ADJ	Italian WordNet	della cina o relativo al popolo , alla cultura o alla lingua cinese
+fot	NOUN	Italian WordNet	unità di misura di illuminazione
+fot	NOUN	Italian WordNet	unità di illuminazione
+addomesticabile	ADJ	Italian WordNet	che si può addomesticare
+avanti	ADV	Italian WordNet	indica la posizione o la direzione che è di fronte alla persona che parla o alla persona o cosa che costituisce il punto di riferimento
+toreador	NOUN	Italian WordNet	chi combatte i tori nell'arena
+codirosso	NOUN	Italian WordNet	uccello insettivoro dal canto melodioso , con coda rossa e slanciata , capo e gola neri
+peculiarmente	ADV	Italian WordNet	in modo peculiare
+peculiarmente	ADV	Italian WordNet	in modo tipico
+intermediario	NOUN	Italian WordNet	chi fa da tramite tra due o più persone
+isolamento	NOUN	Italian WordNet	atto dell'isolare o dell'isolarsi
+divinità	NOUN	Italian WordNet	essere soprannaturale , nelle religioni politeistiche ognuno degli esseri immortali , che formano il gruppo delle divinità di livello più elevato
+filantropo	NOUN	Italian WordNet	chi si adopera per il bene dell'umanità
+affannarsi	VERB	Italian WordNet	preoccuparsi eccessivamente , sottoporsi a forme di penitenza
+siro	ADJ	Italian WordNet	della siria
+estetista	NOUN	Italian WordNet	persona esperta in cosmesi , in cure o prodotti di bellezza
+cassa	NOUN	Italian WordNet	istituto di credito
+cassa	NOUN	Italian WordNet	mobile nel quale si conservano al sicuro denaro e preziosi
+cassa	NOUN	Italian WordNet	macchina per il pagamento e la restituzione dei resti
+cassa	NOUN	Italian WordNet	cassa da morto
+cassa	NOUN	Italian WordNet	cassa , per lo più di legno , per trasportare una salma
+cassa	NOUN	Italian WordNet	apparecchio che converte un segnale elettrico in un segnale acustico udibile a distanza
+cassa	NOUN	Italian WordNet	mobile in cui si conservano denari o preziosi
+ruffiano	NOUN	Italian WordNet	chi sfrutta le donne facendole prostituire
+polizia	NOUN	Italian WordNet	l'organizzazione
+polizia	NOUN	Italian WordNet	le forze di polizia
+diabete	NOUN	Italian WordNet	denominazione comune di varie malattie del ricambio
+telecronista	NOUN	Italian WordNet	chi effettua una telecronaca
+pianoforte	NOUN	Italian WordNet	strumento musicale a corde metalliche contenute in una cassa armonica di legno e percosse da martelletti azionati da una tastiera
+ferro_da_stiro	NOUN	Italian WordNet	il ferro da stiro
+accentramento	NOUN	Italian WordNet	concentrazione dei poteri negli organi centrali dello stato a scapito delle amministrazioni periferiche
+incrementabile	ADJ	Italian WordNet	che si può estendere , ampliare , incrementare
+target	NOUN	Italian WordNet	obiettivo predeterminato di una campagna di vendita di un prodotto
+untuoso	ADJ	Italian WordNet	oleoso , pieno di unto
+untuoso	ADJ	Italian WordNet	detto di atteggiamento di eccessiva e ipocrita cortesia o servilismo
+untuoso	ADJ	Italian WordNet	grasso
+cordato	NOUN	Italian WordNet	animale caratterizzato dalla presenza , almeno allo stadio embrionale , di notocorda
+sciocco	ADJ	Italian WordNet	che ha poco sapore , che manca di sale
+carbossile	NOUN	Italian WordNet	radicale monovalente presente negli acidi organici
+abissino	NOUN	Italian WordNet	ha un modo di miagolare particolare
+abissino	NOUN	Italian WordNet	gatto agile e curioso
+abissino	NOUN	Italian WordNet	ama la compagnia dei suoi simili , dell'uomo e dei cani
+achille	NOUN	Italian WordNet	eroe greco principale personaggio dell'iliade
+rendere_visibile	VERB	Italian WordNet	rendere evidente q.c
+ingiustizia	NOUN	Italian WordNet	l'essere ingiusto
+sagittario	NOUN	Italian WordNet	chi lancia freccie dardi saette
+apertura	NOUN	Italian WordNet	l'aprire qualcosa
+apertura	NOUN	Italian WordNet	diametro della lente di un obiettivo
+bambinescamente	ADV	Italian WordNet	in modo puerile , infantile
+endiadi	NOUN	Italian WordNet	figura retorica che esprime un unico concetto con due termini coordinati
+raffica	NOUN	Italian WordNet	successione rapida di colpi d'armi da fuoco
+asinata	NOUN	Italian WordNet	atto , discorso da sciocco
+brillantina	NOUN	Italian WordNet	cosmetico per capelli
+brillantina	NOUN	Italian WordNet	cosmetico per i capelli
+zelo	NOUN	Italian WordNet	l'essere sollecito
+tempera	NOUN	Italian WordNet	tecnica pittorica
+spam	NOUN	Italian WordNet	tipo di carne in scatola prodotto dalla hormel foods corporation , nato nel 1937
+intercedere	VERB	Italian WordNet	intervenire presso qualcuno per chiedere qualcosa in favore di altri
+squartare	VERB	Italian WordNet	dividere , tagliare in quarti o in grossi pezzi
+ipotizzabile	ADJ	Italian WordNet	che si può presumere
+ridotta	NOUN	Italian WordNet	fortificazione di piccole dimensioni
+chianti	NOUN	Italian WordNet	zona vinicola della toscana
+tolleranza	NOUN	Italian WordNet	la capacità di accettare idee e atteggiamenti diversi dai propri
+fiorente	ADJ	Italian WordNet	che reca profitto
+fiorente	ADJ	Italian WordNet	che procura guadagni , proficuo
+nucleone	NOUN	Italian WordNet	particella pesante che costituisce il nucleo dell'atomo
+poliedrico	ADJ	Italian WordNet	versatile
+poliedrico	ADJ	Italian WordNet	che sa fare tante cose diverse e spazia in diversi campi della cultura
+fisiologico	ADJ	Italian WordNet	non patologico
+gala	NOUN	Italian WordNet	festa , serata di gala
+gala	NOUN	Italian WordNet	lusso
+gala	NOUN	Italian WordNet	striscia di tessuto increspata
+mesozoico	NOUN	Italian WordNet	la terza era geologica
+stegosauro	NOUN	Italian WordNet	rettile fossile terrestre del gruppo dei dinosauri , fornito di cresta lungo la spina dorsale
+teosofia	NOUN	Italian WordNet	dottrina filosofica e religiosa ( sec . xvii ) che afferma l'origine unica di tutte le religioni , e crede possibile la conoscenza diretta , esoterica della divinità
+pietra_preziosa	NOUN	Italian WordNet	pietra preziosa spec . lavorata e tagliata secondo opportuni piani che ne esaltano la bellezza
+sufficiente	ADJ	Italian WordNet	detto di chi manifesta un senso di superiorità indisponente
+cerbottana	NOUN	Italian WordNet	arma primitiva da caccia , costituita da una lunga canna di legno con cui si possono lanciare pallottole o piccole frecce avvelenate
+cerbottana	NOUN	Italian WordNet	antica arma da fuoco simile all'archibugio
+ceppaia	NOUN	Italian WordNet	ceppo d'albero tagliato da cui spuntano due o più polloni
+pressione	NOUN	Italian WordNet	l'insistere
+pressione	NOUN	Italian WordNet	pressione del sangue
+pressione	NOUN	Italian WordNet	azione esercitata da un corpo su un altro
+pressione	NOUN	Italian WordNet	pressione esercitata dai gas atmosferici sull'unità di superficie orizzontale al suolo . si misura in atmosfere , bar e millibar
+agosto	NOUN	Italian WordNet	l'ottavo mese dell'anno
+enteroclisma	NOUN	Italian WordNet	liquido o altra sostanza medicinale introdotta nell'intestino retto per diagnosi o cura
+bonapartista	ADJ	Italian WordNet	seguace del bonapartismo
+camminata	NOUN	Italian WordNet	andatura
+camminata	NOUN	Italian WordNet	il modo di camminare
+geniale	ADJ	Italian WordNet	che rivela intelligenza
+biogenesi	NOUN	Italian WordNet	teoria sull'origine della vita secondo la quale le forme viventi discendono da altre precedenti
+carrozzeria	NOUN	Italian WordNet	parte dell'automobile che sostiene e ricopre le parti meccaniche
+luminoso	ADJ	Italian WordNet	che si annuncia come promettente , propizio , roseo
+luminoso	ADJ	Italian WordNet	che ha luminosità
+luminoso	ADJ	Italian WordNet	che è pieno di luce
+luminoso	ADJ	Italian WordNet	che emette o riflette luce
+inizializzare	VERB	Italian WordNet	assegnare un valore iniziale , o per default , ad un programma
+comprensibile	ADJ	Italian WordNet	che si può comprendere
+istallare	VERB	Italian WordNet	collocare in una sede , in un ufficio
+montone	NOUN	Italian WordNet	segno zodiacale
+redistribuzione	NOUN	Italian WordNet	diversa distribuzione
+tuffo	NOUN	Italian WordNet	emozione forte e improvvisa
+sessanta	NOUN	Italian WordNet	numero
+ponte	NOUN	Italian WordNet	struttura provvisoria fatta per eseguire lavori in edilizia
+ponte	NOUN	Italian WordNet	nelle costruzioni navali , ogni struttura che ricopre o divide orizzontalmente in piani lo scafo di un'imbarcazione
+ponte	NOUN	Italian WordNet	struttura provvisoria di pali e tavolati intorno alle parti di un'opera muraria in costruzione , per sostenere gli operai che vi lavorano
+ponte	NOUN	Italian WordNet	costruzione in legno , ferro , muratura o cemento armato che permette a una strada o a una ferrovia il superamento di un ostacolo come ad es . un corso d'acqua
+ponte	NOUN	Italian WordNet	per estensione qualsiasi cosa che serva di collegamento
+ponte	NOUN	Italian WordNet	protesi dentaria fissa
+ponte	NOUN	Italian WordNet	gruppo posteriore o anteriore dell'autoveicolo che comprende il differenziale e i due semiassi
+asfissia	NOUN	Italian WordNet	ridotto apporto di ossigeno ai tessuti dovuto o ad alterazione dell'aria o a patologie dell'apparato respiratorio
+assembramento	NOUN	Italian WordNet	riunione , affollamento di persone
+caracul	NOUN	Italian WordNet	pecora dal pelo lucente e caratteristico
+caracul	NOUN	Italian WordNet	pecora asiatica
+gas	NOUN	Italian WordNet	sostanza aeriforme
+sesto_senso	NOUN	Italian WordNet	capacità di intuire istintivamente
+edulcorare	VERB	Italian WordNet	rendere dolce
+dissidente	NOUN	Italian WordNet	una persona che non è d'accordo con la politica e l'ideologia predominante
+dissidente	ADJ	Italian WordNet	detto di chi non è d'accordo con la maggioranza
+cretaceo	NOUN	Italian WordNet	era geologica caratterizzata dalla presenza di molluschi e rettili
+pirometro	NOUN	Italian WordNet	strumento impiegato per misurare le temperature elevate
+trinciato	NOUN	Italian WordNet	tabacco tagliato a striscioline
+encefalite	NOUN	Italian WordNet	infiammazione del cervello
+recapito	NOUN	Italian WordNet	la residenza
+battente	NOUN	Italian WordNet	oggetto a forma di martello che batte su una superficie
+pietosamente	ADV	Italian WordNet	in modo caritatevole e pietoso
+matricola	NOUN	Italian WordNet	registro dei nomi e delle cose appartenenti ad una certa categoria
+matricola	NOUN	Italian WordNet	numero identificativo in una successione
+matricola	NOUN	Italian WordNet	universitario del primo anno
+pervasivo	ADJ	Italian WordNet	che tende a diffondersi ovunque in modo omogeneo
+musulmano	NOUN	Italian WordNet	chi professa la religione islamica
+musulmano	NOUN	Italian WordNet	seguace dell'islamismo
+picconatrice	NOUN	Italian WordNet	macchina usata per perforare le rocce
+mischia	NOUN	Italian WordNet	nel rugby , azione compiuta dagli avanti
+mischia	NOUN	Italian WordNet	moltitudine confusa di persone
+mischia	NOUN	Italian WordNet	ammassamento fitto e disordinato di persone che combattono o di uomini armati in battaglia
+mischia	NOUN	Italian WordNet	moltitudine fitta e confusa di persone
+fascina	NOUN	Italian WordNet	fascio di legna minuta da ardere
+fascina	NOUN	Italian WordNet	fascio di legna minuta per accendere il fuoco
+visir	NOUN	Italian WordNet	nell'impero ottomano , ministro
+salame	NOUN	Italian WordNet	insaccato fatto con carne di maiale tritata , grasso , sale e pepe
+affrettato	ADJ	Italian WordNet	che ha molta fretta
+daga	NOUN	Italian WordNet	spada corta a due tagli
+simultaneità	NOUN	Italian WordNet	contemporaneità
+simultaneità	NOUN	Italian WordNet	qualità di tutto ciò che avviene nello stesso tempo , che è contemporaneo
+estendibile	ADJ	Italian WordNet	che si può estendere , ampliare , incrementare
+moscio	ADJ	Italian WordNet	privo di consistenza
+amministrativamente	ADV	Italian WordNet	sul piano amministrativo
+appropinquarsi	VERB	Italian WordNet	andare vicino o più vicino
+briosamente	ADV	Italian WordNet	in modo spiritoso
+briosamente	ADV	Italian WordNet	in modo ameno e spiritoso
+fiaccheraio	NOUN	Italian WordNet	chi conduceva una pubblica vettura a cavalli
+inseguimento	NOUN	Italian WordNet	l'inseguire
+marmoreo	ADJ	Italian WordNet	simile al marmo o di marmo
+borbottare	VERB	Italian WordNet	parlare o dire in modo indistinto e confuso
+corriere	NOUN	Italian WordNet	chi porta una lettera , un messaggio , una notizia
+matrilineare	ADJ	Italian WordNet	che riguarda la linea di discendenza materna
+yawl	NOUN	Italian WordNet	imbarcazione a vela da crociera e da regata
+pianeta	NOUN	Italian WordNet	corpo celeste che gira intorno al sole o a un'altra stella , da cui riceve luce
+grossa	NOUN	Italian WordNet	unità di misura , pari a dodici dozzine
+vergognoso	ADJ	Italian WordNet	che è causa di vergogna
+fagocita	NOUN	Italian WordNet	cellula
+clistere	NOUN	Italian WordNet	liquido o altra sostanza medicinale introdotta nell'intestino retto per diagnosi o cura
+quadriga	NOUN	Italian WordNet	cocchio tirato da quattro cavalli
+kivi	NOUN	Italian WordNet	uccello neozelandese
+valigia	NOUN	Italian WordNet	sorta di borsa per portare abiti e oggetti in viaggio
+giro_di_parole	NOUN	Italian WordNet	giro di parole
+cuore	NOUN	Italian WordNet	organo muscolare cavo a forma di cono motore dell'apparato circolatorio
+cuore	NOUN	Italian WordNet	zona posizionata al centro rispetto alle altre
+cuore	NOUN	Italian WordNet	zona posizionata al centro rispetto ad altre
+speditezza	NOUN	Italian WordNet	l'essere veloce
+socrate	NOUN	Italian WordNet	filosofo greco ( 469-399 a . c . )
+latitudine	NOUN	Italian WordNet	linea immaginaria che percorre il globo parallelamente all'equatore
+alfa	NOUN	Italian WordNet	lettera dell'alfabeto greco
+mozart	NOUN	Italian WordNet	iniziò a comporre e a suonare fra i 4 e i 5 anni
+mozart	NOUN	Italian WordNet	fu organista di corte a salisburgo poi a vienna
+mozart	NOUN	Italian WordNet	compositore austriaco ( 1756-1791 )
+mozart	NOUN	Italian WordNet	artista di vena fecondissima affrontò tutti i generi del suo tempo
+linea_elettrica	NOUN	Italian WordNet	sistema di conduttori per il trasporto dell'energia elettrica
+forza_politica	NOUN	Italian WordNet	un'organizzazione politica
+autotelaio	NOUN	Italian WordNet	telaio dell'autoveicolo
+prospero	ADJ	Italian WordNet	che procura guadagni , proficuo
+prospero	ADJ	Italian WordNet	che reca profitto
+ironicamente	ADV	Italian WordNet	in modo spiritoso
+ironicamente	ADV	Italian WordNet	in modo ameno e spiritoso
+strozza	NOUN	Italian WordNet	parte del corpo situata all'altezza del collo
+cielo	NOUN	Italian WordNet	lo spazio così come è visto dalla terra
+strutto	NOUN	Italian WordNet	grasso di maiale
+olivo	NOUN	Italian WordNet	albero sempreverde che produce frutti verdastri o neri , dai quali si estrae un ottimo olio commestibile
+accorgimento	NOUN	Italian WordNet	modo per raggiungere un fine
+ricalcabile	ADJ	Italian WordNet	che si può ricalcare
+girare	VERB	Italian WordNet	andare attorno , percorere in giro
+girare	VERB	Italian WordNet	far ruotare qlco . intorno al proprio asse
+girare	VERB	Italian WordNet	muoversi in giro , ruotare intorno ad un asse o ad un punto
+lanciasiluri	NOUN	Italian WordNet	dispositivo per lanciare siluri da aeromobili e navi da guerra
+consocio	NOUN	Italian WordNet	chi è socio di altri in una attività
+ritrovato	NOUN	Italian WordNet	modo per raggiungere un fine
+esegetico	ADJ	Italian WordNet	concernente l'esegesi
+accessione	NOUN	Italian WordNet	l'accedere e il suo risultato
+conglobamento	NOUN	Italian WordNet	roccia costituita , formata da materiali grossolani cementati insieme
+argano	NOUN	Italian WordNet	macchina per sollevare e spostare pesi
+spada	NOUN	Italian WordNet	spada
+spada	NOUN	Italian WordNet	arma con lama di varia lunghezza
+miscela	NOUN	Italian WordNet	ciò che risulta dall'unione di più cose
+miscela	NOUN	Italian WordNet	mescolanza di cose o di sostanze diverse
+miscela	NOUN	Italian WordNet	unione confusa di cose o di sostanze diverse
+miscela	NOUN	Italian WordNet	mescolanza di due o più sostanze
+miscela	NOUN	Italian WordNet	mescolanza confusa di cose o di sostanze diverse
+finanziamento	NOUN	Italian WordNet	quanto si dà o riceve come finanziamento
+fossile	NOUN	Italian WordNet	resto di organismo animale o vegetale vissuto nel passato e conservato negli strati della crosta terrestre
+navigabile	ADJ	Italian WordNet	che può essere percorso da navi
+acrigno	ADJ	Italian WordNet	che ha un sapore un pò aspro , detto del vino
+quadrare	VERB	Italian WordNet	ridurre a forma quadrata o quadrangolare
+esiguo	ADJ	Italian WordNet	piccolo sotto il punto di vista della quantità
+esiguo	ADJ	Italian WordNet	piccolo , scarso
+esiguo	ADJ	Italian WordNet	presente in piccole quantità
+esiguo	ADJ	Italian WordNet	scarso
+taffetà	NOUN	Italian WordNet	tessuto di seta
+livrea	NOUN	Italian WordNet	divisa di particolare foggia e colore indossata un tempo dai servitori delle grandi famiglie signorili
+contraccolpo	NOUN	Italian WordNet	urto di rimando trasmesso da un corpo colpito
+calanco	NOUN	Italian WordNet	solco che si crea nei terreni argillosi a causa delle acque dilavanti
+inespresso	ADJ	Italian WordNet	detto di ciò che è intuibile ma non chiaramente espresso
+babuino	NOUN	Italian WordNet	scimmia
+postare	VERB	Italian WordNet	mettere in un posto
+invidia	NOUN	Italian WordNet	maligno sentimento di astio e rammarico per la felicità , il benessere , la fortuna altrui
+quadrilatero	NOUN	Italian WordNet	figura piana con quattro lati
+ricolmare	VERB	Italian WordNet	mettere in un recipiente o altro tanta materia quanta ne può contenere
+radiocarbonio	NOUN	Italian WordNet	isotopo radioattivo del carbonio
+abito	NOUN	Italian WordNet	tendenza acquisita che deriva dalla ripetizione costante di atti o comportamenti
+abito	NOUN	Italian WordNet	qualsiasi capo di vestiario che si indossa sopra la biancheria
+riflettere	VERB	Italian WordNet	considerare attentamente , usare la ragione per indagare o riflettere su un problema teorico o per formulare un giudizio
+riflettere	VERB	Italian WordNet	riprodurre l'immagine
+carlo_magno	NOUN	Italian WordNet	re dei franchi e imperatore del sacro romano impero ( 742-814 )
+pasticciere	NOUN	Italian WordNet	artigiano chei produce e vende dolci
+convesso	ADJ	Italian WordNet	che si curva all'esterno
+disordine	NOUN	Italian WordNet	disturbo della pace pubblica
+disordine	NOUN	Italian WordNet	confusione , disturbo dell'ordine pubblico
+disordine	NOUN	Italian WordNet	confusione e cattiva disposizione di persone o cose
+tritatutto	NOUN	Italian WordNet	apparecchio da cucina a mano o elettrico usato per tritare alimenti cotti o crudi
+piovasco	NOUN	Italian WordNet	breve e intenso rovescio di pioggia
+violetto	ADJ	Italian WordNet	di colore viola
+concorso	NOUN	Italian WordNet	il collaborare in qlco
+concorso	NOUN	Italian WordNet	atto , sforzo di due o più concorrenti per vincersi , superarsi a vicenda
+presenza	NOUN	Italian WordNet	cospetto , presenza , vista
+presenza	NOUN	Italian WordNet	l'esistere
+presenza	NOUN	Italian WordNet	l'essere presente in un luogo
+assimilatore	ADJ	Italian WordNet	adatto ad assimilare , che causa l'assimilazione
+tweed	NOUN	Italian WordNet	tessuto di lana tipico della scozia a due o più colori e trama grossa
+dumping	NOUN	Italian WordNet	vendita di merci all'estero a prezzi inferiori di quelli praticati sul mercato interno
+inespressivo	ADJ	Italian WordNet	detto dello sguardo o dell'occhio fisso e senza espressione
+commutatore	NOUN	Italian WordNet	dispositivo usato per interrompere o cambiare i collegamenti in un circuito elettrico
+solitudine	NOUN	Italian WordNet	lo stare , il vivere solo
+formula	NOUN	Italian WordNet	in chimica
+tavoliere	NOUN	Italian WordNet	tavola quadrata per giocare a dama o a scacchi
+orripilante	ADJ	Italian WordNet	molto brutto
+marketing	NOUN	Italian WordNet	il complesso delle attività volte all'incremento delle vendite o l'affermazione di un prodotto sul mercato
+marketing	NOUN	Italian WordNet	attività di sfruttamento dei fattori che possono ottimizzare la commercializzazione dei beni e dei servizi considerato sotto il profilo aziendale
+benessere	NOUN	Italian WordNet	florida condizione economica privata o collettiva
+benessere	NOUN	Italian WordNet	prospero stato di salute
+potenza	NOUN	Italian WordNet	forza , robustezza
+potenza	NOUN	Italian WordNet	ogni stato che abbia rilevante importanza internazionale
+potenza	NOUN	Italian WordNet	il potere
+potenza	NOUN	Italian WordNet	possedere la facoltà , il potere di fare qualcosa
+potenza	NOUN	Italian WordNet	capacità di un sistema di sviluppare lavoro
+potenza	NOUN	Italian WordNet	grandezza fisica
+potenza	NOUN	Italian WordNet	forza vitale di un organismo animale o vegetale
+ilice	NOUN	Italian WordNet	quercia sempreverde diffusa nella macchia mediterranea
+caposaldo	NOUN	Italian WordNet	regola che governa con la forza della necessità gli aspetti anche naturali della realtà
+caposaldo	NOUN	Italian WordNet	precetto generale
+caposaldo	NOUN	Italian WordNet	posizione fortificata
+caposaldo	NOUN	Italian WordNet	fondamento basilare
+caposaldo	NOUN	Italian WordNet	segno che indica il livello per aa costruzione di strade , o altre opere murarie
+ottagono	NOUN	Italian WordNet	poligono con otto lati e otto angoli
+mendicante	NOUN	Italian WordNet	persona che vive di accattonaggio
+follow-up	NOUN	Italian WordNet	operazione di verifica e di eventuale aggiustamento dei risultati di un'azione tecnica , commerciale etc
+musico	NOUN	Italian WordNet	chi per professione suona uno strumento musicale
+svolazzo	NOUN	Italian WordNet	segno curvo che si aggiunge per abbellimento a una firma
+favo	NOUN	Italian WordNet	micosi cutanea provocata con sede preferenziale attorno alle unghie e al collo
+razza	NOUN	Italian WordNet	pesce di mare commestibile
+razza	NOUN	Italian WordNet	veicolo ad autopropulsione
+razza	NOUN	Italian WordNet	l'insieme di tutte le persone , passate , presenti , future , di uno stesso sangue
+razza	NOUN	Italian WordNet	la stirpe , la discendenza di qualcuno
+razza	NOUN	Italian WordNet	elemento caratteristico di un genere
+razza	NOUN	Italian WordNet	tipo di , modo particolare di essere di qualcosa
+razza	NOUN	Italian WordNet	l'insieme delle famiglie con uno stesso capostipite
+razza	NOUN	Italian WordNet	specie , tipo , qualità di qualche cosa
+danneggiamento	NOUN	Italian WordNet	evento dannoso
+danneggiamento	NOUN	Italian WordNet	atto del danneggiare
+iperpiressia	NOUN	Italian WordNet	temperatura alta del corpo
+birbanteria	NOUN	Italian WordNet	qualità di chi e birbante
+birbanteria	NOUN	Italian WordNet	qualità di chi è birbante
+prednisone	NOUN	Italian WordNet	ormone steroideo
+serendipità	NOUN	Italian WordNet	capacità di cogliere e ben interpretare un fatto rilevante che si presenti in modo inatteso e casuale nel corso di una ricerca scientifica diversamente orientata
+odissea	NOUN	Italian WordNet	serie di avevnture o peripezie
+insetto	NOUN	Italian WordNet	artropode della classe degli insetti , piccolo animale invertebrato con sei zampe , spesso alato
+disabitato	ADJ	Italian WordNet	privo di segni di vita umana , disabitato
+triumviro	NOUN	Italian WordNet	membro di un triumvirato
+cavalletto	NOUN	Italian WordNet	sostegno a tre o quattro piedi cui si appoggia saldamente qualcosa
+cavalletto	NOUN	Italian WordNet	antico strumento di tortura
+boole	NOUN	Italian WordNet	matematico inglese ( 11815-1864 )
+divinatorio	ADJ	Italian WordNet	che riguarda la divinazione
+uomo-di-lettere	NOUN	Italian WordNet	chi si dedica allo studio delle lettere
+cannella	NOUN	Italian WordNet	piccolo tubo , parte finale di una conduttura , da cui sgorga l'acqua
+cannella	NOUN	Italian WordNet	spezia di colore giallo-bruno , costituita dalle scorze , arrotolate in bastoncini o ridotte in polvere , della corteccia di alcune piante delle lauracee
+vermouth	NOUN	Italian WordNet	vino liquoroso ad alta gradazione , aromatizzato con erbe , che si beve come aperitivo
+marrano	NOUN	Italian WordNet	chi tradisce la fiducia di qualcuno
+guaito	NOUN	Italian WordNet	verso lamentoso del cane o di altro animale
+ottimismo	NOUN	Italian WordNet	caratteristica di chi tende a vedere sempre il lato positivo delle cose
+budella	NOUN	Italian WordNet	la parte del tubo digerente che va dallo stomaco all'orifizio anale
+gomma_americana	NOUN	Italian WordNet	gomma da masticare
+vago	ADJ	Italian WordNet	che è generico , vago
+lontano	ADJ	Italian WordNet	lontano nel tempo , impossibile da ricordare
+lontano	ADJ	Italian WordNet	detto di ciò che è distante nello spazio
+otorinolaringoiatra	NOUN	Italian WordNet	medico specialista di orecchi naso e gola
+puntualmente	ADV	Italian WordNet	in orario , con puntualità
+sconvolgimento	NOUN	Italian WordNet	condizione di chi è sconvolto
+sbattiuova	NOUN	Italian WordNet	arnese da cucina usato per sbattere uova , montare la panna e simili
+a_disposizione	ADJ	Italian WordNet	che può essere utilizzato , che è disponibile
+radiogramma	NOUN	Italian WordNet	telegramma trasmesso via radio
+imbellettare	VERB	Italian WordNet	dare il belletto , migliorare l'aspetto con il trucco
+turbina	NOUN	Italian WordNet	macchina motrice in grado di trasformare in lavoro meccanico l'energia ricevuta da una corrente fluida
+ordire	VERB	Italian WordNet	dare una forma approssimativa , delineare per sommi capi
+ricevimento	NOUN	Italian WordNet	atto del ricevere
+coleroso	ADJ	Italian WordNet	malato di colera
+baobab	NOUN	Italian WordNet	grande albero tropicale delle bombacacee
+felpato	NOUN	Italian WordNet	tessuto di maglia felpato
+macchina_da_cucire	NOUN	Italian WordNet	macchina usata per cucire
+causa	NOUN	Italian WordNet	causa , scopo
+causa	NOUN	Italian WordNet	causa dell'azione
+causa	NOUN	Italian WordNet	scopo , obiettivo , ideale
+appetito	NOUN	Italian WordNet	tendenza naturale ad appagare bisogni , istinti , desideri
+appetito	NOUN	Italian WordNet	bisogno fisiologico di mangiare
+impermeabile	ADJ	Italian WordNet	che non si lascia attraversare da liquidi , impossibile da penetrare
+impermeabile	NOUN	Italian WordNet	soprabito o mantella in tessuto che si indossa per ripararsi dalla pioggia
+esangue	ADJ	Italian WordNet	privo del colorito naturale
+balenio	NOUN	Italian WordNet	un balenare continuo e frequente
+apocalittico	ADJ	Italian WordNet	relativo all'apocalisse
+lascivamente	ADV	Italian WordNet	in modo sensuale
+lascivamente	ADV	Italian WordNet	in modo sensuale , voluttuoso
+pedone	NOUN	Italian WordNet	chi si sposta a piedi
+gruccia	NOUN	Italian WordNet	apparecchio ortopedico che si appoggia sotto le ascelle , per camminare senza usare le gambe
+gruccia	NOUN	Italian WordNet	oggetto che serve per appendere gli abiti
+gruccia	NOUN	Italian WordNet	oggetto che serve per appendere abiti
+pupa	NOUN	Italian WordNet	fase della metamorfosi degli insetti in cui si compie la trasformazione da larva ad adulto
+pupa	NOUN	Italian WordNet	ragazza o donna giovane e bella
+anagrammatico	ADJ	Italian WordNet	di anagramma
+mettere_in_correlazione	VERB	Italian WordNet	mettere in correlazione
+costatazione	NOUN	Italian WordNet	giudizio espresso per constatare
+carapace	NOUN	Italian WordNet	parte dorsale della corazza delle tartarughe
+intestino-digiuno	NOUN	Italian WordNet	parte dell'intestino
+parola	NOUN	Italian WordNet	stringa di lettere che esprime un significato
+duramen	NOUN	Italian WordNet	parte più interna e più vecchia del tronco degli alberi
+centralizzazione	NOUN	Italian WordNet	concentrazione dei poteri negli organi centrali dello stato a scapito delle amministrazioni periferiche
+specchio	NOUN	Italian WordNet	lastra di vetro piana , cui è stato applicato uno strato metallico , che riflette in modo regolare i raggi luminosi
+specchio	NOUN	Italian WordNet	breve schema illustrante caratteristiche fondamentali di qualcosa
+riduzionismo	NOUN	Italian WordNet	dottrina scientifica e filosofica che formula un ordine gerarchico delle discipline al fine di ricondurre le forme più complesse di sapere a quelle ritenute più semplici e fondamentali
+donna_di_strada	NOUN	Italian WordNet	donna che si guadagna da vivere prostituendosi
+scendere	VERB	Italian WordNet	detto degli astri , non esser più visibilescomparire sotto la linea dell'orizzonte
+scendere	VERB	Italian WordNet	detto di fenomeni naturali , detto di pioggia , neve , grandine ecc. , cadere dal cielo
+scendere	VERB	Italian WordNet	pendere , scendere detto di capelli di tessuti di abiti
+squadro	NOUN	Italian WordNet	pesce di mare molto ricercato per l ' ottimo sapore
+sacca	NOUN	Italian WordNet	la parte rientrante
+digeribile	ADJ	Italian WordNet	che si può digerire
+perspicuo	ADJ	Italian WordNet	che è evidente , che è visibile , manifesto , palese
+tolemaico	ADJ	Italian WordNet	concernente l'astronomo greco tolomeo ( )
+glifo	NOUN	Italian WordNet	ornamento architettonico costituito da una scanalatura tonda o angolare
+codificare	VERB	Italian WordNet	riunire in un codice
+codificare	VERB	Italian WordNet	in informatica convertire dal linguaggio di programma nel codice di macchina
+palma-da-dattero	NOUN	Italian WordNet	tipo di palma coltivata per i frutti dolcissimi
+catastare	VERB	Italian WordNet	disporre a catasta
+edonistico	ADJ	Italian WordNet	relativo all'edonismo
+riprendere	VERB	Italian WordNet	riconquistare , rioccupare
+riprendere	VERB	Italian WordNet	in sartoria , ritoccare le cuciture di un abito per renderlo più stretto
+riprendere	VERB	Italian WordNet	assumere di nuovo su di sé doveri , funzioni ecc
+giallo	ADJ	Italian WordNet	che è di colore giallo
+giallo	NOUN	Italian WordNet	la parte più nutriente dell'uovo di colore variabile tra il giallo e il rosso
+giallo	NOUN	Italian WordNet	colore giallo
+lipide	NOUN	Italian WordNet	sostanza organica naturale , di origine sia animale che vegetale , formata da esteri di acidi grassi superiori
+cubatura	NOUN	Italian WordNet	misura , calcolo di un volume
+letterato	NOUN	Italian WordNet	chi si dedica allo studio delle lettere
+riformista	NOUN	Italian WordNet	chi attua delle riforme
+pentecoste	NOUN	Italian WordNet	festa liturgica cristiana che commemora la discesa dello spirito santo sugli apostoli
+pentecoste	NOUN	Italian WordNet	festa ebraica che si celebra cinquanta giorni dopo la pasqua in ricordo del dono della legge a mosè
+chimono	NOUN	Italian WordNet	indumento tradizionale giapponese , lungo con maniche larghe e fascia alla vita
+grazie	NOUN	Italian WordNet	il ringraziare
+corso_di_specializzazione	NOUN	Italian WordNet	corso di formazione professionale
+camping	NOUN	Italian WordNet	l'attività del campeggiare
+canutezza	NOUN	Italian WordNet	imbiancamento dei capelli e dei peli dovuto all'invecchiamento
+dissipazione	NOUN	Italian WordNet	il dissipare
+livellamento	NOUN	Italian WordNet	atto del pareggiare
+travagliarsi	VERB	Italian WordNet	preoccuparsi eccessivamente , sottoporsi a forme di penitenza
+torr	NOUN	Italian WordNet	unità di misura di pressione
+trippone	NOUN	Italian WordNet	persona afflitta da obesità
+sincrotrone	NOUN	Italian WordNet	acceleratore di particelle subatomiche
+detonante	NOUN	Italian WordNet	sostanza che in condizioni adatte causa un violento sviluppo di gas e di vapori
+eccitamento	NOUN	Italian WordNet	condizione psico fisica
+avvenire	VERB	Italian WordNet	avere luogo , succedere
+avvenire	NOUN	Italian WordNet	il tempo futuro , l'avvenire
+avvenire	VERB	Italian WordNet	avere luogo
+pretesto	NOUN	Italian WordNet	opportunità , occasione , circostanza favorevole
+entomologo	NOUN	Italian WordNet	studioso di entomologia
+salone	NOUN	Italian WordNet	bottega di barbiere , parrucchiere , estetista
+salone	NOUN	Italian WordNet	l'edificio o il locale in cui una manifestazione ha luogo
+eterogeneo	ADJ	Italian WordNet	di genere , natura o qualità diverse
+foro	NOUN	Italian WordNet	organo che amministra la giustizia composto da magistrati
+foro	NOUN	Italian WordNet	un'apertura attraverso qualcosa
+racconciare	VERB	Italian WordNet	mettere o rimettere qualcosa in funzione , in buono stato , eliminando guasti o difetti
+sonorità	NOUN	Italian WordNet	qualità di ciò che è sonoro
+inflorescenza	NOUN	Italian WordNet	raggruppamento di fiori su uno stesso asse o più assi
+pennacchio	NOUN	Italian WordNet	ornamento formato da un ciuffo di penne
+differito	ADJ	Italian WordNet	che ha subito un'interruzione
+ampliamento	NOUN	Italian WordNet	atto dell'ampliare
+rumore	NOUN	Italian WordNet	notizia senza fondamento , ciarla maligna
+rumore	NOUN	Italian WordNet	segnale elettrico che disturba
+rumore	NOUN	Italian WordNet	voce , notizia che si diffonde rapidamente e universalmente
+confluenza	NOUN	Italian WordNet	il confluire
+confluenza	NOUN	Italian WordNet	punto di contatto , d'incontro
+spigolatore	NOUN	Italian WordNet	chi si dedica alla spigolatura come attività stagionale
+lessicografia	NOUN	Italian WordNet	scienza e tecnica della registrazione e definizione formale , funzionale e semantica dei vocaboli e delle unità lessicali di una lingua
+perforare	VERB	Italian WordNet	passare da parte a parte o ferire gravemente con un'arma bianca
+vertù	NOUN	Italian WordNet	eccellenza morale
+morbo_sacro	NOUN	Italian WordNet	malattia del sistema nervoso caratterizzata da crisi con perdita di coscienza e convulsioni
+smergo	NOUN	Italian WordNet	nome comune di uccello del genere mergo
+radica	NOUN	Italian WordNet	è un organo che assorbe sostanze nutritive sostinendo l'intera pianta
+radica	NOUN	Italian WordNet	la parte delle piante che penetra nel terreno
+tempestivo	ADJ	Italian WordNet	che è detto o fatto al momento opportuno
+sorgente	NOUN	Italian WordNet	il luogo iniziale
+circospezione	NOUN	Italian WordNet	l'essere circospetto , l'agire in modo guardingo e sospettoso
+intestino-crasso	NOUN	Italian WordNet	parte terminale dell'intestino costituita da cieco , retto e colon
+forestiero	NOUN	Italian WordNet	chi appartiene a un'altra nazione
+punzonatrice	NOUN	Italian WordNet	macchina per la punzonatura a freddo di lamiere
+nitrire	VERB	Italian WordNet	del cavallo , emettere il verso tipico
+all'istante	ADV	Italian WordNet	in modo istantaneo , immediato , senza intervalli di tempo
+esecrabilmente	ADV	Italian WordNet	in modo odioso e abominevole
+panteismo	NOUN	Italian WordNet	posizione filosofica e teologica che identifica la divinità con tutta la realtà e la natura del mondo
+palmizio	NOUN	Italian WordNet	pianta di palma , e specialmente della palma da datteri
+homo_erectus	NOUN	Italian WordNet	specie di ominidi estinta appartenente al genere homo
+cumulare	VERB	Italian WordNet	mettere insieme in un cumulo
+godibile	ADJ	Italian WordNet	che si può godere
+lettiga	NOUN	Italian WordNet	letto mobile per trasportare qualcuno
+kamikaze	NOUN	Italian WordNet	aviatore giapponese che nell'ultimo periodo della seconda guerra mondiale si gettava con il proprio aereo su un bersaglio nemico
+paleontologo	NOUN	Italian WordNet	studioso di paleontologia
+l'aia	NOUN	Italian WordNet	zona adiacente ad un casolare , dove si tenevano alcuni animalli domestici
+ricsò	NOUN	Italian WordNet	carrozzella a due ruote trainata da un uomo , tipica dei paesi asiatici
+triste	ADJ	Italian WordNet	che infonde tristezza
+triste	ADJ	Italian WordNet	che provoca dispiacere
+monetario	ADJ	Italian WordNet	relativo alla moneta
+colpo	NOUN	Italian WordNet	colpo che si dà a qlcu o a qualcosa , con la mano o con altro
+colpo	NOUN	Italian WordNet	ogni colpo di arma da fuoco
+colpo	NOUN	Italian WordNet	i pugni nella box
+colpo	NOUN	Italian WordNet	indisposizione , male fisico improvviso
+liquefare	VERB	Italian WordNet	far passare una sostanza dallo stato solido a quello liquido
+lussuriosamente	ADV	Italian WordNet	in modo sensuale , voluttuoso
+lussuriosamente	ADV	Italian WordNet	in modo sensuale
+sporcare	VERB	Italian WordNet	rendere lordo , sudicio
+drago	NOUN	Italian WordNet	costellazione del drago
+drago	NOUN	Italian WordNet	struttura leggera a forma di rombo ricoperta di carta o plastica , che tirata per gioco con uno spago contro vento si libra in aria
+drago	NOUN	Italian WordNet	mostro favoloso rappresentato per lo più nella forma di un grande rettile alato che sputa fuoco
+cauto	ADJ	Italian WordNet	che agisce con cautela e prudenza
+cauto	ADJ	Italian WordNet	che agisce con accortezza
+cauto	ADJ	Italian WordNet	che agisce con prudenza e cautela
+poppante	NOUN	Italian WordNet	lattante
+abbindolatura	NOUN	Italian WordNet	azione volta a ingannare , imbrogliare qualcuno
+sbalordito	ADJ	Italian WordNet	detto di chi è preso da stupore
+barometrico	ADJ	Italian WordNet	relativo al barometro
+bisognevole	ADJ	Italian WordNet	detto di chi non possiede mezzi sufficienti per vivere decorosamente
+bisognevole	ADJ	Italian WordNet	povero
+prodigare	VERB	Italian WordNet	con riferimento a cose non materiali , dare , dispensare , distribuire generosamente
+appropriare	VERB	Italian WordNet	rendere proprio , conveniente , adatto ad un determinato scopo
+creatività	NOUN	Italian WordNet	la facoltà di creare ed inventare cose
+arbitrarietà	NOUN	Italian WordNet	l'essere arbitrario
+kimono	NOUN	Italian WordNet	indumento tradizionale giapponese , lungo con maniche larghe e fascia alla vita
+glicine	NOUN	Italian WordNet	pianta rampicante con fiori violacei
+trasferibile	ADJ	Italian WordNet	detto di ciò che può essere trasportato
+scialacquatore	NOUN	Italian WordNet	persona eccessivamente prodiga , che dilapida il denaro e i propri beni
+scartare	VERB	Italian WordNet	scostarsi balzando di lato , detto di animali e di veicoli
+teppismo	NOUN	Italian WordNet	manifestazioni di delinquenza
+paraggio	NOUN	Italian WordNet	luogo vicino
+cacciatorpediniere	NOUN	Italian WordNet	nave militare
+filippino	ADJ	Italian WordNet	delle isole filippine
+silvestre	ADJ	Italian WordNet	pertinente a bosco
+furore	NOUN	Italian WordNet	odio intenso
+coglitura	NOUN	Italian WordNet	la raccolta dei frutti della coltivazione
+stivale	NOUN	Italian WordNet	calzatura di cuoio o di gomma , che arriva sino al ginocchio o alla coscia
+unanimemente	ADV	Italian WordNet	in accordo , all'unanimità
+indebolimento	NOUN	Italian WordNet	situazione , condizione di debolezza
+pacemaker	NOUN	Italian WordNet	piccolo generatore elettronico di impulsi funzionante a pila che , collocato sotto pelle , serve a stimolare e regolare il ritmo cardiaco
+asfaltatura	NOUN	Italian WordNet	agglomerato di frammenti di roccia calcarea intrisi di bitume , usato per la pavimentazione delle strade
+verosimile	ADJ	Italian WordNet	che è simile al vero e come tale può essere creduto
+verosimile	ADJ	Italian WordNet	che è verosimile , plausibile , che si può credere
+califfo	NOUN	Italian WordNet	la suprema autorità religiosa e politica presso i musulmani
+rito	NOUN	Italian WordNet	tendenza acquisita che deriva dalla ripetizione costante di atti o comportamenti
+rito	NOUN	Italian WordNet	insieme degli atti di una celebrazione , spec . pubblica , religiosa o civile
+cosmogonia	NOUN	Italian WordNet	l'origine dell'universo
+mansuefare	VERB	Italian WordNet	rendere mansueti e/o obbedienti animali selvaggi o feroci
+pellagra	NOUN	Italian WordNet	affezione dovuta a carenza di vitamina pp
+singulto	NOUN	Italian WordNet	pianto dirotto
+manetta	NOUN	Italian WordNet	strumento di ferro di varia forma che , accoppiato a un altro uguale , serve per legarele mani ad un arrestato
+subcontinente	NOUN	Italian WordNet	parte di un continente con caratteristiche peculiari
+bungalow	NOUN	Italian WordNet	genere di villa di campagna
+monologo	NOUN	Italian WordNet	discorso pronunciato con voce più o meno alta da una persona che si rivolge a se stessa
+mal_umore	NOUN	Italian WordNet	stato d'animo di tristezza , malinconia , scontentezza
+bottone	NOUN	Italian WordNet	fiore non ancora sbocciato
+bottone	NOUN	Italian WordNet	parte di un congegno che , premuta , mette in funzione il congegno stesso
+lodevolmente	ADV	Italian WordNet	in modo lodevole , apprezzabile
+accusato	NOUN	Italian WordNet	chi è in stato di accusa
+sveglia	NOUN	Italian WordNet	l'atto di svegliare o di svegliarsi
+sveglia	NOUN	Italian WordNet	orologio a suoneria
+aggraziato	ADJ	Italian WordNet	che ha grazia , leggiadria , bellezza
+aggraziato	ADJ	Italian WordNet	che ha grazia e armonia di forme
+corifeo	NOUN	Italian WordNet	capo spirituale
+rete_telematica	NOUN	Italian WordNet	sistema di interconnessione a distanza , per ricevere e trasmettere dati via computer
+antifona	NOUN	Italian WordNet	nella liturgia , versetto che precede o segue il salmo
+autoclave	NOUN	Italian WordNet	sistema automatico per regolare o elevare la pressione nelle tubature degli impianti idraulici
+tramontana	NOUN	Italian WordNet	punto cardinale indicato dalla stella polare
+antimoniale	ADJ	Italian WordNet	relativo all'antimonio
+con_piacere	ADV	Italian WordNet	in modo piacevole e gradito
+incentivo	NOUN	Italian WordNet	compenso aggiuntivo dato per riconoscere al lavoratore lo sforzo fatto
+malinteso	NOUN	Italian WordNet	interpretazione errata di parole o atti altrui
+sedentario	ADJ	Italian WordNet	detto di persona che non fa movimento
+coito	NOUN	Italian WordNet	rapporto sessuale
+proconsole	NOUN	Italian WordNet	console che , dopo esser stato in carica un anno a roma , veniva inviato a governare una provincia
+costare	VERB	Italian WordNet	avere un certo prezzo
+scellerato	ADJ	Italian WordNet	molto cattivo , detto delle persone e delle loro azioni
+scellerato	ADJ	Italian WordNet	crudele
+scellerato	ADJ	Italian WordNet	malvagio
+tonico	NOUN	Italian WordNet	medicamento in forma di bevanda che stimola la secrezione dei succhi gastrici
+tonico	ADJ	Italian WordNet	relativo al tono muscolare
+tonico	ADJ	Italian WordNet	attinente al tono ( )
+saggiatura	NOUN	Italian WordNet	operazione del saggiare i metalli preziosi
+uomo-di-scienza	NOUN	Italian WordNet	chi si dedica alla ricerca scientifica
+inaridito	ADJ	Italian WordNet	di corpo che ha perduto il normale contenuto di acqua
+momento	NOUN	Italian WordNet	momento particolare
+momento	NOUN	Italian WordNet	opportunità , occasione , circostanza favorevole
+momento	NOUN	Italian WordNet	una porzione limitata e molto breve di tempo
+anticrittogamico	NOUN	Italian WordNet	sostanza usata contro organismi nocivi alle colture
+discorrere	VERB	Italian WordNet	comunicare verbalmente interagendo con qlcu
+gutturale	ADJ	Italian WordNet	di gola , dei suoni
+ibrido	ADJ	Italian WordNet	detto di piante o animali risultanti dall'unione di due razze o specie diverse
+ibrido	NOUN	Italian WordNet	animale o pianta nati da incrocio di razze
+lampante	ADJ	Italian WordNet	che è evidente , che è visibile , manifesto , palese
+bramano	NOUN	Italian WordNet	sacerdote del dio brama
+fare_sesso	VERB	Italian WordNet	congiungersi sessualmente
+camera_d'aria	NOUN	Italian WordNet	involucro di gomma pieno d'aria che sta all'interno di palloni , pneumatici etc
+mese	NOUN	Italian WordNet	ciascuno dei dodici intervalli di tempo in cui è suddiviso l'anno civile
+superbia	NOUN	Italian WordNet	l'essere altero ed arrogante
+rovesciare	VERB	Italian WordNet	rovesciare con la forza
+rovesciare	VERB	Italian WordNet	mettere all'esterno quello che era all'interno , mettere a testa in giù
+attecchire	VERB	Italian WordNet	mettere radici ( detto di piante )
+attecchire	VERB	Italian WordNet	apprendersi al terreno
+punto	NOUN	Italian WordNet	tratto di filo teso tra due fori nella stoffa
+punto	NOUN	Italian WordNet	punto preciso che si differenzia da uno precedente , periodo , stadio
+punto	NOUN	Italian WordNet	unità che costituisce l'elemento di valutazione in una gara sportiva , in un gioco etc
+punto	NOUN	Italian WordNet	una porzione limitata e molto breve di tempo
+punto	NOUN	Italian WordNet	in astron . ognuno degli aspetti che assume un astro a seconda della sua posizione rispetto al sole e alla terra
+punto	NOUN	Italian WordNet	la più semplice figura geometrica , priva di dimensioni
+punto	NOUN	Italian WordNet	luogo determinato , punto circoscritto dello spazio
+punto	NOUN	Italian WordNet	segno grafico simile ad una macchiolina
+punto	NOUN	Italian WordNet	sutura chirurgica
+scrofola	NOUN	Italian WordNet	adenite dei linfonodi della nuca di natura tubercolare , con tumefazione e ulcerazione delle ghiandole linfatiche superficiali
+tropismo	NOUN	Italian WordNet	fenomeno naturale per cui una cellula o un organismo vegetale o animale tende a muoversi in risposta a uno stimolo esterno come luce , calore , umidità ecc
+posamine	NOUN	Italian WordNet	nave da guerra attrezzata per collocare mine in mare
+spedizione	NOUN	Italian WordNet	persone che partecipano a una spedizione
+spedizione	NOUN	Italian WordNet	viaggio per compiere un'impresa
+redentore	NOUN	Italian WordNet	secondo la dottrina cristiana il figlio di dio fatto uomo
+miglio	NOUN	Italian WordNet	frutto del miglio usato come alimento per uccelli
+miglio	NOUN	Italian WordNet	frutto dell'omonima pianta usato come alimento per uccelli
+euterio	NOUN	Italian WordNet	animale del superordine degli euteri , il cui embrione viene nutrito per mezzo della placenta
+diffusione	NOUN	Italian WordNet	trasmissione di programmi radio o televisivi
+diffusione	NOUN	Italian WordNet	processo di compenetrazione reciproca dei corpi , in particolare dei fluidi
+diffusione	NOUN	Italian WordNet	il diffondere , il diffondersi
+diffusione	NOUN	Italian WordNet	affermazione di usi , costumi , mezzi , motivi ideali
+censimento	NOUN	Italian WordNet	rilevamento periodico della popolazione nazionale
+sdolcinatezza	NOUN	Italian WordNet	l'essere svenevole
+orribilmente	ADV	Italian WordNet	in modo brutto esteticamente
+orribilmente	ADV	Italian WordNet	in modo tale da fare orrore , spavento , paura
+infiltrarsi	VERB	Italian WordNet	introdursi furtivamente in un ambiente , un gruppo , uno schieramento , spec . per spiare , controllare di nascoto
+confortevole	ADJ	Italian WordNet	detto di tutto ciò che fa sentire a proprio agio , che dà conforto e benessere
+insipiente	ADJ	Italian WordNet	mentalmente limitato
+prospettiva	NOUN	Italian WordNet	circostanza futura che si può prevedere
+prospettiva	NOUN	Italian WordNet	una possibile alternativa
+prospettiva	NOUN	Italian WordNet	possibilità che si realizzi qualcosa
+prospettiva	NOUN	Italian WordNet	il caso , evento stesso
+prospettiva	NOUN	Italian WordNet	quadro d'insieme di un fenomeno di una situazione
+rappresentante_di_commercio	NOUN	Italian WordNet	chi promuove qualcosa a nome di altri
+sdentati	NOUN	Italian WordNet	ordine di mammiferi privi di denti
+irresolubile	ADJ	Italian WordNet	che appare molto difficile o impossibile da risolvere o spiegare
+retrogrado	NOUN	Italian WordNet	persona restia alle novità , in particolare a quelle di carattere sociale e politico
+nazionalista	ADJ	Italian WordNet	proprio del nazionalismo
+bacologico	ADJ	Italian WordNet	relativo alla bacologia
+cono	NOUN	Italian WordNet	qualsiasi oggetto a forma di cono
+cono	NOUN	Italian WordNet	solido
+ciao	NOUN	Italian WordNet	saluto informale
+mostruosamente	ADV	Italian WordNet	in modo brutto esteticamente
+fuoriuscito	NOUN	Italian WordNet	chi , per ragioni politiche , è costretto a vivere all'estero
+astato	NOUN	Italian WordNet	elemento chimico del gruppo degli alogeni , con numero atomico 85 , che presenta diversi isotopi , tutti radioattivi e instabili , simb . at
+proboscidati	NOUN	Italian WordNet	ordine di mammiferi , comprendenti solo gli elefanti
+anonimia	NOUN	Italian WordNet	l'essere anonimo
+abolizionismo	NOUN	Italian WordNet	movimento che ha per scopo l'abolizione di una legge o di una consuetudine
+dionisio	NOUN	Italian WordNet	dio greco dell'ebbrezza , del vino e della vegetazione
+dionisio	NOUN	Italian WordNet	alle sue feste è collegata l'origine del dramma
+brevemente	ADV	Italian WordNet	in modo sintetico e riassuntivo
+trasmigrazione	NOUN	Italian WordNet	il migrare
+cerotto	NOUN	Italian WordNet	striscia di tela con un lato adesivo che si applica sulle ferite
+monumento	NOUN	Italian WordNet	costruzione , opera importante sotto il profilo storico o artistico
+blaise_pascal	NOUN	Italian WordNet	scienziato e filosofo francese ( 1623-1662 )
+venire_via	VERB	Italian WordNet	cadere via
+dittatura	NOUN	Italian WordNet	regime assoluto e dispotico esercitato da un dittatore
+dittatura	NOUN	Italian WordNet	dittatura
+recente	ADJ	Italian WordNet	detto di un tempo che è più vicino al tempo presente
+recente	ADJ	Italian WordNet	che ha avuto inizio o è stato fatto di recente
+scampo	NOUN	Italian WordNet	lo scampare , l'essere salvo
+scampo	NOUN	Italian WordNet	crostaceo simile all'astice ma di dimensioni più piccole , assai ricercato per la prelibatezza delle sue carni
+noiosamente	ADV	Italian WordNet	in modo noioso
+assopire	VERB	Italian WordNet	calmare ( spec . il dolore )
+uro	NOUN	Italian WordNet	mammifero considerato progenitore del bue , estinto nel xvii secolo
+ontano	NOUN	Italian WordNet	nome comune delle piante del genere alno specialmente dell'ontano nero
+analisi	NOUN	Italian WordNet	psicanalisi
+analisi	NOUN	Italian WordNet	studio che si propone di partire dai singoli componenti del tutto
+analisi	NOUN	Italian WordNet	esame medico volto alla individuazioni delle condizioni di salute generali di un individuo
+analisi	NOUN	Italian WordNet	esame emocromocitometrico
+analisi	NOUN	Italian WordNet	analisi del sangue
+analisi	NOUN	Italian WordNet	analisi matematica
+tailandese	ADJ	Italian WordNet	della thailandia o siam , del popolo , della lingua e della cultura dei tailandesi
+meteorologo	NOUN	Italian WordNet	studioso , esperto di meteorologia
+affermativo	ADJ	Italian WordNet	che esprime consenso
+critico	ADJ	Italian WordNet	che analizza e sa valutare razionalmente i vari aspetti di un fatto , una situazione e sim
+ipernutrizione	NOUN	Italian WordNet	alimentazione eccessiva rispetto al fabbisogno metabolico dell'organismo vivente
+faciale	ADJ	Italian WordNet	della faccia
+stagionato	ADJ	Italian WordNet	sottoposto a invecchiamento
+stagionato	ADJ	Italian WordNet	sottoposto a stagionatura , invecchiato
+zittire	VERB	Italian WordNet	emettere con la bocca una sorta di sibilo per intimare silenzio
+zittire	VERB	Italian WordNet	indurre al silenzio , far tacere
+volteggiare	VERB	Italian WordNet	in equitazione , fare caracolli , eseguire volteggi a cavallo
+speco	NOUN	Italian WordNet	condotto anatomico
+speco	NOUN	Italian WordNet	ampia cavità formata nel suolo o nella roccia da agenti naturali , estesa più in larghezza che in profondità
+slanciato	ADJ	Italian WordNet	elevato in statura
+gingillone	NOUN	Italian WordNet	persona pigra e inconcludente che passa il tempo senza far nulla di buono
+povero	ADJ	Italian WordNet	detto di chi non possiede mezzi sufficienti per vivere decorosamente
+povero	ADJ	Italian WordNet	scarso
+povero	NOUN	Italian WordNet	persona che vive di accattonaggio
+povero	ADJ	Italian WordNet	povero
+povero	ADJ	Italian WordNet	piccolo sotto il punto di vista della quantità
+povero	ADJ	Italian WordNet	presente in piccole quantità
+povero	ADJ	Italian WordNet	piccolo , scarso
+filtrare	VERB	Italian WordNet	manifestarsi di evento o di notizia , che si vorrebbe tenere segreta
+traino	NOUN	Italian WordNet	trascinamento di un veicolo a rimorchio di un mezzo animale o meccanico
+conferimento	NOUN	Italian WordNet	l'affidare
+conferimento	NOUN	Italian WordNet	l'assegnare
+anticostituzionale	ADJ	Italian WordNet	che è in contrasto con una norma della costituzione
+diffidente	ADJ	Italian WordNet	che tende a sospettare , a non fidarsi
+sax	NOUN	Italian WordNet	strumento a fiato ad ancia semplice , con caratteristiche simili al clarinetto ma realizzato in ottone
+abulico	ADJ	Italian WordNet	che è affetto da abulia
+ipnotizzatore	NOUN	Italian WordNet	chi ipnotizza
+forzatura	NOUN	Italian WordNet	atto del coartare , dell'obbligare
+voto	NOUN	Italian WordNet	espressione della volontà politica dei cittadini
+voto	NOUN	Italian WordNet	voto , dichiarazione di volontà
+voto	NOUN	Italian WordNet	valutazione di merito ( nella scuola e nei concorsi pubblici ) espressa generalmente , ma non solo , in forma numerica
+mormorare	VERB	Italian WordNet	spettegolare , diffondere voci sul conto di qualcuno , mormorare
+mormorare	VERB	Italian WordNet	parlare sottovoce
+massacrare	VERB	Italian WordNet	uccidere , trucidare in modo brutale persone o animali inermi e indifesi
+ricevitore	NOUN	Italian WordNet	chi è incaricato di riscuotere denaro per enti pubblici o privati
+ricevitore	NOUN	Italian WordNet	sistema di trasmissione
+ricevitore	NOUN	Italian WordNet	apparecchio ricevente
+serata	NOUN	Italian WordNet	festa serale
+anteprima	NOUN	Italian WordNet	presentazione di uno spettacolo ad una ristretta cerchia di spettatori prima dell'uscita nelle sale
+interpretativo	ADJ	Italian WordNet	che riguarda l'interpretazione
+lasso	NOUN	Italian WordNet	spazio di tempo
+viola	NOUN	Italian WordNet	strumento musicale ad arco , simile al violino
+viola	ADJ	Italian WordNet	di colore viola
+viola	NOUN	Italian WordNet	il colore viola
+viola	NOUN	Italian WordNet	fiore della pianta delle viole
+chetamente	ADV	Italian WordNet	in modo sereno e trnquillo
+piantaggine	NOUN	Italian WordNet	pianta erbacea con foglie sessili , fiori in spighe e frutti a capsula
+computabile	ADJ	Italian WordNet	che si può computare
+negativo	ADJ	Italian WordNet	sfavorevole , svantaggioso
+negativo	ADJ	Italian WordNet	che non aiuta , che reca danno
+negativo	ADJ	Italian WordNet	avverso svantaggioso
+passero	NOUN	Italian WordNet	piccolo uccello molto diffuso dalla nostre parti di colore grigio-marrone
+pedalare	VERB	Italian WordNet	muoversi usando la bicicletta come mezzo di trasporto , andare in bicicletta
+scarafaggio	NOUN	Italian WordNet	insetto notturno con corazza coriacea e lucida di colore scuro , infestatore di abitazioni umide e mal tenute
+accertabile	ADJ	Italian WordNet	che si può acceratare
+anemone	NOUN	Italian WordNet	pianta erbacea ornamentale
+cannello	NOUN	Italian WordNet	mollusco commestibile dei lamellibranchi
+istruire	VERB	Italian WordNet	dare istruzioni , consigli , direttive , su ciò che si deve fare , sul comportamento da tenere e sim
+supervisione	NOUN	Italian WordNet	attività del supervisore
+infrequente	ADJ	Italian WordNet	che non avviene spesso
+rappresentativo	ADJ	Italian WordNet	che significa qualcosa attraverso segni , simboli e simili
+sopraporta	NOUN	Italian WordNet	apertura , simile ad una finestra , posta sopra una porta
+navicella-spaziale	NOUN	Italian WordNet	involucro che accoglie gli astronauti nei voli spaziali
+trasportare	VERB	Italian WordNet	portare da un luogo a un altro
+trasportare	VERB	Italian WordNet	eseguire o trascrivere un brano musicale utilizzando un tono diverso da quello originario
+non-udente	NOUN	Italian WordNet	chi non sente i suoni
+elaborare	VERB	Italian WordNet	sottoporre ad elaborazione
+oscurantista	NOUN	Italian WordNet	persona restia alle novità , in particolare a quelle di carattere sociale e politico
+samba	NOUN	Italian WordNet	ballo di origine brasiliana
+revocazione	NOUN	Italian WordNet	il ritirare , annullare qualcosa
+revocazione	NOUN	Italian WordNet	l'atto di annullare qualcosa
+storto	ADJ	Italian WordNet	non diritto
+ricambiare	VERB	Italian WordNet	ricambiare i sentimenti , affetto , amore , stima , gratitudine
+rosolia	NOUN	Italian WordNet	malattia esantematica infettiva benigna , tipica dell'infanzia
+calvario	NOUN	Italian WordNet	sofferenza , patimento
+sorvolare	VERB	Italian WordNet	attraversare lo spazio aereo sovrastante un territorio , detto dei velivoli
+granoturco	NOUN	Italian WordNet	pianta che produce cariossidi gialle
+spavento	NOUN	Italian WordNet	stato d'animo , costituito da inquietudine e turbamento , che si prova al pensiero o alla presenza di un pericolo
+fago	NOUN	Italian WordNet	tutti i virus che possono infettare e distruggere i batteri
+aferesi	NOUN	Italian WordNet	fenomeno linguistico per cui cade la prima sillaba o la vocale iniziale di una parola
+esondazione	NOUN	Italian WordNet	lo straripare e il suo risultato
+coyote	NOUN	Italian WordNet	mammifero carnivoro americano simile al lupo
+intrattabile	ADJ	Italian WordNet	privo di cordalità
+buenos_aires	NOUN	Italian WordNet	capitale dell'argentina
+celibe	NOUN	Italian WordNet	uomo non sposato
+fulminato	NOUN	Italian WordNet	sale dell'acido fulminico
+animista	NOUN	Italian WordNet	seguace dell'animismo
+mossa	NOUN	Italian WordNet	l'evento iniziale
+mossa	NOUN	Italian WordNet	il muoversi , il muovere senza implicare uno spostamento
+figliola	NOUN	Italian WordNet	il figlio femmina
+perseverante	ADJ	Italian WordNet	capace di sopportare avversità , difficoltà , contrattempi
+perseverante	ADJ	Italian WordNet	paziente , perseverante
+rimpiazzo	NOUN	Italian WordNet	l'azione del rimpiazzare
+sciolinatura	NOUN	Italian WordNet	operazione dello sciolinare
+ettolitro	NOUN	Italian WordNet	unità di misura , pari a centi litri
+cavalluccio_di_mare	NOUN	Italian WordNet	pesce marino che nuota in posizione verticale
+pope	NOUN	Italian WordNet	sacerdote di rito greco-ortodosso
+volenteroso	ADJ	Italian WordNet	detto di persona che ha buona volontà
+piroetta	NOUN	Italian WordNet	rotazione del corpo eseguita per lo più come passo di danza
+naturalizzare	VERB	Italian WordNet	dare , concedere la naturalizzazione a un cittadino straniero
+levigato	ADJ	Italian WordNet	che ha una superficie levigata , che riflette la luce
+allungare	VERB	Italian WordNet	rendere lungo o più lungo
+allungare	VERB	Italian WordNet	distendere , stendere ( un arto , ecc . )
+allungare	VERB	Italian WordNet	aumentare la durata di qlco
+orefice	NOUN	Italian WordNet	chi lavora l'oro , i metalli e le pietre preziose
+partenariato	NOUN	Italian WordNet	la condizione del partner
+crepaccio	NOUN	Italian WordNet	luogo scosceso ed impervio , terminante con una buca di grandi dimensioni
+manovrare	VERB	Italian WordNet	manovrare o condurre un mezzo di trasporto regolandone i movimenti e la direzione
+manovrare	VERB	Italian WordNet	azionare e controllare il movimento , il funzionamento di un organo o di un meccanismo
+naturalistico	ADJ	Italian WordNet	che riguarda la natura
+esborso	NOUN	Italian WordNet	lo sborsare
+cernecchio	NOUN	Italian WordNet	attrezzo per setacciare
+idrostatico	ADJ	Italian WordNet	relativo all'idrostatica
+seriamente	ADV	Italian WordNet	in modo serio , grave
+seriamente	ADV	Italian WordNet	in modo serio e responsabile
+antenna	NOUN	Italian WordNet	organo degli artropodi
+antenna	NOUN	Italian WordNet	dispositivo atto a ricevere ed inviare segnali redio televisivi
+antenna	NOUN	Italian WordNet	lunga asta di legno , trasversale all'albero della nave , che sostiene le vele
+impattare	VERB	Italian WordNet	conseguire un punteggio di parità in una competizione
+astrologia	NOUN	Italian WordNet	lo studio , un tempo ritenuto scientifico , degli astri per conoscerne l'influsso sulle vicende umane
+naturale	ADJ	Italian WordNet	non patologico
+naturale	NOUN	Italian WordNet	caratteristiche immanenti di un ente o di un elemento
+naturale	NOUN	Italian WordNet	insieme dei tratti psichici , morali e comportamentali di una persona
+naturale	ADJ	Italian WordNet	che riguarda la natura
+allevare	VERB	Italian WordNet	far crescere in modo corretto e regolare ( spec . bambini , animali )
+asma	NOUN	Italian WordNet	malattia che provoca intensa difficoltà respiratoria dovuta a spasmo e ipersecrezione bronchiale
+archeopteryx	NOUN	Italian WordNet	grande uccello fossile del giurassico , con lunga coda e mascelle provviste di denti
+occhio-di-tigre	NOUN	Italian WordNet	varietà di qurzo usata come gemma
+ultrasonico	ADJ	Italian WordNet	di frequenza superiore a quella del suono
+gerontologia	NOUN	Italian WordNet	branca della medicina che si occupa della terapia delle malattie degli anziani
+biadetto	ADJ	Italian WordNet	di un azzurro spento
+prostrarsi	VERB	Italian WordNet	inchinarsi profondamente fino a terra
+asino	NOUN	Italian WordNet	una persona ignorante
+contrabbando	NOUN	Italian WordNet	attività illecita che consiste nel far circolare di nascosto in uno stato merci vietate o soggette ad una tassa che in tal modo viene evasa
+lavastoviglie	NOUN	Italian WordNet	macchina per lavare le stoviglie
+finito	ADJ	Italian WordNet	portato a compimento , finito
+monaco	NOUN	Italian WordNet	città della baviera
+etisia	NOUN	Italian WordNet	tubercolosi
+etisia	NOUN	Italian WordNet	malattia infettiva che può colpire vari organi
+motocoltivatore	NOUN	Italian WordNet	macchina agricola provvista di organi di attacco per diversi attrezzi per cui è impiegata in molti lavori , dalla semina alla sarchiatura al traino ecc
+noia	NOUN	Italian WordNet	sentimento di fastidio , stanchezza interiore e disinteresse nei confronti della vita propria e altrui
+passione	NOUN	Italian WordNet	sentimento incontenibile d'amore e attrazione
+passione	NOUN	Italian WordNet	forte tensione emotiva
+stato_di_grazia	NOUN	Italian WordNet	estasi , stato di grazia
+merzé	NOUN	Italian WordNet	aiuto , pietà
+demonio	NOUN	Italian WordNet	essere soprannaturale maligno
+top	NOUN	Italian WordNet	grado massimo , più elevato
+frustrazione	NOUN	Italian WordNet	l'atto del frustrare
+emergenza	NOUN	Italian WordNet	situazione critica
+ferito	NOUN	Italian WordNet	chi ha subito un ferimento
+automedonte	NOUN	Italian WordNet	chi guidava il carro da guerra o il cocchio
+banana	NOUN	Italian WordNet	frutto del banano
+gaio_giulio_cesare_ottaviano	NOUN	Italian WordNet	primo imperatore romano ( roma 63 a. c.-nola 14 d . c . )
+bugia	NOUN	Italian WordNet	pianta erbacea annuale diffusa nelle regioni temperate
+variante	NOUN	Italian WordNet	qualunque cosa si presenti come tipo modificato rispetto a d un modello
+piccozza	NOUN	Italian WordNet	attrezzo a forma di piccone usato dagli alpinisti come bastone d'appoggio
+astioso	ADJ	Italian WordNet	pieno di astio e malevolenza
+astioso	ADJ	Italian WordNet	detto di chi è pieno di risentimento , rabbia , rancore nei confronti di qualcuno
+sussurrare	VERB	Italian WordNet	produrre un rumore lieve e indistinto
+sussurrare	VERB	Italian WordNet	parlare sottovoce
+rispettabilità	NOUN	Italian WordNet	l'essere rispettabile
+gardenia	NOUN	Italian WordNet	arbusto ornamentale
+sottovento	NOUN	Italian WordNet	lato sottovento di un'imbarcazione
+infondato	ADJ	Italian WordNet	senza alcuna ragione , infondato , inconsistente
+infondato	ADJ	Italian WordNet	senza alcuna ragione , gratuito
+mandorlo	NOUN	Italian WordNet	albero del genere pruno con fiori bianchi o rosati coltivato in tutta l'area mediterranea per i suoi frutti
+tropeolo	NOUN	Italian WordNet	pianta erbacea con foglie rotonde e fiori color arancione o gialli
+asbestosi	NOUN	Italian WordNet	malattia dei polmoni causata da inalazione di polveri di asbesto
+inavvertitamente	ADV	Italian WordNet	senza consapevolezza , in modo inconsapevole
+nicotina	NOUN	Italian WordNet	alcaloide contenuto nelle foglie del tabacco
+esausto	ADJ	Italian WordNet	che è proprio di chi è affaticato
+esausto	ADJ	Italian WordNet	che è impoverito rispetto a ciò che aveva prima
+graziosamente	ADV	Italian WordNet	in modo aggraziato
+insulso	ADJ	Italian WordNet	che ha poco sapore , che manca di sale
+insulso	ADJ	Italian WordNet	detto di persona che non sa di niente , tarda e priva di spirito
+coabitare	VERB	Italian WordNet	abitare insieme , nello stesso locale
+dissessione	NOUN	Italian WordNet	sezione ed esame di un cadavere per lo studio anatomico o per scoprire le cause del decesso
+assedio	NOUN	Italian WordNet	l'assediare
+bobinare	VERB	Italian WordNet	avvolgere in bobine in verie tecnologie
+naiade	NOUN	Italian WordNet	nella mitologia , ninfa delle fonti e delle sorgenti
+vulcanologia	NOUN	Italian WordNet	scienza che studia i vulcani e i fenomeni ad essi connessi
+recluso	NOUN	Italian WordNet	persona tenuta in prigione
+donnina_allegra	NOUN	Italian WordNet	donna che si guadagna da vivere prostituendosi
+depravato	ADJ	Italian WordNet	che non ha remore morali
+diorite	NOUN	Italian WordNet	roccia eruttiva intrusiva
+grado-centigrado	NOUN	Italian WordNet	unità di misura della temperatura secondo la scala celsius
+gettare-la-maschera	VERB	Italian WordNet	dimostrare apertamente le proprie intenzioni
+bue-tibetano	NOUN	Italian WordNet	mammifero ruminante di grandi dimensioni originario dell'altopiano del tibet
+faro	NOUN	Italian WordNet	il faro del porto
+faro	NOUN	Italian WordNet	luci della macchina
+frittella	NOUN	Italian WordNet	vivanda dolce o salata che si prepara con una pastella semiliquida fritta in olio bollente
+aspergere	VERB	Italian WordNet	bagnare leggermente
+scossa	NOUN	Italian WordNet	un singolo movimento tellurico
+scossa	NOUN	Italian WordNet	scossa elettrica
+scossa	NOUN	Italian WordNet	intensa e profonda emozione
+navigazione-costiera	NOUN	Italian WordNet	navigazione lungo le coste , in vista della terra
+emissione	NOUN	Italian WordNet	il dare inizio alla circolazione di banconote , assegni , cambiali , francobolli ecc
+emissione	NOUN	Italian WordNet	l'emettere
+emissione	NOUN	Italian WordNet	la sostanza emessa
+emissione	NOUN	Italian WordNet	cessione di energia da un sistema fisico all'ambiente circostante
+madrepatria	NOUN	Italian WordNet	la patria d'origine per chi vive all'estero
+idrometro	NOUN	Italian WordNet	scala metrica usata per misurare il livello dell'acqua nei porti o nei fiumi
+occasione	NOUN	Italian WordNet	bene acquistato o acquistabile a prezzo vantaggioso
+occasione	NOUN	Italian WordNet	momento particolare
+occasione	NOUN	Italian WordNet	opportunità , occasione , circostanza favorevole
+nume_tutelare	NOUN	Italian WordNet	essere immaginario
+carcinomatoso	ADJ	Italian WordNet	malato di carcinoma
+igiene	NOUN	Italian WordNet	ramo della medicina che mira alla conservazione della salute dell'individuo e della collettività e svolge un'azione di prevenzione delle cause esogene delle malattie
+bene	NOUN	Italian WordNet	insieme dei beni che appartengono ad una persona o ente
+bene	NOUN	Italian WordNet	qualità di ciò che è buono
+bene	NOUN	Italian WordNet	valore in denaro dei beni posseduti
+bene	NOUN	Italian WordNet	patrimonio , ricchezza
+bene	NOUN	Italian WordNet	spec . plural. , ricchezza , proprietà
+mistero	NOUN	Italian WordNet	rappresentazione medioevale sugli episodi della vita di cristo
+delusione	NOUN	Italian WordNet	atto del deludere
+delusione	NOUN	Italian WordNet	sentimento di frustrazione di un'aspettativa
+arrancare	VERB	Italian WordNet	procedere con fatica
+arrancare	VERB	Italian WordNet	camminare con difficoltà e in modo difettoso per imperfezione congenita , malattia o lesione
+andino	ADJ	Italian WordNet	delle ande
+princisbecco	NOUN	Italian WordNet	lega di rame , stagno e zinco
+abbindolamento	NOUN	Italian WordNet	azione volta a ingannare , imbrogliare qualcuno
+meteorologia	NOUN	Italian WordNet	scienza che studia l'atmosfera terrestre e i fenomeni che vi si verificano
+toupet	NOUN	Italian WordNet	ciuffo di capelli posticci , usato per acconciature
+miliziano	NOUN	Italian WordNet	civile armato membro di milizie volontarie
+ninfa	NOUN	Italian WordNet	nella mitologia , giovane dea appartenente alle divinità minori femminili
+ninfa	NOUN	Italian WordNet	fase della metamorfosi degli insetti in cui si compie la trasformazione da larva ad adulto
+ninfa	NOUN	Italian WordNet	fanciulla dotata di grazia e bellezza
+violinista	NOUN	Italian WordNet	chi suona il violino
+pista_di_volo	NOUN	Italian WordNet	pista di atterraggio
+liquidabile	ADJ	Italian WordNet	che può essere pagato
+cadente	ADJ	Italian WordNet	che è molto vecchio e malandato
+don	NOUN	Italian WordNet	titolo attribuito agli ecclesiastici
+promulgatore	NOUN	Italian WordNet	chi promulga
+attuare	VERB	Italian WordNet	tradurre in realtà
+eccentricità	NOUN	Italian WordNet	l'essere eccentrico , bizzarro , stravagante
+nevoso	ADJ	Italian WordNet	coperto di neve
+nevoso	NOUN	Italian WordNet	quarto mese del calendario rivoluzionario francese
+polpa	NOUN	Italian WordNet	la parte molla e succosa del frutto
+protesi	NOUN	Italian WordNet	apparecchio o dispositivo artificiale applicato in sostituzione di un organo o di una sua parte mancante o anomala
+ereditario	ADJ	Italian WordNet	relativo all'eredità
+hacker	NOUN	Italian WordNet	esperto di programmazione che si inserisce in un sistema di elaborazione disturbandolo o sabotandolo
+meccanica	NOUN	Italian WordNet	branca della fisica
+assicurazione	NOUN	Italian WordNet	documento assicurativo
+assicurazione	NOUN	Italian WordNet	società assicurativa
+assicurazione	NOUN	Italian WordNet	garanzia , credito che si gode presso una istituzione
+assicurazione	NOUN	Italian WordNet	garantire , assicurare l'osservanza di un impegno
+prestito	NOUN	Italian WordNet	somma di denaro da restituire con gli interessi in un tempo determinato
+prestito	NOUN	Italian WordNet	prestare qualunque tipo di oggetto o denaro
+prestito	NOUN	Italian WordNet	vocabolo preso in prestito da un'altra lingua
+bronzeo	ADJ	Italian WordNet	che ha il colore del bronzo
+strumento_musicale	NOUN	Italian WordNet	qualsiasi strumento , ad arco a corda a fiato a percussione ecc. atto a produrre suoni musicali
+fare_all'amore	VERB	Italian WordNet	congiungersi sessualmente
+sfarfallone	NOUN	Italian WordNet	atto , discorso da sciocco
+alleluia	NOUN	Italian WordNet	esclamazione di contentezza
+congratulazione	NOUN	Italian WordNet	il congratularsi
+vetrata	NOUN	Italian WordNet	chiusura a vetri , talora artisticamente decorati
+attacco_cardiaco	NOUN	Italian WordNet	attacco cardiaco
+vol-au-vent	NOUN	Italian WordNet	antipasto di pasta sfoglia salata di varia grandezza , destinato a essere riempito con ingredienti diversi e cotto in forno
+crawl	NOUN	Italian WordNet	stile di nuoto
+armonium	NOUN	Italian WordNet	strumento musicale a tastiera
+illusorio	ADJ	Italian WordNet	si dice di ciò che forse non è come appare
+ministeriale	ADJ	Italian WordNet	relativo a un ministro o a un ministero
+etere	NOUN	Italian WordNet	sostanza organica , spesso volatile , che si ottiene dalla combinazione di acidi con alcoli , o per eliminazione dell'acqua dagli alcoli
+obbrobrio	NOUN	Italian WordNet	condizione o azione di grande vergogna o disonore
+ramadan	NOUN	Italian WordNet	nono mese del calendario musulmano durante il quale nelle ore diurne vige l'obbligo di astinenza da cibi , bevande e rapporti sessuali
+lamentanza	NOUN	Italian WordNet	forma di protesta
+lamentanza	NOUN	Italian WordNet	il lamentarsi per un qualche torto
+calepino	NOUN	Italian WordNet	opera in cui sono raccolti tutti i vocaboli di una lingua
+cessazione	NOUN	Italian WordNet	il concludere
+raffreddore	NOUN	Italian WordNet	malattia che colpisce le vie respiratorie
+iugoslavo	NOUN	Italian WordNet	abitante , nativo della iugoslavia
+madre	NOUN	Italian WordNet	origine , causa prima
+madre	NOUN	Italian WordNet	chi genera i figli
+madre	NOUN	Italian WordNet	ammasso gelatinoso dovuto a fermentazione
+piccionaia	NOUN	Italian WordNet	locale ricavato nella parte alta delle case di campagna , in cui si allevano i piccioni
+piccionaia	NOUN	Italian WordNet	parte più alta in un teatro , in cui si trovano i posti più lontani dal palcoscenico
+bardare	VERB	Italian WordNet	munire di barda , mettere i finimenti a un cavallo d'arme
+divaricare	VERB	Italian WordNet	far divergere
+riaffiorare	VERB	Italian WordNet	apparire di nuovo
+frassino	NOUN	Italian WordNet	grande albero con chioma poco ramosa , fusto dritto e cilindrico
+renale	ADJ	Italian WordNet	relativo all'organo del rene
+tumulare	VERB	Italian WordNet	mettere nel sepolcro
+agente_di_commercio	NOUN	Italian WordNet	chi promuove qualcosa a nome di altri
+indegnamente	ADV	Italian WordNet	in modo abietto e spregevole
+faceto	ADJ	Italian WordNet	detto di ciò che fa ridere
+disfattismo	NOUN	Italian WordNet	atteggiamento di chi pensa che tutto debba andare male
+sguardo	NOUN	Italian WordNet	l'espressione dell'occhio
+anticaglia	NOUN	Italian WordNet	oggetto vecchio , fuori moda
+manioca	NOUN	Italian WordNet	arbusto diffuso nell'america meridionale , dai cui tuberi si ottiene la tapioca
+alice	NOUN	Italian WordNet	piccolo pesce commestibile largamente diffuso
+angina	NOUN	Italian WordNet	affezione infiammatoria delle tonsille
+dubbio	NOUN	Italian WordNet	condizione di incertezza della mente o della volontà
+dubbio	NOUN	Italian WordNet	incertezza , esitazione , stato di indecisione
+femmina	NOUN	Italian WordNet	animale di sesso femminile
+femmina	ADJ	Italian WordNet	di sesso femminile
+femmina	NOUN	Italian WordNet	essere umano di sesso femminile
+amplificatore	NOUN	Italian WordNet	in un circuito , dispositivo che amplifica una grandezza elettrica utilizzando tubi elettronici o , più spesso , dispositivi a semiconduttori
+dominio	NOUN	Italian WordNet	il dominare , l'avere autorità su qlcu . o qlco
+segretario	NOUN	Italian WordNet	chi svolge incarichi di fiducia per conto di qlcu
+mix	NOUN	Italian WordNet	unione confusa di cose o di sostanze diverse
+mix	NOUN	Italian WordNet	mescolanza di due o più sostanze
+mix	NOUN	Italian WordNet	mescolanza confusa di cose o di sostanze diverse
+mix	NOUN	Italian WordNet	ciò che risulta dall'unione di più cose
+mix	NOUN	Italian WordNet	mescolanza di cose o di sostanze diverse
+comportare	VERB	Italian WordNet	comprendere in sé , portare come conseguenza logica
+comportare	VERB	Italian WordNet	presupporre , esigere
+opzione	NOUN	Italian WordNet	una possibilità che si alterna ad un'altra
+imputazione	NOUN	Italian WordNet	le accuse
+imputazione	NOUN	Italian WordNet	l'imputare
+erba-medica	NOUN	Italian WordNet	pianta erbacea perenne usata come foraggio
+stratificarsi	VERB	Italian WordNet	disporsi a strati
+cremare	VERB	Italian WordNet	ridurre in cenere un cadavere
+partnership	NOUN	Italian WordNet	la condizione del partner
+escremento	NOUN	Italian WordNet	materiale di rifiuto costituito da residui alimentari , bile , fermenti e batteri eliminato dall'intestino
+flint	NOUN	Italian WordNet	vetro ad alto contenuto di ossido di piombo usato per lenti speciali o per imitare pietre preziose
+spinta	NOUN	Italian WordNet	la cose che spinge all'azione
+spinta	NOUN	Italian WordNet	la cosa che spinge all'azione
+spinta	NOUN	Italian WordNet	azione esercitata da un corpo su un altro
+precursore	NOUN	Italian WordNet	chi precede altri nel formulare idee , teorie , dottrine che si affermeranno o consolideranno col tempo
+chiromantico	ADJ	Italian WordNet	relativo alla chiromanzia
+neutralista	NOUN	Italian WordNet	sostenitore del neutralismo
+carcassa	NOUN	Italian WordNet	scheletro di un animale morto
+gioire	VERB	Italian WordNet	provare una grande gioia
+cascara_sagrada	NOUN	Italian WordNet	sostanza estratta dalla corteccia dell'omonimo un arbusto e usata come lassativo
+abbinamento	NOUN	Italian WordNet	atto dell'abbinare
+aprirsi	VERB	Italian WordNet	diventare aperto
+scalatore	NOUN	Italian WordNet	chi pratica l'alpinismo
+sfasamento	NOUN	Italian WordNet	stato di confusione
+vanga	NOUN	Italian WordNet	attrezzo agricolo usato per dissodare il terreno
+parsec	NOUN	Italian WordNet	unità di misura delle distanze stellari
+programma	NOUN	Italian WordNet	opuscolo con indicazioni su varie manifestazioni o attività cronologicamente ordinate
+programma	NOUN	Italian WordNet	scritto programmatico espressione di movimenti politici o culturali
+programma	NOUN	Italian WordNet	ciò che ci si propone di compiere
+programma	NOUN	Italian WordNet	programma degli spettacoli teatrali o degli incontri sportivi
+programma	NOUN	Italian WordNet	insieme di istruzioni interpretabili ed eseguibili da un calcolatore
+screanzato	ADJ	Italian WordNet	detto di persona non educata
+screanzato	ADJ	Italian WordNet	maleducato , di rozze maniere
+lardo	NOUN	Italian WordNet	grasso di maiale
+dato_di_fatto	NOUN	Italian WordNet	giudizio espresso per constatare
+dilapidatore	NOUN	Italian WordNet	persona eccessivamente prodiga , che dilapida il denaro e i propri beni
+dilapidatore	ADJ	Italian WordNet	che spende facilmente , che sperpera
+sistemico	ADJ	Italian WordNet	relativo ad un sistema
+digitale	NOUN	Italian WordNet	sostanza medicinale con proprietà cardiotoniche , estratta da foglie essiccate di digitale purpurea
+digitale	NOUN	Italian WordNet	pianta ornamentale con fiori rosso-violacei , coltivata anche per proprietà medicinali delle foglie e dei semi
+invecchiare	VERB	Italian WordNet	rendere vecchio
+workshop	NOUN	Italian WordNet	corso di formazione professionale
+cucitrice	NOUN	Italian WordNet	donna che confeziona abiti e cuce
+nessuno	NOUN	Italian WordNet	persona di scarso valore e di nessuna influenza
+perielio	NOUN	Italian WordNet	il punto più vicino al sole nell'ellisse che un corpo compie intorno ad esso
+tea_room	NOUN	Italian WordNet	sala da tè
+barbagianni	NOUN	Italian WordNet	grande uccello rapace notturno
+brumista	NOUN	Italian WordNet	chi conduceva una pubblica vettura a cavalli
+macellaio	NOUN	Italian WordNet	chi vende la carne in una macelleria
+allitterazione	NOUN	Italian WordNet	successione di parole che iniziano con lo stesso suono
+scopritore	NOUN	Italian WordNet	chi scopre luoghi cose fatti o persone sconosciuti
+egizio	ADJ	Italian WordNet	relativo all'egitto
+suggeritore	NOUN	Italian WordNet	chi suggerisce le battute agli attori in teatro
+catione	NOUN	Italian WordNet	ione con carica positiva
+sprint	NOUN	Italian WordNet	scatto accelerazione improvvisa
+mare	NOUN	Italian WordNet	il complesso delle acque salate che coprono gran parte della superficie terrestre
+mare	NOUN	Italian WordNet	vasta zona pianeggiante della superificie lunare
+alleato	NOUN	Italian WordNet	chi ha stipulato un'alleanza
+annualmente	ADV	Italian WordNet	ogni anno
+parapsicologia	NOUN	Italian WordNet	disciplina che studia i fenomeni psichici e fisici non spiegabili attraverso leggi scientifiche note
+grazia	NOUN	Italian WordNet	aiuto , pietà
+grazia	NOUN	Italian WordNet	bellezza ed eleganza nei movimenti e negli atteggiamenti
+grazia	NOUN	Italian WordNet	atto di favore concesso da dio
+grazia	NOUN	Italian WordNet	il concedere il perdono ad un prigioniero
+urlare	VERB	Italian WordNet	parlare con tono di voce molto alto , udibile a distanza
+vulnerabilità	NOUN	Italian WordNet	qualità di chi o di ciò che può essere facilmente danneggiato
+ligneo	ADJ	Italian WordNet	di legno
+devonico	NOUN	Italian WordNet	periodo del paleozoico
+fe	NOUN	Italian WordNet	elemento chimico metallico del gruppo dei metalli di transizione , con numero atomico 26 , bivalente e trivalente
+beriberi	NOUN	Italian WordNet	malattia causata da carenza di vitamina b1
+caucciù	NOUN	Italian WordNet	latice di piante equatoriali ( euforbiacee , moracee , apocinacee ) da cui si ricava la gomma naturale
+caucciù	NOUN	Italian WordNet	albero della gomma
+abbassamento	NOUN	Italian WordNet	atto del ridurre
+abbassamento	NOUN	Italian WordNet	il ridurre
+abbassamento	NOUN	Italian WordNet	diminuzione di volume , peso , prezzo
+abbassamento	NOUN	Italian WordNet	la quantità diminuita
+abbassamento	NOUN	Italian WordNet	la riduzione , il calo di qualcosa
+abbassamento	NOUN	Italian WordNet	il diminuire
+abbassamento	NOUN	Italian WordNet	l'abbassare qualcosa
+perfezionamento	NOUN	Italian WordNet	il rendere migliore
+pervicacemente	ADV	Italian WordNet	in modo insistente e ostinato
+polo	NOUN	Italian WordNet	posizione mentale completamente antitetica ad una considerata
+polo	NOUN	Italian WordNet	gioco che si disputa tra due squadre a cavallo
+polo	NOUN	Italian WordNet	luogo in cui è sviluppata una attività economica o spirituale
+pus	NOUN	Italian WordNet	siero purulento
+gruppo_atomico	NOUN	Italian WordNet	atomo incapace di esistenza indipendente che si comporta come individuo chimico nelle reazioni
+custodia	NOUN	Italian WordNet	un contenitore atto a proteggere la cosa che contiene
+stampo	NOUN	Italian WordNet	forma metallica incavata da cui si ottiene la forma in rilievo
+stampo	NOUN	Italian WordNet	utensile usato in cucina di varie fogge e dimensioni ove si versano e si cuociono ( o si fanno raffreddare ) sostanze semiliquide
+semiotica	NOUN	Italian WordNet	nella filosofia del linguaggio , scienza dei segni
+piattaforma_continentale	NOUN	Italian WordNet	la striscia di terra , sotto il livello del mare , che circonda le terre emerse
+comprendere	VERB	Italian WordNet	giustificare o perdonare qualcuno
+bandone	NOUN	Italian WordNet	lamiera di ferro
+ponteggio	NOUN	Italian WordNet	struttura provvisoria fatta per eseguire lavori in edilizia
+ponteggio	NOUN	Italian WordNet	struttura provvisoria di pali e tavolati intorno alle parti di un'opera muraria in costruzione , per sostenere gli operai che vi lavorano
+carceriere	NOUN	Italian WordNet	guardia carceraria
+pelare	VERB	Italian WordNet	privare della pelle o della buccia , frutta , ortaggi e verdura
+sardella	NOUN	Italian WordNet	piccolo pesce di mare di colore azzurro argenteo che viene consumato fresco o conservato
+assumersi	VERB	Italian WordNet	prendere su di sé . farsi garante
+ingordo	ADJ	Italian WordNet	detto di persona che mangia avidamente
+demone	NOUN	Italian WordNet	essere soprannaturale maligno
+innovatore	NOUN	Italian WordNet	chi attua delle riforme
+innovatore	NOUN	Italian WordNet	chi precede altri nel formulare idee , teorie , dottrine che si affermeranno o consolideranno col tempo
+informale	ADJ	Italian WordNet	privo di formalità , di ufficialità
+chiusa	NOUN	Italian WordNet	la parte che conclude qualcosa
+chiusa	NOUN	Italian WordNet	la parte finale
+dermatosi	NOUN	Italian WordNet	malattia della cute non infiammatoria
+circo_equestre	NOUN	Italian WordNet	spettacolo che si svoge in un circo
+circo_equestre	NOUN	Italian WordNet	costruzione mobile in cui si svolge lo spettacolo del circo
+brontolone	NOUN	Italian WordNet	chi non è mai contento
+belladonna	NOUN	Italian WordNet	erba perenne del genere atropa , con foglie ovali acuminate , bacche nere velenose e radici e foglie ricche di alcaloidi
+planetario	NOUN	Italian WordNet	congegno che riproduce i principali fenomeni celesti all'interno di una cupola che rappresenta la volta celeste
+planetario	ADJ	Italian WordNet	relativo ai pianeti
+planetario	NOUN	Italian WordNet	l'edificio nel quale si effettua tale proiezione
+pianto	NOUN	Italian WordNet	sentimento di vivo dolore che si prova per la morte di qlcu . o per gravi disgrazie
+pianto	NOUN	Italian WordNet	lutto
+pianto	NOUN	Italian WordNet	il piangere
+numero-primo	NOUN	Italian WordNet	numero divisibile solo per 1 e per se stesso
+prosecuzione	NOUN	Italian WordNet	il proseguire
+prosecuzione	NOUN	Italian WordNet	parte che segue
+prossimità	NOUN	Italian WordNet	l'essere prossimo nello spazio o nel tempo
+shakespeare	NOUN	Italian WordNet	grande drammaturgo e poeta inglese ( 1564-1616 )
+nuotare	VERB	Italian WordNet	muoversi sulla superficie dell'acqua eseguendo movimenti coordinati delle braccia e delle gambe
+oblazione	NOUN	Italian WordNet	ciò che si dona a chi è bisognoso
+rivoluzione	NOUN	Italian WordNet	cambiamento rapido
+rivoluzione	NOUN	Italian WordNet	stato di grande confusione e turbamento
+rivoluzione	NOUN	Italian WordNet	rivolgimento violento dell'ordine politico vigente
+rivoluzione	NOUN	Italian WordNet	moto di un corpo celeste intorno ad un altro
+pensiero	NOUN	Italian WordNet	sentimento di chi si preoccupa
+pensiero	NOUN	Italian WordNet	teoria speculativa
+pensiero	NOUN	Italian WordNet	il continuo processo della elaborazione dei dati mentali
+pensiero	NOUN	Italian WordNet	scuola di pensiero
+pensiero	NOUN	Italian WordNet	ansiosa preoccupazione
+pensiero	NOUN	Italian WordNet	frase breve e spesso arguta in cui è enunciata una norma di vita
+aspettativa	NOUN	Italian WordNet	situazione di un impiegato che sia esentato dal prestare servizio per un certo periodo
+aspettativa	NOUN	Italian WordNet	l'aspettare qualcosa
+infermiere	NOUN	Italian WordNet	chi assiste gli infermi per professione
+garitta	NOUN	Italian WordNet	piccola costruzione per riparare la sentinella o lo scambista ferroviario
+risarcimento	NOUN	Italian WordNet	l'atto del risarcire
+risarcimento	NOUN	Italian WordNet	atto del risarcire
+teutonico	ADJ	Italian WordNet	dell'antica popolazione dei teutoni ( )
+quintale	NOUN	Italian WordNet	misura del peso
+niccolo'_machiavelli	NOUN	Italian WordNet	scrittore , uomo politico , storico ( firenze 1469-1527 )
+ghigliottina	NOUN	Italian WordNet	strumento usato per eseguire la condanna alla decapitazione
+teschio	NOUN	Italian WordNet	scheletro della testa dell'uomo e degli animali vertebrati
+armare	VERB	Italian WordNet	mettere puntelli e travi a una costruzione
+armare	VERB	Italian WordNet	mettere i proiettili ad un'arma
+armare	VERB	Italian WordNet	fornire di armi
+parallelepipedo	NOUN	Italian WordNet	prisma le cui facce sono sei parallelogrammi
+muro	NOUN	Italian WordNet	costruzione in muratura , in sassi , mattoni o altro , commesso con calcina o cemento
+pompiere	NOUN	Italian WordNet	chi è addetto all'estinzione degli incendi
+coordinamento	NOUN	Italian WordNet	un gruppo , organismo o comitato che si occupa della coordinazione
+coordinamento	NOUN	Italian WordNet	atto del coordinare
+carl_von_linné	NOUN	Italian WordNet	introdusse la nomenclatura binomia e il concetto di specie
+carl_von_linné	NOUN	Italian WordNet	naturalista svedese ( 1707-1778 )
+agio	NOUN	Italian WordNet	ciò che dà agio alla vita
+trincarino	NOUN	Italian WordNet	parte del fasciame dello scafo
+cudù	NOUN	Italian WordNet	grossa antilope africana del genere tragelaphus con lunghe corna a spirale
+esternare	VERB	Italian WordNet	manifestare verbalmente
+demolibile	ADJ	Italian WordNet	che si può distruggere , abbattere , demolire
+spilorceria	NOUN	Italian WordNet	gretto attaccamento al denaro accompagnato da scarsa disponibilità a spendere e a donare
+consumare_il_matrimonio	VERB	Italian WordNet	di coniugi , compiere almeno una volta l'atto sessuale
+dentale	ADJ	Italian WordNet	relativo ai denti
+difficile	ADJ	Italian WordNet	che è improbabile che accada
+difficile	ADJ	Italian WordNet	privo di cordalità
+difficile	ADJ	Italian WordNet	che necessita di un grosso sforzo per essere compreso o trattato o superato
+difficile	ADJ	Italian WordNet	che accade difficilmente
+lucherino	NOUN	Italian WordNet	piccolo uccello del genere cardellino dal piumaggio verde-giallastro con striature nere , prevalentemente granivoro
+peperone	NOUN	Italian WordNet	pianta del genere capsico con frutti usati come ortaggio , originaria del brasile e coltivata nei paesi a clima temperato-caldo
+contraffattore	NOUN	Italian WordNet	chi falsifica opere altrui
+controminare	VERB	Italian WordNet	affrontare con contromine
+vanto	NOUN	Italian WordNet	condizione di ammirazione , stima e apprezzamento tributati per meriti speciali
+avveduto	ADJ	Italian WordNet	che agisce con prudenza e cautela
+avveduto	ADJ	Italian WordNet	che agisce con cautela e prudenza
+avveduto	ADJ	Italian WordNet	che agisce con accortezza
+biologico	ADJ	Italian WordNet	relativo alla biologia
+curculione	NOUN	Italian WordNet	insetto dannoso
+trinitroglicerina	NOUN	Italian WordNet	esplosivo di alta potenza
+sciame	NOUN	Italian WordNet	moltitudine di insetti che si spostano nella stessa direzione
+brillante	NOUN	Italian WordNet	pietra preziosa
+sbaglio	NOUN	Italian WordNet	il risultato dell'errare , la cosa sbagliata
+minuzia	NOUN	Italian WordNet	cosa di poco conto
+sentore	NOUN	Italian WordNet	sensazione , impressione indistinta
+mortuario	ADJ	Italian WordNet	che riguarda i morti
+serpe	NOUN	Italian WordNet	nome comune di molti tipi di rettili
+serpe	NOUN	Italian WordNet	persona infida
+olimpiade	NOUN	Italian WordNet	manifestazione sportiva che si svolge ogni quattro anni
+olimpiade	NOUN	Italian WordNet	feste e giochi celebrati anticamente a olimpia
+accoppiamento	NOUN	Italian WordNet	rapporto sessuale
+accoppiamento	NOUN	Italian WordNet	atto dell'abbinare
+spirituale	ADJ	Italian WordNet	relativo allo spirito
+tedesco	NOUN	Italian WordNet	abitante , nativo della germania
+tedesco	NOUN	Italian WordNet	la lingua tedesca
+tedesco	ADJ	Italian WordNet	della germania o relativo al popolo , alla cultura o alla lingua tedesca
+hevea_brasiliensis	NOUN	Italian WordNet	albero della gomma
+oggidì	NOUN	Italian WordNet	il giorno presente
+pastore_tedesco	NOUN	Italian WordNet	cane pastore di taglia grossa , di colore scuro con focature regolari più chiare , impiegato anche per la difesa e per la guardia
+affilatrice	NOUN	Italian WordNet	macchina per affilare gli utensili
+tv	NOUN	Italian WordNet	l'apparecchio con cui si ricevono i programmi trasmessi per televisione
+tranquillizzante	ADJ	Italian WordNet	che infonde tranquillità e fiducia
+cloche	NOUN	Italian WordNet	cappello da donna con tesa incurvata e rivolta verso il basso
+rapimento	NOUN	Italian WordNet	estasi , stato di grazia
+topologia	NOUN	Italian WordNet	studio delle caratteristiche del suolo e del paesaggio
+discendere	VERB	Italian WordNet	essere legato da legame di parentela ( di persona )
+discendere	VERB	Italian WordNet	discendere
+splendore	NOUN	Italian WordNet	aspetto lucido , lucentezza
+ciclismo	NOUN	Italian WordNet	sport
+crack	NOUN	Italian WordNet	droga da fumo a base di cocaina
+aggregazione	NOUN	Italian WordNet	insieme di cose raccolte
+locomotiva	NOUN	Italian WordNet	veicolo ferroviario usato per trainare i convogli
+landa	NOUN	Italian WordNet	conca arida , sabbiosa , bordata di dune , tipica della francia meridionale
+decisamente	ADV	Italian WordNet	in modo netto e deciso
+pittoresco	ADJ	Italian WordNet	molto suggestivo e espressivo
+regalo	NOUN	Italian WordNet	la cosa donata
+deflagrazione	NOUN	Italian WordNet	il rumore che ne consegue
+deflagrazione	NOUN	Italian WordNet	scoppio violento e distruttivo
+caparbiamente	ADV	Italian WordNet	in modo insistente e ostinato
+fare_la_spia	VERB	Italian WordNet	dire o riferire in segreto cose su cui si dovrebbe tacere
+cavallo_da_tiro	NOUN	Italian WordNet	cavallo forte e robusto adatto a trasportare grossi carichi
+misogino	ADJ	Italian WordNet	che rivela atteggiamenti di misoginia
+tubazione	NOUN	Italian WordNet	complesso di tubi per il trasporto di fluidi
+vandalo	NOUN	Italian WordNet	chi distrugge , annienta , abbatte
+vandalo	NOUN	Italian WordNet	chi apparteneva all'antico popolo dei vandali
+pan	NOUN	Italian WordNet	secondo la mitologia greca dio dei boschi e delle greggi , figlio di ermes e di una ninfa
+molesto	ADJ	Italian WordNet	che provoca molestia
+molesto	ADJ	Italian WordNet	importuno
+molesto	ADJ	Italian WordNet	che arreca fastidio
+talloncino	NOUN	Italian WordNet	piccolo foglio di carta
+saporito	ADJ	Italian WordNet	ricco di gusto , di sapore
+saporito	ADJ	Italian WordNet	molto buono per il palato
+screziato	ADJ	Italian WordNet	che presenta colori diversi
+graffio	NOUN	Italian WordNet	segno che deturpa il viso lasciato da una ferita
+mangiatore_a_sbafo	NOUN	Italian WordNet	chi vive a spese degli altri facendo poco o nulla
+sconfiggere	VERB	Italian WordNet	avere la meglio su qc . nella lotta , nella gara , al gioco e sim
+sconfiggere	VERB	Italian WordNet	uscire con successo da una situazione difficile
+autarchico	ADJ	Italian WordNet	di autarchia ( sistema a . )
+corticale	ADJ	Italian WordNet	relativo alla corteccia
+mammifero	NOUN	Italian WordNet	singolo individuo vertebrato della classe dei mammiferi
+gauss	NOUN	Italian WordNet	unità di misura dell'induzione magnetica
+iattura	NOUN	Italian WordNet	sfortuna , cattiva sorte
+perlaceo	ADJ	Italian WordNet	che ha un colore lattiginoso e iridescente
+potabile	ADJ	Italian WordNet	che si può bere , detto spec . dell'acqua
+plutocrate	NOUN	Italian WordNet	chi esercita un potere politico tramite le sue ricchezze
+gerundio	NOUN	Italian WordNet	modo infinitivo del verbo
+postribolo	NOUN	Italian WordNet	casa di prostituzione
+volt	NOUN	Italian WordNet	unità di misura di differenza di potenziale elettrico
+orsetto-lavatore	NOUN	Italian WordNet	piccolo mammifero carnivoro che vive in nord america , con corpo corto e massiccio , lunga coda inanellata e mascherina nera sugli occhi
+balbettare	VERB	Italian WordNet	parlare articolando in modo difettoso le sillabe a causa di una imperfezione naturale o per stimoli emotivi
+consumabile	ADJ	Italian WordNet	che si può consumare
+tribunale-supremo	NOUN	Italian WordNet	organo cui si ricorre in ultima istanza in cause civili e penali
+rivo	NOUN	Italian WordNet	piccolo corso d'acqua
+capannone	NOUN	Italian WordNet	ampia costruzione per il deposito di merci o di materiali in stabilimenti industriali o per il ricovero di automezzi e aeroplani
+abbecedario	NOUN	Italian WordNet	il primo libro con cui i bambini imparavano a leggere e scrivere
+redditività	NOUN	Italian WordNet	capacità di produrre reddito
+sinistramente	ADV	Italian WordNet	in modo torvo e sinistro
+acne	NOUN	Italian WordNet	malattia della pelle
+avversario	NOUN	Italian WordNet	chi appartiene allo stato o all'esercito con cui si è in guerra
+glutammato	NOUN	Italian WordNet	sale dell'acido glutammico usato per migliorare sapore e colore di diversi prodotti alimentari
+miope	ADJ	Italian WordNet	affetto da miopia
+mezzano	NOUN	Italian WordNet	chi fa da tramite tra due o più persone
+appendere	VERB	Italian WordNet	attaccare q.c . in alto , da un'estremità
+bifolco	NOUN	Italian WordNet	chi ha cura dei buoi
+bifolco	NOUN	Italian WordNet	chi accudisce i bovini
+sciolto	ADJ	Italian WordNet	non stretto
+sciolto	ADJ	Italian WordNet	non aderente al corpo
+sciolto	ADJ	Italian WordNet	detto di sostanze ridotte allo stato liquido
+sciolto	ADJ	Italian WordNet	che si muove con elasticità
+tortrice	NOUN	Italian WordNet	insetto simile alla farfalla le cui larve danneggiano gli alberi da frutto
+sociologo	NOUN	Italian WordNet	chi conduce ricerche sociologiche
+gustare	VERB	Italian WordNet	fig . apprezzare un bene spirituale o materiale traendo soddisfazione o godimento
+gustare	VERB	Italian WordNet	percepire il gusto , prendere una piccola quantità di una bevanda o di un cibo per sentirne il gusto
+aerolite	NOUN	Italian WordNet	tipo di meteorite pietroso
+buongiorno	NOUN	Italian WordNet	formula di saluto che si usa di mattina e nel primo pomeriggio
+bovino	ADJ	Italian WordNet	relativo a buoi , mucche , tori e vitelli
+bovino	NOUN	Italian WordNet	grosso mammifero erbivoro ruminante della famiglia dei bovidi
+corda	NOUN	Italian WordNet	segmento che connette due punti su una curva
+corda	NOUN	Italian WordNet	prodotto flessibile per legare e assicurare
+rampone	NOUN	Italian WordNet	fiocina di grandi dimensioni usata nella pesca dei cetacei
+lanciatore	NOUN	Italian WordNet	chi lancia la palla nel gioco del baseball
+lanciatore	NOUN	Italian WordNet	chi compie l'azione di lanciare qualcosa
+disseminatore	NOUN	Italian WordNet	chi diffonde , propaga notizie o altro
+abominio	NOUN	Italian WordNet	condizione o azione di grande vergogna o disonore
+atena	NOUN	Italian WordNet	dea della saggezza e delle arti
+atena	NOUN	Italian WordNet	epiteto di atena : significa lanciatrice d'asta
+improvvisato	ADJ	Italian WordNet	detto di ciò che è fatto senza preparazione
+simmetrico	ADJ	Italian WordNet	disposto secondo criteri di simmetria
+albume	NOUN	Italian WordNet	sostanza naturale gelatinosa e trasparente che avvolge il tuorlo dell'uovo degli uccelli e dei rettili
+reo	NOUN	Italian WordNet	chi ha comportamenti punibili per legge
+papiro	NOUN	Italian WordNet	pianta del genere cipero originaria dell'africa centrale e della valle del nilo , con fusto molto alto e grande infiorescenza ombrelliforme
+papiro	NOUN	Italian WordNet	supporto per la scrittura ricavato dalla pianta del papiro
+peso-morto	NOUN	Italian WordNet	chi vive a spese degli altri facendo poco o nulla
+vivace	ADJ	Italian WordNet	ricco di vitalità
+illusionista	NOUN	Italian WordNet	chi pratica l'illusionismo e la prestidigitazione
+provenienza	NOUN	Italian WordNet	il luogo iniziale
+carta-vetro	NOUN	Italian WordNet	carta ricoperta di polvere abrasiva , formata da vetro tritato , usata per levigare
+canale	NOUN	Italian WordNet	gamma di frequenze che serve come via di trasmissione telefonica , telegrafica , radiotelevisiva
+canale	NOUN	Italian WordNet	condotto anatomico
+canale	NOUN	Italian WordNet	rete che collega le varie unità di un elaboratore
+canale	NOUN	Italian WordNet	stazione televisiva
+canale	NOUN	Italian WordNet	corso d'acqua artificiale per l'irrigazione la bonifica o la navigazione
+canale	NOUN	Italian WordNet	complesso di tubi per il trasporto di fluidi
+canale	NOUN	Italian WordNet	stazione radio o televisiva
+meschinamente	ADV	Italian WordNet	in modo abietto e spregevole
+presentarsi	VERB	Italian WordNet	presentarsi alla vista all'improvviso
+presentarsi	VERB	Italian WordNet	prospettarsi , offrirsi
+presentarsi	VERB	Italian WordNet	mostrarsi , farsi vedere in un certo modo in un certo luogo
+connotato	NOUN	Italian WordNet	caratteristica distintiva
+vigogna	NOUN	Italian WordNet	tessuto molto morbido e pregiato fatto con il pelo della vigogna
+vigogna	NOUN	Italian WordNet	mammifero delle regioni andine allevato per il pelo morbidissimo
+arioso	ADJ	Italian WordNet	pieno d'aria e di luce , detto di luoghi
+intransigenza	NOUN	Italian WordNet	atteggiamento di chi è intransigente
+palissandro	NOUN	Italian WordNet	legno pregiato
+lupo-d'alsazia	NOUN	Italian WordNet	cane pastore di taglia grossa , di colore scuro con focature regolari più chiare , impiegato anche per la difesa e per la guardia
+faziosità	NOUN	Italian WordNet	qualità di chi è fazioso
+perdita_di_coscienza	NOUN	Italian WordNet	perdita di sensi , svenimento
+prosciutto	NOUN	Italian WordNet	alimento ottenuto dalla coscia di maiale salata e fatta asciugare
+fornello	NOUN	Italian WordNet	cavità della pipa dove si brucia il tabacco
+fornello	NOUN	Italian WordNet	apparecchio domestico per cuocere i cibi
+obiezione	NOUN	Italian WordNet	atto di obiettare , replicare
+collegiale	ADJ	Italian WordNet	che coinvolge più persone
+speleologo	NOUN	Italian WordNet	esperto di speleologia
+ambasciata	NOUN	Italian WordNet	edificio in cui ha sede un'ambasciata
+patria	NOUN	Italian WordNet	luogo d'origine
+utilitarismo	NOUN	Italian WordNet	dottrina che considera l'utile individuale o sociale come fondamentale o unico criterio dell'azione
+ungherese	ADJ	Italian WordNet	dell ' ungheria
+zio	NOUN	Italian WordNet	il fratello del padre o della madre
+tram	NOUN	Italian WordNet	veicolo a trazione elettrica su rotaie usato nelle città per il trasporto pubblico
+vino	NOUN	Italian WordNet	bevanda alcolica ottenuta dalla fermentazione delle uve pigiate
+migliorabile	ADJ	Italian WordNet	che si può correggere
+elocuzione	NOUN	Italian WordNet	modo di eleborare l'espressione verbale , nell'epoca classica oggetto di studio della retorica
+sovranazionale	ADJ	Italian WordNet	che riguarda o interessa più nazioni o stati
+nasale	ADJ	Italian WordNet	del naso
+solo	ADJ	Italian WordNet	che è l'unico di un certo tipo
+solo	ADJ	Italian WordNet	che non è insieme ad altro
+appunto	NOUN	Italian WordNet	annotazione fatta per aiutare la memoria
+timore	NOUN	Italian WordNet	sentimento di profondo rispetto , sottomissione e venerazione , spec . religioso
+timore	NOUN	Italian WordNet	stato d'animo , costituito da inquietudine e turbamento , che si prova al pensiero o alla presenza di un pericolo
+abitudine	NOUN	Italian WordNet	tendenza acquisita che deriva dalla ripetizione costante di atti o comportamenti
+infilare	VERB	Italian WordNet	attraversare con un filo , facendone passare un capo per uno foro o disporre lungo un filo
+unzippare	VERB	Italian WordNet	decomprimere dati elettronici compattati
+raggomitolare	VERB	Italian WordNet	aggomitolare di nuovo
+carica	NOUN	Italian WordNet	in diversi sport di squadra , azione con cui si ostacola rudemente l'avversario
+carica	NOUN	Italian WordNet	l'assaltare
+carica	NOUN	Italian WordNet	incarico , mansione
+carica	NOUN	Italian WordNet	la carica di un esercito ostile
+carica	NOUN	Italian WordNet	esplosivo usato per caricare un'arma da fuoco
+carica	NOUN	Italian WordNet	ufficio , mansione
+carica	NOUN	Italian WordNet	energia inerente a un corpo o necessaria al funzionamento di un meccanismo
+carica	NOUN	Italian WordNet	per estens. , movimento impetuoso e aggressivo di persone o animali
+testare	VERB	Italian WordNet	trasmettere per testamento
+antimalarico	NOUN	Italian WordNet	farmaco contro la malaria
+mezzobusto	NOUN	Italian WordNet	giornalista o annunciatore della tv inquadrato a mezzo busto
+alimentare	VERB	Italian WordNet	fornire ad un congegno o ad una macchina l'energia necessaria per il funzionamento
+candore	NOUN	Italian WordNet	qualità di chi è ingenuo
+candore	NOUN	Italian WordNet	qualità di chi è ingenuo e fiducioso
+steradiante	NOUN	Italian WordNet	unità di misura degli angoli solidi
+aggressività	NOUN	Italian WordNet	l'essere aggressivo , tendenza ad aggredire , sia nell'uomo che negli animali
+abbreviato	ADJ	Italian WordNet	reso più corto
+bilancia	NOUN	Italian WordNet	asta diritta o curva ruotante , per effetto di forze applicate alle sue estremità , intorno ad un perno situato lungo il suo asse
+bilancia	NOUN	Italian WordNet	struttura provvisoria fatta per eseguire lavori in edilizia
+bilancia	NOUN	Italian WordNet	struttura provvisoria di pali e tavolati intorno alle parti di un'opera muraria in costruzione , per sostenere gli operai che vi lavorano
+giannizzero	NOUN	Italian WordNet	guardia del corpo dei sultani turchi
+confisca	NOUN	Italian WordNet	il confiscare
+variamente	ADV	Italian WordNet	in modo vario
+uffiziale	NOUN	Italian WordNet	chi ricopre un pubblico ufficio
+soltanto	ADV	Italian WordNet	semplicemente , meramente
+soltanto	ADV	Italian WordNet	soltanto , semplicemente
+corporatura	NOUN	Italian WordNet	aspetto , dimensioni e forma del corpo umano
+licenziamento	NOUN	Italian WordNet	il dimettere , il licenziare
+licenziamento	NOUN	Italian WordNet	il licenziare
+carrubbio	NOUN	Italian WordNet	albero sempreverde
+villano	ADJ	Italian WordNet	detto di chi ha modi decisamente incivili
+villano	NOUN	Italian WordNet	chi vive e lavora in campagna
+revolver	NOUN	Italian WordNet	pistola a ripetizione le cui cartucce sono inserite in un tamburo rotante
+sollecitudine	NOUN	Italian WordNet	l'essere sollecito
+scurrile	ADJ	Italian WordNet	detto di ciò che è volgare
+scurrile	ADJ	Italian WordNet	di chi o ciò che è volgare , appariscente
+scurrile	ADJ	Italian WordNet	privo di pudore
+avviso	NOUN	Italian WordNet	foglio o sim . affisso pubblicamente
+anelito	NOUN	Italian WordNet	grande e vivo desiderio di raggiungere un obiettivo , una meta
+soggettivismo	NOUN	Italian WordNet	ogni dottrina filosofica che ponga nel soggetto ogni criterio di verità e di valore
+metodo	NOUN	Italian WordNet	libro contenente le nozioni fondamentali di un'arte o una disciplina
+rabdomante	NOUN	Italian WordNet	chi , servendosi di una verga , cerca di individuare nel sottosuolo acqua o metalli
+dispersivo	ADJ	Italian WordNet	atto a disperdere
+classificatore	NOUN	Italian WordNet	mobile adibito alla conservazione di uno schedario
+classificatore	NOUN	Italian WordNet	chi per lavoro classifica , analizza
+isolato	NOUN	Italian WordNet	gruppo di edifici
+isolato	ADJ	Italian WordNet	che è separato rispetto ad altri elementi
+fico_d'india	NOUN	Italian WordNet	il frutto dell'omonima pianta
+fico_d'india	NOUN	Italian WordNet	pianta grassa
+onestamente	ADV	Italian WordNet	in modo aperto , sincero
+faggina	NOUN	Italian WordNet	frutto del faggio
+alcaloide	NOUN	Italian WordNet	sostanza organica azotata con proprietà curative o tossiche a seconda del tipo e della dose
+punizione	NOUN	Italian WordNet	danno fisico o morale inflitto per punizione a chi ha commesso il male o è ritenuto colpevole
+malignità	NOUN	Italian WordNet	disposizione ad agire deliberatamente contro l'onestà , la virtù , la giustizia
+citare	VERB	Italian WordNet	nominare
+citare	VERB	Italian WordNet	usare in un proprio testo brani o parole di altri , come documentazione o a conferma di quanto si sostiene
+abbreviatura	NOUN	Italian WordNet	l'abbreviare , l'abbreviarsi e il loro risultato
+sciroppo	NOUN	Italian WordNet	soluzione concentrata di zucchero in acqua o altro liquido , usato nell'industria alimentare e in quella farmaceutica
+stravagante	NOUN	Italian WordNet	persona stravagante
+stravagante	NOUN	Italian WordNet	persona che si comporta in modo strano , bizzarro
+scandinavo	ADJ	Italian WordNet	della scandinavia , dei popoli , delle lingue e della cultura scandinava
+ingessatura	NOUN	Italian WordNet	bendaggio impastato di gesso
+vitale	ADJ	Italian WordNet	pieno di vita
+ironia	NOUN	Italian WordNet	qualità
+volpe_polare	NOUN	Italian WordNet	mammifero carnivoro che vive nelle zone circumpolari dell'artico
+piombo	NOUN	Italian WordNet	elemento chimico ( pb )
+sedia	NOUN	Italian WordNet	mobile su cui ci si siede
+rettifica	NOUN	Italian WordNet	correzione di qualcosa di sbagliato
+dente-deciduo	NOUN	Italian WordNet	ciascun dente che cade in età infantile per essere sostituito dal dente permanente
+autostello	NOUN	Italian WordNet	albergo per automobilisti
+marino	ADJ	Italian WordNet	relativo alla navigazione
+pattume	NOUN	Italian WordNet	spazzatura
+svolta	NOUN	Italian WordNet	il punto o il luogo in cui qualcosa fa una curva
+svolta	NOUN	Italian WordNet	atto del curvare
+nefritico	ADJ	Italian WordNet	relativo all'organo del rene
+polemica	NOUN	Italian WordNet	polemica sollevata su determinati argomenti
+polemica	NOUN	Italian WordNet	controversia
+pera	NOUN	Italian WordNet	frutto del pero
+coesione	NOUN	Italian WordNet	qualità di ciò che converge , che è coeso ed unitario
+primavera	NOUN	Italian WordNet	una delle stagioni
+nespola	NOUN	Italian WordNet	frutto commestibile del nespolo del giappone che matura fra maggio e giugno
+yuppy	NOUN	Italian WordNet	giovane professionista che cura molto la propria immagine e vive un'intensa vita di relazione per elevarsi socialmente
+lemuroidei	NOUN	Italian WordNet	sottordine dei mammiferi dei primati
+melodramma	NOUN	Italian WordNet	composizione drammatica in versi integralmente musicata e cantata
+igrometro	NOUN	Italian WordNet	strumento che misura l'umidità atmosferica
+mal_sottile	NOUN	Italian WordNet	tubercolosi polmonare
+convinto	ADJ	Italian WordNet	che si è fatto una certa convinzione
+convinto	ADJ	Italian WordNet	convinto
+stupidità	NOUN	Italian WordNet	l'essere stupido , il mostrare scarsa intelligenza
+debitore	NOUN	Italian WordNet	chi deve denaro ad altri
+lavamano	NOUN	Italian WordNet	mobile che sorregge un catino e una brocca di acqua per lavarsi le mani e il viso
+muggire	VERB	Italian WordNet	detto dei bovini , emettere muggiti
+ripubblicazione	NOUN	Italian WordNet	edizione che viene edita di nuovo
+inchiostro	NOUN	Italian WordNet	liquido di vario colore e composizione chimica , usato per scrivere , disegnare , stampare ecc
+prosperosità	NOUN	Italian WordNet	l'essere prospero , fiorente ( di economie , città )
+sprezzante	NOUN	Italian WordNet	chi sprezza , dispregia
+ombreggiatura	NOUN	Italian WordNet	in pittura , uso del chiaroscuro
+tomo	NOUN	Italian WordNet	solo testo
+tomo	NOUN	Italian WordNet	libro
+riconoscenza	NOUN	Italian WordNet	sentimento di chi è grato per un favore o un beneficio ricevuto
+assurdamente	ADV	Italian WordNet	in modo contrario ad ogni logica
+avorniello	NOUN	Italian WordNet	pianta del genere laburno , comune nei boschi e coltivata anche nei giardini
+cisterna	NOUN	Italian WordNet	vasca per la raccolta di liquidi
+scroccatore	NOUN	Italian WordNet	chi vive a spese degli altri facendo poco o nulla
+limaccia	NOUN	Italian WordNet	mollusco gasteropodo terrestre dal corpo nudo e viscido
+fila	NOUN	Italian WordNet	serie di persone , veicoli , cose allineate
+mancino	NOUN	Italian WordNet	chi presenta mancinismo
+balbuziente	NOUN	Italian WordNet	chi è affetto da balbuzie
+peonia	NOUN	Italian WordNet	pianta ornamentale con fiori simili a rose
+folto	ADJ	Italian WordNet	folto , denso
+bragia	NOUN	Italian WordNet	fuoco senza fiamma , prodotto dalla lenta combustione di legna o carbone
+serpollino	NOUN	Italian WordNet	pianta erbacea aromatica e medicinale , diffusa nelle regioni mediterrane
+imo	ADJ	Italian WordNet	che presenta una lunga distanza tra la superficie e il fondo
+imo	ADJ	Italian WordNet	profondo in senso verticale
+rally	NOUN	Italian WordNet	corsa automobilistica su percorsi accidentati
+retta	NOUN	Italian WordNet	la linea più breve che congiunge due punti nello spazio
+latifondo	NOUN	Italian WordNet	proprietà terriera di grande estensione
+anacoreta	NOUN	Italian WordNet	persona che vive appartata dal mondo
+inventare	VERB	Italian WordNet	inventare , trovare , ideare qcs . di innovativo come macchine , oggetti , tecniche , metodi e simili
+narcotraffico	NOUN	Italian WordNet	traffico di droga
+sollevatore	NOUN	Italian WordNet	apparecchio che serve a sollevare
+sollevatore	NOUN	Italian WordNet	atleta che pratica il sollevamento pesi
+sollevatore	NOUN	Italian WordNet	chi dà conforto e sollievo ad altri
+eredità	NOUN	Italian WordNet	insieme delle tradizioni accumulate nel tempo
+ridiventare	VERB	Italian WordNet	venire di nuovo ad una condizione o ad una situazione precedente
+disteso	ADJ	Italian WordNet	supino
+disteso	ADJ	Italian WordNet	riverso , sdraiato sulla schiena
+angolo_retto	NOUN	Italian WordNet	angolo di 90 gradi
+intonare	VERB	Italian WordNet	mettere in accordo forme , colori e simili
+nato	ADJ	Italian WordNet	venuto al mondo , partorito
+cannibale	NOUN	Italian WordNet	chi mangia carne umana
+bazooka	NOUN	Italian WordNet	arma anticarro che lancia proiettili a razzo , costituita da un tubo che può essere appoggiato sulla spalla o su un treppiede
+zucchina	NOUN	Italian WordNet	frutto immaturo di una varietà di zucca ampiamente usato come ortaggio e cucinato in vari modi
+riconoscere	VERB	Italian WordNet	ammettere come vero
+reggia	NOUN	Italian WordNet	l'abitazione del re , la sua residenza
+cacio	NOUN	Italian WordNet	prodotto alimentare ottenuto dalla coagulazione del latte di vacca , pecora , capra o bufala con il caglio
+cinepresa	NOUN	Italian WordNet	apparecchio per riprese cinematografiche
+argilloso	ADJ	Italian WordNet	che contiene argilla
+agnello	NOUN	Italian WordNet	persona dolce e pacifica
+agnello	NOUN	Italian WordNet	il piccolo della pecora al di sotto di un anno di età
+microsolco	NOUN	Italian WordNet	piatto sul quale sono registrati suoni e canzoni
+promessa	NOUN	Italian WordNet	il promettere
+promessa	NOUN	Italian WordNet	chi dimostra notevoli attitudini a una data attività
+variazione_musicale	NOUN	Italian WordNet	modificazione in un tema musicale che riguarda timbro , melodia o armonia
+sbirro	NOUN	Italian WordNet	agente di polizia
+sbirro	NOUN	Italian WordNet	poliziotto
+vetraio	NOUN	Italian WordNet	operaio addetto alla lavorazione del vetro
+lisbona	NOUN	Italian WordNet	capitale del portogallo
+pederasta	NOUN	Italian WordNet	uomo che pratica la pederastia
+antipode	NOUN	Italian WordNet	luogo della superficie terrestre diametralmente opposto rispetto ad un altro
+orologiaio	NOUN	Italian WordNet	chi fabbrica , vende e ripara orologi
+malanno	NOUN	Italian WordNet	malattia , in genere non si grave entità
+gel	NOUN	Italian WordNet	cosmetico per capelli
+gel	NOUN	Italian WordNet	sostanza gelatinosa
+gel	NOUN	Italian WordNet	cosmetico per i capelli
+ombra	NOUN	Italian WordNet	oscurità prodotta da un corpo che intercetta la luce
+ombra	NOUN	Italian WordNet	la parte buia , non illuminata
+ombra	NOUN	Italian WordNet	essere immaginario
+bottoniera	NOUN	Italian WordNet	pannello di controllo di un apparecchio
+coperta	NOUN	Italian WordNet	ponte scoperto della nave
+coperta	NOUN	Italian WordNet	panno che si stende sopra il lenzuolo
+coperta	NOUN	Italian WordNet	panno che si stende sul ltto sopra il lenzuolo
+mentalmente	ADV	Italian WordNet	che implica la mente
+muscolatura	NOUN	Italian WordNet	il complesso dei muscoli
+volpe_bianca	NOUN	Italian WordNet	mammifero carnivoro che vive nelle zone circumpolari dell'artico
+avere	VERB	Italian WordNet	essere affetto da una malattia spec . cronica
+avere	VERB	Italian WordNet	mettere al mondo un figlio
+avere	VERB	Italian WordNet	provare una sensazione fisica , talora accompagnata da un particolare stato d'animo
+avere	VERB	Italian WordNet	venire in possesso di qualcosa di concreto o di astratto
+gravemente	ADV	Italian WordNet	in modo serio , grave
+alienato	NOUN	Italian WordNet	malato di mente
+sbuzzare	VERB	Italian WordNet	sventrare
+madonna	NOUN	Italian WordNet	la madre di gesù , figlia di gioacchino e di anna
+termodinamico	ADJ	Italian WordNet	relativo alla , proprio della termodinamica
+battibile	ADJ	Italian WordNet	che può essere battuto , vinto
+elettore	NOUN	Italian WordNet	chi ha diritto a partecipare a un'elezione o chi elegge
+ulteriore	ADJ	Italian WordNet	detto di una cosa che si aggiunge ad una precedente
+grongo	NOUN	Italian WordNet	pesce simile all'anguilla e ricercato per le ottime carni , comune nelle acque poco profonde del mediterraneo
+godimento	NOUN	Italian WordNet	senso di piacere
+godimento	NOUN	Italian WordNet	una sensazione di piacere , di apprezzamento
+inabissare	VERB	Italian WordNet	mandare a fondo
+urbanità	NOUN	Italian WordNet	avere modi gentili e cortesi
+consiglio_di_fabbrica	NOUN	Italian WordNet	organo collegiale di rappresentaza dei lavoratori di una industria e sim
+sibilla	NOUN	Italian WordNet	donna dotata di facoltà profetiche , maga , veggente
+sibilla	NOUN	Italian WordNet	nell'antichità classica , donna veggente non legata a un culto oracolare specifico
+cavità	NOUN	Italian WordNet	spazio cavo del corpo o di un organo
+elettroshock	NOUN	Italian WordNet	terapia per alcuni disturbi mentali
+boxe	NOUN	Italian WordNet	disciplina sportiva in cui due atleti dello stesso peso si colpiscono con i pugni protetti da appositi guantoni secondo un preciso regolamento
+urbe	NOUN	Italian WordNet	un centro abitato di dimensioni variabili dal medio al grande
+gustoso	ADJ	Italian WordNet	molto buono per il palato
+gustoso	ADJ	Italian WordNet	ricco di gusto , di sapore
+ricordare	VERB	Italian WordNet	nominare
+ricordare	VERB	Italian WordNet	richiamare alla memoria propria o altrui
+torbido	ADJ	Italian WordNet	che contiene sostanze estranee , impurità
+digestivo	ADJ	Italian WordNet	che serve alla digestione , che è atto a favorire la digestione
+digestivo	NOUN	Italian WordNet	medicamento in forma di bevanda che stimola la secrezione dei succhi gastrici
+affondare	VERB	Italian WordNet	mandare a fondo
+riunire	VERB	Italian WordNet	avere in sé contemporaneamente
+eccitare	VERB	Italian WordNet	provocare eccitazione mentale , nervosa
+suonare	VERB	Italian WordNet	dare un segnale suonando
+armellino	NOUN	Italian WordNet	piccolo animale carnivoro con pelliccia fulva in estate e bianca in inverno con la punta della coda nera , della famiglia de mustelidi
+incarnazione	NOUN	Italian WordNet	mistero fondamental del cristianesimo
+rettale	ADJ	Italian WordNet	che riguarda l'intestino retto
+ionosfera	NOUN	Italian WordNet	strato superiore dell'atmosfera
+brandello	NOUN	Italian WordNet	piccola quantità o minuscola parte
+mutare	VERB	Italian WordNet	sostituire una persona o una cosa con un'altra
+scomodo	NOUN	Italian WordNet	stato privo di comodità
+scomodo	ADJ	Italian WordNet	detto di oggetto che procura disagio , difficoltà
+avoltore	NOUN	Italian WordNet	uccello rapace che si ciba di carogne
+stellare	ADJ	Italian WordNet	che è fatto a forma di stella , che ha forma raggiata
+ulivo	NOUN	Italian WordNet	albero sempreverde che produce frutti verdastri o neri , dai quali si estrae un ottimo olio commestibile
+quotidianamente	ADV	Italian WordNet	tutti i giorni , ogni giorno
+baby_sitter	NOUN	Italian WordNet	chi bada ai bambini
+sonetto	NOUN	Italian WordNet	componimento lirico costituito da versi endecasillabi divisi in due quartine e due terzine
+bellimbusto	NOUN	Italian WordNet	giovane uomo che cura eccessivamente la propria eleganza e fa il galante con le donne
+genuflessione	NOUN	Italian WordNet	l'atto di piegare un ginocchio o entrambi in segno di rispetto , devozione o riverenza
+corno	NOUN	Italian WordNet	materiale di cui sono costituite le corna degli animali
+corno	NOUN	Italian WordNet	strumento di ottone , a fiato
+corno	NOUN	Italian WordNet	protuberanza ossea o cornea presente sul capo di alcuni animali
+sorgere	VERB	Italian WordNet	derivare , aver principio , origine , fondamento ( fig . )
+sorgere	VERB	Italian WordNet	avere principio , essere causato ( fig . )
+ovazione	NOUN	Italian WordNet	applauso fatto stando in piedi dopo una esecuzione esaltante
+utile	NOUN	Italian WordNet	somma di denaro guadagnata
+utile	ADJ	Italian WordNet	che porta vantaggio , beneficio
+utile	ADJ	Italian WordNet	che serve o può servire
+utile	NOUN	Italian WordNet	la somma di denaro
+confezionatore	NOUN	Italian WordNet	artigiano che confeziona abiti su misura
+ritrovo	NOUN	Italian WordNet	luogo dove ci si incontra
+pecorone	NOUN	Italian WordNet	segno zodiacale
+calotta_cranica	NOUN	Italian WordNet	scheletro della testa dell'uomo e degli animali vertebrati
+campo_di_concentramento	NOUN	Italian WordNet	luogo in cui ( sotto regimi totalitari ) vengono raccolte persone da isolare o imprigionare
+contrastare	VERB	Italian WordNet	opporsi , contrastare ( anche fig . )
+civetta	NOUN	Italian WordNet	uccello rapace notturno
+maggioranza	NOUN	Italian WordNet	la parte maggiore
+hardware	NOUN	Italian WordNet	le parti elettroniche , meccaniche ecc. di un computer
+meteorologicamente	ADV	Italian WordNet	per quanto riguarda la meteorologia
+sclerotico	ADJ	Italian WordNet	che soffre di sclerosi
+sobrio	ADJ	Italian WordNet	moderato nel mangiare , nel bere e nello spendere in generale
+sobrio	ADJ	Italian WordNet	parsimonioso , frugale
+sobrio	ADJ	Italian WordNet	detto di persona equilibrata nello spendere
+elemento	NOUN	Italian WordNet	parte di un'entità
+elemento	NOUN	Italian WordNet	la situazione nella quale un individuo si trova più a suo agio
+edotto	ADJ	Italian WordNet	che sa , che è informato o avvertito
+castigare	VERB	Italian WordNet	reprimere i sensi con penitenze corporali e spirituali
+montagna	NOUN	Italian WordNet	rilievo fisico naturale
+montagna	NOUN	Italian WordNet	gran quantità
+arazzo	NOUN	Italian WordNet	tessuto ornamentale eseguito su telaio
+agrimonia	NOUN	Italian WordNet	pianta erbacea delle rosacee
+crociata	NOUN	Italian WordNet	spedizione militare medievale alla conquista della terra santa
+coccodrillo	NOUN	Italian WordNet	grosso rettile anfibio , simile a un'enorme lucertola che vive nei fiumi africani
+breviario	NOUN	Italian WordNet	esposizione sintetica e sistematica di una materia
+breviario	NOUN	Italian WordNet	libro liturgico dei sacerdoti che contiene le preghiere da recitare ogni giorno
+dominazione	NOUN	Italian WordNet	il dominare , l'avere autorità su qlcu . o qlco
+radicare	VERB	Italian WordNet	apprendersi al terreno
+radicare	VERB	Italian WordNet	mettere radici ( detto di piante )
+acrostico	NOUN	Italian WordNet	componimento poetico in cui le iniziali dei versi lette di seguito formano un nome o una frase di senso compiuto
+intridere	VERB	Italian WordNet	impregnare di acqua o altro liquido
+la	NOUN	Italian WordNet	nota musicale
+espresso	NOUN	Italian WordNet	caffè espresso
+espresso	NOUN	Italian WordNet	lettera , missiva
+acquisizione	NOUN	Italian WordNet	atto dell'acquisire
+acquisizione	NOUN	Italian WordNet	la cosa acquisita
+allignare	VERB	Italian WordNet	apprendersi al terreno
+allignare	VERB	Italian WordNet	mettere radici ( detto di piante )
+tanatofobia	NOUN	Italian WordNet	paura morbosa di morire
+confessore	NOUN	Italian WordNet	sacerdote che amministra il sacramento della penitenza tramite la confessione
+saltabecca	NOUN	Italian WordNet	insetto saltatore appartenente all'ordine degli ortotteri , dannoso per l'agricoltura
+medico-veterinario	NOUN	Italian WordNet	chi è laureato in medicina veterinaria ed esercita tale professione
+regicidio	NOUN	Italian WordNet	uccisione di un re o una regina
+scontento	NOUN	Italian WordNet	sentimento di insoddisfazione e scontentezza
+scontento	ADJ	Italian WordNet	non soddisfatto
+avvinazzato	ADJ	Italian WordNet	che è in stato di ubriachezza
+simbolo	NOUN	Italian WordNet	segno che acquisisce un valore all'interno di un sistema convenzionale
+simbolo	NOUN	Italian WordNet	oggetto o figura che rappresenta altro
+meschino	ADJ	Italian WordNet	detto di chi non possiede mezzi sufficienti per vivere decorosamente
+meschino	ADJ	Italian WordNet	povero
+meschino	ADJ	Italian WordNet	che è infelice
+farfalla	NOUN	Italian WordNet	cravatta a farfalla
+farfalla	NOUN	Italian WordNet	insetto con grandi ali variamente colorate , nome comune degli insetti dell'ordine dei lepidotteri
+refolo	NOUN	Italian WordNet	vento leggero che soffia a tratti
+scartafaccio	NOUN	Italian WordNet	quaderno anche non rilegato per appunti
+egiziano	ADJ	Italian WordNet	relativo all'egitto
+egiziano	NOUN	Italian WordNet	pigro , ma ottimo cacciatore
+egiziano	NOUN	Italian WordNet	gatto affezionato al padrone , poco disposto verso gli altri
+calliope	NOUN	Italian WordNet	musa della poesia epica
+contenimento	NOUN	Italian WordNet	atto del trattenere , del trattenersi
+polemico	ADJ	Italian WordNet	che ha un carattere di polemica
+robotica	NOUN	Italian WordNet	branca dell'ingegneria chesi occupa della costruzione e dell'applicazione dei robot
+equazione	NOUN	Italian WordNet	in matematica , uguaglianza tra due espressioni algebriche che si verifica solo per particolari variabili e incognite
+goffo	ADJ	Italian WordNet	che denota impaccio , mancanza di disinvoltura o di abilità
+far_fuori	VERB	Italian WordNet	privare della vita
+vainiglia	NOUN	Italian WordNet	il frutto dell'omonima pianta
+vainiglia	NOUN	Italian WordNet	il frutto della vaniglia
+ombroso	ADJ	Italian WordNet	che si trova in ombra , riparato dal sole
+navetta	NOUN	Italian WordNet	veicolo che percorre continuamente nei due sensi lo stesso percorso
+listino	NOUN	Italian WordNet	elenco dei prezzi
+sconsideratezza	NOUN	Italian WordNet	modo di agire avventato , che non tiene conto dei rischi
+sconsideratezza	NOUN	Italian WordNet	atto o detto sventato e irresponsabile
+bufalo	NOUN	Italian WordNet	grosso mammifero ruminante dalle corna sviluppatissime rivolte all'indietro , allevato anche come animale domestico
+abbadessa	NOUN	Italian WordNet	monaca a capo di una comunità di religiose
+log	NOUN	Italian WordNet	strumento per misurare la velocità di percorso di una imbarcazione
+trasandatamente	ADV	Italian WordNet	in modo sciatto trascurato trasandato
+guadagnare	VERB	Italian WordNet	ottenere come utile , o ricevere come compenso
+arrendersi	VERB	Italian WordNet	( fig . ) arrendersi , darsi per vinto
+arrendersi	VERB	Italian WordNet	consegnarsi al nemico , sottomettersi
+immortalare	VERB	Italian WordNet	essre eterno ( nella fama ecc.. )
+rispecchiare	VERB	Italian WordNet	riprodurre l'immagine
+pechinese	NOUN	Italian WordNet	razza di cane da compagnia originario della cina , piccolo con pelo lungo
+ronfare	VERB	Italian WordNet	detto dei gatti , fare le fusa
+ventoso	NOUN	Italian WordNet	sesto mese del calendario della rivoluzione francese
+certificarsi	VERB	Italian WordNet	farsi certo
+meiosi	NOUN	Italian WordNet	processo di divisione cellulare delle cellule germinali : la cellula figlia ha metà cromosomi della cellula madre
+damigella	NOUN	Italian WordNet	fanciulla di nobile famiglia anche , ragazza nobile al servizio di regine , principesse o gran dame
+organista	NOUN	Italian WordNet	suonatore di organo
+espressivo	ADJ	Italian WordNet	che esprime con efficacia un sentimento , uno stato d'animo , un'idea
+aspirapolvere	NOUN	Italian WordNet	elettrodomestico che aspira e raccoglie in un sacchetto polvere e piccoli rifiuti
+pornografico	ADJ	Italian WordNet	relativo alla pornografia
+originalmente	ADV	Italian WordNet	in modo stravagante
+altimetro	NOUN	Italian WordNet	strumento che misura l'altezza di un punto rispetto al livello del mare
+dittato	NOUN	Italian WordNet	esercizio scolastico di dettatura
+colomba	NOUN	Italian WordNet	simbolo della pace
+colomba	NOUN	Italian WordNet	chi in questioni di politica internazionale sostiene le soluzioni pacifiche
+cicala	NOUN	Italian WordNet	insetto della famiglia dei cicadidi , di colore giallo e nero , i cui maschi emettono il caratteristico stridio sugli alberi e nei campi durante la stagione estiva
+matassa	NOUN	Italian WordNet	situazione intricata , non chiara
+tulle	NOUN	Italian WordNet	tessuto molto fine fatto di sottilissimi fili di seta o di cotone , uniti in un intreccio a maglie esagonali
+telecinesi	NOUN	Italian WordNet	fenomeno metapsichico che consiste nello spostare oggetti a distanza non spostati da agente fisico o causa apparente
+latente	ADJ	Italian WordNet	che si mantiene nascosto
+microonda	NOUN	Italian WordNet	breve onda elettromagnetica
+povertà	NOUN	Italian WordNet	povertà
+povertà	NOUN	Italian WordNet	stato di indigenza
+atto	NOUN	Italian WordNet	ciascuno dei tempi di una rappresentazione teatrale
+assenza	NOUN	Italian WordNet	l'esser lontano da un luogo dove si dovrebbe essere
+assenza	NOUN	Italian WordNet	condizione di insufficienza di cose o di persone necessarie
+tarlo	NOUN	Italian WordNet	piccolo insetto che vive nel legno scavandovi gallerie
+faringeo	ADJ	Italian WordNet	della faringe
+antifebbrile	NOUN	Italian WordNet	farmaco contro la febbre
+opportuno	ADJ	Italian WordNet	che è adeguato , appropriato , conveniente
+ragionevole	ADJ	Italian WordNet	poco costoso
+ragionevole	ADJ	Italian WordNet	conveniente , giusto
+bretella	NOUN	Italian WordNet	striscia di tessuto elastico o di cuoio usata per per sorreggere i pantaloni
+tossico	NOUN	Italian WordNet	sostanza tossica che , penetrando nell'organismo , può provocare gravi disturbi o addirittura la morte
+autorità	NOUN	Italian WordNet	persona o ente investito di una carica pubblica o di potere legittimo
+strofe	NOUN	Italian WordNet	insieme di più versi uniti in base a un determinato tipo di relazione
+sidecar	NOUN	Italian WordNet	veicolo a una ruota assicurato lateralmente a una motocicletta per il trasporto di un passeggero
+sidecar	NOUN	Italian WordNet	carrozzino
+scistosità	NOUN	Italian WordNet	caratteristica delle rocce scistose di sfaldarsi facilmente secondo piani paralleli
+frugale	ADJ	Italian WordNet	detto di persona equilibrata nello spendere
+frugale	ADJ	Italian WordNet	parsimonioso , frugale
+frugale	ADJ	Italian WordNet	moderato nel mangiare , nel bere e nello spendere in generale
+carne	NOUN	Italian WordNet	parte del corpo costituita dai tessuti molli
+carne	NOUN	Italian WordNet	carne degli animali di cui l'uomo si ciba
+blandamente	ADV	Italian WordNet	in modo blando
+w.c.	NOUN	Italian WordNet	il water
+rimpiattato	ADJ	Italian WordNet	che non si vede o non si fa vedere
+peccatore	NOUN	Italian WordNet	chi commette peccato
+decalitro	NOUN	Italian WordNet	unità di misura equivalente a 10 litri
+bene_di_consumo	NOUN	Italian WordNet	bene destinato ad un consumo immediato e non a produrre altri beni
+solaio	NOUN	Italian WordNet	struttura orizzontale a travi di legno o di acciaio che divide i vari piani di un edificio
+bisex	NOUN	Italian WordNet	chi prova attrazione sessuale per entrambi i sessi
+starnuto	NOUN	Italian WordNet	atto respiratorio riflesso violento e rumoroso , dovuto all'irritazione delle terminazioni nervose della mucosa nasale
+canottiere	NOUN	Italian WordNet	chi si dedica al canottaggio
+lotto	NOUN	Italian WordNet	gioco d'azzardo
+poliziotto	NOUN	Italian WordNet	agente di polizia
+poliziotto	NOUN	Italian WordNet	poliziotto
+virtute	NOUN	Italian WordNet	eccellenza morale
+riverire	VERB	Italian WordNet	provare un sentimento di profondo rispetto e riverenza per qualcuno di cui riconosciamo i meriti e le qualità
+acciocchire	VERB	Italian WordNet	intorpidirsi
+acciocchire	VERB	Italian WordNet	assopirsi
+seminatrice	NOUN	Italian WordNet	macchina agricola usata per spargere e interrare i semi
+equino	ADJ	Italian WordNet	che è proprio del cavallo
+eclissare	VERB	Italian WordNet	oscurare , nascondere un corpo celeste
+somatico	ADJ	Italian WordNet	relativo al corpo umano
+spianatoio	NOUN	Italian WordNet	ciascuno degli strumenti usati per spianare
+indicizzare	VERB	Italian WordNet	adeguare il valore di un capitale o di un reddito alle variazioni di un indice di riferimento
+didascalia	NOUN	Italian WordNet	breve scritto esplicativo o informativo
+didascalia	NOUN	Italian WordNet	scritta che appare in sovraimpressione sulle pellicole cinematografiche o sulle immagini televise
+confusione	NOUN	Italian WordNet	stato psicologico caratterizzato da smarrimento e scarsa chiarezza
+villania	NOUN	Italian WordNet	mancanza di rispetto per le regole della buona educazione e del vivere civile
+complimentarsi	VERB	Italian WordNet	esprimere partecipazione a qlcu . per qlco . che abbia conseguito o che torni a suo onore e vantaggio
+offrirsi	VERB	Italian WordNet	prospettarsi , offrirsi
+quaranta	NOUN	Italian WordNet	numero
+cesura	NOUN	Italian WordNet	intervallo di breve durata
+cesura	NOUN	Italian WordNet	pausa
+cesura	NOUN	Italian WordNet	intervallo di tempo in cui qualcosa viene interrotto temporaneamente
+spina_nel_fianco	NOUN	Italian WordNet	cosa che suscita ansia , pensieri
+concettuale	ADJ	Italian WordNet	relativo al concetto
+aprile	NOUN	Italian WordNet	il quarto mese dell'anno
+diva	NOUN	Italian WordNet	donna esaltata al di sopra di tutte le altre
+diva	NOUN	Italian WordNet	divinità femminile
+isotopo	NOUN	Italian WordNet	elemento che ha rispetto a un altro lo stesso numero di protoni e lo stesso numero atomico ma diverso numero di neutroni
+universalista	ADJ	Italian WordNet	dell'universalismo
+sgobbone	NOUN	Italian WordNet	studente che studia moltissimo spec . per compensare una modesta intelligenza
+contentamente	ADV	Italian WordNet	con felicità e letizia
+misurabile	ADJ	Italian WordNet	che si può misurare
+prospetto	NOUN	Italian WordNet	breve schema illustrante caratteristiche fondamentali di qualcosa
+prospetto	NOUN	Italian WordNet	vista di ciò che sta di fronte
+acheo	NOUN	Italian WordNet	greco
+acheo	NOUN	Italian WordNet	chi abitava nell'antica acaia
+acheo	NOUN	Italian WordNet	abitante , nativo della grecia
+sbrodolare	VERB	Italian WordNet	rendere lordo , sudicio
+lori	NOUN	Italian WordNet	piccola proscimmia indiana
+zonizzazione	NOUN	Italian WordNet	frazionamento di un territorio in zone
+quesito	NOUN	Italian WordNet	domanda , problema da risolvere
+sfumatura	NOUN	Italian WordNet	lo sfumare , il passaggio graduale tra colori diversi
+sfumatura	NOUN	Italian WordNet	qualità emotiva di sfondo
+granone	NOUN	Italian WordNet	pianta che produce cariossidi gialle
+paté	NOUN	Italian WordNet	crema , salsa vellutata , preparazioni a base di carne
+commessa	NOUN	Italian WordNet	chi è addetta alla vendita in un negozio
+andare	NOUN	Italian WordNet	il modo di camminare
+andare	VERB	Italian WordNet	venir meno , morire
+andare	VERB	Italian WordNet	essere adatto , calzare
+andare	VERB	Italian WordNet	cessare di vivere
+andare	NOUN	Italian WordNet	andatura
+concatenare	VERB	Italian WordNet	( fig . ) mettere insieme in connessione logica
+deprezzare	VERB	Italian WordNet	far diminuire di prezzo , di valore
+limite	NOUN	Italian WordNet	ambito o aspetto o materia in cui uno è manchevole
+limite	NOUN	Italian WordNet	i contorni , confini di qualcosa
+limite	NOUN	Italian WordNet	la linea che traccia il limite esterno di una zona o superficie
+limite	NOUN	Italian WordNet	il livello o grado
+incontrovertibilmente	ADV	Italian WordNet	in modo categorico
+serto	NOUN	Italian WordNet	corona di foglie , di fiori o di fronde
+sfasatura	NOUN	Italian WordNet	stato di confusione
+tormentatore	NOUN	Italian WordNet	in senso figurato , chi perseguita gli altri
+tormentatore	NOUN	Italian WordNet	in senso esteso chiunque tormenti gli altri
+gioielliere	NOUN	Italian WordNet	chi lavora o vende gioielli
+lavoro	NOUN	Italian WordNet	in fisica
+lavoro	NOUN	Italian WordNet	il prodotto così ottenuto
+lavoro	NOUN	Italian WordNet	luogo in cui si lavora
+ignaro	ADJ	Italian WordNet	che non sa , che è all'oscuro
+rione	NOUN	Italian WordNet	parte circoscritta di una città
+superbamente	ADV	Italian WordNet	in modo altero e superbo
+basito	ADJ	Italian WordNet	detto di chi è preso da stupore
+granito	NOUN	Italian WordNet	roccia cristallina
+zotico	ADJ	Italian WordNet	detto di chi ha modi decisamente incivili
+datore-di-lavoro	NOUN	Italian WordNet	chi dà ( in genere chi assume )
+accatastare	VERB	Italian WordNet	disporre a catasta
+calamitoso	ADJ	Italian WordNet	che porta sciagure , distruzioni
+far_morire	VERB	Italian WordNet	privare della vita
+culinario	ADJ	Italian WordNet	della cucina ( arte c . )
+sauna	NOUN	Italian WordNet	capanno dove si fa il bagno di vapre
+mettere_in_mostra	VERB	Italian WordNet	mettere in mostra , esporre alla vista degli altri
+fading	NOUN	Italian WordNet	in radiotecnica , l'affievolimento dell'intensità del campo elettromagnetico prodotto da un segnale radio
+periferico	ADJ	Italian WordNet	che si trova in periferia
+periferico	ADJ	Italian WordNet	che si trova ai margini
+cancellino	NOUN	Italian WordNet	cuscinetto o striscia di panno arrotolata usata per cancellare lo sritto sulla lavagna
+smeriglio	NOUN	Italian WordNet	varietà nera e granulare del corindone usata in polvere come abrasivo
+smeriglio	NOUN	Italian WordNet	falco predatore di uccelli
+senatore	NOUN	Italian WordNet	membro del senato
+lancio	NOUN	Italian WordNet	il lanciare
+mantide	NOUN	Italian WordNet	insetto predatore verde , con zampe anteriori molto sviluppate che tiene come in atto di preghiera quando è in attesa della preda
+brama	NOUN	Italian WordNet	desiderio intenso causato da stimoli naturali e indipendenti dalla volontà
+brama	NOUN	Italian WordNet	desiderio intenso causato da stimoli indipendenti dalla volontà
+rabbino	NOUN	Italian WordNet	ministro del culto ebraico
+assonnato	ADJ	Italian WordNet	che è pieno di sonno , che è mezzo addormentato
+logistica	NOUN	Italian WordNet	settore dell'arte militare che organizza le attività riguardanti spostamenti , alloggiamento , rifornimento dei viveri e sim . delle forze armate
+sindrome_da_immunodeficienza_acquisita	NOUN	Italian WordNet	sindrome da immunodeficienza acquisita
+anteguerra	ADJ	Italian WordNet	relativo al periodo precedente una guerra
+trabocchetto	NOUN	Italian WordNet	pericolo nascosto o difficile da riconoscere come tale ed evitare
+trabocchetto	NOUN	Italian WordNet	dispositivo usato in teatro per fare sparire o comparire rapidamente in scena un personaggio
+vapore	NOUN	Italian WordNet	stato aeriforme di una sostanza che deriva da un liquido per evaporazione o anche da un solido per sublimazione
+squartatore	NOUN	Italian WordNet	chi squarta
+bellospirito	NOUN	Italian WordNet	persona brillante , allegra e spiritosa
+colta	NOUN	Italian WordNet	la raccolta dei frutti della coltivazione
+estuario	NOUN	Italian WordNet	foce di fiume
+anastrofe	NOUN	Italian WordNet	fenomeno linguistico per cui si inverte l'ordine abituale di due parole successive
+bulldozer	NOUN	Italian WordNet	macchina livellatrice , spianatrice
+vertute	NOUN	Italian WordNet	eccellenza morale
+invertito	NOUN	Italian WordNet	uomo omosessuale
+volgare	ADJ	Italian WordNet	di chi o ciò che è volgare , appariscente
+volgare	ADJ	Italian WordNet	privo di pudore
+volgare	ADJ	Italian WordNet	detto di ciò che è volgare
+amante	NOUN	Italian WordNet	chi ama qualcosa
+amante	NOUN	Italian WordNet	chi ama
+ristampa	NOUN	Italian WordNet	edizione che viene edita di nuovo
+veda	NOUN	Italian WordNet	insieme dei libri sacri della tradizione religiosa indiana
+grattacapo	NOUN	Italian WordNet	cosa che suscita ansia , pensieri
+nome	NOUN	Italian WordNet	parte del discorso
+nome	NOUN	Italian WordNet	elemento linguistico che indica entità concrete e astratte
+nome	NOUN	Italian WordNet	elemento linguistico che indica entità
+nome	NOUN	Italian WordNet	soprannome , epiteto
+nome	NOUN	Italian WordNet	considerazione in cui si è tenuti da altri
+scarico	NOUN	Italian WordNet	il condotto da cui esce un liquido
+ansioso	ADJ	Italian WordNet	che desidera ardentemente qualcosa
+ansioso	ADJ	Italian WordNet	bramoso , desideroso
+ansioso	ADJ	Italian WordNet	che prova ansia , anche abitualmente , per indole o per condizione psichica
+affabilmente	ADV	Italian WordNet	in modo amabile
+transitorio	ADJ	Italian WordNet	non definitivo , provvisorio
+transitorio	ADJ	Italian WordNet	di durata limitata
+transitorio	ADJ	Italian WordNet	che ha una validità limitata nel tempo
+brigata	NOUN	Italian WordNet	unità di fanteria formata da due reggimenti
+brigata	NOUN	Italian WordNet	persone riunite per un viaggio , una gita una festa e simili
+brigata	NOUN	Italian WordNet	comitiva
+satollo	ADJ	Italian WordNet	che ha mangiato a sufficienza
+passaggio	NOUN	Italian WordNet	via d'uscita per gas e simili
+cantina	NOUN	Italian WordNet	locale interrato o seminterrato in cui si fa invecchiare e si conserva il vino
+licenza	NOUN	Italian WordNet	autorizzazione concessa da un superiore
+licenza	NOUN	Italian WordNet	qualità di chi è licenzioso e dissoluto
+mercede	NOUN	Italian WordNet	aiuto , pietà
+mercede	NOUN	Italian WordNet	sentimento di compassione
+dialogo	NOUN	Italian WordNet	componimento scritto in forma dialogica
+ceppo	NOUN	Italian WordNet	l'insieme delle famiglie con uno stesso capostipite
+ceppo	NOUN	Italian WordNet	la stirpe , la discendenza di qualcuno
+ceppo	NOUN	Italian WordNet	parte della pianta che rimane nel terreno dopo il taglio del tronco
+ceppo	NOUN	Italian WordNet	l'insieme di tutte le persone , passate , presenti , future , di uno stesso sangue
+ipotonico	ADJ	Italian WordNet	in condizione di ipotonia muscolare
+varia	NOUN	Italian WordNet	in biblioteconomia insieme di testi , fascicoli pubbicazioni di vario genere e soggetto
+cleptomania	NOUN	Italian WordNet	tendenza impulsiva a rubare
+estrema-unzione	NOUN	Italian WordNet	sacramento che si amministra ai cristiani cattolici morenti
+appello	NOUN	Italian WordNet	il chiamare , la chiamata
+appello	NOUN	Italian WordNet	organo che esplica le funzioni di giudice di secondo grado
+jung-carl-gustav	NOUN	Italian WordNet	medico svizzero ( 1875-1961 ) fondatore della scuola di psicologia analitica
+afferrare	VERB	Italian WordNet	capire , comprendere
+linguacciuto	NOUN	Italian WordNet	chi ama parlare degli altri per dirne male
+arrischiatamente	ADV	Italian WordNet	con rischio
+avvertenza	NOUN	Italian WordNet	istruzioni scritte , avvertenze
+avvertenza	NOUN	Italian WordNet	avvertenze
+carrettiere	NOUN	Italian WordNet	chi per lavoro guida il carro o la carretta
+sollecitazione	NOUN	Italian WordNet	la cose che spinge all'azione
+sollecitazione	NOUN	Italian WordNet	il sollecitare
+sollecitazione	NOUN	Italian WordNet	la cosa che spinge all'azione
+sollecitazione	NOUN	Italian WordNet	l'azione di una forza su un sistema
+ammirativamente	ADV	Italian WordNet	con ammirazione
+pungitopo	NOUN	Italian WordNet	frutice sempreverde con frutti a bacca rossi usato per addobbi natalizi
+vicaria	NOUN	Italian WordNet	carica , dignità di vicario
+tennis_da_tavolo	NOUN	Italian WordNet	gioco simile al tennis
+maglio	NOUN	Italian WordNet	grosso martello di legno
+pistone	NOUN	Italian WordNet	nei motori a scoppio , organo meccanico che percorre il cilindro trasmettendo il moto alle bielle
+ripugnanza	NOUN	Italian WordNet	sensazione di grande avversione , ripugnanza fisica per qualcuno o qualcosa
+caffè	NOUN	Italian WordNet	bevanda aromatica di colore scuro che si ricava dai semi , tostati e macinati , della pianta omonima
+caffè	NOUN	Italian WordNet	i semi del caffè da cui , dopo la tostatura e la macinazione , si ricava l'omonima bevanda
+caffè	NOUN	Italian WordNet	locale pubblico in cui , al banco o ai tavolini , si consumano caffè e altre bevande , gelati ecc
+caffè	NOUN	Italian WordNet	arbusto tropicale sempreverde
+minosse	NOUN	Italian WordNet	re e primo legislatore di creta , figlio di zeus e europa
+minosse	NOUN	Italian WordNet	marito di pasifae che si unì col toro di giove ed ebbe così il minotauro , che minosse richiuse nel labirinto
+moralmente	ADV	Italian WordNet	secondo l'etica o morale
+assegnabile	ADJ	Italian WordNet	che si può assegnare
+mentitore	NOUN	Italian WordNet	chi dice bugie
+equilibrato	ADJ	Italian WordNet	fisicamente in equilibrio o ben proporzionato
+esalazione	NOUN	Italian WordNet	le sostanze , i vapori e gli odori esalati
+vino-di-mele	NOUN	Italian WordNet	bevanda leggermente alcolica ottenuta per fermentazione da succhi di frutta
+costume_da_bagno	NOUN	Italian WordNet	indumento da bagno
+autonomo	ADJ	Italian WordNet	libero , indipendente
+ercole	NOUN	Italian WordNet	uomo molto forte
+delineato	ADJ	Italian WordNet	appena tratteggiato ed ideato in linea di massima
+odoroso	ADJ	Italian WordNet	che emana un buon profumo
+privare	VERB	Italian WordNet	lasciare senza , rendere privo o sprovvisto di qualcosa
+inceppare	VERB	Italian WordNet	mettere in ceppi
+carotideo	ADJ	Italian WordNet	relativo alla carotide
+consigliere	NOUN	Italian WordNet	membro di un consiglio
+storpiare	VERB	Italian WordNet	dire male deformare , alterare parole o versi
+marcia	NOUN	Italian WordNet	tipo di composizione musicale
+marcia	NOUN	Italian WordNet	dispositivo azionato dal cambio , con cui si regola la velocità
+s.	NOUN	Italian WordNet	chi è stato canonizzato ed è venerato con culto pubblico nella chiesa universale
+nappa	NOUN	Italian WordNet	naso grosso
+olio	NOUN	Italian WordNet	prodotto liquido di varia natura
+primo_piano	NOUN	Italian WordNet	stato di che è al centro dell'attenzione
+cemento	NOUN	Italian WordNet	sostanza usata in ortodonzia per l'otturazione dei denti
+cemento	NOUN	Italian WordNet	materiale per costruzione , ottimamente resistente alla compressione
+cemento	NOUN	Italian WordNet	tessuto duro che riveste la radice di un dente
+cemento	NOUN	Italian WordNet	connessione molto forte
+incongruenza	NOUN	Italian WordNet	mancanza di coerenza o di logica
+coordinare	VERB	Italian WordNet	operare in modo da guidare e armonizzare diverse attività di altri
+democratico	ADJ	Italian WordNet	della democrazia
+democratico	NOUN	Italian WordNet	seguace delle idee democratiche
+serial_killer	NOUN	Italian WordNet	pluriassassino che uccide le proprie vittime sempre con le stesse modalità
+zigotico	ADJ	Italian WordNet	concernente lo zigote
+asciugamano	NOUN	Italian WordNet	una telo rettangolare per asciugarsi
+radiofrequenza	NOUN	Italian WordNet	frequenza delle radioonde
+tronco	NOUN	Italian WordNet	tronco umano
+tronco	NOUN	Italian WordNet	il fusto legnoso degli alberi
+lebbra	NOUN	Italian WordNet	malattia infettiva cronica che colpisce prevalentemente il sistema nervoso e la cute , provocata dal bacillo di hansen , oggi diffusa per lo più in regioni tropicali e subtropicali
+fornitura	NOUN	Italian WordNet	ciò che è fornito
+giocatore	NOUN	Italian WordNet	atleta che pratica giochi sportivi
+giocatore	NOUN	Italian WordNet	chi pratica il gioco del calcio per professione
+solennità	NOUN	Italian WordNet	qualità , attributo del comportamento , dell'atteggiamento , dell'incedere
+dentista	NOUN	Italian WordNet	medico specializzato nella cura dei denti
+trasferimento	NOUN	Italian WordNet	atto del traslocare
+canna_da_zucchero	NOUN	Italian WordNet	pianta tropicale da cui si ricava lo zucchero
+luetico	ADJ	Italian WordNet	affetto da sifilide o lue
+accomiatarsi	VERB	Italian WordNet	salutare prima della partenza
+anacronismo	NOUN	Italian WordNet	errore in una valutazione cronologica
+cocker	NOUN	Italian WordNet	tipo di cane da caccia o da compagnia , con lunghe orecchie pendenti e pelo lungo e ondulato
+nicturia	NOUN	Italian WordNet	emissione di urina durante la notte , per alterazione della funzione renale
+seppellire	VERB	Italian WordNet	mettere nel sepolcro
+seppellire	VERB	Italian WordNet	sotterrare , nascondere sotto terra
+mettere_in_relazione	VERB	Italian WordNet	( fig . ) mettere insieme in connessione logica
+darviniano	ADJ	Italian WordNet	che si riferisce a darwin e alle sue teorie
+metile	NOUN	Italian WordNet	radicale organico , derivato dall'alcool metilico
+lumaca	NOUN	Italian WordNet	persona lenta
+lumaca	NOUN	Italian WordNet	mollusco gasteropodo terrestre dal corpo nudo e viscido
+aoristico	ADJ	Italian WordNet	dell'aoristo
+yuppie	NOUN	Italian WordNet	giovane professionista che cura molto la propria immagine e vive un'intensa vita di relazione per elevarsi socialmente
+forbicina	NOUN	Italian WordNet	insetto di colore bruno , con corpo allungato provvisto di pinze addominali , che si ciba di insetti e vegetali e può essere dannoso per le piante
+fegato	NOUN	Italian WordNet	il coraggio e l'ardire
+fegato	NOUN	Italian WordNet	il coraggio , la baldanza e l'ardire di fare o dire qualcosa
+ricavato	NOUN	Italian WordNet	denaro che risulta dalla differenza tra incassi e spese
+ricavato	NOUN	Italian WordNet	vantaggio ( fig )
+ricavato	NOUN	Italian WordNet	ciò che si ottiene economicamente , profitto
+farro	NOUN	Italian WordNet	specie di frumento
+farro	NOUN	Italian WordNet	farro
+bischero	NOUN	Italian WordNet	legnetto per regolare la tensione degli strumenti musicali
+solfato	NOUN	Italian WordNet	sale dell'acido solforico
+maschera	NOUN	Italian WordNet	arnese o apparecchio che si applica al viso a scopo protettivo
+tirannosauro	NOUN	Italian WordNet	rettile dei tirannosauri
+neutro	ADJ	Italian WordNet	detto di chi si astiene dal prendere una posizione fra due parti coinvolte in una lite o in una discussione
+combattere	VERB	Italian WordNet	opporsi , contrastare ( anche fig . )
+ro'ntgen	NOUN	Italian WordNet	unità di misura dei raggi x
+accontentare	VERB	Italian WordNet	fare cosa gradita , accontentare assecondare
+lussureggiante	ADJ	Italian WordNet	detto di vegetazione , di piante che crescono con vigore
+calcara	NOUN	Italian WordNet	forno per produrre la calce
+iulo	NOUN	Italian WordNet	miriapode dal corpo cilindrico
+amperspira	NOUN	Italian WordNet	unità di misura della forza magnetomotrice
+ammassare	VERB	Italian WordNet	mettere insieme in un cumulo
+canuto	ADJ	Italian WordNet	con i capelli bianchi per la vecchiaia
+biscaglina	NOUN	Italian WordNet	piccola scala a pioli
+quaternario	NOUN	Italian WordNet	era geologica
+rifornirsi	VERB	Italian WordNet	fare nuova provvista di qualcosa
+individuo	NOUN	Italian WordNet	essere distinto da ogni altro della medesima specie
+passare	VERB	Italian WordNet	trasferire da sé ad altri il possesso di cose materiali o morali
+passare	VERB	Italian WordNet	muoversi , transitare attraverso uno spazio ( gener. , senza indicazione di una provenienza e di una destinazione ) ( anche fig . )
+passare	VERB	Italian WordNet	dare ( anche fig . )
+passare	VERB	Italian WordNet	andare via , trascorrere
+passare	VERB	Italian WordNet	trascorrere il tempo
+ciclope	NOUN	Italian WordNet	mostro mitologico con un solo occhio in mezzo alla fronte
+camicetta	NOUN	Italian WordNet	indumento femminile di foggia simile a una camicia
+stroppiare	VERB	Italian WordNet	dire male deformare , alterare parole o versi
+mozzo	NOUN	Italian WordNet	giovane marinaio con meno di 24 mesi di imbarco
+mozzo	NOUN	Italian WordNet	perno di un organo rotante
+paradisea	NOUN	Italian WordNet	uccello della nuova guinea il cui maschio , di colore rosso bruno e con testa gialla e verde , è dotato di due grandi ciuffi di penne rosse ai lati del corpo
+fetido	ADJ	Italian WordNet	detto di ciò che emana puzzo
+colofonia	NOUN	Italian WordNet	residuo solido che si ottiene dalla distillazione delle oleoresine , usato nell'industria dei coloranti della carta
+poggiare	VERB	Italian WordNet	avvicinare una cosa a un'altra che la sorregga
+poggiare	VERB	Italian WordNet	reggersi su qlco. , sostenersi a qlco
+abbagliare	VERB	Italian WordNet	offendere la vista con una luce troppo viva e intensa
+abbagliare	VERB	Italian WordNet	conquistare col fascino , ammaliare
+peseta	NOUN	Italian WordNet	unità monetaria spagnola
+elemosinare	VERB	Italian WordNet	chiedere l'elemosina
+piovra	NOUN	Italian WordNet	gigantesco mollusco marino dotato di lunghi tentacoli muniti di ventose , con cui si avvinghia alla preda
+contesto	NOUN	Italian WordNet	il complesso delle parole che , in un testo , fanno da contorno ad una unità linguistica e ne determinano il significato
+contesto	NOUN	Italian WordNet	spazio delimitato in cui si agisce
+contesto	NOUN	Italian WordNet	momento particolare
+contesto	NOUN	Italian WordNet	uno spazio nel quale si verificano certi fenomeni o avvenimenti
+agilità	NOUN	Italian WordNet	l'essere agile
+darwin	NOUN	Italian WordNet	naturalista inglese ( 1809-1882 )
+darwin	NOUN	Italian WordNet	formulò la teoria della evoluzione delle specie
+termometrico	ADJ	Italian WordNet	del relativo al termometro ( )
+rimuovere	VERB	Italian WordNet	rimuovere da un luogo
+incartamento	NOUN	Italian WordNet	dossier di documenti che seguono una certa procedura
+incartamento	NOUN	Italian WordNet	collezione di documenti con informazioni essenziali su cose o persone
+cavalla	NOUN	Italian WordNet	femmina del cavallo
+comparizione	NOUN	Italian WordNet	il comparire
+semiologia	NOUN	Italian WordNet	nella filosofia del linguaggio , scienza dei segni
+affascinare	VERB	Italian WordNet	conquistare col fascino , ammaliare
+insediare	VERB	Italian WordNet	investire di un ufficio , mettere in carica in forma ufficiale e solenne
+impulsivo	ADJ	Italian WordNet	detto di persona impulsiva , focosa
+semina	NOUN	Italian WordNet	periodo dell'anno in cui si compie tale operazione
+inopportuno	ADJ	Italian WordNet	inopportuno , infelice
+inopportuno	ADJ	Italian WordNet	che arreca fastidio
+inopportuno	ADJ	Italian WordNet	importuno
+inopportuno	ADJ	Italian WordNet	inopportuno , inappropriato , mal fatto o detto
+scorrevole	ADJ	Italian WordNet	scorrevole , fluido , che scorre facilmente
+presentazione	NOUN	Italian WordNet	l'atto del mettere a disposizione documenti o simili
+presentazione	NOUN	Italian WordNet	la fase introduttiva
+presentazione	NOUN	Italian WordNet	l'atto sociale mediante il quale qualcuno viene fatto conoscere a qualcun altro
+presentazione	NOUN	Italian WordNet	illustrazione preliminare o introduttiva
+presentazione	NOUN	Italian WordNet	il produrre , presentare spec.atti e documenti
+giudizio	NOUN	Italian WordNet	il verdetto di una corte di tribunale
+giudizio	NOUN	Italian WordNet	la valutazione che si fa di qualcuno o qualcosa
+rompicapo	NOUN	Italian WordNet	giocattolo che mette alla prova l'abilità
+pointer	NOUN	Italian WordNet	razza di cane da caccia inglese con pelo raso , muso allungato e orecchie pendenti , bianco con macchie nere o marroni
+epoca	NOUN	Italian WordNet	periodo determinato ma non descritto in termini cronologicamente precisi
+preziosismo	NOUN	Italian WordNet	raffinatezza , preziosità
+vertenza	NOUN	Italian WordNet	controversia che genera discussione e non ha immediata risoluzione
+domare	VERB	Italian WordNet	rendere mansueti e/o obbedienti animali selvaggi o feroci
+scarica	NOUN	Italian WordNet	successione rapida di colpi d'armi da fuoco
+bosco_misto	NOUN	Italian WordNet	bosco che comprende svariate specie di alberi
+controfinestra	NOUN	Italian WordNet	intelaiatura con vetri che sta dinanzi alla finestra aumentando l'isolamento dal freddo e dal rumore
+contrattazione	NOUN	Italian WordNet	il negoziare , il condurre trattative
+fandonia	NOUN	Italian WordNet	bugia smaccata
+bagagliaio	NOUN	Italian WordNet	vano all'interno degli aerei adibito a contenere bagagli , merci , posta
+bagagliaio	NOUN	Italian WordNet	veicolo ferroviario destinato al trasporto bagagli
+cedro_del_libano	NOUN	Italian WordNet	grande albero delle conifere
+risuscitare	VERB	Italian WordNet	riportare in vita dopo la morte
+risuscitare	VERB	Italian WordNet	far rivivere
+riesumare	VERB	Italian WordNet	disseppellire un cadavere
+malvolere	NOUN	Italian WordNet	l'essere indolente
+malvolere	NOUN	Italian WordNet	sentimento di ostilità
+scrupolosità	NOUN	Italian WordNet	qualità di estrema precisione di attenzione ai minimi particolari
+pelle	NOUN	Italian WordNet	tessuto che riveste il corpo umano
+pelle	NOUN	Italian WordNet	rivestimento esterno del corpo di alcuni animali
+bombolo	NOUN	Italian WordNet	persona afflitta da obesità
+prenome	NOUN	Italian WordNet	nome proprio di una persona
+lucciola	NOUN	Italian WordNet	insetto visibile di notte per la luce che emette dagli ultimi segmenti dell'addome
+baldanza	NOUN	Italian WordNet	il coraggio e l'ardire
+baldanza	NOUN	Italian WordNet	il coraggio , la baldanza e l'ardire di fare o dire qualcosa
+siddharta_gautama	NOUN	Italian WordNet	asceta indiano ( ca . 560-480 a . c . )
+siddharta_gautama	NOUN	Italian WordNet	appartenente a una nobile casata , lasciò gli agi familiari per una vita ascetica , di penitenza e di predicazione
+pavonia	NOUN	Italian WordNet	farfalla notturna
+sublimità	NOUN	Italian WordNet	qualità di ciò che è sublime
+compilare	VERB	Italian WordNet	scrivere usando e ordinando materiali provenienti da fonti diverse
+uggia	NOUN	Italian WordNet	sentimento di fastidio , stanchezza interiore e disinteresse nei confronti della vita propria e altrui
+divergente	ADJ	Italian WordNet	che diverge
+alcalino	ADJ	Italian WordNet	relativo agli alcali
+volpino	NOUN	Italian WordNet	razza di cane da compagnia , piccolo con pelo morbido folto e lungo
+disincantato	ADJ	Italian WordNet	detto di chi è senza illusioni
+copricapo	NOUN	Italian WordNet	copertura del capo
+puttana	NOUN	Italian WordNet	donna che si guadagna da vivere prostituendosi
+protezione	NOUN	Italian WordNet	aiuto , favore , protezione
+protezione	NOUN	Italian WordNet	l'atto di proteggere
+protezione	NOUN	Italian WordNet	luogo dove si cerca protezione
+protezione	NOUN	Italian WordNet	sostegno morale
+protezione	NOUN	Italian WordNet	luogo in cui si cerca rifugio e protezione
+protezione	NOUN	Italian WordNet	rifugio , riparo
+tutù	NOUN	Italian WordNet	costume delle ballerine di danza classica
+fauna	NOUN	Italian WordNet	complesso delle specie animali di un ambiente
+nascondersi	VERB	Italian WordNet	stare nascosto
+assegnato	ADJ	Italian WordNet	stabilito , concesso
+diesis	NOUN	Italian WordNet	segno musicale che indica l'alterazione di un semitono della nota cui si riferisce
+termidoro	NOUN	Italian WordNet	undicesimo mese del calendario in uso durante la rivoluzione francese
+microbo	NOUN	Italian WordNet	microrganismo vegetale unicellulare privo di nucleo ben definito
+accettabile	ADJ	Italian WordNet	detto di ciò che è buono ma non entusiasmante , dignitoso
+igienico	ADJ	Italian WordNet	relativo all'igiene
+stendino	NOUN	Italian WordNet	attrezzo per stendere la biancheria da asciugare
+duramadre	NOUN	Italian WordNet	membrana che riveste l'encefalo e il midollo spinale
+schematicità	NOUN	Italian WordNet	l'essere schematico
+schematicità	NOUN	Italian WordNet	essere schematico
+budda	NOUN	Italian WordNet	appartenente a una nobile casata , lasciò gli agi familiari per una vita ascetica , di penitenza e di predicazione
+budda	NOUN	Italian WordNet	asceta indiano ( ca . 560-480 a . c . )
+meritorio	ADJ	Italian WordNet	che merita lode , detto soprattutto di opere , di imprese , di società
+linguaggio-macchina	NOUN	Italian WordNet	linguaggio di programmazione con una sintassi orientata al calcolatore
+erba	NOUN	Italian WordNet	droga leggera
+erba	NOUN	Italian WordNet	sostanza stupefacente costituita dalle foglie e dalle infiorescenze essiccate della canapa indiana
+preminente	ADJ	Italian WordNet	che prevale
+preminente	ADJ	Italian WordNet	preminente , molto in vista
+preminente	ADJ	Italian WordNet	che è superiore
+uguaglianza	NOUN	Italian WordNet	l'essere tutti uguali
+uguaglianza	NOUN	Italian WordNet	l'essere uguali ad altro
+mettere_a_dimora	VERB	Italian WordNet	estrarre una pianta da un terreno o da un vaso con tutte le radici , per metterla a dimora in un altro luogo
+introduzione	NOUN	Italian WordNet	illustrazione preliminare o introduttiva
+introduzione	NOUN	Italian WordNet	libro introduttivo
+introduzione	NOUN	Italian WordNet	la fase introduttiva
+fantastico	ADJ	Italian WordNet	degno di grande ammirazione , meraviglioso
+congiunto	ADJ	Italian WordNet	strettamente unito
+schematismo	NOUN	Italian WordNet	l'essere schematico
+schematismo	NOUN	Italian WordNet	essere schematico
+piedipiatti	NOUN	Italian WordNet	poliziotto
+piedipiatti	NOUN	Italian WordNet	agente di polizia
+fondare	VERB	Italian WordNet	dare fondamento ( fig . )
+esultante	ADJ	Italian WordNet	pieno di entusiasmo
