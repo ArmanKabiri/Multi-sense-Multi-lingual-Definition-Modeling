@@ -57,17 +57,63 @@ julia extract_AdaGram_embeddings.jl <input_trained_model_file> <output_embedding
 python TransformIndexedEmbeddingsToOriginalEmbeddings.py <input_extracted_transformed_embeddings_file> <input_original_dictionary_freq_file> <output_original_embeddings_file> UNK
 `
 
+* Finally, in order to convert embeddings text file to bin file, run:
+
+`
+python EmbeddingsTextToBin.py <input_embeddings_text_file>
+`
+
 After going through the above explained steps, the multi-sense embeddings will be ready.
 
 ---
 ### Datasets:
 Pre-processed datasets for our experiments (dictionaries) are available in DataSets directory. If you wish to go through the process of preparing them by yourself, use the follwoing scrip files:
 
+##### Parsing Datasets:
+To pars and construct datasets, use the following scripts:
+
 * BabelNet_DefinitionsExtractor/Extract_Definitions.java: for extracting OmegaWiki and some WordNet dictionaries from BabelNet Project.
 
 * The scripts in Parse_WordNet_Dictionary directory: for parsing downloaded raw wordnet_dictionaries.
 
 * The scripts in Wiktionary_Parser directory: for parsing wiktionary downloaded raw files.
+
+##### Tokenizing Datasets:
+
+* After parsing the datasets, run the following command to tokenize the definitions in datasets:
+
+`
+Tokenize_Dictionaries.py <dictionary_input_directory> <dictionary_output_directory>
+`
+
+* For tokenizing japanese dataset, use Tokenize_japanese_Corpus.ipynb script.
+
+##### Pre-processing Datasets:
+
+After tokenizing the datasets, in order to pre-process, split, and downsample the datasets, run:
+
+`
+python ReConstructDataset.py <dictionary_input_directory> <dictionary_output_directory> <usage_examples_existance> <language> <downsample_to_n_words>
+`
+
+##### Datasets for our experiments are ready by this step.
+
+---
+### Preparing Datasets for Multi-sense definition generation:
+
+This is probably the most important step for multi-sense definition generation. To construct desired datasets and conduct the mapping between multiple definitions and embeddings of the words, run:
+
+`
+python DefinitionsMappingModel.py <multisense-embeddings-bin-file> <input-dataset-directory> <output-dataset-directory> <mapping_mode(def2sense-hard,sense2def)> <usage_examples_existence> <language>
+`
+
+After running the above command, you will have the pre-processed datasets for multi-sense definition generation.
+
+---
+---
+### Training Multi-sense definition Generation model:
+
+To train a multi-sense definition generation model, use the produced datasets and embeddings file to train the Noraset Model located in (https://github.com/websail-nu/torch-defseq).
 
 ---
 ## References
