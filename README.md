@@ -1,7 +1,7 @@
 # Multi-sense Multi-lingual Definition Modeling
-#### The source code and datasets for TSD paper: "Evaluating a Multi-sense Definition GenerationModel for Multiple Languages"
+#### The source code and datasets for TSD paper: "Evaluating a Multi-sense Definition GenerationModel for Multiple Languages" [[2]](#2)
 
-This work is an extension to the single-sense definition generation model proposed by Noraset el al. [[1]](#1). The pipeline to get the results reported in our TSD paper is to first run the pre-processing scripts released on the repository, and then feed the Noraset model with the pre-processed data to get multi-sense definitions. As our experiments are conducted on nine languages, some scripts are also prepared to enable the model dealing with non-English definitions.
+This work is an extension to the single-sense definition generation model proposed by Noraset el al. [[1]](#1). The pipeline to get the results reported in our TSD paper is to first run the pre-processing scripts released on this repository, and then feed the Noraset model with the pre-processed data to get multi-sense definitions. As our experiments are conducted on nine languages, some scripts are also prepared to enable the model to deal with non-English definitions.
 
 ---
 ### Installation:
@@ -119,3 +119,6 @@ To train a multi-sense definition generation model, use the produced datasets an
 ## References
 <a id="1">[1]</a> 
 Noraset, T., Liang, C., Birnbaum, L., Downey, D.: Definition modeling: Learning to define word embeddings in natural language. In: AAAI 2017. pp. 3259–3266 (2017)
+
+<a id="1">[1]</a> 
+Kabiri, A., Cook, P.: Evaluating a Multi-sense Definition GenerationModel for Multiple Languages. TSD 2020 (arXiv)
