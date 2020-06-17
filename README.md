@@ -1,4 +1,4 @@
-# Multi-sense-Multi-lingual-Definition-Modeling
+# Multi-sense Multi-lingual Definition Modeling
 #### The source code and datasets for TSD paper: "Evaluating a Multi-sense Definition GenerationModel for Multiple Languages"
 
 This work is an extension to the single-sense definition generation model proposed by Noraset el al. [[1]](#1). The pipeline to get the results reported in our TSD paper is to first run the pre-processing scripts released on the repository, and then feed the Noraset model with the pre-processed data to get multi-sense definitions. As our experiments are conducted on nine languages, some scripts are also prepared to enable the model dealing with non-English definitions.
