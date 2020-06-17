@@ -122,7 +122,7 @@ To train a multi-sense definition generation model, use the produced datasets an
 2) In order to feed the Noraset model with the embeddings, you need first to convert bin files to t7 files to be readable in Lua. To do that, it is suggested to use Word2vec.torch-master (https://github.com/rotmanmi/word2vec.torch). However, again, I had to make some modifications in order to have them work for our experiments. Therefore, make sure to use my version located on this repository (Modified_Scripts_NorasetModel/word2vec.torch-master).
 
 ---
-#### If you have any further question, please do not hesitate to contact me.
+#### If you have any further questions, please do not hesitate to contact me.
 
 ---
 ---
